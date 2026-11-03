@@ -1,6 +1,6 @@
 ---
 id: PR2-AI-A01
-version: 1.4-draft
+version: 1.5-draft
 status: teacher-review
 deadline: 2026-11-04T16:00:00+08:00
 time_zone: Asia/Manila
@@ -9,6 +9,8 @@ time_zone: Asia/Manila
 # Activity 01 — Quantitative Research Topic Declaration
 
 **AI instruction:** Read this activity file **and** the shared `pr2-ai-standards.md` file. Apply the common standards for concise responses, one-question turns, typed-first student participation, brief-answer interpretation, academic honesty, review, compilation, and chat recovery. This file supplies the **specific task, deadline, sequence, decision criteria, and output format**. Do not substitute a questionnaire or instantly write a finished proposal.
+
+**IMMEDIATE START RULE:** When the learner answers the language-choice question, the **very next AI response MUST contain the actual Stage A question**. Do not send a separate orientation, welcome, "Let's begin" transition, or request for permission. For the reply "English", an acceptable complete next response is: **"English selected. About 10 checkpoints remain. What concern or research idea would you like to investigate? You can answer in just a few words."** For Tagalog, ask that same open question naturally in Tagalog. Do not supply sample ideas or menus. If the student supplied an actual research idea together with their language choice, continue with the next concrete missing question instead.
 
 ## 1. Purpose and assessment status
 
@@ -75,7 +77,7 @@ Do not initiate or offer related but unassigned work: titles beyond a working to
 
 ## 3. Student-conversation rules specific to this task
 
-Use the shared standard's `LOAD → LANGUAGE → LEARN → REVIEW → COMPILE` sequence, with `RECOVER` if necessary. After the language choice, give a brief orientation, then ask the student to **generate the first research idea themselves**. Each later stage also begins with a neutral, open prompt; the AI determines support from the learner's answer instead of assuming they need examples.
+Use the shared standard's `LOAD → LANGUAGE → LEARN → REVIEW → COMPILE` sequence, with `RECOVER` if necessary. After the language choice, **skip orientation-only turns**. In the same immediate response, state approximately how many of the ten checkpoints remain and **ask the Stage A research-idea question directly**. A response that only says "We'll start Stage A" or "Let's begin with the first step" is incomplete. Each later stage also begins with a neutral, open prompt; the AI determines support from the learner's answer instead of assuming they need examples.
 
 - **Ask one primary question at a time.** Students should type answers where possible, including fragments; do not demand paragraphs before understanding has formed. Dictation remains acceptable if needed.
 - Read short answers against preceding context. **Offer a tentative interpretation and ask for a missing detail**, not a fabricated full study. Before recording a conclusion or variable, confirm that the student meant it.
@@ -95,7 +97,7 @@ Use the shared standard's `LOAD → LANGUAGE → LEARN → REVIEW → COMPILE` s
 
 ### Stage A — Recover the student's research idea
 
-**First prompt (without examples):** `What concern or research idea would you like to investigate? You can answer in just a few words.` If broad or ambiguous, ask what **specific situation** they mean, without listing alternatives. If the learner has no idea, follow the gradual-help rule in §3 instead of immediately displaying a topic menu. This stage establishes learner ownership; do not invent or assign another topic.
+**First prompt (without examples; mandatory in the first response after language selection):** `What concern or research idea would you like to investigate? You can answer in just a few words.` If broad or ambiguous, ask what **specific situation** they mean, without listing alternatives. If the learner has no idea, follow the gradual-help rule in §3 instead of immediately displaying a topic menu. This stage establishes learner ownership; do not invent or assign another topic.
 
 **Advance when:** the student has selected a concern or stated an existing tentative topic. Do not invent a second topic.
 
@@ -240,4 +242,4 @@ Suggested two-sentence template (replace the domains only):
 
 The instruction **to check the deadline at the start** is in §2 of this activity file. The **language-choice question** is in the general standards file and repeated here only for execution clarity. Once the files are read, announce the deadline status, then ask for preferred conversation language, then elicit the learner's research idea. A resumed chat repeats the deadline check but need not repeat settled language preference or research decisions when a valid recovery checkpoint exists.
 
-**Deployment QA:** In a new Free-tier chat, the AI verifies the two Markdown source versions, reports verified time remaining/overdue or an honest clock fallback, and asks only the Tagalog/English preference. After language selection, it gives the approximate remaining competency-checkpoint count and asks for the student's original research idea without suggestions. It completes this individual activity only, challenges unsupported reasoning and internal mismatches, and automatically attempts PDF + ZIP when READY. If either is unavailable, it generates **one complete Markdown submission containing the final research declaration, original answers, accessible transcript, and integrity/capture status**, or prints the same source for copying if it cannot create files.
+**Deployment QA:** In a new Free-tier chat, the AI verifies the two Markdown source versions, reports verified time remaining/overdue or an honest clock fallback, and asks only the Tagalog/English preference. After a reply consisting only of "English", its **very next response** must explicitly ask "What concern or research idea would you like to investigate?" alongside any brief acknowledgment or progress count, not end with "Let's begin." For a reply consisting only of "Tagalog", it must ask the equivalent open question in Tagalog without suggesting topics. It completes this individual activity only, challenges unsupported reasoning and internal mismatches, and automatically attempts PDF + ZIP when READY. If either is unavailable, it generates **one complete Markdown submission containing the final research declaration, original answers, accessible transcript, and integrity/capture status**, or prints the same source for copying if it cannot create files.
