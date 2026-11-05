@@ -1,11 +1,11 @@
 # Practical Research 2: AI-Guided Activities
 
-Shared instructions: [`pr2-ai-standards.md`](pr2-ai-standards.md) (v0.7-draft)
+Shared instructions: [`pr2-ai-standards.md`](pr2-ai-standards.md) (v0.8-draft)
 
 ## Activities
 
-- [`activities/pr2-ai-a01-research-declaration.md`](activities/pr2-ai-a01-research-declaration.md) (v1.6-draft; `pr_act_01`, individual preliminary research declaration)
-- [`activities/pr2-ai-a02-chapter-1.md`](activities/pr2-ai-a02-chapter-1.md) (v1.1-draft; `pr_act_02`, individual Chapter 1 from a teacher-approved concept)
+- [`activities/pr2-ai-a01-research-declaration.md`](activities/pr2-ai-a01-research-declaration.md) (v1.7-draft; `pr_act_01`, individual preliminary research declaration)
+- [`activities/pr2-ai-a02-chapter-1.md`](activities/pr2-ai-a02-chapter-1.md) (v1.2-draft; `pr_act_02`, individual Chapter 1 from a teacher-approved concept)
 
 ## Activity 01 student starter prompt
 
@@ -18,6 +18,15 @@ The deadline, interaction rules, ten approximate checkpoints, and final submissi
 **Start-of-activity test:** After a student replies `English` to the language-choice question, the AI must ask `What concern or research idea would you like to investigate?` in the **very next response**. An acknowledgment or "Let's begin" message alone is not sufficient.
 
 When testing in ChatGPT Free, verify that the full file content was read instead of inferring access from a filename, a preview, or a search snippet. GitHub hosting does not guarantee every ChatGPT retrieval attempt will succeed.
+
+## Final file delivery for both activities
+
+Each completed activity produces two intended downloads **in this order**:
+
+1. **Teacher submission:** `[student_code]_[activity_code].pr2`, an ordinary UTF-8 text file readable in Notepad++ and organized with YAML metadata, the exact `# MANUSCRIPT` section, original student responses, AI feedback, alignment/revision audit, available conversation transcript, and integrity/capture status. Activity 01 uses `pr_act_01_unassigned.pr2` if no code was issued.
+2. **Student copy:** `[student_code]_[activity_code].docx`, a formatted Word document **derived only from `# MANUSCRIPT` in the completed `.pr2` record**. Do not include teacher-only evidence or transcript in Word.
+
+The student **downloads both** when successful, **keeps the Word file**, and **manually submits the `.pr2` text record to the teacher**. No ZIP, PDF, automatic email, or background upload. If Word creation fails, the `.pr2` must still be supplied. If the custom file extension is blocked, the identical teacher-record content may be saved as `.md`; if no file tools work, display its **entire text** to copy into a UTF-8 editor. Never invent download links or transcript turns.
 
 ## Student codes and approved-outcome record
 
@@ -41,6 +50,6 @@ The teacher must create the individual approved-outcome record before giving a s
 
 Student names and sections are not required in the ChatGPT starter prompt. The teacher keeps the real mapping separately. The sample `pr2_pru_00` must never be used as a real approved record.
 
-The activity controls two-source verification and comprehension, LM05–LM07 Chapter 1 work, original individual student responses, tutor feedback, and the ZIP/Markdown evidence package. It records the **approximate activity start** and **the READY-for-compilation end time** when verifiable; wall-clock duration is not active learning time.
+The activity controls two-source verification and comprehension, LM05–LM07 Chapter 1 work, original individual student responses, tutor feedback, and the UTF-8 `.pr2` teacher record plus derived `.docx` student copy. It records the **approximate activity start** and **the READY-for-compilation end time** when verifiable; wall-clock duration is not active learning time.
 
 **Deployment test:** Check that all three URLs truly load in ChatGPT Free, the file's student code matches its URL, and the tutor selects exactly one current `# pr_act_02` section. After the language choice, the next reply must ask an actionable question about the approved research context, using clear Grade 10-accessible conversational wording. The public demonstration file is intentionally unapproved and should cause a stop.
