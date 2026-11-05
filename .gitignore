@@ -1,0 +1,11 @@
+# Local tools and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+.env
+.env.*
+
+# Keep local identity mappings and private records out of Git
+_private/
