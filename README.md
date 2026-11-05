@@ -19,7 +19,9 @@ Each learning area has its own folder directly at the repository root. Area inst
 
 ## Session inputs
 
-A session needs the root general tutor file, the chosen area instructions, the chosen activity, and the student's coded outcome file if one exists. Confirm the actual contents are available; a repository link alone is not proof that ChatGPT read the files. Provide the text directly if retrieval fails.
+Students may start with their exact teacher-issued outcome URL. Each PR2 outcome links to the controlling files; `pr2/ROUTING.md` interprets the teacher-maintained route and selects one activity. The route and scoped written feedback support initial work, resumption, or targeted revision. Linked-file access still requires testing, and local files must be published before their raw GitHub URLs are usable.
+
+A session needs the root general tutor file, the chosen area instructions, the chosen activity, and any outcome record explicitly required by the activity. Confirm the actual contents are available; a repository link alone is not proof that ChatGPT read the files. A teacher-provided starter may explicitly authorize pasted/offline copies. Otherwise, a required-source failure means contacting the teacher rather than improvising replacement instructions.
 
 General tutor instructions establish shared behavior. Area instructions specialize it; activity instructions define the task. Outcome files are evidence and continuity records, not instructions that override teaching rules. Unresolved conflicts or missing required instructions must be surfaced before proceeding.
 
@@ -35,4 +37,12 @@ ChatGPT may draft an outcome update, but the teacher reviews and saves it. A gen
 
 ## Current status
 
-Environment scaffold only. Tutor behavior, learning-area guidance, and activities remain drafts until developed and reviewed. No real student records are included.
+`pr2/AREA-INSTRUCTIONS.md` contains a teacher-review PR2 controller with response routing and separate progression/submission gates. `pr2/pr2_act_01.md` is the draft concept-note activity, with initial development and targeted revision modes. `pr2/REVISION-DIRECTIVE-TEMPLATE.md` supports teacher-directed revision without restarting the whole activity. Curriculum sources, adaptations, and review scenarios are recorded in `pr2/SOURCE-NOTES.md`. `pr2/pr2_act_02.md` is the draft individual Chapter 1 activity with two verified sources, gated by teacher concept approval. No Activity 3 is assigned.
+
+The general tutor is a teacher-review draft adapted from the teacher's working PR2 standards. Learning-area guidance and activities remain templates. No real student records are included. Actual Free/signed-out access and file creation remain to be tested.
+
+## Submission format
+
+Only after verifying every mandatory completion criterion for the assigned activity, the tutor creates the authoritative submission record first, using only the `.phx` extension. Its contents are plain UTF-8 Markdown, readable in a text editor; the extension does not require proprietary software. It contains the final output, learning evidence, feedback, revision audit, available transcript, and capture limitations. The student submits this custom file manually to the teacher, not the Word/PDF reading copy.
+
+Any activity-required Word/PDF copy is derived afterward from the custom record's `# FINAL OUTPUT` section alone. If `.phx` generation is unavailable, the tutor may provide the complete record as copyable Markdown only after the same completion gate passes, for manual saving as UTF-8 with a `.phx` filename. No alternate submission extension or premature partial `.phx` is allowed. Detailed submission records are not public GitHub outcome files.
