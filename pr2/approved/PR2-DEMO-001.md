@@ -73,10 +73,10 @@ The Activity 02 AI tutor must select the **`# PR2-AI-A02` section** from this fi
 
 ---
 
-<!-- FUTURE ACTIVITY SECTIONS: Append a new top-level heading, such as
-# PR2-AI-A03 | Approved Input from Activity 02
-only AFTER the teacher has approved that activity's resulting decisions.
+<!-- FUTURE ACTIVITY SECTIONS: Append a new top-level Markdown heading (H1)
+containing the next target activity code, e.g. PR2-AI-A03, only AFTER the
+teacher has approved the preceding activity's resulting decisions.
 Do not overwrite prior approved sections without documenting a revision.
-Use ## for fields inside each activity section, not additional # headings.
+Use H2 subheadings for fields inside each activity section.
 No student name or section should appear in this public file.
 -->
