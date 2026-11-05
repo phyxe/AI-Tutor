@@ -48,3 +48,7 @@ The general tutor is a teacher-review draft adapted from the teacher's working P
 Only after verifying every mandatory completion criterion for the assigned activity, the tutor creates the authoritative submission record first, using only the `.phx` extension. Its contents are plain UTF-8 Markdown, readable in a text editor; the extension does not require proprietary software. It contains the final output, learning evidence, feedback, revision audit, available transcript, and capture limitations. The student submits this custom file manually to the teacher, not the Word/PDF reading copy.
 
 Any activity-required Word/PDF copy is derived afterward from the custom record's `# FINAL OUTPUT` section alone. If `.phx` generation is unavailable, the tutor may provide the complete record as copyable Markdown only after the same completion gate passes, for manual saving as UTF-8 with a `.phx` filename. No alternate submission extension or premature partial `.phx` is allowed. Detailed submission records are not public GitHub outcome files.
+
+## Standalone PR2 review
+
+`pr2/pr2_review_01.md` reviews Units 1–2 through Chapter 1 writing using hosted copies of the package reference chapters and a separate practice file. It needs no outcome file and produces a completed `.phx` for private teacher submission after its learning gate passes. It does not change production-activity routes or approvals. Current new review files remain teacher-review drafts until tested.

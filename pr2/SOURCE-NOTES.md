@@ -1,5 +1,22 @@
 # PR2 controller: teacher source and review notes
 
+## Standalone review pr2_review_01
+
+The teacher requested a no-outcome-file review from the start of Term 2 through Chapter 1 writing, with .phx submission, and explicitly directed use of the package reading references. Reviewed LP01–LP06 competency excerpts, Learning Modules 01–02 task/variable guidance, and the reference chapters' scope, section inventory, and selected Chapter 1 discussions; prior activity/controller work inspected Learning Modules 03–07 and Chapter 1 assessment/audit boundaries. This is not a new full curriculum audit or live verification of every external source cited in the reference chapters.
+
+Hosted package readings:
+
+- `pr2_review_01-unit-01-reference.md` from `reference-book/unit-01-quantitative-research-foundations-and-researchable-problems.md`.
+- `pr2_review_01-unit-02-reference.md` from `reference-book/unit-02-chapter-1-title-background-questions-scope-and-statement-of-the-problem.md`.
+
+Chapter text, models, citations, and reference lists are retained. Only trailing line whitespace/final-newline formatting is normalized. These are teacher-authored curriculum chapters with attributed source material, not copied full third-party research books. Their historical examples are not claimed newly verified or automatically current. Teacher delivery notes and illustrative models remain supporting material, not assigned student answers or extra review requirements.
+
+`pr2_review_01-practice.md` supplies new fictional application cases and Q1–Q10 tasks distinct from chapter models. Its shared case is a bounded descriptive resource-use planning scenario, not actual research findings or an approved personal study. The short Chapter 1 is a rehearsal based on explicitly fictional supplied evidence; the two real verified-source requirement of production Activity 2 is neither imported into this review nor waived there.
+
+`pr2_review_01.md` uses P1–P10, explanation/model/application/feedback, no-answer safeguards, in-chat recovery, optional teacher code, and .phx only after sufficient student evidence. No outcome records, production routes, student approvals, grades, deadlines, or fieldwork authorizations were created/changed. Guided review is not an answer service for restricted examinations.
+
+Validation expectations: direct URL entry without outcome requests; retrieval of actual needed chapter sections; no target answers or student paragraphs supplied by the tutor; all P checkpoints supported before export; honest independent/assisted status; actual student responses and available conversation in .phx; substantive gaps block export while transcript gaps remain disclosed. Behavioral testing in ChatGPT and teacher content review remain pending. New files are local until explicitly published.
+
 For the Activity 2 working-file/package/Capacities comparison and adaptation decisions, see `ACTIVITY-02-REVIEW.md`.
 
 This is a production/review note, not an additional student task or required runtime instruction file.

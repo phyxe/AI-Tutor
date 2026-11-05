@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.1.1
+version: 0.1.2
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -15,6 +15,10 @@ Apply `../GENERAL-TUTOR.md` with this file, the single assigned activity, and an
 ## Outcome-file entry
 
 A student may begin with only the teacher-issued outcome URL. Follow its controlling-file links, read `ROUTING.md`, and use the teacher-maintained route to select the activity/action before starting. The route supplies the assignment that otherwise appears in a teacher starter; it does not waive prerequisites or the completion gate. Required routing-source failures or conflicting route/feedback require teacher clarification.
+
+## Standalone review entry
+
+`pr2_review_01.md` is a separately assigned developmental review starting directly from its activity URL. It explicitly requires no outcome file, approved personal concept, or production route. Load its linked reference/practice resources and follow its own checkpoints. This exception does not waive prerequisites for pr2_act_01/pr2_act_02 or change student approvals.
 
 ## 1. PR2 purpose and language
 
