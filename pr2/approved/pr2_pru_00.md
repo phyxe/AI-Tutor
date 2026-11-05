@@ -1,6 +1,6 @@
 ---
 record_type: PR2-APPROVED-OUTCOMES
-record_schema_version: 1.1-sample
+record_schema_version: 1.2-sample
 student_code: pr2_pru_00
 record_status: SAMPLE_ONLY
 code_policy: The 00 suffix is reserved for this fictional sample; real learners begin with teacher-assigned codes such as pr2_pru_01
@@ -68,14 +68,14 @@ The tool/session is the observation unit; the study need not collect student nam
 - Confirm or identify as pending the permitted setting and timeframe.
 - Keep names, sections, grades, private feedback, and other identifying information outside this publicly accessible record.
 
-## Relationship to pr_act_02
+## Current Activity Lookup Rule
 
-The tutor for `pr_act_02` must select the **`# pr_act_02` section** from this file when that activity is requested. It must use that section's exact approved research data once real approval is issued, preserve any teacher conditions, and ask the learner to demonstrate their own understanding. This sample's status is **not approval**; a compliant tutor must stop and direct the learner to the teacher.
+The tutor for `pr_act_02` must select only the **`# pr_act_02` section** from this file, stopping before the next Level 1 heading or the end of the file, when that activity is requested. It must use that section's exact approved research data once real approval is issued, preserve any teacher conditions, and ask the learner to demonstrate their own understanding. This sample's status is **not approval**; a compliant tutor must stop and direct the learner to the teacher.
 
 ---
 
 <!-- FUTURE ACTIVITY SECTIONS: Append a new top-level Markdown heading (H1)
-containing the next target activity code, e.g. PR2-AI-A03, only AFTER the
+containing the next target activity code, e.g. pr_act_03, only AFTER the
 teacher has approved the preceding activity's resulting decisions.
 Do not overwrite prior approved sections without documenting a revision.
 Use H2 subheadings for fields inside each activity section.
