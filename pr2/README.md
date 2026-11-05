@@ -1,11 +1,11 @@
 # Practical Research 2: AI-Guided Activities
 
-Shared instructions: [`pr2-ai-standards.md`](pr2-ai-standards.md) (v0.9-draft)
+Shared instructions: [`pr2-ai-standards.md`](pr2-ai-standards.md) (v1.0-draft)
 
 ## Activities
 
 - [`activities/pr2-ai-a01-research-declaration.md`](activities/pr2-ai-a01-research-declaration.md) (v1.8-draft; `pr_act_01`, individual preliminary research declaration)
-- [`activities/pr2-ai-a02-chapter-1.md`](activities/pr2-ai-a02-chapter-1.md) (v1.2-draft; `pr_act_02`, individual Chapter 1 from a teacher-approved concept)
+- [`activities/pr2-ai-a02-chapter-1.md`](activities/pr2-ai-a02-chapter-1.md) (v1.3-draft; `pr_act_02`, individual Chapter 1 from a teacher-approved concept)
 
 ## Activity 01 student starter prompt
 
@@ -33,6 +33,23 @@ The student **downloads both** when successful, **keeps the Word file**, and **m
 Each student has one persistent Markdown file at `pr2/approved/[student_code].md`; e.g. `pr2/approved/pr2_pru_01.md`. The teacher assigns and manages the middle segment of the student code. **Do not publish names, sections, marks, personal records, or a code-to-identity roster.**
 
 Within that file, each activity's approved entry begins with one exact Markdown Level 1 heading, e.g. `# pr_act_02 | Approved Input from pr_act_01`; subsequent field headings use `##`. The entry ends at the next Level 1 heading or file end. Later approved outcomes may be appended as `# pr_act_03`, etc. The required entry needs its own **Approval status: Approved for Chapter 1 drafting** and actual approved title, problem, questions, variables, design, boundaries, and teacher conditions. Approval of one section is not approval of every section.
+
+**Optional teacher comments:** The teacher may add a `## Teacher's Comments` subsection **inside** the student's target activity section, for example within `# pr_act_02`. The AI reads only that selected section, asks the student about relevant comments during the appropriate learning stages, and records each comment, the student's real answers, assistance provided and resolution/pending approval in the `.pr2` teacher record. A missing comment heading is normal and does not block work. Comments do not silently override approved research decisions or authorize fieldwork. Research changes inconsistent with the approved title, population, variables, questions or design require a clearly updated teacher approval. Keep private student assessments and identity details out of public GitHub files.
+
+Example layout:
+
+```markdown
+# pr_act_02 | Approved Input from pr_act_01
+
+**Approval status:** Approved for Chapter 1 drafting
+
+## Working Research Title
+...
+
+## Teacher's Comments
+1. Clarify the meaning of a regular buyer.
+2. Explain why amount of ice is part of quantity.
+```
 
 See [the sample record](approved/pr2_pru_00.md), which is deliberately **SAMPLE ONLY** and cannot launch a real student activity.
 
