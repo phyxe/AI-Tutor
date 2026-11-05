@@ -1,6 +1,6 @@
 ---
 id: pr_act_02
-version: 1.1-draft
+version: 1.2-draft
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 time_zone: Asia/Manila
@@ -65,7 +65,7 @@ Capture and report the following **approximate Philippine local times**, without
 - **Truthfulness:** Prefer a real clock/time tool or actual visible platform message timestamps. Do not infer precise time from a date-only system header, conversational wording ("now"), the content of an old memory, or fabricated timestamps. A live retrieved clock can establish the time of retrieval; it cannot retroactively establish an unseen earlier message's exact time. If trustworthy timing is unavailable, write **Not verifiable** for that field and explain the limitation. Student-reported times may be kept only as **Student-reported, unverified**; never mislabel them as tool-verified.
 - **Record early, record once ready:** Attempt the start-time check during LOAD without introducing a separate student question. At READY attempt the end-time check before creating output. A timestamp failure must not halt instruction or cause invented numbers.
 
-Include **both start and readiness-end fields, evidence/basis, time zone, and elapsed-time status** in the English manuscript Markdown metadata, individual learning-evidence Markdown, ZIP manifest, and the consolidated Markdown fallback. Include them visibly in the student-facing PDF as activity metadata when a PDF is generated. Do not silently substitute file creation time for end time. If a new chat is used for recovery, record the current chat segment's observed start separately; do not pretend it is the original Activity 02 start.
+Include **both start and readiness-end fields, evidence/basis, time zone, and elapsed-time status** in the `.pr2` YAML metadata, its `# MANUSCRIPT` activity-metadata block, and the teacher-facing evidence sections. Carry the compact activity-metadata block into the derived `.docx` manuscript. The same fields must survive an `.md` fallback. Do not silently substitute file creation time for the learning end. If a new chat is used for recovery, record the current chat segment's observed start separately; do not pretend it is the original Activity 02 start.
 
 ## 4. Individual authorship and approved-concept understanding
 
@@ -167,7 +167,7 @@ For each of the main learning components (approved concept/context; LM05 six-par
 
 In the teacher-facing overall feedback, identify the strongest demonstrated research reasoning, the main unresolved difficulty, whether the student can defend central research links, and the observable extent and type of AI assistance. Ground every inference in recorded student words and interactions; do not claim to measure effort, motivation, intelligence, or actual time-on-task from the transcript.
 
-## 8. Exact final manuscript and deliverables
+## 8. Final manuscript and the two-file delivery contract
 
 ### 8A. Required Chapter 1 manuscript (English)
 
@@ -179,37 +179,38 @@ Use the manuscript title **CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND** with t
 4. **Scope and Delimitation** — inclusion boundaries, reasoned exclusions, interpretation/claim boundary, and pertinent potential limitations distinguished from delimitations.
 5. **References** — only verified publications actually used; this is a bibliographic support element, not an additional research chapter.
 
-Put **Activity code, student code (not student name), concept URL, activity and standards versions, approximate Activity Start, approximate Learning End / Ready for Compilation, time-zone and timestamp evidence/status, and approximate elapsed-wall-clock status** in a compact **Activity Metadata** block before the chapter or on a front page, not as invented academic findings. A teacher may remove this process-metadata block when assembling a later formal manuscript.
+Put **activity code, student code (not student name), approved-concept URL, activity and standards versions, approximate Activity Start, approximate Learning End / Ready for Compilation, time zone and timestamp basis/status, and approximate elapsed wall-clock duration or its unavailable status** in a compact **Activity Metadata** block at the beginning of the `# MANUSCRIPT` section. Retain this metadata in the student's Word copy; a teacher may remove it for a later formal manuscript. Do not present this metadata as research findings.
 
-### 8B. Primary files, when real file-generation tools are available
+### 8B. Create the teacher record first: `[student_code]_pr_act_02.pr2`
 
-Create exactly **two student-facing downloads**:
+**Required first output:** A genuinely created **UTF-8 plain-text** file, named from the **verified approved-outcome student code**, e.g. `pr2_pru_01_pr_act_02.pr2`. The extension is custom, but its text must open directly in Notepad++ and similar editors. No ZIP, PDF, binary encoding, or manually assembled archive is needed.
 
-**1. pr_act_02-Chapter-1.pdf** — readable English manuscript with activity metadata and verified citations.
+Compile the record **before attempting the Word document**, following the shared standards' common section headings and this exact content contract:
 
-**2. pr_act_02-Teacher-Submission.zip** — teacher-facing package containing:
-- **pr_act_02-Chapter-1.md** — complete Markdown source of the English manuscript, with **both approximate start and readiness-end fields**, time zone, verification basis, and elapsed-time status.
-- **pr_act_02-Individual-Learning-Evidence.md** — student original response evidence **plus** contextual AI feedback for each learning component, assistance types, two-source comprehension record, overall feedback, and the exact LM07 alignment audit / revision note. Include the same two time fields and their reliability labels.
-- **pr_act_02-Conversation-Transcript.md** — accessible full chronological student-and-AI turns with clear speaker labels; label **COMPLETE** only if every relevant turn is available, otherwise **PARTIAL**, with missing range explained. Preserve the real wording; the evidence report cannot substitute for verbatim transcript.
-- **pr_act_02-MANIFEST.txt** — activity ID/version, standards version/URL, approved concept code/URL/status, filenames, language, **approximate activity start and ready-to-compile end** with Asia/Manila and source/reliability labels, approximate wall-clock elapsed status, transcript COMPLETE/PARTIAL state, verified source count, readiness state, and actual file-generation status.
-- A copy of **pr_act_02-Chapter-1.pdf** may be included inside the ZIP, but is not a third separate download or task.
+- **YAML header:** `file_type: PR2_STUDENT_SUBMISSION`; `format_version: "1.0"`; `encoding: UTF-8`; `student_code` matching the actual approved URL; `activity_code: pr_act_02`; activity and standards versions; teacher-approved concept URL and activity-section approval status; conversation language; approximate start and readiness-end timestamps or `Not verifiable` with their observation basis; `timezone: Asia/Manila`; approximate wall-clock elapsed status; readiness status; number of genuinely verified sources; and `transcript_status: COMPLETE` or `PARTIAL`.
+- **`# MANUSCRIPT`:** the complete final English Chapter 1 manuscript defined in §8A, using **`##` or lower** for the approved research title, Background of the Study, Statement of the Problem, Scope and Delimitation, and References. Include the activity-metadata block, exact approved research meanings, and only actual verified source citations. This section alone supplies the Word document.
+- **`# STUDENT LEARNING EVIDENCE`:** present **the original student answers and significant revisions** in the order observed, in their actual language and wording, with enough AI prompt context to interpret them. Organize subheadings around approved concept/context, six-part background map, verified source 1 and source 2 (or explicitly missing source), background draft/revisions, SOP/questions, scope/delimitation/limitations, and final alignment. Include the actual LM05 source-to-claim records, student interpretation, relevance and claim boundaries.
+- **`# AI EVALUATION AND FEEDBACK`:** individual evidence-based feedback for each required thinking component, distinguishing understanding demonstrated independently, comprehension after scaffolding, expression-only assistance, unsupported claims, and unresolved conceptual gaps. Include overall progress and extent/type of AI support; no fabricated grade.
+- **`# ALIGNMENT AND REVISION AUDIT`:** LM07's five exact-evidence links (Title → Background; Background gap → Purpose; Purpose → Specific questions; Questions → Scope; Questions → Planned data), their real words/decisions, statuses, required consequential repairs and the student-confirmed revision note. Never invent a revision when none occurred.
+- **`# CONVERSATION TRANSCRIPT`:** all **actually accessible** chronological student and tutor turns, with speaker labels and original wording. Mark `COMPLETE` only when all relevant messages are accessible; otherwise `PARTIAL`, give the real limitation, and preserve recovery checkpoints as clearly labeled summaries instead of purported verbatim turns.
+- **`# INTEGRITY AND CAPTURE STATUS`:** disclose the sources actually checked and any unverifiable ones, the division of substantive student reasoning and AI writing help, file-generation status, timestamp accuracy, transcript omissions, and the need for the student to submit the `.pr2` file manually.
 
-The Markdown manuscript and all teacher-facing evidence files must be inside the ZIP. Do not describe an uncreated archive or PDF as successfully produced. Do not claim the files were automatically submitted to the teacher. Do not include a roster or private student identity mapping.
+For consistency, use the **six top-level headings exactly as written**, each on a separate line. Inside these sections use only `##` or deeper headings. Do not add a new `#` heading inside the manuscript; this ensures the Word extractor stops correctly at `# STUDENT LEARNING EVIDENCE`.
 
-### 8C. Exactly one consolidated Markdown fallback
+### 8C. Derive the student Word file second: `[student_code]_pr_act_02.docx`
 
-If either primary PDF or ZIP cannot actually be produced, do **not** issue a misleading partial package or competing alternatives. Generate **one** UTF-8 Markdown file, **pr_act_02-Complete-Submission.md**, using this exact top-level order:
+**Only after the `.pr2` is actually generated**, take the exact text in its `# MANUSCRIPT` section, beginning immediately after that heading and ending just before `# STUDENT LEARNING EVIDENCE`, and create a readable formatted Word document (example filename `pr2_pru_01_pr_act_02.docx`). Use a sensible academic manuscript layout (clear heading hierarchy, legible body text, consistent spacing, page numbering when supported), with no extra content or unapproved substantive edits.
 
-1. **Submission Metadata** — activity/version, concept code and URL, teacher approval status, language, **approximate activity start, approximate learning end at READY, Asia/Manila, source/verification status for each, approximate wall-clock elapsed status**, readiness, source count, generation status.
-2. **Chapter 1 Research Foundation (English)** — full manuscript as in §8A, including real references.
-3. **Student Original Responses and Revisions** — visible verbatim student answers and consequential revisions in order, with adequate prompt context.
-4. **Source Verification and Understanding Record** — each actual source, what was checked, student original interpretation, relevance, claim limits, and scaffold support.
-5. **Chapter 1 Alignment Audit and Priority Revision** — actual link-by-link evidence, repairs, readiness.
-6. **AI Feedback on Student Understanding and Thinking** — component-by-component feedback grounded in student responses, assistance type, learning progression, overall synthesis.
-7. **Conversation Transcript (Available Turns)** — accessible student and AI turns, chronological, clearly marked COMPLETE or PARTIAL with gaps.
-8. **AI Assistance, Integrity, and Capture Status** — honest statement of AI contribution, source gaps, transcript limits, files not generated, and confirmation that no automatic teacher submission occurred.
+The Word file is the **student's copy** and contains the full Chapter 1 research foundation, references, and brief activity metadata. Do **not** insert the individual-response evidence, tutor's performance feedback, full transcript, or teacher-only alignment audit into the Word manuscript. Do not independently regenerate the content from memory after the teacher record is built.
 
-If no file-generation capability is available at all, display the **complete content** of that single Markdown document in one clearly labeled copyable Markdown block, with the intended filename. Do not replace it with an abbreviated summary, a blank template, or a promise to export later.
+**Delivery:** Provide the two genuine downloadable files when both exist, and tell the learner: **Download both files; keep the Word document as your copy and submit the `.pr2` teacher record through your teacher's prescribed channel.** Do not email or upload files automatically. Do not claim to have sent the teacher a copy.
+
+### 8D. Honest fallback when file creation is restricted
+
+- **If `.pr2` succeeds but `.docx` fails:** give the downloadable `.pr2` and explicitly state that the Word file could not be generated. The student can still submit the completed teacher record. Do not discard it or fabricate a Word download.
+- **If `.pr2` file creation is blocked:** save the *identical complete record* as `[student_code]_pr_act_02.md` in UTF-8, clearly identifying it as the teacher-submission fallback. If feasible, derive the Word copy **only from this identical full record's `# MANUSCRIPT` section**, with no new content.
+- **If no downloadable text file can be made:** display the entire record in **one copyable Markdown/text code block** labeled with the intended `[student_code]_pr_act_02.pr2` filename. Instruct the learner to paste the text into Notepad or Notepad++, select UTF-8, save with that extension, and submit it. Avoid separately generated summary documents, multiple confusing alternatives, or claims of successful downloads.
+- If transcript context or output limits cause genuine omissions, state exactly what is missing and mark `PARTIAL`. Never replace absent original student responses with plausible invented dialogue. A failure to generate Word is **not** evidence that the student's research understanding is inadequate.
 
 ## 9. RECOVER across ChatGPT Free limitations
 
@@ -224,7 +225,7 @@ Use the shared standards' recovery rules, but include in each Activity 02 recove
 5. **Web evidence:** at most two initial verified-source targets, no fabricated findings, each source interpreted and bounded by the student before use; unavailable web tools clearly disclosed.
 6. **Package fit:** six-part LM05 background, formal SOP/questions, scope/delimitation/limitation distinction, exact-evidence LM07 audit and real revision note; no added Chapter 1 sections or methodology assignment.
 7. **Individual auditability:** all available original student responses and AI support are distinguishable from polished manuscript, with grounded teacher feedback and complete/partial transcript status.
-8. **Timing:** start and **READY-before-compilation end** appear in the manuscript Markdown, teacher evidence, ZIP manifest, PDF metadata and fallback; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
-9. **Files:** only PDF + ZIP when both actually available; otherwise exactly one consolidated Markdown file or full copyable Markdown source; never a fictitious download.
+8. **Timing:** start and **READY-before-compilation end** appear in the `.pr2` YAML header and manuscript metadata, in the Word copy's activity header, and in any `.md`/copyable-text fallback; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
+9. **Files:** create `.pr2` **first** and derive the `.docx` **second solely from `# MANUSCRIPT`**; test teacher-only content exclusion, real download existence, no ZIP/PDF, and honest `.pr2`-only or `.md`/copyable-text fallback.
 
 **Teacher review status:** This document is an Activity 02 controlling file for teacher testing. It does not approve study fieldwork, change the shared standards, assign an unannounced deadline, or override the official curriculum and assessment controls.
