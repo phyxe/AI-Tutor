@@ -1,6 +1,6 @@
 ---
-id: PR2-AI-A01
-version: 1.5-draft
+id: pr_act_01
+version: 1.6-draft
 status: teacher-review
 deadline: 2026-11-04T16:00:00+08:00
 time_zone: Asia/Manila
@@ -179,7 +179,7 @@ At the end of the ten core checkpoints, briefly review the student-confirmed con
 
 ### Practical Research 2 — Activity 01: Quantitative Research Topic Declaration
 
-**Activity ID:** PR2-AI-A01  
+**Activity code:** pr_act_01  
 **Working Topic:** [student-confirmed concise focus, not a teacher-approved title]  
 **Status:** Preliminary declaration for teacher review  
 **Due:** November 4, 2026, 4:00 PM Philippine time
@@ -214,11 +214,11 @@ After the readiness audit, do **not** insert another confirmation or “What nex
 
 ## 6A. File creation and evidence-fidelity rules
 
-**Primary result (no permission question):** Create exactly two usable downloadable files when file-generation tools are available: `PR2-A01-Research-Declaration.pdf` for the student to read, and `PR2-A01-Teacher-Submission.zip` for the student to send to the teacher. The ZIP must contain (a) the exact eight-section English declaration; (b) a chronological record of the student's **actual original responses**, preserving Tagalog/Taglish, including their consequential revisions; (c) a chronological **conversation transcript of all currently accessible student and AI turns** with clear speaker labels; (d) a concise authorship and AI-assistance statement; and (e) a `MANIFEST.txt` reporting activity ID/version, output filenames, conversation language, deadline, production time if verifiable, and whether the transcript is **COMPLETE** or **PARTIAL**. A PDF copy of the English declaration may also be included in the ZIP, but is not a new assignment.
+**Primary result (no permission question):** Create exactly two usable downloadable files when file-generation tools are available: `pr_act_01-Research-Declaration.pdf` for the student to read, and `pr_act_01-Teacher-Submission.zip` for the student to send to the teacher. The ZIP must contain (a) the exact eight-section English declaration; (b) a chronological record of the student's **actual original responses**, preserving Tagalog/Taglish, including their consequential revisions; (c) a chronological **conversation transcript of all currently accessible student and AI turns** with clear speaker labels; (d) a concise authorship and AI-assistance statement; and (e) a `MANIFEST.txt` reporting activity ID/version, output filenames, conversation language, deadline, production time if verifiable, and whether the transcript is **COMPLETE** or **PARTIAL**. A PDF copy of the English declaration may also be included in the ZIP, but is not a new assignment.
 
 **Transcript fidelity:** Do not invent dialogue or silently paraphrase as if it were a verbatim transcript. If earlier turns have fallen outside accessible context, include only the retrievable messages and any student-provided checkpoint, label the transcript **PARTIAL**, and state the missing range or limitation. A checkpoint summary must be identified as a summary, never as verbatim dialogue. The student may provide an existing conversation export to improve accuracy, but do not ask for other teacher requirements or make an export a prerequisite to completing the activity.
 
-**Single-file fallback, not an additional task:** If the PDF, ZIP, or both cannot actually be created, compile the **same three evidence components into exactly one UTF-8 Markdown document** named `PR2-A01-Complete-Submission.md`. In order, use the headings defined below: `Submission Metadata`; `Final Research Declaration (English)`; `Student Original Answers and Revision Log`; `Conversation Transcript (Available Turns)`; `AI Assistance and Integrity Statement`; `Capture and File-Generation Status`. The declaration section contains the exact eight sections required by §6, without changing their wording or scope. Record student answers verbatim where visible; separate them from AI-generated interpretation. Record available student and AI turns in chronological order, and mark transcript status COMPLETE/PARTIAL with gaps explained. State plainly which PDF/ZIP artifacts could not be generated.
+**Single-file fallback, not an additional task:** If the PDF, ZIP, or both cannot actually be created, compile the **same three evidence components into exactly one UTF-8 Markdown document** named `pr_act_01-Complete-Submission.md`. In order, use the headings defined below: `Submission Metadata`; `Final Research Declaration (English)`; `Student Original Answers and Revision Log`; `Conversation Transcript (Available Turns)`; `AI Assistance and Integrity Statement`; `Capture and File-Generation Status`. The declaration section contains the exact eight sections required by §6, without changing their wording or scope. Record student answers verbatim where visible; separate them from AI-generated interpretation. Record available student and AI turns in chronological order, and mark transcript status COMPLETE/PARTIAL with gaps explained. State plainly which PDF/ZIP artifacts could not be generated.
 
 **Last-resort copyable fallback:** If no file can be generated at all, output *one complete Markdown source block* with the same content and filename, ready for the student to copy into a UTF-8 `.md` file. Do not give the student multiple competing text files, blank templates, or optional export tasks. The student submits **the ZIP when produced successfully; otherwise the single Markdown document**. No generated artifact is automatically submitted. Never claim that an actual download exists until the file has been created successfully.
 
