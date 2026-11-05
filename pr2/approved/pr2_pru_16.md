@@ -82,6 +82,11 @@ The concept is **approved for Chapter 1 drafting now**. The following procedural
 
 These are **not instructions to change the approved title, research questions, variables, or descriptive design**. During Chapter 1 drafting, unresolved procedural details must remain openly marked **To verify** rather than being invented. Approval for drafting **does not authorize** fieldwork, respondent contact, or actual survey distribution.
 
+## Teacher's Comment
+1. Consider the cost and value-to-money as part of the satisfaction level; this begs to answer the question if the buyer is satisfied with what he gets from the money he paid
+2. Include the service provided
+3. Can expand the research scope to include how customers perceived the products produced by grade 12 tvl students.
+
 ## Evidence Integrity and Activity 02 Continuity
 
 The observations about fries and drinks are the student’s reported motivation, not findings from verified published sources or a completed survey. The approved concept does **not** provide web-based evidence for the background of the study. Activity 02 therefore still requires appropriate source verification, the student's own explanation of relevance and claim limits, and individual reasoning before sources enter Chapter 1.
