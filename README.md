@@ -37,6 +37,8 @@ ChatGPT may draft an outcome update, but the teacher reviews and saves it. A gen
 
 ## Current status
 
+`effcom/AREA-INSTRUCTIONS.md` is the Effective Communication learning-area draft, grounded in the Grade 11 Term 2 package. It specializes communication/source/data checks and preserves task-specific AI permission boundaries. `effcom/effcom_act_01.md` now provides an AI-2 developmental review through Recovery Set 2, with a reading guide and classroom source packet. No EFFCOM student routes are assigned yet; source and review notes are in `effcom/SOURCE-NOTES.md`.
+
 `pr2/AREA-INSTRUCTIONS.md` contains a teacher-review PR2 controller with response routing and separate progression/submission gates. `pr2/pr2_act_01.md` is the draft concept-note activity, with initial development and targeted revision modes. `pr2/REVISION-DIRECTIVE-TEMPLATE.md` supports teacher-directed revision without restarting the whole activity. Curriculum sources, adaptations, and review scenarios are recorded in `pr2/SOURCE-NOTES.md`. `pr2/pr2_act_02.md` is the draft individual Chapter 1 activity with two verified sources, gated by teacher concept approval. No Activity 3 is assigned.
 
 The general tutor is a teacher-review draft adapted from the teacher's working PR2 standards. Learning-area guidance and activities remain templates. No real student records are included. Actual Free/signed-out access and file creation remain to be tested.
