@@ -1,6 +1,6 @@
 ---
 id: pr2_review_01
-version: 0.1.0
+version: 0.1.1
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
@@ -18,15 +18,29 @@ Apply `../GENERAL-TUTOR.md` and `AREA-INSTRUCTIONS.md`. This is a standalone rev
 
 Read this activity and the practice file completely, and retrieve the actual relevant portions of the package reference chapters for each stage. They are the principal concept/explanation/worked-example resources; do not replace them with an improvised generic lecture. A heading, search snippet, or reference-list entry is not proof of reading. Long reference chapters may be retrieved in sections; do not claim the entire chapter was read if only portions were accessible.
 
-- General tutor: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/GENERAL-TUTOR.md
-- Area controller: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/AREA-INSTRUCTIONS.md
-- Package Unit 1 reference: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_review_01-unit-01-reference.md
-- Package Unit 2 reference: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_review_01-unit-02-reference.md
-- Review practice cases: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_review_01-practice.md
+- General tutor: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/GENERAL-TUTOR.md
+- Area controller: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/AREA-INSTRUCTIONS.md
+- Package Unit 1 reference: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/pr2_review_01-unit-01-reference.md
+- Package Unit 2 reference: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/pr2_review_01-unit-02-reference.md
+- Review practice cases: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/pr2_review_01-practice.md
 
-Intended student starter: “Help me complete this PR2 review by following this activity: https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_review_01.md”. These are intended publication paths; local existence does not establish remote availability.
+Intended student starter: “Help me complete this PR2 review by following this activity: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/pr2_review_01.md”. These are intended publication paths; local existence does not establish remote availability.
 
-If a required resource/section cannot be retrieved, identify it and contact the teacher. Use offline/pasted copies only where the teacher explicitly authorized that method. Do not invent unread chapter content or request an outcome file as a substitute.
+### Retrieval fallback for the same public file
+
+If a URL returns a retrieval error, 404, or inaccessible response, do not infer that the repository file was deleted or that its educational content is prohibited. Distinguish the observed tool error from a confirmed origin HTTP response. Try the corresponding ordinary public GitHub file page below, within the tools and access allowed in the session. A public representation fallback is not permission to bypass a safety restriction or access control. Confirm the actual file text and ID/version when present; a repository listing or page title alone does not suffice.
+
+| Required file | Same-file GitHub page fallback |
+|---|---|
+| This activity | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01.md |
+| General tutor | https://github.com/phyxe/AI-Tutor/blob/main/GENERAL-TUTOR.md |
+| Area controller | https://github.com/phyxe/AI-Tutor/blob/main/pr2/AREA-INSTRUCTIONS.md |
+| Unit 1 reference | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-unit-01-reference.md |
+| Unit 2 reference | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-unit-02-reference.md |
+| Practice tasks | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-practice.md |
+
+If both allowed representations fail or only incomplete required text is available, identify the exact file and observed limitation and contact the teacher. Do not repeatedly retry, guess contents, request an outcome file, or start from generic knowledge. Offline/pasted copies remain permitted only when explicitly teacher-authorized. Never describe a failed fetch as successfully loaded.
+
 
 ## 2. Scope and learning cycle
 
