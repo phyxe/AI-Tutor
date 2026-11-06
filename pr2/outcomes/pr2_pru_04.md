@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_04
 learning_area: Practical Research 2
-record_version: "1.2"
-route_activity: pr2_act_01
-route_action: REVISION
-route_directive_id: pr2_pru_04-a01-revision-2026-11-05
-route_baseline_revision: pr2_pru_04-a01-baseline-2026-11-05
-route_resume_checkpoint: C4
-status: activity-1-targeted-revision-required
+record_version: "1.3"
+route_activity: pr2_act_02
+route_action: INITIAL
+route_directive_id: Not applicable
+route_baseline_revision: Not applicable
+route_resume_checkpoint: Not applicable
+status: authorized-for-chapter-1-with-entry-clarification
 ---
 
-Teacher direction recorded November 5, 2026: topic and research problem accepted; targeted Activity 1 revision and .phx resubmission required before consideration for Activity 2. Student identity is maintained separately.
+Teacher approval recorded November 6, 2026: the revised Activity 1 concept is accepted for Activity 2. Clarification will occur inside Activity 2 and be captured in the Activity 2 .phx. No additional Activity 1 resubmission is required for entry. This approval does not certify independent understanding, approve the eventual Chapter 1 manuscript, or authorize fieldwork. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -25,111 +25,151 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research Concept Note
 
-- Activity status: Targeted revision required; original topic declaration available as the embedded baseline below.
-- Submission revision: No verified prior .phx revision number recorded; baseline snapshot ID is not a student submission revision number.
-- Teacher verification: Topic and research problem accepted November 5, 2026; other required components remain subject to targeted repair and review.
-- Concept approval status: Topic/problem accepted only; complete concept and Chapter 1 progression not yet approved.
-- Approved concept revision: No complete concept approved for Activity 2.
-- Student-reported work: Existing submission summarized in the teacher-designated baseline; no new responses claimed.
-- Tutor-observed learning evidence: No revision-session responses observed yet.
-- Checkpoint summary (C0–C8): C0/C1 retained as accepted topic context/problem; C2/C3/C4/C7 open for specified repairs; C5/C6 retained subject to affected alignment checks; C8 required after repair. Retention does not certify undocumented independent understanding.
-- Next step / resume point: REVISION, C4; ask the focused opening question in Teacher's Comments after necessary language handling.
+- Activity status: Revised concept submitted and teacher-approved for progression November 6, 2026.
+- Submission revision: r01, as identified in the submitted record; first completed submission under the earlier REVISION route.
+- Teacher verification: Revised concept accepted; essential understanding questions are assigned within Activity 2, not certified as already resolved.
+- Concept approval status: Approved for Chapter 1 drafting within the embedded revised concept and Activity 2 comments below.
+- Approved concept revision: pr2_act_01 r01; exact teacher-designated snapshot `pr2_pru_04-approved-a01-r01-snapshot-2026-11-06`.
+- Prior baseline: `pr2_pru_04-a01-baseline-2026-11-05`.
+- Prior revision directive: `pr2_pru_04-a01-revision-2026-11-05`; superseded as an active route by this November 6 progression authorization.
+- Student-reported work: Revised concept, learning evidence and audit supplied; partial conversation capture disclosed.
+- Tutor-observed learning evidence: No new student response recorded by this teacher update. The selected Activity 2 clarification remains open.
+- Checkpoint summary (C0–C8): Written revised concept accepted for progression; no blanket certification of independently demonstrated mastery or complete transcript capture.
+- Next step / resume point: pr2_act_02 INITIAL, required clarification after language handling.
 
 ## Concept Outcome
 
-Your topic and research problem are accepted. Keep them. Revise only the specified parts of Activity 1, then resubmit the completed .phx for teacher review. You may proceed to Activity 2 only after the teacher reviews that resubmission and records explicit approval.
-
-## Revision Baseline
-
-Baseline ID: `pr2_pru_04-a01-baseline-2026-11-05`. This is a teacher-designated summary snapshot of the existing submission, not a verbatim transcript, not a newly completed student submission, and not proof that every checkpoint was previously satisfied. The source submission remains in private teacher storage. The tutor may use this embedded baseline without asking the student to retype the concept or retrieve a private local path. Do not treat AI-organized wording as independently observed student reasoning.
-
-- **Context:** Different preferences for group and individual Earth and Life Science activities.
-
-- **Research problem:** Identify preferred activity type and whether cooperation, independent work, fairness of task division, and time management are associated with that preference; may inform activity planning.
-
-- **Proposed title:** “Factors Associated with Grade 11 Students’ Preferences for Group and Individual Activities in Earth and Life Science at Hawan National High School.”
-
-- **Research questions:** Purpose and associations are explained; no explicit main-and-specific question set is supplied.
-
-- **Variables and indicators:** Group/individual preference = one forced-choice categorical item; four associated factors = 12 agreement statements on a five-point scale. No “no preference” option is included in the submitted plan.
-
-- **Study type and rationale:** Non-experimental descriptive-correlational; describes preferences and examines associations without manipulating activities.
-
-- **Population and access:** Grade 11 students across all HNHS strands with ELS activity experience; final number pending availability/willingness; recruitment mechanism unspecified.
-
-- **Data gathering:** Printed survey, teacher review/pilot if required, coordination with teachers, invitations, distribution/collection, and organization over about two weeks after clearance; consent/assent and confidentiality planned.
+The revised Activity 1 concept is accepted. Proceed to Activity 2 and resolve the assigned clarification through the tutor's questions and guidance. Preserve the actual clarification and learning evidence in the new Activity 2 .phx. A further Activity 1 resubmission is not an entry prerequisite.
 
 ## Revision Routing
 
-```yaml
-activity_code: pr2_act_01
-student_code: pr2_pru_04
-entry_mode: REVISION
-revision_directive_id: pr2_pru_04-a01-revision-2026-11-05
-baseline_revision: pr2_pru_04-a01-baseline-2026-11-05
-baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C2, C3, C4, C7, C8]
-retained_checkpoints: [C0, C1, C5, C6]
-locked_decisions: [accepted topic, accepted research problem]
-authorized_scope: "Repair questions, measurement, access and procedure within the existing topic/problem and proposed population/design; recheck affected title/design alignment only."
-required_repairs: "The numbered repairs below are mandatory; begin at C4."
-required_approval_before_compilation: "None additional if repairs stay within this directive and all Activity 1 completion requirements pass. Substantive changes to locked decisions require teacher clarification. Teacher approval after resubmission is mandatory before Activity 2."
-```
-
-1. **C4:** Develop one main question and aligned specific questions covering preference and its proposed associations with cooperation, independent work, fairness of responsibilities, and time management. Keep the purpose noncausal.
-
-2. **C2:** Explain the categorical group/individual preference measure, justify the current forced-choice format, and describe plausible interpretation of the four factor ratings. Do not treat preference as a continuous rating or require a final statistical test now.
-
-3. **C3:** Clarify a feasible eligibility and invitation/selection route for Grade 11 students across HNHS strands with ELS activity experience; do not invent an eligible count or access approval.
-
-4. **C7:** Complete a feasible before–during–after outline: who supplies which evidence, proposed tool/source, recruitment and required permission/consent/assent path, collection steps, basic privacy and secure storage, and handling refusal or incomplete data. Preserve existing safeguards and clarify only missing parts. For record-based evidence, explain confidential linkage and authorized access. Actual fieldwork permission, a validated instrument, a final sample size, and final statistical treatment are not required deliverables here; identify those future decisions truthfully.
-
-5. **C8:** Compare all eight concept-note components after the repairs. Propagate only necessary consequential changes and preserve student meaning. Elicit only missing essential understanding; do not repeat retained sections or certify mastery from polished baseline wording.
-
-Keep the existing topic, problem, central focus, proposed design, and population. The student may supply missing setting details, reference periods, recruitment choices, indicators/response formats, and student-developed aligned questions within that scope. Nonsubstantive title edits for consistency are allowed. Do not silently replace the topic, add a variable/intervention, change the target group or design, or make causal claims; refer a necessary substantive departure to the teacher. Retained decisions receive consistency checks, not a repeated Activity 1 interview. If essential baseline understanding is undocumented, ask only the missing evidence question.
-
-### Resubmission and revision identity
-
-Before compilation verify every C0–C8 completion requirement using the baseline plus actual revision evidence, not just this directive. Preserve before/after changes, retained content, actual student answers, assistance, baseline/directive IDs, and truthful transcript limits in the private .phx. Do not generate a partial/provisional .phx or label this baseline summary a completed submission.
-
-The original files reviewed do not establish a previous completed .phx number. Resolve that identity before naming the revised file: if a prior completed .phx is available, verify its number and increment it; if it is confirmed this will be the first completed .phx, use `pr2_pru_04_pr2_act_01_r01.phx` while retaining entry_mode REVISION and this baseline/directive identity. If a prior completed submission exists but its revision is unknown, seek the missing baseline identity rather than inventing r02. Do not block the learning questions while resolving filename history.
-
-After the gate passes, generate the .phx automatically and provide the Activity 1 reading copy when tools permit. The student must resubmit the .phx through the teacher's prescribed channel. End with teacher review pending. Do not start Activity 2 in the revision chat or update approval/route automatically. No fieldwork or respondent contact is authorized.
+Historical Activity 1 REVISION route only; not active. The November 5 baseline and directive remain provenance for r01. Do not restart topic selection, rerun the Activity 1 interview, or generate another Activity 1 .phx merely to answer the clarification. The embedded Activity 2 snapshot is the accepted concept; earlier baseline decisions are superseded where this revised concept differs.
 
 ## Teacher's Comments
 
-Your topic and research problem are accepted. You do not need a new topic or a complete restart. Complete the targeted repairs and resubmit Activity 1 as a .phx file before teacher review for Activity 2.
-
-After necessary language handling, ask this first focused question in the chosen language:
-
-> What main question do you want to answer about Grade 11 students’ preferences for group and individual Earth and Life Science activities?
-
-Use the actual answer to guide one next missing step at a time. Do not prewrite the answer or ask the entire repair list at once. Preserve the current question set where it already exists; develop missing questions through the student's reasoning. Record mandatory repairs as open until supported by actual responses. Full student answers, detailed feedback, and transcript belong in the private submission, not the public outcome record.
+Activity 2 progression approved November 6, 2026. The required clarification and any compatible explanation belong to Activity 2 and its evidence record. Submission packaging issues in the earlier local record do not create a new Activity 1 entry blocker; they do not authorize changing the source file or inventing missing metadata. Follow the complete Activity 2 file contract for the new submission.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
-- Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
+- Activity status: Authorized to begin; required opening clarification not yet resolved.
+- Chapter 1 drafting authorization: Approved for Chapter 1 drafting.
+- Authorization date: November 6, 2026 (Asia/Manila).
+- Accepted pr2_act_01 concept revision: r01, bound to `pr2_pru_04-approved-a01-r01-snapshot-2026-11-06` below.
+- Approved concept source: This exact outcome record, Approved Concept Snapshot subsection. Tutor entry does not require access to the private local source submission.
+- Approval conditions: Conduct the required clarification as Activity 2 learning, using actual student answers and adaptive teaching. Resolve essential meaning or alignment issues before dependent drafting and before READY/compilation. This is not a condition requiring Activity 1 resubmission or new teacher permission merely to begin Activity 2.
+- Submission revision: No Activity 2 submission recorded. If this is the first completed Activity 2 submission, use `pr2_pru_04_pr2_act_02_r01.phx`; Activity 1 r01 does not make the first Activity 2 submission r02.
+- Teacher verification: Concept and progression approved; clarification learning and Chapter 1 performance not yet verified.
+- Chapter 1 approval status: Manuscript not yet submitted or approved; permission to develop it only.
+- Student-reported work: No Activity 2 answers recorded by this update.
+- Tutor-observed learning evidence: Not yet observed in Activity 2.
 - Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the assigned Activity 1 revision, submit the revised .phx for teacher review, then await explicit Chapter 1 drafting authorization and an identified accepted concept.
+- Verified and student-understood sources: Not assessed; two distinct verified, student-understood sources remain mandatory.
+- Next step / resume point: INITIAL; after necessary language handling, ask the exact opening clarification under Teacher's Comments and continue according to the answer.
+
+## Approved Concept Snapshot
+
+Snapshot ID: `pr2_pru_04-approved-a01-r01-snapshot-2026-11-06`. This is the teacher-designated concept accepted from the submitted Activity 1 r01 final-output section. It is proposed planning, not collected evidence, verified respondent access, validated instruments, or permission to recruit/collect. Source learning evidence remains in private teacher storage. The source was not rewritten or repaired by this update.
+
+### Context
+
+Within the Grade 11 Earth and Life Science (ELS) setting at Hawan National High School (HNHS), the student noticed that some students prefer doing activities in groups while others prefer doing them individually. This difference in preference made the student curious about the reasons behind students' choices. The study will examine these preferences and the factors associated with them. Understanding these factors may help inform the planning of classroom activities.
+
+### Research Problem
+
+Grade 11 students may have different preferences for group and individual ELS activities, but the reasons associated with these preferences are not yet clearly understood in the identified school context. The study seeks to identify which activity type students prefer and examine whether cooperation with classmates, ability to work independently, fairness in dividing responsibilities, and time management are associated with those preferences. The findings may provide information that can help inform ELS activity planning.
+
+### Proposed Title
+
+**Factors Associated with Grade 11 Students’ Preferences for Group and Individual Activities in Earth and Life Science at Hawan National High School**
+
+### Research Questions
+
+**Main Research Question**
+
+What factors are associated with Grade 11 students’ preferences for group or individual activities in Earth and Life Science at Hawan National High School?
+
+**Specific Research Questions**
+
+1. Which type of activity do Grade 11 students prefer: group activities or individual activities?
+2. How is the cooperation and participation of group members associated with students’ preferences?
+3. How are students’ ability and comfort in completing activities independently associated with their preferences?
+4. How is the fairness of dividing responsibilities among group members associated with students’ preferences?
+5. How is students’ ability to manage their own time associated with their preferences?
+
+### Variables and Proposed Indicators
+
+| Variable or factor | Proposed indicator and response form | Proposed source |
+|---|---|---|
+| Activity preference | One forced-choice categorical question: group activities or individual activities. There is no “no preference” option. | Student questionnaire |
+| Cooperation with classmates | Three agreement statements about groupmates cooperating, sharing ideas, and helping one another during ELS activities. | Student questionnaire; five-point Likert scale |
+| Ability to work independently | Three agreement statements about completing ELS activities using one's own knowledge and skills, without depending on classmates, and feeling comfortable working alone. | Student questionnaire; five-point Likert scale |
+| Fairness in dividing responsibilities | Three agreement statements about fair division of responsibilities, equal opportunity to participate, and fair distribution of work. | Student questionnaire; five-point Likert scale |
+| Time management | Three agreement statements about managing time during group and individual activities and finishing ELS activities within the given time. | Student questionnaire; five-point Likert scale |
+
+The five-point Likert response options are: 5 – Strongly Agree, 4 – Agree, 3 – Neutral, 2 – Disagree, and 1 – Strongly Disagree. All respondents will answer the same twelve factor statements. The preference response is categorical; it will be summarized by counting the students in the group-activity and individual-activity categories. It will not be treated as a continuous rating.
+
+The factor ratings will be summarized using response counts and average scores. A higher average indicates greater agreement with the statements in that factor. Factor averages may be compared descriptively between the two preference groups. These summaries can describe response patterns, but descriptive comparisons alone do not establish statistical significance or prove causation. The final statistical treatment remains subject to teacher guidance.
+
+### Proposed Study Type and Rationale
+
+The study will use a quantitative, non-experimental descriptive-correlational design. It is descriptive because it aims to describe students’ preferences for group and individual ELS activities. It is correlational because it aims to examine whether the four identified factors are associated with those preferences. It is non-experimental because the study will observe students’ existing preferences and responses without manipulating or controlling their activities or conditions. The findings will be interpreted in terms of association, not cause and effect.
+
+### Target Population and Proposed Access
+
+The intended population is Grade 11 students from all strands at Hawan National High School who have experience participating in Earth and Life Science activities. Each participating student will be one unit of observation and will answer an individual questionnaire.
+
+The proposed selection method is convenience sampling. The student researcher plans to invite eligible students who are available and willing to participate. Their strands will be identified by asking them which strand they belong to. The researcher will seek to include students from the different strands where eligible students are available and willing. If a strand has no available or willing participants, students from that strand will not be forced to participate; this may limit how well the sample represents all Grade 11 strands.
+
+The number of participants will depend on the eligible students who are available and willing. No final sample size or access approval is claimed at this stage. The proposed access plan is subject to official school permission and the required consent and assent process.
+
+### Proposed Data-Gathering Procedure
+
+**Before data gathering**
+
+1. Request official permission from the school principal and coordinate with the relevant Grade 11 adviser teachers before approaching students.
+2. Identify potential participants who are Grade 11 students, have experience with ELS activities, and are available and willing to participate. Ask their strand to help describe the representation of participants.
+3. Explain the purpose of the study: to identify whether Grade 11 students prefer group or individual ELS activities and understand the factors associated with their preferences.
+4. Provide permission letters to parents or guardians when required for minor participants. Obtain the students’ own voluntary agreement or assent as required by school procedures. A parent or guardian’s permission does not replace the student’s willingness to participate.
+5. Review the printed questionnaire and revise unclear or incorrect statements before distribution. Seek teacher review and conduct a small pilot test if required by the teacher. Instrument validation and final approval remain future steps.
+
+**During data gathering**
+
+1. Distribute printed questionnaires to eligible students who agree to participate.
+2. Allow respondents to answer in a comfortable, suitable location within the school grounds.
+3. Do not pressure students to participate or submit a questionnaire. Collect the completed questionnaires while protecting respondents’ privacy.
+
+**After data gathering**
+
+1. Organize the preference responses into the two categories: group activities and individual activities, then count the responses in each category.
+2. For each of the twelve Likert statements, count responses under all five categories: Strongly Agree, Agree, Neutral, Disagree, and Strongly Disagree.
+3. Summarize the factor ratings using average scores and compare the factor averages of the two preference groups descriptively. The final statistical treatment will be decided with teacher guidance.
+4. Mark incomplete questionnaires as incomplete. Respect refusals and do not pressure respondents to complete missing answers. The final handling of incomplete records will follow the teacher’s guidance before analysis.
+5. Keep completed questionnaires in a secure place and restrict access to the student researcher, except for authorized teacher or school review when required. Securely destroy the paper questionnaires, such as by shredding, once they are no longer needed and any teacher or school retention requirements have been met.
+
+The proposed data-gathering period is approximately two weeks after the necessary clearance and arrangements are completed. Actual fieldwork permission, final sample size, instrument validation, and final statistical treatment remain pending and are not claimed as already approved.
 
 ## Chapter 1 Outcome
 
-No Chapter 1 outcome recorded.
+No Chapter 1 manuscript or learning outcome recorded. Approval to progress is separate from demonstrated understanding and manuscript approval.
 
 ## Revision Routing
 
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+INITIAL entry under pr2_act_02. No prior Chapter 1 baseline or revision directive is assigned. The prior Activity 1 directive does not reopen topic selection or require another Activity 1 submission.
 
 ## Teacher's Comments
 
-Topic/problem acceptance does not authorize Activity 2. No automatic advancement on tutor completion or .phx generation; the teacher must review the resubmission and update this section and the route explicitly.
+Required opening clarification — current status: Open; student explanation not yet verified.
+
+> If two students both choose group activities but give different ratings for cooperation, what does each answer tell you, and why does your study ask for both?
+
+After language selection, ask this question immediately in the chosen language. It is the first concrete Activity 2 learning move, rather than an orientation-only reply. If language is already known, ask it in the first learning response. Do not reveal or prewrite the answer before the student's first attempt.
+
+First elicit the student's own interpretation of preference versus factor ratings. If the answer is incomplete, identify only the missing distinction, explain unfamiliar terms simply, and ask one focused application question. Use a hypothetical different-topic example only if needed, then return to this study. At the relevant scope/question stage, ask why the submitted preference item offers only group or individual rather than no preference; help the student explain the rationale without inventing it. The existing five specific questions are accepted for this concept because they cover preference plus four factors; do not remove one solely to meet the normal 2–4 recommendation. Retain the categorical preference and four-factor focus. Final statistical treatment remains a future decision; a descriptive mean comparison alone cannot establish statistical significance.
+
+The teacher requires guided clarification because understanding still needs to be established. Approval is not evidence that the student can already defend the decision. Accept short, Tagalog or Taglish responses; do not treat uncertain wording or English proficiency as failure. Ask one focused question at a time. If a response leaves a gap, narrow it, briefly explain the concept, use a hypothetical different-case model only when needed, and return to the student's own study. Agreement or repetition of AI wording alone is insufficient; look for an explanation and application in the student's own words. Stop probing once the essential meaning is demonstrated.
+
+After satisfactory clarification, continue Activity 2's context/background, verified-source, question-alignment and scope work. If practical context remains missing, next ask for a real situation showing why the problem matters. Do not rerun Activity 1. Compatible explanations and consistent wording refinements within the accepted concept are authorized. A substantive proposal to change central variables, population, design, or approved questions must be referred to the teacher; continue unaffected learning where feasible but do not draft dependent content around an unresolved contradiction.
+
+Mandatory Activity 2 .phx capture: preserve this exact teacher question/comment, the student's actual initial response, each consequential follow-up/revision with enough tutor-question context, the explanation/modeling or wording assistance actually used, what the student subsequently demonstrated, any resulting manuscript effect, and a grounded status (Addressed / Partially addressed / Pending teacher approval / Not applicable). Preserve available original wording; label missing prior history honestly rather than reconstructing it. Put the detailed record under `# STUDENT LEARNING EVIDENCE` in a `## Teacher's Comments and Student Responses` subsection, and evaluate it in `# AI EVALUATION AND FEEDBACK`; record any consequential repair in `# ALIGNMENT AND REVISION AUDIT`. These heading names refer to the future .phx contract, not new top-level headings in this outcome record. Do not put private feedback or the response transcript into the Word manuscript or public outcome.
+
+An essential unresolved clarification prevents READY/compilation, not entry into guided Activity 2 learning. The new completed submission must be the Activity 2 .phx containing both the Chapter 1 manuscript and this clarification evidence, followed by the Word reading copy derived only from FINAL OUTPUT. Do not fabricate an answer, treat approval as mastery, or generate a partial submission. Keep all Activity 2 source-comprehension, timing, alignment, UTF-8/metadata and compilation requirements. No respondent contact, record access or fieldwork is authorized.
