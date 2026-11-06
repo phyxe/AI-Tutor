@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_02
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
 route_action: REVISION
-route_directive_id: pr2_pru_02-a01-revision-2026-11-05
-route_baseline_revision: pr2_pru_02-a01-baseline-2026-11-05
+route_directive_id: pr2_pru_02-a01-focused-revision-2026-11-06
+route_baseline_revision: pr2_pru_02-a01-submitted-baseline-2026-11-06
 route_resume_checkpoint: C2
-status: activity-1-targeted-revision-required
+status: activity-1-focused-revision-required
 ---
 
-Teacher direction recorded November 5, 2026: topic and research problem accepted; targeted Activity 1 revision and .phx resubmission required before consideration for Activity 2. Student identity is maintained separately.
+Teacher direction recorded November 6, 2026: retain the newly submitted concept and strengthen only the identified Activity 1 decisions before resubmission. Activity 2 is not authorized. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -25,39 +25,105 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research Concept Note
 
-- Activity status: Targeted revision required; original topic declaration available as the embedded baseline below.
-- Submission revision: No verified prior .phx revision number recorded; baseline snapshot ID is not a student submission revision number.
-- Teacher verification: Topic and research problem accepted November 5, 2026; other required components remain subject to targeted repair and review.
-- Concept approval status: Topic/problem accepted only; complete concept and Chapter 1 progression not yet approved.
-- Approved concept revision: No complete concept approved for Activity 2.
-- Student-reported work: Existing submission summarized in the teacher-designated baseline; no new responses claimed.
-- Tutor-observed learning evidence: No revision-session responses observed yet.
-- Checkpoint summary (C0–C8): C0/C1 retained as accepted topic context/problem; C2/C3/C4/C7 open for specified repairs; C5/C6 retained subject to affected alignment checks; C8 required after repair. Retention does not certify undocumented independent understanding.
-- Next step / resume point: REVISION, C2; ask the focused opening question in Teacher's Comments after necessary language handling.
+- Activity status: New submission reviewed; focused revision required, not a full restart.
+- Teacher verification: November 6, 2026 direction to strengthen the specific decisions below before Activity 2 consideration.
+- Concept approval status: Workable concept retained as a revision baseline; complete concept and Chapter 1 progression not yet approved.
+- Approved concept revision: None for Activity 2.
+- Current baseline: `pr2_pru_02-a01-submitted-baseline-2026-11-06` (teacher-designated submitted-concept snapshot, not certification of mastery).
+- Current directive: `pr2_pru_02-a01-focused-revision-2026-11-06`.
+- Prior route history: pr2_pru_02-a01-revision-2026-11-05; superseded by the focused November 6 directive.
+- Submission revision and next file: Prior submitted Activity 1 record identifies r01. Use r02 for the next completed revision unless a later completed submission is actually verified; preserve r01 and do not overwrite it.
+- Student-reported work: New concept supplied; actual earlier learning evidence remains in private teacher storage where available.
+- Tutor-observed learning evidence: No new revision responses recorded by this update. Do not credit polished baseline text as independent explanation.
+- Checkpoint summary: Reopen C2, C7, C8; retain C0, C1, C3, C4, C5, C6 as baseline content, subject to necessary dependency checks and essential missing understanding evidence only.
+- Next step / resume point: REVISION, C2; focused opening question under Teacher's Comments.
 
 ## Concept Outcome
 
-Your topic and research problem are accepted. Keep them. Revise only the specified parts of Activity 1, then resubmit the completed .phx for teacher review. You may proceed to Activity 2 only after the teacher reviews that resubmission and records explicit approval.
+Your new submission shows progress. Keep the work already developed. Strengthen the specific decisions in this directive through your own explanations and consistent revisions, then submit the completed Activity 1 .phx for teacher review. You are not being asked to restart the whole activity or select a new topic. Activity 2 must wait for explicit teacher approval after review of the resubmission.
 
 ## Revision Baseline
 
-Baseline ID: `pr2_pru_02-a01-baseline-2026-11-05`. This is a teacher-designated summary snapshot of the existing submission, not a verbatim transcript, not a newly completed student submission, and not proof that every checkpoint was previously satisfied. The source submission remains in private teacher storage. The tutor may use this embedded baseline without asking the student to retype the concept or retrieve a private local path. Do not treat AI-organized wording as independently observed student reasoning.
+Baseline ID: `pr2_pru_02-a01-submitted-baseline-2026-11-06`. This exact embedded concept is the teacher-designated baseline for this directive. No private source path, unavailable earlier transcript, or student retyping of the concept is required to begin. This is submitted planning, not proof of independent reasoning or approval of every decision. The original source is preserved in private storage and has not been rewritten. Retain unaffected wording; treat known open issues as repair targets rather than accepted facts.
 
-- **Context:** Interest in students’ cellphone gaming/video use and whether habit or entertainment is the more commonly reported reason.
+### Context
 
-- **Research problem:** Identify the relative prominence of those two reported reasons; the submission does not establish excessive use or addiction.
+The study will be conducted at Hawan National High School and will focus on Grade 11 students' cellphone-use habits. The specific activities covered are playing online games and watching videos. The study will record the number of hours students usually spend on these activities on a typical day and identify whether habit and entertainment are reported as reasons for cellphone use.
 
-- **Proposed title:** “Reasons for Cellphone Use Among Grade 11 Students: A Descriptive Quantitative Study.”
+The study does not assume that a particular number of hours is excessive. Students may have different daily routines and cellphone-use habits, so their reported hours will be recorded without imposing an unsupported threshold. The initial topic context and research problem were accepted in the teacher's baseline record and are retained for this revision.
 
-- **Research questions:** Four specific questions address daily gaming hours, daily video hours, extent of habit/entertainment as reasons, and which reason is more common. A separate main question is not explicit.
+### Research Problem
 
-- **Variables and indicators:** Habit = routine/urge to check the phone; entertainment = enjoyment/boredom-related use; gaming/video watching = daily hours. Sample items are included.
+The study aims to describe cellphone-use habits among selected Grade 11 students, particularly the time they spend playing online games and watching videos, and to identify which of two reasons—habit or entertainment—is more commonly reported. It will describe the responses of the selected participants only. It will not claim that cellphone use causes academic outcomes, nor will it diagnose addiction or establish that a student's use is excessive.
 
-- **Study type and rationale:** Quantitative descriptive; frequencies and percentages proposed; no causal claim intended.
+### Proposed Title
 
-- **Population and access:** Ten selected Grade 11 students through voluntary response, justified by limited time; school/access route not detailed.
+**Cellphone-Use Habits and Reasons Among Grade 11 Students of Hawan National High School: A Descriptive Quantitative Study**
 
-- **Data gathering:** Survey questionnaire, sample questions, and acknowledgment of limited generalizability; teacher review of title/questions/tool is proposed before collection.
+### Research Questions
+
+**Main research question:**
+
+What are the cellphone-use habits of Grade 11 students in terms of the time they spend playing online games and watching videos, and their reasons for cellphone use, particularly habit and entertainment?
+
+**Specific research questions:**
+
+1. How many hours do selected Grade 11 students usually spend playing online games on a typical day?
+2. How many hours do selected Grade 11 students usually spend watching videos on a typical day?
+3. How many selected Grade 11 students report habit as a reason for cellphone use, and how many report entertainment as a reason?
+4. Which is the more commonly reported reason for cellphone use among the selected Grade 11 students: habit or entertainment?
+
+### Variables and Proposed Indicators
+
+The study will describe cellphone-use habits and reported reasons using these indicators:
+
+| Focus | Proposed indicator | Data form and source |
+|---|---|---|
+| Online gaming | Number of hours usually spent playing online games on a typical day | Respondent's numerical answer in the questionnaire; decimal hours may be used |
+| Watching videos | Number of hours usually spent watching videos on a typical day | Respondent's numerical answer in the questionnaire; decimal hours may be used |
+| Habit | Whether the respondent uses or checks a cellphone because it is part of a daily routine, even without a specific purpose | Separate Yes/No questionnaire item |
+| Entertainment | Whether the respondent uses a cellphone for enjoyment, relaxation, watching videos, playing games, or passing time when bored | Separate Yes/No questionnaire item |
+
+The questionnaire will explain the meanings of habit and entertainment clearly. Respondents may answer Yes to both reasons because the reasons can overlap. Each reason will be counted separately. The comparison will use the number of valid Yes responses for habit and entertainment. A tie will be reported as equally commonly reported; no reason will be forced to be the only answer.
+
+The reference period for the two time-use questions is a typical day. Gaming hours and video-watching hours will be asked and recorded separately.
+
+### Proposed Study Type and Rationale
+
+The study will use a **descriptive quantitative survey design**. This design is appropriate because the researcher will collect numerical answers about daily hours and count Yes/No responses to describe the participants' cellphone-use habits and reported reasons. Frequencies, percentages, and tables may be used to summarize the responses. The design does not establish cause and effect and does not support generalization from the 10 volunteers to all Grade 11 students.
+
+### Target Population and Proposed Access
+
+The intended population is all Grade 11 students of Hawan National High School. The accessible participants will be 10 willing Grade 11 students from the sections the researcher can realistically access, subject to permission from the research teacher or class adviser. The researcher will invite students who are available and willing to participate. This is a voluntary-response approach. The findings will describe only the responses of the 10 selected volunteers and will not be presented as representative of the entire Grade 11 population.
+
+### Proposed Data-Gathering Procedure
+
+**Before data gathering:**
+
+1. Ask the research teacher or school for permission before inviting students or distributing questionnaires.
+2. Identify Grade 11 sections that can realistically be accessed after permission is granted.
+3. Invite eligible students and explain the study's purpose, what participation involves, and that participation is voluntary.
+4. For respondents under 18, provide the parent or legal guardian with the required consent information and obtain permission, as required by the school. Also obtain the student's assent. Do not include a student if the required parent/guardian permission or student assent is not given.
+5. Prepare a questionnaire that separately asks for typical-day hours spent playing online games and watching videos, and separate Yes/No items for habit and entertainment. Explain each reason in simple terms and allow both reasons to be selected.
+
+**During data gathering:**
+
+1. Distribute the questionnaire only to students who agree to participate and for whom any required permission and assent have been obtained.
+2. Give respondents enough time to answer. Do not pressure anyone to participate or complete an answer.
+3. Collect the completed questionnaires and use codes or numbers rather than names.
+4. If a respondent leaves an item blank, treat it as missing or unanswered data. Do not count it as Yes or No. Exclude it from the valid-response denominator for that item, calculate the percentage using the valid answers, and report unanswered items separately.
+5. Respect a participant's decision to stop or withdraw. Ask whether the participant permits the use of answers already provided; if permission is not given or the participant requests removal, exclude those answers from the analysis.
+
+**After data gathering:**
+
+1. Check the 10 returned questionnaires for completeness without guessing or filling in missing answers.
+2. Record gaming hours and video-watching hours separately in tables.
+3. Count Yes and No responses for habit and entertainment separately. Compare the valid Yes counts to determine which reason is more commonly reported among the respondents. If counts are equal, report a tie.
+4. Calculate percentages using the valid answers for each item. For example, if 9 respondents answer an item and 1 leaves it blank, use 9 as the denominator for that item.
+5. Keep paper questionnaires in a secure folder or envelope and electronic records in password-protected storage. Use codes instead of names. Limit access to the researcher and research teacher, and use the information only for educational purposes. Do not share identifiable responses with unauthorized people.
+6. Follow the teacher's retention instructions. When the teacher confirms that records are no longer needed, securely destroy paper copies and permanently delete electronic copies and extra files.
+
+No respondent contact or fieldwork is authorized by this concept-note revision itself. Required school permission and any parent/guardian consent and student assent remain future steps before data collection.
 
 ## Revision Routing
 
@@ -65,62 +131,60 @@ Baseline ID: `pr2_pru_02-a01-baseline-2026-11-05`. This is a teacher-designated 
 activity_code: pr2_act_01
 student_code: pr2_pru_02
 entry_mode: REVISION
-revision_directive_id: pr2_pru_02-a01-revision-2026-11-05
-baseline_revision: pr2_pru_02-a01-baseline-2026-11-05
+revision_directive_id: pr2_pru_02-a01-focused-revision-2026-11-06
+baseline_revision: pr2_pru_02-a01-submitted-baseline-2026-11-06
 baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C2, C3, C4, C7, C8]
-retained_checkpoints: [C0, C1, C5, C6]
-locked_decisions: [accepted topic, accepted research problem]
-authorized_scope: "Repair questions, measurement, access and procedure within the existing topic/problem and proposed population/design; recheck affected title/design alignment only."
-required_repairs: "The numbered repairs below are mandatory; begin at C2."
-required_approval_before_compilation: "None additional if repairs stay within this directive and all Activity 1 completion requirements pass. Substantive changes to locked decisions require teacher clarification. Teacher approval after resubmission is mandatory before Activity 2."
+reopen_checkpoints: [C2, C7, C8]
+retained_checkpoints: [C0, C1, C3, C4, C5, C6]
+locked_decisions: [current topic, core research purpose, current non-experimental study type]
+authorized_scope: "Comparison/denominator/missing-data meaning and time-reference clarification; consequential question/procedure wording only. Preserve descriptive purpose, habit/entertainment focus and the proposed Grade 11 setting/population."
+required_repairs: "Numbered focused repairs below; begin at C2."
+required_approval_before_compilation: "None additional for repairs within this directive after all Activity 1 completion requirements pass. Teacher clarification is required for changes beyond the authorized scope. Teacher approval after resubmission is required before Activity 2."
 ```
 
-1. **C2:** Explain distinct indicators and response options for habit and entertainment, allow or justify handling of overlapping reasons, and explain a feasible comparison. Identify daily gaming/video-time data forms and their reference period. Do not assume the two reasons must be mutually exclusive.
+1. **C2 — Comparison and missing-response meaning:** Explain the distinction between a Yes count and the proportion of valid answers. Demonstrate what can and cannot be concluded when the two reason items have different response totals. Propose and justify a fair, feasible comparison rule, including how missing answers and ties will be reported. A raw count may be reported as a raw count; do not quietly label it as a directly comparable endorsement rate. The tutor must not impose a preferred rule or supply the student's reasoning. If the student keeps a count-based question, the wording and conclusion must accurately state the count-based claim and its missingness limits. If valid-response percentages or paired complete responses are chosen, the denominator, exclusions, and claim limits must be explicit and defensible.
 
-2. **C4:** Retain the four submitted specific questions unless a necessary authorized alignment repair is explained; develop one main question. Show which planned evidence answers each question, especially the comparison of reasons.
+2. **C2 — Time reference:** Explain what typical day means for the gaming/video-hour questions and apply the same intended reference to both. Do not silently switch between school days, weekends, or a fixed recent period. Only a brief measurement clarification is needed, not a time-diary assignment.
 
-3. **C3:** Clarify the school/setting and a feasible invitation route for the proposed ten Grade 11 volunteers; distinguish the intended population from the reachable group and avoid population-wide claims.
+3. **C7 — Necessary propagation:** Carry the student's supported comparison/missing-data decision into the procedure and planned summaries. Preserve voluntary participation and never require a respondent to answer a blank item. Do not demand a complete questionnaire or final statistical plan.
 
-4. **C7:** Complete a feasible before–during–after outline: who supplies which evidence, proposed tool/source, recruitment and required permission/consent/assent path, collection steps, basic privacy and secure storage, and handling refusal or incomplete data. Preserve existing safeguards and clarify only missing parts. For record-based evidence, explain confidential linkage and authorized access. Actual fieldwork permission, a validated instrument, a final sample size, and final statistical treatment are not required deliverables here; identify those future decisions truthfully.
+4. **C8 — Focused alignment:** Compare the retained questions, indicators, procedure and claim wording against the revised rule. Recheck C4 only if that decision changes what its questions ask. Retain the topic, descriptive design, separate hours and separate nonexclusive reasons. Ask for an actual explanation/application, not agreement alone.
 
-5. **C8:** Compare all eight concept-note components after the repairs. Propagate only necessary consequential changes and preserve student meaning. Elicit only missing essential understanding; do not repeat retained sections or certify mastery from polished baseline wording.
+Preserve unaffected baseline decisions. A recheck is a consistency comparison first, not another mandatory interview. If the actual student explanation exposes an essential missing criterion, ask only that question. Explain unfamiliar concepts and scaffold adaptively, but do not supply substantive student decisions or treat simple agreement as understanding. A proposed change beyond the authorized scope must be referred to the teacher.
 
-Keep the existing topic, problem, central focus, proposed design, and population. The student may supply missing setting details, reference periods, recruitment choices, indicators/response formats, and student-developed aligned questions within that scope. Nonsubstantive title edits for consistency are allowed. Do not silently replace the topic, add a variable/intervention, change the target group or design, or make causal claims; refer a necessary substantive departure to the teacher. Retained decisions receive consistency checks, not a repeated Activity 1 interview. If essential baseline understanding is undocumented, ask only the missing evidence question.
+### Compilation and resubmission
 
-### Resubmission and revision identity
+Prior submitted Activity 1 record identifies r01. Use r02 for the next completed revision unless a later completed submission is actually verified; preserve r01 and do not overwrite it.
 
-Before compilation verify every C0–C8 completion requirement using the baseline plus actual revision evidence, not just this directive. Preserve before/after changes, retained content, actual student answers, assistance, baseline/directive IDs, and truthful transcript limits in the private .phx. Do not generate a partial/provisional .phx or label this baseline summary a completed submission.
+Generate a new .phx only after the entire Activity 1 completion gate passes using actual repair evidence plus legitimate retained evidence. Include the required YAML metadata and six exact top-level sections, the current directive/baseline IDs, actual student answers and consequential follow-ups, AI assistance, before/after decisions, retained content, affected-field checks and truthful capture limits. Do not fabricate missing historical turns, declare an unavailable transcript complete, or generate a partial/provisional submission to bypass an unresolved repair. No full instrument, final statistical plan, fixed sample size, obtained fieldwork permission or collected data is required for this planning checkpoint.
 
-The original files reviewed do not establish a previous completed .phx number. Resolve that identity before naming the revised file: if a prior completed .phx is available, verify its number and increment it; if it is confirmed this will be the first completed .phx, use `pr2_pru_02_pr2_act_01_r01.phx` while retaining entry_mode REVISION and this baseline/directive identity. If a prior completed submission exists but its revision is unknown, seek the missing baseline identity rather than inventing r02. Do not block the learning questions while resolving filename history.
-
-After the gate passes, generate the .phx automatically and provide the Activity 1 reading copy when tools permit. The student must resubmit the .phx through the teacher's prescribed channel. End with teacher review pending. Do not start Activity 2 in the revision chat or update approval/route automatically. No fieldwork or respondent contact is authorized.
+After the gate passes, compile automatically, verify the actual .phx as UTF-8/non-archive text, and derive the student reading copy from FINAL OUTPUT when supported. The student resubmits the .phx through the teacher's prescribed channel. End with teacher review pending; do not begin Activity 2, change the route automatically, or approve fieldwork.
 
 ## Teacher's Comments
 
-Your topic and research problem are accepted. You do not need a new topic or a complete restart. Complete the targeted repairs and resubmit Activity 1 as a .phx file before teacher review for Activity 2.
+Your idea remains workable, and your new submission shows progress. Please strengthen the specified parts of Activity 1 rather than repeat the whole activity. Explain your decisions, make the necessary aligned revisions, and resubmit the completed .phx before teacher review for Activity 2.
 
-After necessary language handling, ask this first focused question in the chosen language:
+After necessary language handling, ask this first focused question in the student's chosen language:
 
-> If a classmate uses a cellphone both out of habit and for entertainment, how would your study record that answer and decide which reason is more commonly reported?
+> Suppose 6 of 10 students answer Yes to habit, while 5 answer Yes to entertainment and the other 5 leave that question blank. What could you report fairly, and what would you need to explain before calling one reason more common?
 
-Use the actual answer to guide one next missing step at a time. Do not prewrite the answer or ask the entire repair list at once. Preserve the current question set where it already exists; develop missing questions through the student's reasoning. Record mandatory repairs as open until supported by actual responses. Full student answers, detailed feedback, and transcript belong in the private submission, not the public outcome record.
+Ask the next missing part according to the actual answer, one question at a time. Do not prewrite the answer or present the entire repair list as an interrogation. Guide the student toward a defensible explanation/application, then move on once it is sufficient. Record unresolved essential issues honestly. Keep detailed answers, feedback and transcript in the private .phx rather than the public outcome.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
+- Activity status: Not started; entry blocked pending focused Activity 1 revision and teacher approval.
 - Chapter 1 drafting authorization: Not approved.
 - Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
+- Approved concept source: Not recorded; the submitted snapshot above is a revision baseline, not an approved Activity 2 concept.
+- Approval conditions: Complete the current Activity 1 repairs, resubmit the .phx and await explicit teacher authorization.
+- Submission revision: No Activity 2 submission recorded.
+- Teacher verification: Pending after Activity 1 resubmission.
 - Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
+- Student-reported work: No Activity 2 responses recorded.
 - Tutor-observed learning evidence: Not recorded.
 - Checkpoint summary (H1–H8): Not assessed.
 - Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the assigned Activity 1 revision, submit the revised .phx for teacher review, then await explicit Chapter 1 drafting authorization and an identified accepted concept.
+- Next step / resume point: Current pr2_act_01 REVISION route; do not start Chapter 1 drafting.
 
 ## Chapter 1 Outcome
 
@@ -128,8 +192,8 @@ No Chapter 1 outcome recorded.
 
 ## Revision Routing
 
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+No Activity 2 directive or baseline assigned.
 
 ## Teacher's Comments
 
-Topic/problem acceptance does not authorize Activity 2. No automatic advancement on tutor completion or .phx generation; the teacher must review the resubmission and update this section and the route explicitly.
+Activity 2 remains blocked. A completed revised .phx is submitted for teacher review; its generation does not itself authorize progression. The teacher must identify the accepted concept and explicitly authorize Chapter 1 drafting before updating the route.
