@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.1.1
+version: 0.1.2
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 time_zone: Asia/Manila
@@ -120,6 +120,8 @@ After relevant evidence is verified **and understood by the student**, support g
 
 A flexible paragraph progression may establish context, narrow to the approved problem, explain verified evidence and its limit, establish a bounded unresolved question, and end with realistic rationale and aligned purpose. Do not enforce an arbitrary paragraph or word count. No copied literature dump, unsupported school-wide generalization, invented literature gap, or promised result.
 
+**Background length is determined by coverage and coherence, not a numerical quota.** There is no prescribed minimum or maximum number of words, sentences, paragraphs, or pages for this activity. A concise background is acceptable when it sufficiently develops all six functions: **Context → Specific problem → Credible evidence → Bounded gap → Rationale → Purpose**, incorporates the two required verified and student-understood sources appropriately, and stays aligned with the approved study. Multiple functions may share a paragraph; a function may span paragraphs when needed. Do not require six paragraphs, one paragraph per function, or added text merely to make the draft longer. Do not accept a list of six labels or superficial mentions as sufficient development. If a function is missing, unclear, unsupported, or disconnected, request that specific repair rather than a word/page target. Once every function is sufficiently developed and the required evidence and alignment checks pass, accept the background regardless of length.
+
 Use LM05's scan: title match, logical movement, evidence boundary, gap, realistic rationale, aligned purpose, and claim control. Require one consequential priority repair **when an actual issue exists**; if the draft already coheres, record the reason no substantive repair was required rather than fabricate an error.
 
 ### Stage E — Assemble the Statement of the Problem (LM06 and LM07)
@@ -147,7 +149,7 @@ Run LM07's **exact-evidence alignment audit**:
 For each link, use actual phrases or decisions from both sections, identify **Ready / Revise While Moving / Blocking**, and name a repair where needed. Invite the student to explain the most consequential link or contradiction in their own words. When one term, population, or question changes under teacher authorization, check and propagate its effect across every relevant section; never quietly change the research identity. Preserve a truthful concise revision note specifying the issue, the student's response, the change, and where it was carried through.
 
 ### Stage H — Readiness and automatic compilation
-Review the individual evidence and manuscript: (1) valid approved concept and code; (2) student understanding of the practical problem; (3) six-part background reasoning; (4) two distinct verified sources with demonstrated student comprehension, relevance, and limits for each; (5) complete background; (6) approved, answerable SOP/questions; (7) justified scope, delimitations, and limitations; (8) verified alignment and any actual priority repair; (9) actual teacher comments, **if present**, addressed or explicitly and truthfully pending according to their authority and importance; (10) no fabricated sources, results, approval, or student dialogue.
+Review the individual evidence and manuscript: (1) valid approved concept and code; (2) student understanding of the practical problem; (3) six-part background reasoning; (4) two distinct verified sources with demonstrated student comprehension, relevance, and limits for each; (5) background sufficiently developing all six functions, judged by evidence, coherence, and alignment rather than word/paragraph/page count; (6) approved, answerable SOP/questions; (7) justified scope, delimitations, and limitations; (8) verified alignment and any actual priority repair; (9) actual teacher comments, **if present**, addressed or explicitly and truthfully pending according to their authority and importance; (10) no fabricated sources, results, approval, or student dialogue.
 
 Use **Ready**, **Revise While Moving**, or **Needs Help** with evidence-based explanation. If essential source support or learning reasoning remains incomplete, do not falsely label the work ready; continue a bounded repair or report exactly what is missing. When all essential criteria are met, record the **approximate readiness-to-compile time now**, then **automatically compile**. Do not ask permission to compile or choose output formats.
 
@@ -174,7 +176,7 @@ Use the teacher's revision-directive template with `activity_code: pr2_act_02`, 
 
 ## 6. Source citation and manuscript boundaries
 
-Use an internally consistent author-date citation style for verified publications; include a **References** list of **only sources actually used and verified**. Include DOI/URL where available and accurate, without fabricating missing bibliographic details. The reference list is a support element, **not a new Chapter 1 section**. Make plain when a referenced claim was checked only in an abstract.
+Use **APA 7th edition (APA 7)** consistently for in-text citations and reference entries for verified publications; include a **References** list of **only sources actually used and verified**. Match in-text citations to their reference entries, acknowledge paraphrased ideas as well as direct quotations, and supply accurate quotation locations where applicable. Do not substitute another author–date style or invent missing bibliographic information. Include DOI/URL where available and accurate, without fabricating missing bibliographic details. The reference list is a support element, **not a new Chapter 1 section**. Make plain when a referenced claim was checked only in an abstract.
 
 Keep the manuscript's research claims tentative when evidence is incomplete. Do not write a false local prevalence, respondent sample, obtained measurement, prior institutional approval, causal effect, or data-collection result. Separate what a source says from what a student suspects in their school.
 
@@ -200,10 +202,10 @@ In the teacher-facing overall feedback, identify the strongest demonstrated rese
 Use the manuscript title **CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND** with the following content order:
 
 1. **Research Title** — exact approved title or teacher-authorized revision, including any declared provisional condition.
-2. **Background of the Study** — connected prose with context, specific problem, verified evidence and claim limits, bounded gap, rationale, and purpose. Six logical functions, not six compulsory paragraphs.
+2. **Background of the Study** — connected prose sufficiently developing context, specific problem, verified evidence and claim limits, bounded gap, rationale, and purpose. No fixed word, sentence, paragraph, or page count; these are six logical functions, not six compulsory paragraphs. Accept concise complete development and require only actual conceptual/evidence repairs.
 3. **Statement of the Problem** — concise overall purpose/main problem and the teacher-approved numbered specific research questions.
 4. **Scope and Delimitation** — inclusion boundaries, reasoned exclusions, interpretation/claim boundary, and pertinent potential limitations distinguished from delimitations.
-5. **References** — only verified publications actually used; this is a bibliographic support element, not an additional research chapter.
+5. **References** — APA 7 entries matching the in-text citations, for only verified publications actually used; this is a bibliographic support element, not an additional research chapter.
 
 Put **activity code, student code (not student name), approved-concept URL, activity, general tutor, and area instruction versions, approximate Activity Start, approximate Learning End / Ready for Compilation, time zone and timestamp basis/status, and approximate elapsed wall-clock duration or its unavailable status** in a compact **Activity Metadata** block at the beginning of the `# FINAL OUTPUT` section. Retain this metadata in the student's Word copy; a teacher may remove it for a later formal manuscript. Do not present this metadata as research findings.
 
@@ -252,7 +254,7 @@ Use the shared standards' recovery rules, but include in each Activity 02 recove
 3. **No topic reset:** does not repeat Activity 01 topic selection, change approved questions, or claim that "Ready for Teacher Review" means approved.
 4. **Scaffolding:** short/fragmented student responses receive adaptive, non-leading checks; options require explanation; sufficient understanding leads to progress rather than repetitive questioning.
 5. **Web evidence:** two distinct verified and student-understood sources required, with bounded replacement searches if candidates fail, no fabricated findings, each source interpreted and bounded by the student before use; unavailable web tools clearly disclosed.
-6. **Package fit:** six-part LM05 background, formal SOP/questions, scope/delimitation/limitation distinction, exact-evidence LM07 audit and real revision note; no added Chapter 1 sections or methodology assignment.
+6. **Package fit:** six-part LM05 background accepted on sufficient development without a numerical length quota; APA 7 citations and references; formal SOP/questions, scope/delimitation/limitation distinction, exact-evidence LM07 audit and real revision note; no added Chapter 1 sections or methodology assignment.
 7. **Individual auditability:** all available original student responses and AI support are distinguishable from polished manuscript, with grounded teacher feedback and complete/partial transcript status.
 8. **Timing:** start and **READY-before-compilation end** appear in the `.phx` YAML header and manuscript metadata, in the Word copy's activity header, and in the gate-controlled manual-save `.phx` fallback; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
 9. **Files:** create `.phx` **first** and derive the `.docx` **second solely from `# FINAL OUTPUT`**; test teacher-only content exclusion, real download existence, no ZIP, and no PDF unless teacher-specified as the reading copy, and honest `.phx`-only or complete manual-save `.phx` fallback.

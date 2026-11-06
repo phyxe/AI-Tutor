@@ -33,3 +33,7 @@ The package's priority revision remains evidence-based: document actual repairs;
 The new controller remains a teacher-review draft. No real approval records were created, no files were pushed, and no Capacities objects or source-package files were changed. Actual ChatGPT Free/signed-out retrieval, source comprehension behavior, revision routing, timing fallback, .phx gate, and Word extraction remain to be tested.
 
 Review scenarios: missing Activity 2 approval must block entry; Activity 1 teacher-review status is insufficient; only one verified source must block export; an abstract-only source permits only checked abstract claims; a national finding must not become invented local prevalence; scope-only revision must retain valid source work; central-term changes must propagate; all mandatory criteria met must trigger .phx without a permission pause.
+
+## Citation and background-length clarification — 6 November 2026
+
+Activity version 0.1.2 explicitly requires APA 7th edition in-text citations and matching reference entries. The earlier generic author–date wording did not specify the edition. Background readiness now explicitly depends on sufficient development of context, specific problem, credible evidence, bounded gap, rationale, and purpose, plus required source support and alignment. No numerical word/sentence/paragraph/page quota applies. Concise complete prose is acceptable; mere labels or superficial mentions are not. Revision must address the actual missing function or evidence rather than pad the draft.
