@@ -119,3 +119,7 @@ Create and verify the UTF-8 Markdown .phx first. The student submits that file m
 No separate student outcome file is used for this review. Keep progress in the current conversation and ordinary-text recovery checkpoints during learning, then in the completed .phx submitted privately to the teacher. Do not request, create, or update a GitHub student outcome file or route for this activity. The absence of an outcome file is not a blocker.
 
 Next activity: not assigned. End with the actual file or complete manual-save source and clear instruction to submit .phx. Do not generate another assignment or mark the original modules/live assessments complete.
+
+## Physical submission-file check
+
+Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.

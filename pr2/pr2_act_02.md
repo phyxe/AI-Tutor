@@ -211,7 +211,7 @@ Use `r01` for the initial completed submission and increment the verified prior 
 
 ### 8B. Create the teacher record first: `[student_code]_pr2_act_02_rNN.phx`
 
-**Required first output:** A genuinely created **UTF-8 plain-text** file, named from the **verified approved-outcome student code**, e.g. `pr2_pru_01_pr2_act_02_r01.phx`. The extension is custom, but its text must open directly in Notepad++ and similar editors. This is plain UTF-8 Markdown using only `.phx`; no binary encoding or archive is needed. Word is the default reading copy; PDF may replace it only if the teacher starter explicitly specifies PDF.
+**Required first output:** A genuinely created **UTF-8 plain-text** file, named from the **verified approved-outcome student code**, e.g. `pr2_pru_01_pr2_act_02_r01.phx`. The extension is custom, but its text must open directly in Notepad++ and similar editors. This is plain UTF-8 Markdown using only `.phx`; binary encoding and archives are prohibited. Follow the general tutor's physical UTF-8/non-archive verification; never create a ZIP or rename Word/PDF to `.phx`. Word is the default reading copy; PDF may replace it only if the teacher starter explicitly specifies PDF.
 
 Include all exact YAML keys required by `GENERAL-TUTOR.md`, including `general_tutor_version`, `area_instructions_version`, `learning_area`, and `final_output_language`; the extra activity fields below supplement rather than replace them.
 

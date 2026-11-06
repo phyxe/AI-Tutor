@@ -124,3 +124,7 @@ Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx m
 ## 8. End boundary
 
 No separate outcome file or GitHub progress update is used. Progress is recorded in chat/recovery and the completed private .phx. Completion demonstrates this review's written evidence only; it does not approve a real concept, complete pr2_act_01/pr2_act_02, authorize fieldwork, or advance a production route. No next activity or deadline is assigned.
+
+## Physical submission-file check
+
+Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.

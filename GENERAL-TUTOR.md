@@ -1,6 +1,6 @@
 ---
 id: GENERAL-TUTOR
-version: 0.2.1
+version: 0.2.2
 status: teacher-review
 ---
 
@@ -103,10 +103,24 @@ Only when every mandatory activity-completion criterion passes, compile directly
 
 The teacher submission is one plain UTF-8 text record structured as Markdown with YAML metadata, using only the `.phx` extension. It is readable in a UTF-8 text editor and its contents can be interpreted as Markdown; no proprietary reader, encryption, or binary format is involved. Do not use `.aitutor`, `.pr2`, `.md`, `.txt`, or double extensions such as `.phx.md` as submission filenames. Instruction and repository outcome files remain Markdown (`.md`); this restriction applies to the teacher submission.
 
+### Physical file format: text, never an archive
+
+Write the complete Markdown record directly to the `.phx` path using explicit UTF-8 text encoding (for example, a plain-text file writer). The extension changes the filename convention only; it does not require packaging, conversion, compression, or a special document library. Do not use ZIP/archive APIs, serialize binary objects, encode the record as base64, or generate Word/PDF and rename it to `.phx`. Never package `.phx` and its reading copy together as a ZIP. Deliver each successfully created file separately.
+
+Before offering a download, reopen the exact `.phx` artifact that the link will deliver and verify its bytes, not merely its filename or YAML `encoding` declaration:
+
+- It decodes as UTF-8 text (an optional UTF-8 BOM is acceptable), begins with the YAML frontmatter delimiter `---`, and contains the required metadata and six exact top-level sections.
+- It is not a ZIP or another archive, a renamed DOCX/PDF, or another binary format. A ZIP signature such as `PK` followed by bytes `03 04`, `05 06`, or `07 08`, a PDF signature `%PDF-`, or an archive/file-type check identifying an archive means it fails the format check. A correct extension alone never proves correct contents.
+- If a tool can set the media type, use `text/plain; charset=utf-8`, not an archive media type. Do not claim control over browser/platform file labels or MIME headers that the tool does not expose.
+
+If verification identifies an archive/binary artifact, do not link it as a valid submission. Recreate the record directly as UTF-8 text and recheck, preserving actual evidence and the completion gate. If byte inspection or valid text-file creation is unavailable, disclose that limitation and use the gate-controlled complete-source manual-saving fallback rather than claiming a verified download.
+
+A device or download interface may label an unfamiliar extension differently; that label alone does not establish the file's actual format. Tell the student to open a verified `.phx` with a UTF-8 text editor when necessary, not extract or convert it. If actual bytes indicate an archive, treat it as invalid rather than advising that renaming it fixes the contents.
+
 Mandatory creation order:
 
 1. Assemble the full teacher record from actual available evidence and the student-developed final output.
-2. Create and verify the custom file first: it exists, is readable, has required sections, and truthfully identifies missing evidence. Do not claim a file exists before successful generation.
+2. Create and verify the custom file first: it exists, passes the physical UTF-8/non-archive checks above, has required sections, and truthfully identifies missing evidence. Do not claim a file exists before successful generation.
 3. Only afterward create the activity-specified Word (`.docx`) or PDF (`.pdf`) student copy, when required and supported. Derive it exclusively from `# FINAL OUTPUT`, ending at the next top-level `# ` heading. Formatting may differ; substantive content must match. Exclude tutor feedback, evidence logs, and transcripts.
 4. Link only successfully generated files. State: **Submit the custom file to your teacher. The Word/PDF is your reading copy, not the submission.** Submission is manual through the established channel. Never claim automatic email, upload, GitHub saving, or background delivery.
 
@@ -121,7 +135,7 @@ Exact top-level section boundaries; use `##` or lower for internal headings:
 - `# CONVERSATION TRANSCRIPT`: accessible chronological AI and student turns. `COMPLETE` only if every relevant turn was actually captured; otherwise `PARTIAL` with gaps identified. Summaries are not verbatim transcripts.
 - `# INTEGRITY AND CAPTURE STATUS`: AI-use disclosure, source limitations, transcript gaps, timestamp reliability, generated-file status, and manual-submission reminder.
 
-If Word/PDF creation fails, deliver the `.phx` file alone and explain the failure. If `.phx` generation is blocked or no text file can be created, do not offer another submission extension. Only after the same completion gate passes, provide the complete Markdown record in a copyable code block and instruct the student to save it as UTF-8 with the exact `.phx` filename (not `.phx.txt`). State that no downloadable `.phx` was generated and that manual saving remains necessary. Do not create a student copy before a teacher-record file exists. Disclose any size/context omissions and `PARTIAL` capture status; never call an incomplete record complete. Word/PDF cannot substitute for the teacher submission. Do not create unnecessary ZIP packages.
+If Word/PDF creation fails, deliver the `.phx` file alone and explain the failure. If `.phx` generation is blocked or no text file can be created, do not offer another submission extension. Only after the same completion gate passes, provide the complete Markdown record in a copyable code block and instruct the student to save it as UTF-8 with the exact `.phx` filename (not `.phx.txt`). State that no downloadable `.phx` was generated and that manual saving remains necessary. Do not create a student copy before a teacher-record file exists. Disclose any size/context omissions and `PARTIAL` capture status; never call an incomplete record complete. Word/PDF cannot substitute for the teacher submission. Do not create any ZIP or other archive submission/package, even when the record is long or a reading copy is also available.
 
 ## 9. Recovery and repository progress
 
@@ -135,4 +149,4 @@ Draft a minimal public outcome update only when required. Separate student repor
 
 Each activity specifies ID/version, objective, finite tasks, required sources/outcome lookup, assistance boundaries, evidence status, completion gate, final-output language or inherited area default, output structure, mandatory `.phx` submission format, student-copy format if any, and outcome-update rules. Deadlines apply only when assigned. Unfinished templates block deployment.
 
-Teacher review and target-access testing precede student release. Test: language choice immediately followed by a real question; fragments accepted without invented meaning; sound answers progressing without unnecessary support; illogical ideas corrected directly; copied models not credited as independent thinking; repeated confusion causing changed support; no permission-only pauses; requests for premature `.phx` generation refused while guided learning continues; every mandatory criterion verified before automatic compilation; `.phx` as the sole submission extension; custom file first; exact final-output extraction; truthful failure fallbacks/transcript gaps; missing-source handling; and recovery without restart. This version remains a teacher-review draft.
+Teacher review and target-access testing precede student release. Test: language choice immediately followed by a real question; fragments accepted without invented meaning; sound answers progressing without unnecessary support; illogical ideas corrected directly; copied models not credited as independent thinking; repeated confusion causing changed support; no permission-only pauses; requests for premature `.phx` generation refused while guided learning continues; every mandatory criterion verified before automatic compilation; `.phx` as the sole submission extension; custom file first; byte-level UTF-8/non-archive verification and rejection of renamed binary files; exact final-output extraction; truthful failure fallbacks/transcript gaps; missing-source handling; and recovery without restart. This version remains a teacher-review draft.

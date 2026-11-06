@@ -150,3 +150,7 @@ After completion, draft a minimal teacher-review update for the student's `# pr2
 For interruption, give an ordinary-text recovery checkpoint with mode, baseline/directive IDs, completed and open checkpoints, actual key reasoning, unresolved dependency, and the next focused question. Do not label it a final submission.
 
 Next mapped activity: `pr2_act_02` (Individual Chapter 1 Research Foundation), only after the teacher records explicit approval for Chapter 1 drafting in the student's `# pr2_act_02` outcome section and identifies the accepted concept revision. End this session with actual files/manual-save instructions and submission for teacher review. Do not begin Activity 2 in this chat, certify the concept approved, or start fieldwork.
+
+## Physical submission-file check
+
+Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.

@@ -107,7 +107,7 @@ When required, draft a minimal outcome update with activity/version, demonstrate
 
 ## 7. Assessment and scope controls
 
-Keep Practice, Progress Check, Graded-Outcome Component, and the designated Submit for Grading point distinct. A `.phx` is a capture/submission container; generating one does not create a new recorded assessment or score. Preserve the activity's authorized destination; do not score practice or the same unchanged evidence twice.
+Keep Practice, Progress Check, Graded-Outcome Component, and the designated Submit for Grading point distinct. A `.phx` is a plain-text capture/submission record; generating one does not create a new recorded assessment or score. Preserve the activity's authorized destination; do not score practice or the same unchanged evidence twice.
 
 The curriculum's Topic Feasibility and Title Decision Brief joins Learning Module 03's decision work with Learning Module 04's title decision. Chapter 1 components feed one consolidated Chapter 1 milestone. Transfer an approved title without rescoring the same title-decision reasoning. These are curriculum handoffs, not newly assigned AI activities; exact AI activity mappings must be supplied in the activity files.
 
