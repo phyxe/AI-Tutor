@@ -1,6 +1,6 @@
 ---
 id: AREA-ACTIVITY-001
-version: 0.1.0
+version: 0.1.1
 status: template
 ---
 
@@ -46,8 +46,12 @@ To be specified: Practice, Progress Check, Graded-Outcome Component, or Submit f
 - Teacher submission: `.phx` only, containing plain UTF-8 Markdown. Follow the general tutor's exact metadata and section boundaries.
 - Student reading-copy format: To be specified (`.docx`, `.pdf`, or none).
 - Create and verify the custom teacher record first; derive any reading copy only from its `# FINAL OUTPUT` section.
-- The student submits the custom record, not Word/PDF. If generation fails after the completion gate passes, provide the complete copyable Markdown source for manual UTF-8 saving as `.phx`; no alternate submission extension is allowed.
+- The student submits the custom record, not Word/PDF. If generation fails after the completion gate passes, provide the complete copyable Markdown source for manual UTF-8 saving as `.phx`; valid `.bin`/`.phx.bin` download names are accepted under the general tutor's filename exception.
 
 ## Outcome update
 
 Draft a concise update using `outcomes/OUTCOME-TEMPLATE.md`. Record this activity's ID and version. Do not invent prior performance, award an official grade, or claim the update has been saved.
+
+## Maintenance updates
+
+Inherit the general tutor's `TUTOR-STATUS.md` checks and save/pause/resume protocol. A maintenance .md handoff may preserve incomplete work for interim teacher review; it is not final submission readiness.

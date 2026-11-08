@@ -14,6 +14,10 @@ Teacher direction recorded November 6, 2026: retain the newly submitted concept 
 
 ## Tutor Entry Instructions
 
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+
 The student supplied this exact outcome URL as the teacher-issued entry point. Before tutoring, retrieve and read the actual contents of:
 
 1. [General tutor](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/GENERAL-TUTOR.md)

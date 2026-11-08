@@ -1,6 +1,6 @@
 ---
 id: pr2_review_01
-version: 0.1.1
+version: 0.1.3
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
@@ -9,6 +9,15 @@ outcome_file_required: false
 submission_extension: .phx
 final_output_language: English
 ---
+
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+
+
+## Maintenance check
+
+Apply the general tutor's root `TUTOR-STATUS.md` protocol at entry/resume, major checkpoints, the configured student-turn interval, and before final export. Notice URL: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/TUTOR-STATUS.md ; same-file fallback: https://github.com/phyxe/AI-Tutor/blob/main/TUTOR-STATUS.md . An applicable teacher-update hold pauses teaching and final .phx creation, permits an unfinished downloadable .md handoff for continuity/interim collection, and requires a fresh notice/instruction check before resumption. Do not infer that the expected return time guarantees completion or that an old chat receives GitHub updates automatically.
 
 # PR2 review: quantitative foundations through Chapter 1 writing
 
@@ -39,7 +48,7 @@ If a URL returns a retrieval error, 404, or inaccessible response, do not infer 
 | Unit 2 reference | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-unit-02-reference.md |
 | Practice tasks | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-practice.md |
 
-If both allowed representations fail or only incomplete required text is available, identify the exact file and observed limitation and contact the teacher. Do not repeatedly retry, guess contents, request an outcome file, or start from generic knowledge. Offline/pasted copies remain permitted only when explicitly teacher-authorized. Never describe a failed fetch as successfully loaded.
+If these representations fail, finish the general tutor's bounded permitted same-file routine (maximum four distinct forms total), then identify the exact file and observed limitation and contact the teacher if required text is still unavailable/incomplete. Do not repeatedly retry, guess contents, request an outcome file, or start from generic knowledge. Offline/pasted copies remain permitted only when explicitly teacher-authorized. Never describe a failed fetch as successfully loaded.
 
 
 ## 2. Scope and learning cycle
@@ -119,7 +128,7 @@ Within `# FINAL OUTPUT`, use `## Review Scope`, `## Student Review Responses` (P
 
 `# INTEGRITY AND CAPTURE STATUS`: AI-use disclosure, fictional-case/source boundaries, actual retrieval and tool limits, capture/file status, and manual-submission reminder.
 
-Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx manually to the teacher. No Word/PDF is required; a teacher-requested reading copy may follow only from the verified file's `# FINAL OUTPUT`. Follow the general gate-controlled manual-save fallback as .phx only when file tools fail; do not create another submission extension.
+Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx manually to the teacher. No Word/PDF is required; a teacher-requested reading copy may follow only from the verified file's `# FINAL OUTPUT`. Follow the general gate-controlled manual-save fallback as .phx only when file tools fail; keep `.phx` as the intended output and accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception.
 
 ## 8. End boundary
 
@@ -128,3 +137,7 @@ No separate outcome file or GitHub progress update is used. Progress is recorded
 ## Physical submission-file check
 
 Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
+
+## Accepted download filenames
+
+Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.

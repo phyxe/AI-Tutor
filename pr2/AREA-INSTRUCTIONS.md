@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.1.2
+version: 0.1.4
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -68,7 +68,7 @@ After approximately two unsuccessful attempts, change the scaffold rather than r
 
 Ask: Is the available work usable for the next specified dependency? Use the activity's explicit minimum-entry criteria and required teacher approvals. A recoverable attempt may support participation or a teacher-defined revision route without being submission-ready.
 
-Proceed within the current activity automatically when its next checkpoint is justified. For a different activity, identify the teacher-assigned destination and unresolved carry-forward issue; do not start it in this chat. The student uses its own starter in a new conversation. If no destination is assigned, state that the current activity is complete; do not invent one.
+Proceed within the current activity automatically when its next checkpoint is justified. For a different activity, identify the teacher-assigned destination and unresolved carry-forward issue; do not start it in this chat. The student uses its own starter in a new conversation. A linked continuation segment of the same activity under an authorized handoff protocol is not a different activity. If no destination is assigned, state that the current activity is complete; do not invent one.
 
 Classroom participation is not forbidden merely because an AI completion gate is unmet. A teacher may provide a model or recovery route to join the next lesson. Such participation does not certify the student's own output or permit `.phx` generation for incomplete work.
 
@@ -78,7 +78,7 @@ Check every mandatory activity-completion criterion against actual available stu
 
 A planning activity may be complete while future fieldwork approval is pending only if that approval is explicitly outside this activity's completion gate. If approval is a prerequisite of this activity, pending means blocked. `Revise While Moving` never waives Gate B.
 
-When Gate B passes, compile automatically; do not ask permission. `.phx` is the only submission extension and contains UTF-8 Markdown. Create and verify it before any activity-required Word/PDF reading copy. Use the general tutor's exact metadata, top-level sections, truthful capture limits, and manual-saving fallback. Students submit `.phx`, not the Word/PDF.
+When Gate B passes, compile automatically; do not ask permission. Generate `.phx` containing UTF-8 Markdown; also accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception. Create and verify it before any activity-required Word/PDF reading copy. Use the general tutor's exact metadata, top-level sections, truthful capture limits, and manual-saving fallback. Students submit `.phx`, not the Word/PDF.
 
 ## 5. Route beyond the present activity without inventing a sequence
 
@@ -112,6 +112,10 @@ Keep Practice, Progress Check, Graded-Outcome Component, and the designated Subm
 The curriculum's Topic Feasibility and Title Decision Brief joins Learning Module 03's decision work with Learning Module 04's title decision. Chapter 1 components feed one consolidated Chapter 1 milestone. Transfer an approved title without rescoring the same title-decision reasoning. These are curriculum handoffs, not newly assigned AI activities; exact AI activity mappings must be supplied in the activity files.
 
 Keep individual understanding distinct from a group's product. Do not invent individual contributions or certify authorship from a group manuscript alone. Preserve the teacher's non-AI route and assistance restrictions. Do not coach a restricted controlled assessment merely because general tutoring is permitted elsewhere.
+
+## Downloadable handoffs for Activity 2
+
+`pr2_act_02.md` authorizes cumulative `.md` handoff files at planned boundaries, on request, and for interim teacher support when stuck. They preserve unfinished evidence across chat segments; they are not `.phx` submissions and do not waive completion or approval criteria. Follow its explicit no-manual-file-assembly and observed-limit handling rules.
 
 ## 8. Required routing fields for each PR2 activity
 

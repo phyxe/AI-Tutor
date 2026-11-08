@@ -1,6 +1,6 @@
 ---
 id: EFFCOM-AREA
-version: 0.1.1
+version: 0.1.2
 status: teacher-review
 learning_area: Effective Communication
 learner_level: Grade 11
@@ -89,9 +89,9 @@ An activity must state its finite mandatory criteria and permitted evidence. Ver
 
 Do not claim a written explanation satisfies an oral/visual performance criterion unless the activity explicitly authorizes that evidence form. If performance evidence is genuinely required but unavailable, identify the exact blocker; do not certify completion from intention or a script alone. Teacher-only future assessment may remain pending only when explicitly outside the current activity's completion gate.
 
-After the gate passes, compile automatically under the general tutor. Only `.phx` is the teacher-submission extension; its content is readable UTF-8 Markdown with all six required sections, actual student responses, accessible conversation flow, assistance disclosure, and honest capture limits. Any activity-required Word/PDF copy follows only after the verified teacher record and contains `# FINAL OUTPUT` alone. Do not silently polish an independently assessed final output beyond permitted assistance.
+After the gate passes, compile automatically under the general tutor. Generate `.phx`; the teacher also accepts `.bin`/`.phx.bin` downloads under the general tutor's filename exception; its content is readable UTF-8 Markdown with all six required sections, actual student responses, accessible conversation flow, assistance disclosure, and honest capture limits. Any activity-required Word/PDF copy follows only after the verified teacher record and contains `# FINAL OUTPUT` alone. Do not silently polish an independently assessed final output beyond permitted assistance.
 
-If file tools fail, use the general tutor's gate-controlled complete source for manual UTF-8 saving as `.phx`. Do not offer another submission extension or a premature provisional file. File production does not establish official approval or demonstrated live performance.
+If file tools fail, use the general tutor's gate-controlled complete source for manual UTF-8 saving as `.phx`. Keep `.phx` as the intended output, honor the valid `.bin`/`.phx.bin` download-name exception, and do not create a premature provisional file. File production does not establish official approval or demonstrated live performance.
 
 ## 8. Activity and outcome setup
 

@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.1.3
+version: 0.1.5
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -8,6 +8,15 @@ submission_extension: .phx
 final_output_language: English
 evidence_status: Progress Check - feedback only
 ---
+
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+
+
+## Maintenance check
+
+Apply the general tutor's root `TUTOR-STATUS.md` protocol at entry/resume, major checkpoints, the configured student-turn interval, and before final export. Notice URL: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/TUTOR-STATUS.md ; same-file fallback: https://github.com/phyxe/AI-Tutor/blob/main/TUTOR-STATUS.md . An applicable teacher-update hold pauses teaching and final .phx creation, permits an unfinished downloadable .md handoff for continuity/interim collection, and requires a fresh notice/instruction check before resumption. Do not infer that the expected return time guarantees completion or that an old chat receives GitHub updates automatically.
 
 # Activity 1: From research problem to proposed concept note
 
@@ -141,7 +150,7 @@ Use a concise table for variables/indicators/data sources and a short numbered p
 
 In the private `# ALIGNMENT AND REVISION AUDIT`, include a checkpoint evidence map, exact teacher directive if available, baseline identity, changes before/after, reasons, affected-field rechecks, retained sections, unresolved nonblocking future decisions, and accurate teacher-approval status. Show what was observed now versus carried from the baseline. A prior full transcript need not be reconstructed: include only actually accessible turns and disclose capture gaps under the general standards.
 
-After verifying `.phx`, derive a `.docx` student reading copy from `# FINAL OUTPUT` only if file tools permit. PDF may replace the reading copy only when the teacher starter specifies it. The teacher submission remains `.phx`. Follow the general tutor's truthful failure handling; no alternative submission extension.
+After verifying `.phx`, derive a `.docx` student reading copy from `# FINAL OUTPUT` only if file tools permit. PDF may replace the reading copy only when the teacher starter specifies it. The teacher submission remains `.phx`. Follow the general tutor's truthful failure handling; the general tutor's valid `.bin`/`.phx.bin` download-name exception applies.
 
 ## 9. Outcome update, recovery, and handoff
 
@@ -154,3 +163,7 @@ Next mapped activity: `pr2_act_02` (Individual Chapter 1 Research Foundation), o
 ## Physical submission-file check
 
 Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
+
+## Accepted download filenames
+
+Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.

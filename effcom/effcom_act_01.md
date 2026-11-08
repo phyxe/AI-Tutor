@@ -1,6 +1,6 @@
 ---
 id: effcom_act_01
-version: 0.1.1
+version: 0.1.3
 status: teacher-review
 learning_area: Effective Communication
 ai_permission: AI-2 guided developmental review
@@ -9,9 +9,18 @@ submission_extension: .phx
 outcome_file_required: false
 ---
 
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+
+
+## Maintenance check
+
+Apply the general tutor's root `TUTOR-STATUS.md` protocol at entry/resume, major checkpoints, the configured student-turn interval, and before final export. Notice URL: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/TUTOR-STATUS.md ; same-file fallback: https://github.com/phyxe/AI-Tutor/blob/main/TUTOR-STATUS.md . An applicable teacher-update hold pauses teaching and final .phx creation, permits an unfinished downloadable .md handoff for continuity/interim collection, and requires a fresh notice/instruction check before resumption. Do not infer that the expected return time guarantees completion or that an old chat receives GitHub updates automatically.
+
 # Activity 1: Term 2 review through Recovery Set 2
 
-Apply `../GENERAL-TUTOR.md` and `AREA-INSTRUCTIONS.md`. Read `effcom_act_01-reading.md` and `effcom_act_01-source-packet.md` completely before tutoring. Retrieve actual text, not just link titles. The student starts directly with the teacher-issued activity URL. This activity requires no outcome file, outcome URL, prior approval record, or repository progress route. Read the linked general tutor, area controller, reading guide, and source packet using the exact links below. A teacher-issued student code may be supplied if assigned, but it is not an entry prerequisite. Do not request a name, require an outcome record, use a PR2 outcome, or infer a code. A required source failure means contact the teacher; teacher-authorized offline copies follow the general loading rules.
+Apply `../GENERAL-TUTOR.md` and `AREA-INSTRUCTIONS.md`. Read `effcom_act_01-reading.md` and `effcom_act_01-source-packet.md` completely before tutoring. Retrieve actual text, not just link titles. The student starts directly with the teacher-issued activity URL. This activity requires no outcome file, outcome URL, prior approval record, or repository progress route. Read the linked general tutor, area controller, reading guide, and source packet using the exact links below. A teacher-issued student code may be supplied if assigned, but it is not an entry prerequisite. Do not request a name, require an outcome record, use a PR2 outcome, or infer a code. A required source retrieval failure uses the bounded same-file alternatives first; only unresolved failure means contact the teacher; teacher-authorized offline copies follow the general loading rules.
 
 ## Direct-entry file links
 
@@ -112,7 +121,7 @@ Within `# FINAL OUTPUT` use `## Review Scope`, `## Student Review Responses` wit
 
 `# STUDENT LEARNING EVIDENCE` preserves original attempts, questions/context, feedback-triggered revisions, and their language. `# AI EVALUATION AND FEEDBACK` records per-checkpoint independent/assisted evidence, remaining nonblocking practice needs, and overall progression. `# ALIGNMENT AND REVISION AUDIT` records sources/claim checks, actual repairs/retentions, baseline/directive effects, and consistency between responses and the summary. `# CONVERSATION TRANSCRIPT` preserves accessible chronological AI and student messages with speaker attribution; mark actual COMPLETE/PARTIAL capture status and gaps. `# INTEGRITY AND CAPTURE STATUS` explains instructional/simulated sources, permitted AI help, tool/capture limits, file status, and manual submission. No official score or psychological inference.
 
-Create and verify the UTF-8 Markdown .phx first. The student submits that file manually to the teacher. No Word/PDF is required for this review; the .phx is already readable as text/Markdown. If a teacher starter explicitly requests a reading copy, derive it after the verified .phx solely from `# FINAL OUTPUT`. Follow the general manual-save fallback only after the same learning gate passes; no alternate submission extension.
+Create and verify the UTF-8 Markdown .phx first. The student submits that file manually to the teacher. No Word/PDF is required for this review; the .phx is already readable as text/Markdown. If a teacher starter explicitly requests a reading copy, derive it after the verified .phx solely from `# FINAL OUTPUT`. Follow the general manual-save fallback only after the same learning gate passes; the general tutor's valid `.bin`/`.phx.bin` download-name exception applies.
 
 ## 7. Progress record and handoff
 
@@ -123,3 +132,7 @@ Next activity: not assigned. End with the actual file or complete manual-save so
 ## Physical submission-file check
 
 Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
+
+## Accepted download filenames
+
+Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.

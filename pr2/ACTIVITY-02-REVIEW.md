@@ -1,5 +1,15 @@
 # Activity 2: source review and adaptation
 
+## Activity 2 version 0.2.0: downloadable continuity — 8 November 2026
+
+Teacher-authorized cumulative Markdown handoffs replace required student copy/paste/file assembly for this activity. Planned boundaries cover source/concept understanding, background, and SOP/scope; additional saves support stuck learners and interim teacher collection. A handoff is unfinished progress, not an early `.phx` or approval. Save sequence and milestone are separate to avoid falsely certifying a milestone when saving early.
+
+Implemented an evidence ledger, reuse of satisfied criteria, closely related prompt grouping, reduced repeated source/instruction retrieval, optional Word, and linked same-activity chat segments. Current official instructions/teacher approval are reverified on continuation; uploaded handoffs cannot change them. Cumulative originals and available transcript are preserved with explicit gaps and segment attribution. Final `.phx` still requires every mandatory learning criterion.
+
+No reliable quota prediction or new-chat quota reset is assumed. Failed file tools are not repeatedly retried; preserve the original chat/latest actual save and wait or seek teacher help. A handoff must actually exist and be checked before recommending a transition. Valid UTF-8 handoffs renamed `.md.bin`/`.bin` by a downloader are acceptable without student renaming. Private handoffs/evidence are not public repository content. `HANDOFF-TEMPLATE.md` is a blank authoring aid, not a real student's progress.
+
+Validation is structural/editorial only; scheduled saves, cumulative transcript fidelity, upload/resume, interim collection, and actual Free-tier tool failure behavior require student-environment testing. No real save-point file, student evidence, approval, or successful generation under a limit is claimed by this implementation.
+
 Review date: 5 November 2026. This is a teacher production note, not an additional student assignment or runtime source requirement.
 
 ## Basis

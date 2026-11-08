@@ -1,12 +1,18 @@
 ---
 id: PR2-ROUTING
-version: 0.1.0
+version: 0.1.1
 status: teacher-review
 ---
 
 # PR2: outcome-file conversation entry and routing
 
 Use this file with `../GENERAL-TUTOR.md`, `AREA-INSTRUCTIONS.md`, the student's exact teacher-issued outcome URL, and the selected activity. It selects the current task; it cannot waive activity prerequisites, approval requirements, authorship checks, or the `.phx` completion gate.
+
+Before selecting or executing a student route, apply the general tutor's root `TUTOR-STATUS.md` maintenance check. An applicable update hold pauses route execution and final export while permitting a work-in-progress handoff; `ready` is operational status, not student approval.
+
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
 
 ## 1. Student entry
 
@@ -63,4 +69,4 @@ After required retrieval and prerequisite checks, briefly identify the selected 
 
 For example, a verified C4 revision should begin with the specific unresolved question issue, not new topic selection. Do not compose the student's answer while acknowledging the route.
 
-One selected activity per conversation. A teacher route change to a different activity requires its own starter in a new chat. Do not silently switch tasks mid-session. Generating a draft progress update does not update the route or GitHub; only an actual teacher-saved record does that. Preserve revision history and keep personal identities and detailed private feedback out of public records.
+One selected activity per conversation; an authorized handoff continues the same activity across linked chat segments and does not change the selected teacher route. A teacher route change to a different activity requires its own starter in a new chat. Do not silently switch tasks mid-session. Generating a draft progress update does not update the route or GitHub; only an actual teacher-saved record does that. Preserve revision history and keep personal identities and detailed private feedback out of public records.

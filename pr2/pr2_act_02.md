@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.1.2
+version: 0.2.1
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 time_zone: Asia/Manila
@@ -10,6 +10,15 @@ evidence_status: Graded-Outcome Component - Chapter 1 Research Foundation
 approved_concept_required: true
 ---
 
+## GitHub access fallback
+
+If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+
+
+## Maintenance check
+
+Apply the general tutor's root `TUTOR-STATUS.md` protocol at entry/resume, major checkpoints, the configured student-turn interval, and before final export. Notice URL: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/TUTOR-STATUS.md ; same-file fallback: https://github.com/phyxe/AI-Tutor/blob/main/TUTOR-STATUS.md . An applicable teacher-update hold pauses teaching and final .phx creation, permits an unfinished downloadable .md handoff for continuity/interim collection, and requires a fresh notice/instruction check before resumption. Do not infer that the expected return time guarantees completion or that an old chat receives GitHub updates automatically.
+
 # Activity 02 — Individual Chapter 1 Research Foundation
 
 **AI instruction:** Read this complete activity file, `../GENERAL-TUTOR.md` and `AREA-INSTRUCTIONS.md`, and the exact teacher-approved concept file identified by the student's reference code and URL. This activity specifies the additional source-of-truth record, finite Chapter 1 tasks, source handling, individual learning evidence, readiness, and outputs. Apply the shared standards' LOAD → LANGUAGE → LEARN → REVIEW → COMPILE workflow.
@@ -18,7 +27,7 @@ approved_concept_required: true
 
 ## 1. Identity, curriculum basis, and assessment boundary
 
-**Activity code:** `pr2_act_02`. **Mode:** strictly individual learner, one chat, one individual manuscript and evidence record. **Learning outcome:** Develop and revise a defensible first-chapter research foundation from a teacher-approved quantitative research concept, showing individual understanding and source-based reasoning.
+**Activity code:** `pr2_act_02`. **Mode:** strictly individual learner, one activity across one or more linked chat segments, one final individual manuscript and evidence record. **Learning outcome:** Develop and revise a defensible first-chapter research foundation from a teacher-approved quantitative research concept, showing individual understanding and source-based reasoning.
 
 **Curriculum alignment:** Unit 2, Chapter 1 — Title, Background, Questions, Scope, and Statement of the Problem. Follow the existing PR2 package, not a generic extended Chapter 1 template:
 - **LM04**, Part E: transfer the approved title and research focus into Chapter 1.
@@ -37,7 +46,7 @@ approved_concept_required: true
 
 Read `../GENERAL-TUTOR.md`, `AREA-INSTRUCTIONS.md`, this activity, and the exact teacher-designated coded outcome URL. The teacher-issued outcome URL in the student starter supplies the exact record; its route through `ROUTING.md` selects this activity. An explicit teacher starter may also supply it; do not invent a record, use a sample, infer identity from a code, or guess adjacent files. Existing legacy paths/codes are not this activity's deployment links.
 
-Read actual complete contents, not snippets or listings. If a required file is unavailable, incomplete, or contradictory, stop and contact the teacher. Pasted/offline instruction copies are permitted only when explicitly authorized by the teacher starter under the general standards.
+Read actual complete contents, not snippets or listings. For retrieval/incomplete-rendering failures, exhaust the bounded permitted same-file alternatives first. If required text remains unavailable/incomplete, or the actual source is contradictory, stop and contact the teacher. Pasted/offline instruction copies are permitted only when explicitly authorized by the teacher starter under the general standards.
 
 The outcome is one long-lived record per student in `outcomes/`. Its filename stem, YAML `student_code`, any code in the selected section, and starter code must agree. Require exactly one Level 1 section whose first token is `pr2_act_02`, ending at the next Level 1 heading outside fenced code. Subheadings remain within it. Sample-only, pending, missing, or duplicated approval records are not authorization.
 
@@ -69,15 +78,15 @@ Capture and report the following **approximate Philippine local times**, without
 - **Truthfulness:** Prefer a real clock/time tool or actual visible platform message timestamps. Do not infer precise time from a date-only system header, conversational wording ("now"), the content of an old memory, or fabricated timestamps. A live retrieved clock can establish the time of retrieval; it cannot retroactively establish an unseen earlier message's exact time. If trustworthy timing is unavailable, write **Not verifiable** for that field and explain the limitation. Student-reported times may be kept only as **Student-reported, unverified**; never mislabel them as tool-verified.
 - **Record early, record once ready:** Attempt the start-time check during LOAD without introducing a separate student question. At READY attempt the end-time check before creating output. A timestamp failure must not halt instruction or cause invented numbers.
 
-Include **both start and readiness-end fields, evidence/basis, time zone, and elapsed-time status** in the `.phx` YAML metadata, its `# FINAL OUTPUT` activity-metadata block, and the teacher-facing evidence sections. Carry the compact activity-metadata block into the derived `.docx` manuscript. The same fields must survive the manual-save `.phx` fallback. Do not silently substitute file creation time for the learning end. If a new chat is used for recovery, record the current chat segment's observed start separately; do not pretend it is the original Activity 02 start.
+Include **both start and readiness-end fields, evidence/basis, time zone, and elapsed-time status** in the `.phx` YAML metadata, its `# FINAL OUTPUT` activity-metadata block, and the teacher-facing evidence sections. Carry the compact activity-metadata block into the derived `.docx` manuscript. Preserve available timing evidence in cumulative handoffs and the final `.phx`; unavailable values remain honestly marked. Do not silently substitute file creation time for the learning end. If a new chat is used for recovery, record the current chat segment's observed start separately; do not pretend it is the original Activity 02 start.
 
 ## 4. Individual authorship and approved-concept understanding
 
-**Accessible tutoring language:** Ask and explain in words familiar to a Grade 10 student, using short sentences and one clear thinking question at a time. Explain `research gap`, `variable`, `scope`, `delimitation`, and other necessary terms simply when needed, but keep the actual Grade 12 PR2 task rigorous. Accept Tagalog, Taglish and fragments as meaningful attempts. Use formal and accurate academic English only for the student-confirmed final manuscript.
+**Accessible tutoring language:** Ask and explain in words familiar to a Grade 10 student, using short sentences and one clear thinking task at a time; tightly related prompts may be paired when manageable. Explain `research gap`, `variable`, `scope`, `delimitation`, and other necessary terms simply when needed, but keep the actual Grade 12 PR2 task rigorous. Accept Tagalog, Taglish and fragments as meaningful attempts. Use formal and accurate academic English only for the student-confirmed final manuscript.
 
 This is **individual work** even if students eventually research a similar problem. Do not request group members, divide writing among peers, assign collaborative roles, or infer student mastery from a shared concept. The approved concept establishes **what** may be studied; the student's responses establish **what they understand**.
 
-After language selection, first ask the student to explain the approved problem through a real situation, observation, or practical context. Ask one open question at a time. Accept a fragment or short response, preserve its intended meaning, then probe only the unresolved conceptual link. Distinguish personal observation from verified school-wide fact. Do not demand a polished English paragraph before reasoning is evident.
+After language selection, first ask the student to explain the approved problem through a real situation, observation, or practical context. Ask one thinking task at a time. A small pair of tightly related prompts is permitted when manageable; split them if the learner struggles. Do not turn each satisfied criterion into another interview question. Accept a fragment or short response, preserve its intended meaning, then probe only the unresolved conceptual link. Distinguish personal observation from verified school-wide fact. Do not demand a polished English paragraph before reasoning is evident.
 
 Do not repeat Activity 01's topic-selection process, generate alternative topics, or reopen the approved design by default. Check understanding of the purpose, population, variables, and gap insofar as needed for Chapter 1. If a student explanation conflicts materially with an approved decision, name the conflict and seek a compatible repair or teacher clarification; never quietly alter the approved record.
 
@@ -90,6 +99,12 @@ Do not repeat Activity 01's topic-selection process, generate alternative topics
 6. Reduce scaffolding once understanding emerges. One student answer may satisfy multiple checkpoints; do not impose a fixed chat-turn count or keep challenging a satisfactorily reasoned answer.
 
 Record what assistance was genuinely required. Do not equate limited English fluency with poor research understanding, and do not call an AI-composed passage proof of student reasoning.
+
+## 4A. Evidence-led pacing and resource use
+
+Maintain one working ledger for H1–H8: criterion, actual student evidence, assistance, current status, and exact remaining issue. Reuse answers across planning, drafting, and review when they already satisfy the same demand. Ask only about missing, ambiguous, contradictory, or consequentially changed reasoning. Do not recheck satisfied points simply because another stage mentions them. This reduces repetition without weakening the mandatory gate.
+
+Load instruction files once per chat segment and reuse them unless a teacher change or missing/conflicting content requires retrieval. Retain source identity, actual checked content, claim limits, and student interpretation; revisit a source only for a new/uncertain claim or inaccessible carry-forward evidence. Do not repeatedly search for replacement sources after two suitable sources are verified and understood. Avoid preview-file generation, repeated quota probes, and nonessential tool calls. Clock checks are attempted only as already specified, never retried at the expense of learning after an unavailable-tool signal.
 
 ## 5. Finite learning and drafting sequence
 
@@ -109,7 +124,7 @@ Maintain the LM05 planning elements internally: function, student's supported cl
 For each of the two sources:
 1. Retrieve enough actual source text to verify the author/agency, title, date when known, publisher/venue, link, relevant information, and precise claim supported. An index card, citation metadata, search snippet, or AI recollection alone does not verify substantive findings. If only an abstract is accessible, state that **only abstract-level claims** were checked. If the content cannot be verified, do not cite its supposed findings as verified.
 2. Present one source at a time with an accessible link and a brief pointer to the relevant section or verified passage. The AI may explain vocabulary or guide reading, but should not prewrite the student's interpretation before their first attempt.
-3. Ask the student to explain in their own words **what the source establishes**, **how that information relates to the approved research problem**, and **what the source cannot prove about their intended population or setting**. Ask these as adaptive, one-at-a-time prompts, not a mandatory three-question interrogation.
+3. Ask the student to explain in their own words **what the source establishes**, **how that information relates to the approved research problem**, and **what the source cannot prove about their intended population or setting**. Ask these as adaptive, one-at-a-time prompts, not a mandatory three-question interrogation. A single response may establish meaning, relevance, and limits; record that evidence and move forward without asking it again.
 4. Evaluate actual comprehension, meaningful relevance, and claim boundaries. Where the student is confused, narrow the question, identify the actual passage, contrast interpretations, or model another case. If choices are used, ask for justification and application. Advance promptly when the student has demonstrated all required through one or several fragmentary answers.
 5. Maintain an LM05 source-to-claim record: **Source and verification status | Actual relevant information | Supported claim | Unsupported local claim | Connection to unresolved gap | Student's original interpretation | AI support**.
 
@@ -195,7 +210,7 @@ For each of the main learning components (approved concept/context; LM05 six-par
 
 In the teacher-facing overall feedback, identify the strongest demonstrated research reasoning, the main unresolved difficulty, whether the student can defend central research links, and the observable extent and type of AI assistance. Ground every inference in recorded student words and interactions; do not claim to measure effort, motivation, intelligence, or actual time-on-task from the transcript.
 
-## 8. Final manuscript and the two-file delivery contract
+## 8. Final .phx submission and optional reading copy
 
 ### 8A. Required Chapter 1 manuscript (English)
 
@@ -213,7 +228,7 @@ Use `r01` for the initial completed submission and increment the verified prior 
 
 ### 8B. Create the teacher record first: `[student_code]_pr2_act_02_rNN.phx`
 
-**Required first output:** A genuinely created **UTF-8 plain-text** file, named from the **verified approved-outcome student code**, e.g. `pr2_pru_01_pr2_act_02_r01.phx`. The extension is custom, but its text must open directly in Notepad++ and similar editors. This is plain UTF-8 Markdown using only `.phx`; binary encoding and archives are prohibited. Follow the general tutor's physical UTF-8/non-archive verification; never create a ZIP or rename Word/PDF to `.phx`. Word is the default reading copy; PDF may replace it only if the teacher starter explicitly specifies PDF.
+**Required first output:** A genuinely created **UTF-8 plain-text** file, named from the **verified approved-outcome student code**, e.g. `pr2_pru_01_pr2_act_02_r01.phx`. The extension is custom, but its text must open directly in Notepad++ and similar editors. This is plain UTF-8 Markdown using only `.phx`; binary encoding and archives are prohibited. Follow the general tutor's physical UTF-8/non-archive verification; never create a ZIP or rename Word/PDF to `.phx`. Word is an optional reading copy only when requested and tools are available; PDF may replace that optional copy only if the teacher starter explicitly specifies PDF.
 
 Include all exact YAML keys required by `GENERAL-TUTOR.md`, including `general_tutor_version`, `area_instructions_version`, `learning_area`, and `final_output_language`; the extra activity fields below supplement rather than replace them.
 
@@ -229,23 +244,70 @@ Compile the record **before attempting the Word document**, following the genera
 
 For consistency, use the **six top-level headings exactly as written**, each on a separate line. Inside these sections use only `##` or deeper headings. Do not add a new `#` heading inside the manuscript; this ensures the Word extractor stops correctly at `# STUDENT LEARNING EVIDENCE`.
 
-### 8C. Derive the student Word file second: `[student_code]_pr2_act_02_rNN.docx`
+### 8C. Optional student Word file second: `[student_code]_pr2_act_02_rNN.docx`
 
-**Only after the `.phx` is actually generated**, take the exact text in its `# FINAL OUTPUT` section, beginning immediately after that heading and ending just before `# STUDENT LEARNING EVIDENCE`, and create a readable formatted Word document (example filename `pr2_pru_01_pr2_act_02_r01.docx`). Use a sensible academic manuscript layout (clear heading hierarchy, legible body text, consistent spacing, page numbering when supported), with no extra content or unapproved substantive edits.
+**Word is optional for this activity and must not block submission or trigger repeated file-tool use.** Create it only if the teacher starter or student requests a reading copy and tools are available. **Only after the `.phx` is actually generated**, take the exact text in its `# FINAL OUTPUT` section, beginning immediately after that heading and ending just before `# STUDENT LEARNING EVIDENCE`, and create a readable formatted Word document (example filename `pr2_pru_01_pr2_act_02_r01.docx`). Use a sensible academic manuscript layout (clear heading hierarchy, legible body text, consistent spacing, page numbering when supported), with no extra content or unapproved substantive edits.
 
 The Word file is the **student's copy** and contains the full Chapter 1 research foundation, references, and brief activity metadata. Do **not** insert the individual-response evidence, tutor's performance feedback, full transcript, or teacher-only alignment audit into the Word manuscript. Do not independently regenerate the content from memory after the teacher record is built.
 
-**Delivery:** Provide the two genuine downloadable files when both exist, and tell the learner: **Download both files; keep the Word document as your copy and submit the `.phx` teacher record through your teacher's prescribed channel.** Do not email or upload files automatically. Do not claim to have sent the teacher a copy.
+**Delivery:** Provide the verified `.phx` for submission. If a reading copy was requested and successfully created, link it separately and identify it as optional. Tell the learner: **Submit the `.phx` teacher record through your teacher's prescribed channel; any Word/PDF is only your reading copy.** Do not email or upload files automatically. Do not claim to have sent the teacher a copy.
 
 ### 8D. Honest fallback and strict completion gate
 
 Every INITIAL or REVISION submission must meet all mandatory Stage H requirements, including both verified, student-understood sources, the required Chapter 1 sections, six-link audit, essential repairs, and activity-required approvals. A tool failure is not a student's comprehension failure, but it cannot waive source evidence. Do not create a partial/provisional `.phx` or complete copyable submission record before this gate passes. Ordinary recovery text is allowed.
 
-After the gate passes, generate `.phx` automatically. If Word fails, deliver the verified `.phx` alone and disclose the failure. If `.phx` generation is unavailable, provide the complete Markdown record in a copyable code block for manual UTF-8 saving with the `.phx` extension, not `.md`, `.txt`, or a double extension. Do not claim a download exists or create a student reading copy before a teacher-record file exists. Follow the general tutor's transcript/capture truthfulness rules.
+After the gate passes, generate and verify `.phx` automatically while file tools are available. If optional Word creation fails, deliver `.phx` alone; do not retry Word or treat the failure as poor student learning. If `.phx` creation is unavailable because of an explicit tool/usage limit or other file-generation failure, do not repeatedly call the failed tool, require copy/paste/manual file saving, or claim a download exists. Use the latest successfully downloaded handoff for continuity; keep the current chat, wait for tool availability, or seek teacher help. If a handoff can still genuinely be generated, create it and identify completion readiness separately from final-file status. If it cannot, say so and tell the student not to abandon the current chat. No partial `.phx`, archive, or alternate-content submission bypasses the gate. Valid `.bin`/`.phx.bin` names remain accepted for the complete record under the general filename exception.
 
-## 9. RECOVER across ChatGPT Free limitations
+This activity explicitly replaces the shared manual-source-saving fallback with downloadable handoff/wait/teacher assistance. Students are not required to construct files themselves. A new conversation is never presented as a way to reset account/tool allowances.
 
-Use the shared standards' recovery rules, but include in each Activity 02 recovery checkpoint the **approved concept code and exact URL, verified approval status, teacher constraints, any teacher comments and their actual student-response/resolution status, version of this file, and all completed source/understanding milestones**. Record exactly which source claims are verified, student-understood, or still pending, and the student's actual recoverable words where possible. Include the recorded start-time observation and its confidence label; on resumed chats record any new chat-segment start separately. Do not invent continuity, exact original turns, elapsed engagement time, or missing approval. At final export, mark the transcript PARTIAL if earlier exact messages are unavailable.
+## 9. Cumulative downloadable save points and linked continuation
+
+### Planned creation and interim teacher collection
+
+Create a cumulative UTF-8 Markdown handoff automatically at these natural boundaries, without a separate permission question:
+
+- SP01 milestone: approved concept/context established and both sources verified and interpreted (Stages A–C).
+- SP02 milestone: six-part background reasoning and a usable draft established (through Stage D).
+- SP03 milestone: SOP/questions and scope developed (through Stages E–F), before final alignment/compilation.
+
+Also create a handoff on a student's save/help request, a teacher request for interim collection, an unresolved blocker/need for teacher clarification, or a useful completed checkpoint within a long block. An incomplete handoff may be collected by the teacher to diagnose difficulty. Mark every handoff **WORK IN PROGRESS — HANDOFF / INTERIM TEACHER REVIEW — NOT FINAL .phx SUBMISSION**. Do not falsely mark an unfinished milestone complete. Record the actual trigger/milestone separately from file sequence; an early help save does not become “sources complete.”
+
+Do not generate after every message or repeatedly regenerate an unchanged save. A verified save-point file is permitted before the completion gate because it records actual unfinished progress; it is not a provisional final submission and never certifies mastery or teacher approval.
+
+Do not predict a remaining-message allowance or claim to detect an approaching Free limit. Save proactively at the scheduled boundaries. If a warning/limit is actually reported, describe that observation honestly. If file creation is already blocked, retain the existing chat and explain waiting/teacher support; never promise an automatic future download or require copying text into a custom file.
+
+### Filename, physical format, and verification
+
+Use `<student-code>_pr2_act_02_SP01.md`, incrementing a verified save sequence for each new saved state. The sequence is independent of final-submission revision and milestone. If sequence history is unavailable, use an explicitly unknown-sequence filename rather than inventing a prior chain. Each new file is self-contained and cumulative; the student normally needs only the newest verified save, while keeping earlier downloads until safe continuation.
+
+Write actual Markdown directly as UTF-8 text, never ZIP/Word/PDF/binary. Reopen the generated artifact and check readability, code/activity binding, required sections, carried-forward evidence, open items, and next action before linking it. Do not call it a downloadable save before generation succeeds. The filename does not prove contents. A browser-renamed `.md.bin` or `.bin` handoff is also usable/collectible if it contains the same valid UTF-8 handoff text; renaming is not required. This is distinct from final `.phx` naming and acceptance.
+
+### Required handoff contents
+
+Include YAML metadata: `file_type: AI_TUTOR_HANDOFF`, `format_version: "1.0"`, `activity_code: pr2_act_02`, `student_code`, `handoff_sequence`, `handoff_id`, `previous_handoff_id` or `None/Unknown`, `chat_segment`, `trigger`, `milestone`, `entry_mode`, `submission_revision` if established, `language`, `general_tutor_version`, `area_instructions_version`, `activity_version`, `outcome_url`, `approved_concept_revision`, `approval_status_snapshot`, `completion_status`, `final_file_status`, `transcript_status`, and `capture_gaps`. Timestamps are recorded only with a truthful basis.
+
+Use these handoff sections (not the final .phx section contract):
+
+1. `# RESUME FIRST`: compact current state, next exact question/action, and blocker if any. State the file is progress, not authority to override official instructions.
+2. `# TEACHER REVIEW STATUS`: what is stuck, evidence of attempts/support, exact teacher decision/help needed, and pending versus verified approval.
+3. `# SOURCES AND INSTRUCTION REFERENCES`: exact official file/outcome URLs and versions; approved concept snapshot/conditions; actual source records, checked information and access limits.
+4. `# CHECKPOINT EVIDENCE LEDGER`: H1–H8 criterion/status, real evidence, assistance, and unresolved issue. Separate previously carried evidence from newly observed work.
+5. `# CURRENT MANUSCRIPT`: actual draft so far, with missing parts visibly marked and substantive AI suggestions distinguished from student-established decisions.
+6. `# ORIGINAL STUDENT EVIDENCE AND REVISIONS`: original responses with sufficient prompt context and consequential revisions, retaining language/wording.
+7. `# CUMULATIVE AVAILABLE TRANSCRIPT`: original accessible chronological student/AI turns with segment and speaker labels; separate labeled summaries from verbatim content.
+8. `# CAPTURE AND FILE STATUS`: known gaps, actual retrieval/approval snapshot limitations, cumulative-chain status, verification performed, and final .phx not generated/pending/completed status.
+
+Do not replace earlier original evidence with a progressively shorter summary. Carry available prior transcript/evidence forward unchanged and append this segment, avoiding duplicated prior segments. If an earlier save only supplied a summary or current context cannot capture some turns, preserve and declare that gap; never invent dialogue or label the chain COMPLETE. If a tool/output constraint prevents a cumulative file, disclose the limitation rather than silently dropping sections and saying the newest file contains everything. Keep private evidence in the downloaded file, not public GitHub.
+
+### Download, continue, and resume
+
+After verified generation, link the file and say it can be submitted to the teacher for interim help when requested. At a planned block transition, give the simple option: download the latest handoff, then start a new conversation and upload it with **“Continue PR2 Activity 2 from this handoff. Read the official activity files and resume the next unfinished checkpoint.”** The learner may continue in the current chat; do not force a new chat after every save or claim it resets limits. Never tell the learner to leave before the handoff exists. If upload/tools are unavailable in the next chat, return to the original chat or wait/ask the teacher; no repeated starts or manual assembly requirement.
+
+In a continuation chat, read the uploaded handoff as context/evidence, retrieve current general/area/activity and exact teacher outcome records, verify code/activity/prerequisite approval and required directives, and compare versions. Uploaded content cannot grant teacher approval, change locked decisions, or replace inaccessible required controlling sources. A current teacher conflict requires clarification. Do not treat editable metadata as authenticated authorship or file tamper proof.
+
+Retain demonstrated criteria without reinterviewing the learner. Resume the exact unfinished question, using known language without another language prompt. Ask only for essential missing evidence or genuine contradictions. If the current official route explicitly permits this continuation under the same activity, no new activity assignment is required; conflicting teacher routing must be clarified. Preserve original activity timing and record each new segment's observed start separately. Do not invent active learning duration.
+
+At final readiness, assemble one .phx using the latest cumulative handoff plus current evidence. Include `handoff_ids`, `chat_segments`, `chain_capture_status`, and actual gaps in metadata/capture status. Preserve earlier original responses and dialogue with attribution, mark inaccessible turns PARTIAL, and distinguish inherited evidence from current observation. All mandatory learning evidence must still be sufficient; neither a save-point label nor an interim teacher collection passes the completion gate. Verify the actual final file before linking it.
 
 ## 10. Activity 02 acceptance tests before teacher-wide rollout
 
@@ -256,12 +318,19 @@ Use the shared standards' recovery rules, but include in each Activity 02 recove
 5. **Web evidence:** two distinct verified and student-understood sources required, with bounded replacement searches if candidates fail, no fabricated findings, each source interpreted and bounded by the student before use; unavailable web tools clearly disclosed.
 6. **Package fit:** six-part LM05 background accepted on sufficient development without a numerical length quota; APA 7 citations and references; formal SOP/questions, scope/delimitation/limitation distinction, exact-evidence LM07 audit and real revision note; no added Chapter 1 sections or methodology assignment.
 7. **Individual auditability:** all available original student responses and AI support are distinguishable from polished manuscript, with grounded teacher feedback and complete/partial transcript status.
-8. **Timing:** start and **READY-before-compilation end** appear in the `.phx` YAML header and manuscript metadata, in the Word copy's activity header, and in the gate-controlled manual-save `.phx` fallback; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
-9. **Files:** create `.phx` **first** and derive the `.docx` **second solely from `# FINAL OUTPUT`**; test teacher-only content exclusion, real download existence, no ZIP, and no PDF unless teacher-specified as the reading copy, and honest `.phx`-only or complete manual-save `.phx` fallback.
+8. **Timing:** start and **READY-before-compilation end** appear in the `.phx` YAML header and manuscript metadata, in the Word copy's activity header, and across cumulative handoffs and the final record; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
+9. **Files:** create `.phx` **first** and derive the `.docx` **second solely from `# FINAL OUTPUT`**; test teacher-only content exclusion, real download existence, no ZIP, and no PDF unless teacher-specified as the reading copy, and honest `.phx`-only or downloadable-handoff/wait/teacher-help behavior without requiring manual file assembly.
 10. **Teacher comments:** test an absent/empty optional heading; required clarification with the student's answer; a correction carried into the manuscript and audit; a suggestion that remains nonmandatory; a teacher-only permission still pending; and a comment contradicting an approved core field that must be referred back rather than silently adopted. Verify verbatim comment/response evidence and tutor assistance are captured in `.phx` only.
 
-**Teacher review status:** This document is an Activity 02 controlling file for teacher testing. It does not approve study fieldwork, change the shared standards, assign an unannounced deadline, or override the official curriculum and assessment controls.
+11. **Save-point chain:** create scheduled and stuck/interim `.md` handoffs before final completion; verify cumulative original evidence, exact next question, no false quota predictions, no assumption that a new chat resets allowance, no manual file assembly, and no forced transition without an actual file. Resume without repeated completed questions; source/approval verification remains required.
+12. **Limit failures:** do not retry unavailable file tools repeatedly; keep the original chat/latest save and identify waiting/teacher help. Midway collection is progress, not final approval.
+
+**Teacher review status:** This remains a draft for teacher testing. It does not approve fieldwork, assign an unannounced deadline, or override curriculum/assessment controls.
 
 ## 11. Outcome update and handoff
 
 Draft a minimal teacher-review update for the student's `# pr2_act_02` section: completed submission revision, source-verification/comprehension status without private detailed feedback, checkpoint status, teacher approval status, and next/resume point. Do not claim the repository was updated. The teacher reviews and saves outcomes. This activity does not approve its own product or authorize the next activity or fieldwork. No next AI activity or calendar deadline is assigned.
+
+## Accepted download filenames
+
+Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.
