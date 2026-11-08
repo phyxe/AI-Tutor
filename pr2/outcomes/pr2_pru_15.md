@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_15
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_02
-route_action: INITIAL
-route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: authorized-for-chapter-1-with-entry-clarification
+route_action: REVISION
+route_directive_id: pr2_pru_15-a02-focused-revision-2026-11-08
+route_baseline_revision: pr2_pru_15-a02-submitted-snapshot-2026-11-08
+route_resume_checkpoint: H6
+status: chapter-1-acceptance-held-focused-revision
 ---
 
-Teacher authorization recorded November 5, 2026: proceed to Activity 2 with the required entry clarification below. This records permission for Chapter 1 drafting, not completion of either activity, verification of all individual learning, or fieldwork approval. Student identity is maintained separately.
+Teacher decision recorded November 8, 2026: Chapter 1 acceptance held pending the focused Activity 2 revision below. Earlier entry approval is retained as history; it does not certify the unresolved concept/feasibility decision. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -37,7 +37,7 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Student-reported work: Available concept declaration informed the snapshot; no new student answer is claimed.
 - Tutor-observed learning evidence: No Activity 2 interaction recorded; individual understanding must be elicited.
 - Checkpoint summary (C0–C8): Not newly certified; focused unresolved issues retained in the selected Activity 2 comments.
-- Next step / resume point: pr2_act_02 INITIAL, required entry clarification after language handling.
+- Next step / resume point: pr2_act_02 REVISION under `pr2_pru_15-a02-focused-revision-2026-11-08`; earlier INITIAL route is superseded.
 
 ## Concept Outcome
 
@@ -51,40 +51,47 @@ No Activity 1 revision route is assigned. Do not restart topic selection or gene
 
 Progression to Activity 2 is authorized. Apply the required clarification in the selected pr2_act_02 section.
 
+
+## November 8 teacher decision
+
+Chapter 1 acceptance held. Clarify the meaning of perceived affordability, including whether the student means ability to pay, price reasonableness relative to what is received, or perceived value for money. Complete separate student understanding/relevance/limits for both sources and repair the submission structure. No additional Activity 1 submission is assigned. Apply the selected Activity 2 directive and its substantive approval boundaries.
+
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Authorized to begin; required opening clarification not yet answered.
-- Chapter 1 drafting authorization: Approved for Chapter 1 drafting.
-- Authorization date: November 5, 2026 (Asia/Manila).
-- Accepted pr2_act_01 concept revision: pr2_pru_15-concept-snapshot-2026-11-05.
-- Approved concept source: This exact outcome record, Approved Concept Snapshot subsection below. No private local attachment is required for tutor entry.
-- Approval conditions: Start Activity 2 with the required clarification; use actual student reasoning to resolve compatible details and continue. A substantive change to the accepted focus, population, design, or specific questions requires teacher clarification unless expressly authorized below. Do not invent an answer or mark the clarification addressed in advance.
-- Submission revision: Not recorded.
-- Teacher verification: Entry authorization recorded; student response and Chapter 1 learning not yet verified.
-- Chapter 1 approval status: Manuscript not yet submitted or approved; drafting permission only.
-- Student-reported work: No Activity 2 responses recorded.
-- Tutor-observed learning evidence: Not yet observed in Activity 2.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed; Activity 2 still requires two verified, student-understood sources.
-- Next step / resume point: INITIAL; after language selection, ask the exact opening clarification below and continue adaptively.
+- Activity status: Submitted Chapter 1 reviewed; acceptance held; focused REVISION required.
+- Chapter 1 drafting authorization: Earlier permission retained for bounded guided revision only; current teacher scope below controls unresolved substantive changes. No final manuscript approval.
+- Teacher decision date: November 8, 2026 (Asia/Manila).
+- Teacher decision: Chapter 1 acceptance held. Clarify the meaning of perceived affordability, including whether the student means ability to pay, price reasonableness relative to what is received, or perceived value for money. Complete separate student understanding/relevance/limits for both sources and repair the submission structure.
+- Concept authorization for revision: Explanations and compatible wording clarifications within the existing perceived-affordability concept are authorized. A change to value for money as a separate or replacement construct, a substantive redefinition of measured dimensions, question replacement, or population/design change requires a student-confirmed proposed concept for explicit teacher approval before finalization and dependent compilation.
+- Earlier accepted concept source: Prior Approved Concept subsection below, retained as historical baseline.
+- Activity 2 revision baseline: `pr2_pru_15-a02-submitted-snapshot-2026-11-08` — submitted manuscript snapshot embedded below; this is a teacher-designated baseline identity, not an invented student submission revision.
+- Submission revision: Verify the latest actual completed Activity 2 revision before incrementing. The source identifies or represents an initial record; do not infer a revision number from activity_version or fabricate missing metadata/history.
+- Current revision directive: `pr2_pru_15-a02-focused-revision-2026-11-08`.
+- Teacher verification: Written chapter reviewed; actual answers to this new focused directive are not recorded or assumed resolved.
+- Chapter 1 approval status: Not approved; acceptance pending repair and teacher review of the resubmission.
+- Checkpoint summary: Open H1, H3, H4, H6, H7, H8; retain supported unaffected work at H2, H5 and recheck actual dependencies only.
+- Source evidence: Two named sources require substantive verification and individual comprehension as specified; source existence or AI retrieval alone does not establish those requirements.
+- Next step / resume point: REVISION, H6; after necessary language handling ask the first focused question under Teacher's Comments.
 
-## Approved Concept Snapshot
+## Prior Approved Concept — historical baseline
+
+The following preserves the earlier concept/approval as provenance. It does not mean the new teacher concern is resolved or authorize an unspecified substantive change. Apply the current directive's explicit approval boundaries.
 
 Snapshot ID: `pr2_pru_15-concept-snapshot-2026-11-05`. Teacher-designated accepted baseline for Activity 2. These are proposed study decisions, not verified local findings, approved instruments, obtained access, or collected results.
 
-### Context
+#### Context
 
 The researcher thinks canteen cooked-food prices may be affordable and wants to know whether eligible Grade 9 buyers share that view. This is a personal belief, not an established finding.
 
-### Research Problem
+#### Research Problem
 
 The level of perceived affordability of school canteen cooked-food prices among eligible Grade 9 students is not yet known.
 
-### Proposed Title
+#### Proposed Title
 
 The Level of Perceived Affordability of School Canteen Cooked-Food Prices Among Grade 9 Students of Hawan National High School
 
-### Research Questions
+#### Research Questions
 
 Main question: What is the overall level of perceived affordability of school canteen cooked-food prices among Grade 9 students of Hawan National High School?
 
@@ -94,40 +101,118 @@ Specific questions:
 2. How do students perceive the reasonableness of cooked-food prices?
 3. How do students perceive the sufficiency of their available food money when purchasing cooked foods?
 
-### Variables and Proposed Indicators
+#### Variables and Proposed Indicators
 
 One descriptive variable: perceived affordability. Proposed aspects are affordability relative to available food money, reasonableness of prices, and sufficiency of food money. Proposed evidence: six draft statements rated on a five-point agreement scale. These measure perceptions, not objective affordability; exact allowance amounts are not required. The distinction between the first and third aspects is open for clarification.
 
-### Proposed Study Type and Rationale
+#### Proposed Study Type and Rationale
 
 Quantitative descriptive: summarize numerical perception ratings; no test of a relationship with allowance and no causal conclusion.
 
-### Target Population and Proposed Access
+#### Target Population and Proposed Access
 
 Currently enrolled Grade 9 students at Hawan National High School who personally purchased canteen cooked foods at least three times during Term 2 of SY 2026–2027. Proposed criterion-based invitation of all eligible students. Term dates, eligible count, and actual access remain to verify.
 
-### Proposed Data-Gathering Procedure
+#### Proposed Data-Gathering Procedure
 
 After required teacher/school authorization and applicable parent consent/student assent, use a Yes/No eligibility screen and a researcher-made rating questionnaire with voluntary participation and confidential responses. Review the draft tool before use. Detailed storage, collection sequence, and incomplete-response handling remain future planning details; no recruitment or collection is authorized here.
 
-## Chapter 1 Outcome
+## Revision Baseline — submitted Chapter 1
 
-No Chapter 1 manuscript or learning outcome recorded. Entry authorization does not certify completion, source comprehension, or final manuscript approval.
+Baseline ID: `pr2_pru_15-a02-submitted-snapshot-2026-11-08`. Submitted FINAL OUTPUT retained for targeted revision, with headings nested to preserve this outcome's two activity boundaries. The private source is unchanged; heading normalization here does not certify that its original structure passed. This snapshot is not a new approval, student interview or completed repair. The tutor can reuse it without asking the student to retype the chapter or retrieve a private local file.
+
+### CHAPTER 1
+### THE PROBLEM AND ITS BACKGROUND
+
+### Research Title
+
+**The Level of Perceived Affordability of School Canteen Cooked-Food Prices Among Grade 9 Students of Hawan National High School**
+
+### Background of the Study
+
+Affordability is an important consideration when students purchase food. It involves how people judge whether food prices are manageable based on the money they usually have available for food. Students may also consider whether the prices are reasonable for the cooked foods they receive and whether their available food money is sufficient when making purchases. These considerations contribute to how students perceive the affordability of food.
+
+School canteens provide students with food options during school hours. However, students may have different views about the affordability of food prices depending on their personal circumstances and the money they usually have available. A price that one student considers affordable may be viewed differently by another student. Therefore, understanding students' perceptions is important in determining how they view the affordability of cooked-food prices in their school canteen.
+
+Previous studies have also examined students' perceptions of school canteen prices. Valera (2019) studied the perceived affordability of goods sold in a school canteen among Grade 10 students. The study's abstract reported that students' perceptions were associated with factors such as availability, quality, prices, allowances, and consumer satisfaction. Similarly, Bacalla et al. (2025) examined student satisfaction with canteen services, including pricing. Their abstract reported that many respondents considered the meals affordable, while some wanted improvements in food variety and taste. These studies show the importance of understanding students' views about school canteen prices.
+
+Although previous studies have examined students' perceptions of school canteen affordability and pricing, their findings cannot automatically represent the perceptions of students from other schools. Valera (2019), for example, studied Grade 10 students from a different school, while the present study focuses on eligible Grade 9 students of Hawan National High School. Therefore, the level of perceived affordability of cooked-food prices among these Grade 9 students remains to be determined.
+
+Understanding students' perceptions of cooked-food prices is important because it may help the school determine how Grade 9 students view the affordability of food sold in the canteen. The findings may also provide information that school administrators can consider when reviewing existing food prices. In addition, the study gives students an opportunity to express their opinions about the prices of cooked foods.
+
+Therefore, this study aims to determine the overall level of perceived affordability of school canteen cooked-food prices among eligible Grade 9 students of Hawan National High School, considering the money they usually have available for food. Through this study, the perceptions of the students may provide useful information about how they view the affordability of cooked-food prices in their school canteen.
+
+### Statement of the Problem
+
+This study aims to determine the overall level of perceived affordability of school canteen cooked-food prices among Grade 9 students of Hawan National High School.
+
+Specifically, it seeks to answer the following questions:
+
+1. How do students perceive the affordability of cooked-food prices in relation to the money they usually have available for food?
+2. How do students perceive the reasonableness of cooked-food prices?
+3. How do students perceive the sufficiency of their available food money when purchasing cooked foods?
+
+### Scope and Delimitation
+
+This study focuses on determining the level of perceived affordability of school canteen cooked-food prices among eligible Grade 9 students of Hawan National High School during Term 2 of School Year 2026–2027. It will consider three aspects: students' perceptions of affordability in relation to their usual available food money, the reasonableness of cooked-food prices, and the sufficiency of their available food money when purchasing cooked foods. The study follows a quantitative descriptive approach and focuses on one descriptive variable: perceived affordability.
+
+The respondents will be currently enrolled Grade 9 students who have personally purchased cooked foods from the school canteen at least three times during Term 2. This qualification is intended to include students with experience purchasing cooked foods in the canteen. The study is limited to Grade 9 because including other grade levels would require more time and effort for data gathering, making the study less manageable within the available time.
+
+The study is limited to cooked foods sold in the school canteen. It will not include uncooked foods or drinks because including these would broaden the focus and make data gathering more complicated within the available time. The study will focus on students' perceptions rather than objective affordability, actual purchasing behavior, or the relationship between exact allowance amounts and perceived affordability. Exact daily allowance amounts will not be required. The planned data-gathering instrument is a researcher-made questionnaire using a five-point agreement scale, with an eligibility question to identify students who meet the respondent criterion. Questionnaire administration is expected to take approximately two weeks within Term 2; the exact data-gathering dates and the ending date of Term 2 remain to be verified. Data gathering must take place only after the required teacher and school authorization and applicable parent consent and student assent.
+
+The study may be affected by the availability and willingness of eligible students to participate. Some qualified students may be absent or may choose not to participate, which could affect the number of responses collected. The limited time available for data gathering may also affect the collection of responses. The findings will be based on the answers provided by the participating eligible Grade 9 students and should not automatically be generalized to students from other grade levels or schools.
+
+### References
+
+Bacalla, L. M. A., Butulan, M. R. P., Morales, M. B., Reyes, E. J. C., Susada, J. M. D., & Veroy, N. (2025). Student satisfaction with canteen services at Davao Oriental State University-Cateel Campus. *Asian Journal of Education and Social Studies, 51*(7), 1214–1228. https://doi.org/10.9734/ajess/2025/v51i72205
+
+Valera, N. (2019). Affordability of goods sold in school canteens as perceived by the Grade 10 students of General Mariano Alvarez Technical High School. *Ascendens Asia Journal of Multidisciplinary Research Abstracts, 3*(2C). https://ojs.aaresearchindex.com/index.php/AAJMRA/article/view/5188
 
 ## Revision Routing
 
-INITIAL entry for Activity 2. No prior Chapter 1 baseline or revision directive is assigned. Reuse the embedded accepted concept and do not repeat Activity 1.
+```yaml
+activity_code: pr2_act_02
+student_code: pr2_pru_15
+entry_mode: REVISION
+revision_directive_id: pr2_pru_15-a02-focused-revision-2026-11-08
+baseline_revision: pr2_pru_15-a02-submitted-snapshot-2026-11-08
+baseline_source: "This exact outcome record, Revision Baseline — submitted Chapter 1 subsection"
+reopen_checkpoints: [H1, H3, H4, H6, H7, H8]
+retained_checkpoints: [H2, H5]
+locked_decisions: [research school, individual authorship, no fieldwork authorization]
+authorized_scope: "Clarify and distinguish affordability, available-money sufficiency, price reasonableness and value for money; evaluate whether proposed attributes/questions actually measure the chosen meaning; complete missing source learning and consequential chapter/metadata repair. Do not silently add a new measured variable or replace the accepted construct."
+required_repairs: "Numbered focused repairs below; begin at H6. Retain unaffected work."
+required_approval_before_compilation: "Explanations and compatible wording clarifications within the existing perceived-affordability concept are authorized. A change to value for money as a separate or replacement construct, a substantive redefinition of measured dimensions, question replacement, or population/design change requires a student-confirmed proposed concept for explicit teacher approval before finalization and dependent compilation. Every mandatory Activity 2 requirement must also pass; final chapter acceptance remains pending teacher review after resubmission."
+```
+
+1. **H1/H6 — Define the intended judgment:** Elicit the opening answer before teaching. Ask the student to explain what affordable means in this study, what evidence would support that judgment, and how it differs from merely liking a low price or possessing enough cash at one moment. Distinguish affordability within available food money/budget from perceived value for money (what the buyer believes they receive relative to the price/sacrifice). A product may be within a student's budget yet poor value, or good value yet beyond that student's budget. Do not conflate these judgments or present them as automatically interchangeable dimensions of one scale.
+
+2. **H6/H7 — Examine value relative to price:** Ask how portion amount, perceived quality or usefulness of the cooked food could enter a buyer's assessment of whether its price is reasonable or worth paying. Have the student give an application in their own words, rather than accept AI definitions. Do not assume price alone determines affordability, or that higher quality/quantity automatically makes food affordable. No objective nutrition, food-safety or laboratory-quality measure is assigned. A numeric value/price ratio is not required simply because the term value for money is discussed.
+
+3. **H1/H6 — Resolve the research identity:** Map the existing three questions to the student's supported definition. Identify whether affordability-relative-to-budget and money sufficiency duplicate each other, and what price reasonableness is actually intended to measure. Decide whether value for money is context, a defensible explicitly defined aspect, a separate proposed construct, or outside the chosen focus. Do not silently combine unlike judgments into a single overall affordability score. If substantive dimensions/questions or the central construct would change, prepare the student-confirmed proposal for teacher approval; preserve the earlier concept as history and withhold dependent finalization until that decision is explicit.
+
+4. **H3/H4 — Missing individual source evidence:** Retrieve relevant actual text for Valera (2019) and Bacalla et al. (2025), at least the accessible abstracts. For each source separately elicit the student's first attempt to explain what it establishes, why it relates to this now-defined problem and what it cannot establish for eligible HNHS Grade 9 buyers. Use adaptive one-at-a-time prompts rather than a three-question checklist. A source-retrieval note or assertion that interpretations were supplied is not the missing response. Preserve actual answers and assistance; do not invent the earlier conversation. Reuse these sources if they remain suitable and understood; replacing both is not required. If new construct wording needs different support, search only as necessary and verify what is actually used.
+
+5. **H2/H5/H6/H7/H8 — Propagate and repair:** Once the research identity is settled within authorization or explicitly teacher-approved, align title/background/purpose, specific questions, scope and planned-data reasoning; retain the Grade 9/cooked-food/purchase-experience boundaries unless a separate change is authorized. Correct the two extra Level 1 chapter headings to lower-level manuscript headings so FINAL OUTPUT extraction is valid. Restore required revision/approval/identity fields and manuscript metadata, identifying unavailable historical time/version evidence truthfully. Recheck all six alignment links. Do not construct a full instrument or compute a final sample size in this activity.
+
+### Evidence, dependency review and resubmission
+
+Use Retained / Open / Recheck / Satisfied / Teacher clarification required with actual evidence. This route does not restart Activity 1 or the whole chapter. Ask one missing explanation at a time, not the entire directive as a questionnaire. Recheck changed links by comparison first and retain unaffected wording and legitimately evidenced learning. A named source, polished paragraph or blanket confirmation is not independent understanding; a partial transcript is not automatically a comprehension failure.
+
+Record the teacher question/comment, actual initial answer, consequential follow-ups, teaching/models/wording support, the student-confirmed decision, manuscript effect and grounded resolution status in the private revised Activity 2 .phx. Preserve accessible original wording and label summaries or unavailable earlier history honestly; do not invent prior dialogue, historical version retrieval, approvals or timestamps. Keep detailed responses out of public outcomes and out of the FINAL OUTPUT-only Word manuscript.
+
+If the chosen repair needs a substantive concept decision beyond the authority above, present a concise student-confirmed proposal for the teacher and continue unaffected learning where feasible. Use ordinary-text recovery notes while blocked; do not generate a partial/provisional .phx or full copyable submission record before all essential gates pass. Once the exact revised identity is authorized, source/understanding and alignment requirements pass, capture readiness time honestly and compile automatically. Verify the prior Activity 2 number and increment it (normally r02 after a verified r01); resolve missing history rather than inventing it. Include entry_mode REVISION and these exact directive/baseline IDs, required metadata and six exact top-level sections. Verify UTF-8/non-archive contents and derive the reading copy exclusively from FINAL OUTPUT. Resubmit to the teacher; no automatic acceptance, next activity, participant contact, record access or fieldwork is authorized.
+
+## Chapter 1 Outcome
+
+Submitted chapter retained as a working baseline; acceptance held. No new clarification answer, source comprehension or feasible records access is certified by this update. The current REVISION directive supersedes the earlier INITIAL route while preserving its history.
 
 ## Teacher's Comments
 
-Required opening clarification (not yet answered):
+Preserve the student's existing work, but resolve the new concept/feasibility issue and the previously identified source/record gaps before Chapter 1 acceptance. After necessary language handling, ask this first focused question in the student's chosen language:
 
-> In your own experience of buying canteen food, how is judging whether a price is affordable different from judging whether your available food money is enough to make the purchase?
+> Two cooked-food servings cost the same, but one gives a buyer more food or better quality. What would you need to know before judging affordability, and how could that judgment differ from deciding whether the food is worth its price?
 
-After necessary language handling, ask this question immediately, in the student's chosen language if appropriate. It is the first concrete approved-concept learning move, not an additional orientation or a new Activity 1 interview. Ask one focused follow-up at a time only where the answer leaves a genuine gap.
+Do not prewrite the answer. Accept brief or Taglish attempts, assess meaning, narrow the next prompt to the actual gap and teach simply where needed. Use a different-case model only after difficulty, then ask the student to apply the distinction to their own study. Agreement or repeated AI wording alone is insufficient. Stop probing once the essential meaning is demonstrated.
 
-Ask for one concrete example if the distinction is unclear. If the student shows two defensibly distinct meanings, retain the approved questions and use the explanation consistently. If the student says the two mean the same thing, help them explain the overlap; do not invent a distinction or silently replace a question. Refer a proposed merger/replacement of approved questions to the teacher while continuing independent background work that does not depend on that unresolved decision. At the scope stage, ask which actual school dates define the approved Term 2 period; record dates as To verify until supported.
-
-Use the student's actual answer to continue the Activity 2 context/background sequence. If practical context is still missing, ask next for a real situation explaining why the problem matters. Later clarifications belong at the relevant question-alignment or scope stage; do not present a questionnaire of all issues at entry. No new teacher permission is needed merely to continue within this authorized concept after a satisfactory answer. If an answer reveals an essential contradiction, guide a compatible repair or request teacher clarification before dependent drafting; continue unaffected learning where feasible.
-
-Preserve this comment, the verbatim student response and consequential follow-up, actual AI help, manuscript effect, and grounded resolution status in the teacher-facing evidence. Current status: Not yet answered. Do not infer understanding from agreement alone. Keep source verification, two-source student comprehension, final alignment, and compilation gates intact. No respondent contact, record access, or data collection is authorized.
+Apply the numbered repairs with the approval boundaries above. Preserve the exact teacher question and the actual response/revision, assistance and resolution status in the new Activity 2 .phx. Current status: Open; no response yet recorded for this directive. Unresolved essential meaning, infeasible paired evidence, missing required source learning, or unapproved substantive research changes prevent dependent finalization and READY/compilation. No full questionnaire, completed sampling/statistical plan, respondent contact or data collection is assigned here.

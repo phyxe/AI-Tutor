@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_17
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_02
 route_action: INITIAL
 route_directive_id: Not applicable
 route_baseline_revision: Not applicable
 route_resume_checkpoint: Not applicable
-status: authorized-for-chapter-1-with-entry-clarification
+status: activity-2-teacher-directed-restart
 ---
 
-Teacher authorization recorded November 5, 2026: proceed to Activity 2 with the required entry clarification below. This records permission for Chapter 1 drafting, not completion of either activity, verification of all individual learning, or fieldwork approval. Student identity is maintained separately.
+Teacher direction recorded November 9, 2026: redo Activity 2 from the beginning because the submitted defense-practice file lacks the required manuscript and learning evidence needed to assess progress. The earlier concept is retained as the reference, but its central terms and population rationale require actual explanation before dependent drafting. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -37,7 +37,7 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Student-reported work: Available concept declaration informed the snapshot; no new student answer is claimed.
 - Tutor-observed learning evidence: No Activity 2 interaction recorded; individual understanding must be elicited.
 - Checkpoint summary (C0–C8): Not newly certified; focused unresolved issues retained in the selected Activity 2 comments.
-- Next step / resume point: pr2_act_02 INITIAL, required entry clarification after language handling.
+- Next step / resume point: pr2_act_02 INITIAL, expressly teacher-directed restart under the November 9 directions in the selected section.
 
 ## Concept Outcome
 
@@ -53,24 +53,22 @@ Progression to Activity 2 is authorized. Apply the required clarification in the
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Authorized to begin; required opening clarification not yet answered.
-- Chapter 1 drafting authorization: Approved for Chapter 1 drafting.
-- Authorization date: November 5, 2026 (Asia/Manila).
-- Accepted pr2_act_01 concept revision: pr2_pru_17-concept-snapshot-2026-11-05.
-- Approved concept source: This exact outcome record, Approved Concept Snapshot subsection below. No private local attachment is required for tutor entry.
-- Approval conditions: Start Activity 2 with the required clarification; use actual student reasoning to resolve compatible details and continue. A substantive change to the accepted focus, population, design, or specific questions requires teacher clarification unless expressly authorized below. Do not invent an answer or mark the clarification addressed in advance.
-- Submission revision: Not recorded.
-- Teacher verification: Entry authorization recorded; student response and Chapter 1 learning not yet verified.
-- Chapter 1 approval status: Manuscript not yet submitted or approved; drafting permission only.
-- Student-reported work: No Activity 2 responses recorded.
-- Tutor-observed learning evidence: Not yet observed in Activity 2.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed; Activity 2 still requires two verified, student-understood sources.
-- Next step / resume point: INITIAL; after language selection, ask the exact opening clarification below and continue adaptively.
+- Activity status: Teacher-directed restart from the beginning in INITIAL mode.
+- Teacher direction date: November 9, 2026 (Asia/Manila).
+- Reason for restart: The new file contains research-defense practice Q&A rather than the required Chapter 1 manuscript, source-learning evidence, approved-concept explanations, alignment audit and complete teacher-facing Activity 2 record. It is insufficient to judge completion of this activity.
+- Chapter 1 drafting authorization: Earlier concept/entry authorization retained for guided Activity 2 redevelopment; dependent manuscript drafting must wait until essential concept meaning and population rationale are explained. No final chapter approval.
+- Accepted concept reference: pr2_pru_17-concept-snapshot-2026-11-05, embedded below; not proof that the underlying choices have been understood or locally verified.
+- Approval conditions: Start Activity 2 again at the approved-concept/context stage. Define and justify regular ChatGPT use, distinguish observation from assumptions about Grade 10 users, and explain feasible voluntary reporting. Refer substantive changes to the teacher; do not invent supporting facts or silently substitute a term in another study.
+- Submission history: Defense-practice Q&A received as supplementary material; not a completed Chapter 1 or revision baseline. No valid completed Activity 2 revision number is established by that file. Verify any actual completed Activity 2 submission history before numbering; do not infer r02 because the activity is being redone.
+- Teacher verification: Submitted content reviewed; adequate individual learning evidence for Activity 2 not established. No new student explanation is recorded by this update.
+- Chapter 1 approval status: Not approved.
+- Checkpoint summary (H1–H8): All stages require fresh development/verification in this restarted Activity 2 attempt. Supplementary rehearsal answers do not automatically satisfy the checkpoints.
+- Verified and student-understood sources: Not established by the submitted Q&A; two distinct verified, student-understood sources remain mandatory.
+- Next step / resume point: INITIAL teacher-directed restart at H1; after necessary language handling, ask the first focused question under Teacher's Comments.
 
 ## Approved Concept Snapshot
 
-Snapshot ID: `pr2_pru_17-concept-snapshot-2026-11-05`. Teacher-designated accepted baseline for Activity 2. These are proposed study decisions, not verified local findings, approved instruments, obtained access, or collected results.
+Snapshot ID: `pr2_pru_17-concept-snapshot-2026-11-05`. Teacher-designated accepted baseline for Activity 2. These are previously accepted proposed study decisions, not verified local findings, evidence of student understanding, approved instruments, obtained access, or collected results. The November 9 teacher direction requires justification of regular use and the Grade 10 population before dependent Chapter 1 drafting; the historical two-days-per-week criterion must not be treated as self-justifying.
 
 ### Context
 
@@ -113,22 +111,36 @@ After school/teacher permission and applicable parent consent/student assent, sc
 
 ## Chapter 1 Outcome
 
-No Chapter 1 manuscript or learning outcome recorded. Entry authorization does not certify completion, source comprehension, or final manuscript approval.
+The defense-practice file is retained as supplementary work, not accepted as Activity 2 completion. Redo the full Activity 2 learning and manuscript sequence from the beginning; no full restart of Activity 1 or automatic new-topic selection is assigned. Prior concept permission is not revoked by inference, but unsupported or unworkable essential decisions must be brought to the teacher before dependent drafting.
 
 ## Revision Routing
 
-INITIAL entry for Activity 2. No prior Chapter 1 baseline or revision directive is assigned. Reuse the embedded accepted concept and do not repeat Activity 1.
+This is an explicit teacher-directed INITIAL restart of Activity 2 despite the earlier entry authorization and newly submitted practice material. It is not a targeted REVISION of a completed Chapter 1, so no invented Chapter 1 baseline or revision directive is required. route_directive_id and route_baseline_revision remain Not applicable. The teacher has expressly authorized restarting; the earlier work does not create an INITIAL-route conflict. Do not merely ask the learner to upload or retrieve a different draft as a substitute for this restart.
+
+Use the approved concept as the reference for fresh individual explanations; do not repeat Activity 1 topic selection. If usable source text or earlier personal notes are available, they may support the restarted learning, but no checkpoint is automatically passed because a polished answer or a similar approved study exists. Avoid needless repetitions once the student actually demonstrates a criterion in this new attempt.
 
 ## Teacher's Comments
 
-Required opening clarification (not yet answered):
+Your submitted file contains research-defense practice questions and answers, but it does not include the required Chapter 1 and learning evidence needed to judge your progress in Activity 2. Please redo Activity 2 from the beginning. You need to explain and justify the central choices in your own study; replacing a term in an existing research pattern is not enough to show that the new population, measures and questions fit. This is feedback about the submitted evidence, not a judgment about your effort, character or intent.
 
-> Your study includes only classmates who use ChatGPT for schoolwork at least two days a week. Why does that group fit your purpose, and whose study habits would your findings leave out?
+After necessary language handling, immediately ask:
 
-After necessary language handling, ask this question immediately, in the student's chosen language if appropriate. It is the first concrete approved-concept learning move, not an additional orientation or a new Activity 1 interview. Ask one focused follow-up at a time only where the answer leaves a genuine gap.
+> In your own words, what would count as regular school-related ChatGPT use in your study, and why?
 
-If the student understands and justifies the accepted regular-user scope, retain it and state the generalization limit consistently. If they instead want conclusions about all classmates or a comparison with nonusers, explain the mismatch and refer any eligibility/purpose change to the teacher; do not silently broaden the population. At the planned-data/scope check, ask the student to distinguish study time from ChatGPT time using an actual example and explain a feasible confidential eligibility/selection route. Teacher authorization permits student-developed wording of an overall main question that faithfully combines the accepted four questions; retain the four specific questions unchanged unless the teacher approves a substantive change.
+Do not supply a definition or point to the existing two-days-per-week criterion as the answer before the first attempt. Use one focused follow-up at a time according to the actual response. Require the student's own explanation/application, not agreement or repetition of AI wording. Accept short, Filipino/Tagalog or Taglish attempts; scaffold unfamiliar concepts and stop probing a criterion once it is adequately explained.
 
-Use the student's actual answer to continue the Activity 2 context/background sequence. If practical context is still missing, ask next for a real situation explaining why the problem matters. Later clarifications belong at the relevant question-alignment or scope stage; do not present a questionnaire of all issues at entry. No new teacher permission is needed merely to continue within this authorized concept after a satisfactory answer. If an answer reveals an essential contradiction, guide a compatible repair or request teacher clarification before dependent drafting; continue unaffected learning where feasible.
+1. **Define regular use (H1/H6/H7):** Distinguish frequency, duration, routine/habit and school-related purpose. Ask what time span the definition refers to and why a threshold identifies the intended group. The earlier at-least-two-days criterion is a proposed accepted boundary needing justification, not an empirical definition of regularity or a universally valid cutoff. If the student cannot justify it or proposes a different cutoff/reference period, record a student-confirmed proposal for teacher approval rather than invent a rationale or quietly change eligibility. Do not add addiction or harmful-use claims.
 
-Preserve this comment, the verbatim student response and consequential follow-up, actual AI help, manuscript effect, and grounded resolution status in the teacher-facing evidence. Current status: Not yet answered. Do not infer understanding from agreement alone. Keep source verification, two-source student comprehension, final alignment, and compilation gates intact. No respondent contact, record access, or data collection is authorized.
+2. **Justify Grade 10 and the named section (H1/H2/H7):** Ask what specific experience or observation led the student to think Grade 10–Perseverance uses ChatGPT for schoolwork. Distinguish personal use, observed use, something heard from classmates and an unverified assumption about class-wide use. Ask why this group fits the actual purpose rather than merely being easy to reach. No local prevalence, student identity, reported use or use frequency may be invented. It is acceptable to say that eligibility and prevalence remain unknown; explain what must be verified later through an authorized process. Choosing a different grade/section or expanding to all users/nonusers requires teacher clarification.
+
+3. **Explain reporting and feasibility (H1/H6/H7):** Ask what would make a self-report usable and what its limits are. Do not assume everyone uses ChatGPT, everyone will disclose use, or declarations prove actual platform activity. Consider recall, reluctance to disclose, nonparticipation and missing entries without labeling students dishonest or demanding proof. Do not require account histories, chat contents, screenshots, passwords or identifying evidence. Propose voluntary, confidential reporting and permitted consent/assent/permission pathways; no screening, participant contact or data collection is authorized now. If no plausible eligible/reachable group or reporting route exists, identify the teacher decision needed instead of manufacturing feasibility.
+
+4. **Show that the research links fit this study (H1/H6/H7):** Have the student explain separately what frequency and duration capture and how study time excluding ChatGPT time would be understood in an actual schoolwork example. Resolve overlap in mixed activities without silently double-counting. Explain why the questions can be answered with the planned evidence and whose experience is excluded by the regular-user restriction. Similarity to another student's topic is not proof of copying; equally, generic defense answers are not proof the student can justify these specific links. Do not infer a causal reduction in study time or assume the relationship must be negative.
+
+5. **Complete the full Activity 2 sequence (H2–H8):** Once H1 meaning/feasibility is adequate and any required concept change is teacher-approved, develop the six-part background reasoning, retrieve two relevant distinct credible sources and elicit the student's understanding, relevance and claim limits for each. Then draft/revise the required Background, SOP/questions and Scope and Delimitation, and complete all six alignment links and an actual consequential revision note. Do not substitute defense practice, anticipated results, later analysis/conclusion questions or full methodology/instrument assignments for the required Chapter 1 work. Keep the accepted concept's supported decisions unless a change is explicitly authorized.
+
+6. **Learning record and final submission:** Preserve actual initial responses, consequential follow-ups/revisions with enough tutor-prompt context, observed understanding/gaps, assistance/models/drafting actually provided and teacher-comment resolution in the new Activity 2 .phx. Keep private feedback/transcript out of the Word manuscript and public outcomes. Do not reconstruct inaccessible earlier turns, invent times, certify independent authorship from edited prose or merely mark all checkpoints Ready after confirmations. Mark transcript capture truthfully.
+
+An unresolved essential definition, unsupported population/reporting feasibility, missing source comprehension or unapproved substantive concept change blocks dependent drafting and READY/compilation. Continue useful independent learning where possible and provide ordinary-text recovery/proposal notes if teacher input is needed; do not generate an incomplete/provisional .phx. After every Activity 2 gate passes, compile automatically with verified revision identity, required YAML, six exact sections, the required start/readiness time fields or honest unavailability, and UTF-8/non-archive byte verification. Derive the Word reading copy solely from FINAL OUTPUT. Submit the completed Activity 2 .phx for teacher review. No automatic approval, next activity or fieldwork follows.
+
+Current restart status: Not yet begun in this record. No new definition, Grade 10-use evidence, reporting justification or student answer has been supplied by this teacher update.

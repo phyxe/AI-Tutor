@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_10
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_02
-route_action: INITIAL
-route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: authorized-for-chapter-1-with-entry-clarification
+route_action: REVISION
+route_directive_id: pr2_pru_10-a02-focused-revision-2026-11-08
+route_baseline_revision: pr2_pru_10-a02-submitted-snapshot-2026-11-08
+route_resume_checkpoint: H6
+status: chapter-1-acceptance-held-focused-revision
 ---
 
-Teacher approval recorded November 6, 2026: the revised Activity 1 concept is accepted for Activity 2. Clarification will occur inside Activity 2 and be captured in the Activity 2 .phx. No additional Activity 1 resubmission is required for entry. This approval does not certify independent understanding, approve the eventual Chapter 1 manuscript, or authorize fieldwork. Student identity is maintained separately.
+Teacher decision recorded November 8, 2026: Chapter 1 acceptance held pending the focused Activity 2 revision below. Earlier entry approval is retained as history; it does not certify the unresolved concept/feasibility decision. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -39,7 +39,7 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Student-reported work: Revised concept, learning evidence and audit supplied; partial conversation capture disclosed.
 - Tutor-observed learning evidence: No new student response recorded by this teacher update. The selected Activity 2 clarification remains open.
 - Checkpoint summary (C0–C8): Written revised concept accepted for progression; no blanket certification of independently demonstrated mastery or complete transcript capture.
-- Next step / resume point: pr2_act_02 INITIAL, required clarification after language handling.
+- Next step / resume point: pr2_act_02 REVISION under `pr2_pru_10-a02-focused-revision-2026-11-08`; earlier INITIAL route is superseded.
 
 ## Concept Outcome
 
@@ -53,40 +53,47 @@ Historical Activity 1 REVISION route only; not active. The November 5 baseline a
 
 Activity 2 progression approved November 6, 2026. The required clarification and any compatible explanation belong to Activity 2 and its evidence record. Submission packaging issues in the earlier local record do not create a new Activity 1 entry blocker; they do not authorize changing the source file or inventing missing metadata. Follow the complete Activity 2 file contract for the new submission.
 
+
+## November 8 teacher decision
+
+Chapter 1 acceptance held. Establish a feasible source for both attendance numerator and denominator, and clarify what happens if advisers or clubs hold no records. Complete controlling-file/source verification and missing student understanding checks, plus reference/metadata/provenance repairs. No additional Activity 1 submission is assigned. Apply the selected Activity 2 directive and its substantive approval boundaries.
+
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Authorized to begin; required opening clarification not yet resolved.
-- Chapter 1 drafting authorization: Approved for Chapter 1 drafting.
-- Authorization date: November 6, 2026 (Asia/Manila).
-- Accepted pr2_act_01 concept revision: r01, bound to `pr2_pru_10-approved-a01-r01-snapshot-2026-11-06` below.
-- Approved concept source: This exact outcome record, Approved Concept Snapshot subsection. Tutor entry does not require access to the private local source submission.
-- Approval conditions: Conduct the required clarification as Activity 2 learning, using actual student answers and adaptive teaching. Resolve essential meaning or alignment issues before dependent drafting and before READY/compilation. This is not a condition requiring Activity 1 resubmission or new teacher permission merely to begin Activity 2.
-- Submission revision: No Activity 2 submission recorded. If this is the first completed Activity 2 submission, use `pr2_pru_10_pr2_act_02_r01.phx`; Activity 1 r01 does not make the first Activity 2 submission r02.
-- Teacher verification: Concept and progression approved; clarification learning and Chapter 1 performance not yet verified.
-- Chapter 1 approval status: Manuscript not yet submitted or approved; permission to develop it only.
-- Student-reported work: No Activity 2 answers recorded by this update.
-- Tutor-observed learning evidence: Not yet observed in Activity 2.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed; two distinct verified, student-understood sources remain mandatory.
-- Next step / resume point: INITIAL; after necessary language handling, ask the exact opening clarification under Teacher's Comments and continue according to the answer.
+- Activity status: Submitted Chapter 1 reviewed; acceptance held; focused REVISION required.
+- Chapter 1 drafting authorization: Earlier permission retained for bounded guided revision only; current teacher scope below controls unresolved substantive changes. No final manuscript approval.
+- Teacher decision date: November 8, 2026 (Asia/Manila).
+- Teacher decision: Chapter 1 acceptance held. Establish a feasible source for both attendance numerator and denominator, and clarify what happens if advisers or clubs hold no records. Complete controlling-file/source verification and missing student understanding checks, plus reference/metadata/provenance repairs.
+- Concept authorization for revision: Teacher-authorized records-first/source-labeled fallback remains a proposed plan, not proof that a source is available or reliable. Compatible explanation and wording are authorized. A shift to wholly self-reported attendance, a different reference period, new central measure, or a revised study needed because no feasible paired evidence exists requires an explicit teacher-approved updated concept before finalization/compilation.
+- Earlier accepted concept source: Prior Approved Concept subsection below, retained as historical baseline.
+- Activity 2 revision baseline: `pr2_pru_10-a02-submitted-snapshot-2026-11-08` — submitted manuscript snapshot embedded below; this is a teacher-designated baseline identity, not an invented student submission revision.
+- Submission revision: Verify the latest actual completed Activity 2 revision before incrementing. The source identifies or represents an initial record; do not infer a revision number from activity_version or fabricate missing metadata/history.
+- Current revision directive: `pr2_pru_10-a02-focused-revision-2026-11-08`.
+- Teacher verification: Written chapter reviewed; actual answers to this new focused directive are not recorded or assumed resolved.
+- Chapter 1 approval status: Not approved; acceptance pending repair and teacher review of the resubmission.
+- Checkpoint summary: Open H1, H3, H4, H6, H7, H8; retain supported unaffected work at H2, H5 and recheck actual dependencies only.
+- Source evidence: Two named sources require substantive verification and individual comprehension as specified; source existence or AI retrieval alone does not establish those requirements.
+- Next step / resume point: REVISION, H6; after necessary language handling ask the first focused question under Teacher's Comments.
 
-## Approved Concept Snapshot
+## Prior Approved Concept — historical baseline
+
+The following preserves the earlier concept/approval as provenance. It does not mean the new teacher concern is resolved or authorize an unspecified substantive change. Apply the current directive's explicit approval boundaries.
 
 Snapshot ID: `pr2_pru_10-approved-a01-r01-snapshot-2026-11-06`. This is the teacher-designated concept accepted from the submitted Activity 1 r01 final-output section. It is proposed planning, not collected evidence, verified respondent access, validated instruments, or permission to recruit/collect. Source learning evidence remains in private teacher storage. The source was not rewritten or repaired by this update.
 
-### Context
+#### Context
 
 Some students at Hawan National High School belong to more than one school club. When two or more clubs schedule their meetings at the same date and time, a student may face overlapping meeting obligations and may be unable to attend every meeting. This study is based on the researcher's observation of this situation among students with multiple club memberships. The study will examine the frequency of these overlapping schedules and the students' overall club meeting attendance rates during the same reference period.
 
-### Research Problem
+#### Research Problem
 
 The specific concern is whether the frequency of overlapping club meeting schedules is significantly associated with the overall club meeting attendance rates of students who belong to multiple clubs at Hawan National High School. The study will investigate this relationship without claiming that schedule conflicts directly cause absences.
 
-### Proposed Title
+#### Proposed Title
 
 **The Relationship Between the Frequency of Overlapping Club Meeting Schedules and the Overall Club Meeting Attendance Rates of Students with Multiple Club Memberships at Hawan National High School**
 
-### Research Questions
+#### Research Questions
 
 **Main Research Question**
 
@@ -98,7 +105,7 @@ Is there a significant relationship between the frequency of overlapping club me
 2. What are the overall club meeting attendance rates of students with multiple club memberships during September–October 2026?
 3. Is there a significant relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of these students?
 
-### Variables and Proposed Indicators
+#### Variables and Proposed Indicators
 
 | Variable | Role | Operational indicator | Proposed data form/source |
 |---|---|---|---|
@@ -113,13 +120,13 @@ Is there a significant relationship between the frequency of overlapping club me
 - If no eligible meetings were held for a student during the period, an attendance rate cannot be calculated for that student.
 - Do not describe a combined attendance rate as fully record-verified if any part is based on self-reported information.
 
-### Proposed Study Type and Rationale
+#### Proposed Study Type and Rationale
 
 The study will use a **quantitative, non-experimental correlational design**. It will collect numerical information about overlapping meeting frequency and overall attendance rates, then examine whether the two variables are associated. The researcher will not manipulate club schedules or assign students to conditions. Therefore, the findings may describe the direction and strength of an association but will not establish that schedule conflicts cause absences.
 
 Spearman's rank-order correlation (Spearman's rho) is the proposed statistical method because the frequency measure may be recorded or grouped as ranked/count data and the attendance rate is numerical. The suitability of the final statistical procedure, including the small anticipated number of eligible students, will be confirmed with the research teacher before analysis. A non-significant result will not automatically prove that no relationship exists; the coefficient, p-value, sample size, and limitations will be considered together.
 
-### Target Population and Proposed Access
+#### Target Population and Proposed Access
 
 The target population is the students of Hawan National High School who were officially members of at least two school clubs during September–October 2026. Students with frequent, occasional, or no overlapping meeting schedules will remain eligible so that the study does not exclude students based on the value of the independent variable.
 
@@ -127,7 +134,7 @@ The unit of observation is the individual student. The researcher will request a
 
 If permitted by the teacher and school, the proposed approach is total population sampling: invite every eligible student to participate. Participation will be voluntary. The actual number who consent and provide usable data will be reported; it will not be assumed in advance. If some eligible students decline or provide incomplete information, this will be disclosed as a possible source of nonresponse bias or a limitation.
 
-### Proposed Data-Gathering Procedure
+#### Proposed Data-Gathering Procedure
 
 **Before data collection**
 
@@ -157,28 +164,113 @@ If permitted by the teacher and school, the proposed approach is total populatio
 
 The proposed data-collection period is approximately two weeks, subject to teacher/school approval and the availability of the September–October 2026 records. The reference period for the variables remains September–October 2026; the two-week collection period is not a replacement reference period.
 
-## Chapter 1 Outcome
+## Revision Baseline — submitted Chapter 1
 
-No Chapter 1 manuscript or learning outcome recorded. Approval to progress is separate from demonstrated understanding and manuscript approval.
+Baseline ID: `pr2_pru_10-a02-submitted-snapshot-2026-11-08`. Submitted FINAL OUTPUT retained for targeted revision, with headings nested to preserve this outcome's two activity boundaries. The private source is unchanged; heading normalization here does not certify that its original structure passed. This snapshot is not a new approval, student interview or completed repair. The tutor can reuse it without asking the student to retype the chapter or retrieve a private local file.
+
+### PR2 — ACTIVITY 2: INDIVIDUAL CHAPTER 1 RESEARCH FOUNDATION
+
+#### CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+
+### 1. APPROVED RESEARCH TITLE
+
+**The Relationship Between the Frequency of Overlapping Club Meeting Schedules and the Overall Club Meeting Attendance Rates of Students with Multiple Club Memberships at Hawan National High School**
+
+### 2. BACKGROUND OF THE STUDY
+
+School clubs and extracurricular organizations provide students with opportunities to participate in structured activities beyond their regular classroom responsibilities. Through these organizations, students may take part in activities that involve different schedules, meetings, and responsibilities.
+
+However, students who belong to multiple organizations may encounter challenges in balancing their different commitments. Each club may have its own meetings, activities, and organizational responsibilities. When students participate in several organizations, they may need to manage these commitments alongside their academic responsibilities and personal activities. Fredricks (2012), in examining the over-scheduling hypothesis, found that extracurricular participation was generally associated with positive academic outcomes. However, at higher levels of participation breadth and intensity, some aspects of students' academic adjustment declined. This suggests that extensive extracurricular involvement may present challenges depending on the level of students' commitments.
+
+Time constraints may also affect students' participation in extracurricular activities. Le (2024) identified time constraints and competing academic responsibilities as important barriers to university students' participation in English extracurricular activities. These findings suggest that balancing academic and extracurricular commitments can be challenging. However, the study involved university students in Vietnam and did not directly examine overlapping club meeting schedules or club meeting attendance rates among senior high school students.
+
+One specific concern that may arise among students with multiple club memberships is the occurrence of overlapping club meeting schedules. When two or more clubs schedule meetings involving the same student on the exact same date and time, the student faces a scheduling conflict. If all the meetings are actually conducted, this situation is counted as one overlapping occasion, regardless of how many simultaneous meetings are involved. Because the meetings occur at the same time, the student may be unable to attend all of them. Therefore, the frequency of overlapping schedules and the overall attendance rate represent two distinct but potentially related aspects of students' organizational participation.
+
+Although previous studies have examined extracurricular participation, over-scheduling, and time constraints, the specific relationship between overlapping club meeting schedules and overall club meeting attendance rates remains insufficiently examined in the literature reviewed for this study. Fredricks (2012) focused on extracurricular participation and academic outcomes, while Le (2024) examined barriers to university students' participation in extracurricular activities. Neither study directly investigated whether the frequency of overlapping club meeting schedules is associated with the overall attendance rates of students with multiple club memberships. This provides a reason to examine the relationship between these two variables in a specific school setting.
+
+At Hawan National High School, some students belong to multiple clubs and may encounter different organizational schedules and attendance responsibilities. Examining this concern within the school can provide information about the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of eligible students. The findings may also help students, club officers, and club advisers better understand the possible relationship between scheduling conflicts and meeting attendance.
+
+Therefore, this study aims to determine the relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of students with multiple club memberships at Hawan National High School during September to October 2026. Specifically, it seeks to determine how frequently qualifying overlapping occasions occur, establish the participants' overall club meeting attendance rates, and examine whether the two variables are significantly related. The study will examine an association between the variables without establishing a cause-and-effect relationship.
+
+### 3. STATEMENT OF THE PROBLEM
+
+This study aims to determine the relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of students with multiple club memberships at Hawan National High School during September to October 2026.
+
+Specifically, it seeks to answer the following questions:
+
+1. How many qualifying overlapping club meeting schedule occasions does each participant experience during September to October 2026?
+2. What are the overall club meeting attendance rates of these students during the same period?
+3. Is there a statistically significant relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of these students?
+
+### 4. SCOPE AND DELIMITATION
+
+This study will focus on determining the relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of students with multiple club memberships at Hawan National High School during September to October 2026.
+
+The study proposes total population sampling by inviting all students at Hawan National High School who officially belong to at least two clubs during the reference period. Approximately 10 students are currently expected to qualify, subject to verification through official club membership records. Students who do not meet this qualification will not be included in the study. Participation will be voluntary, and the actual number of participants will depend on those who consent and provide usable information.
+
+The study will cover actual club meetings scheduled and conducted during the reference period. An overlapping occasion will be counted when two or more club meetings involving the same student are scheduled on the exact same date and time, and all the meetings involved are actually conducted. Each qualifying occasion will be counted only once, regardless of the number of simultaneous meetings. Canceled meetings will be excluded from both the overlap frequency and attendance calculations. A meeting will be considered eligible for a participant when the student is officially a member of the corresponding club at the time the meeting is conducted.
+
+The frequency of overlapping club meeting schedules will be determined using participant-provided information, checked against available club schedules or calendars where access is authorized. Overall club meeting attendance rates will be calculated using available attendance records provided through authorized club advisers. Student self-reports may supplement unavailable records only when the information can be reasonably clarified. Each attendance component will be identified according to its source, and a rate containing self-reported information will not be described as fully record-verified.
+
+The study will examine only the relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates. It will not establish a cause-and-effect relationship or determine the influence of other factors, such as academic responsibilities, personal commitments, transportation, and individual time-management practices.
+
+The study may encounter limitations involving the availability and completeness of official club schedules and attendance records. The accuracy of participant-provided information and their willingness to participate may also affect the completeness of the gathered data. Furthermore, the potentially small number of eligible participants and possible nonparticipation may limit the generalizability of the findings to students in other schools or different organizational settings. To address these limitations, the researcher will use available official records and appropriate verification procedures to improve data accuracy and consistency.
+
+### 5. REFERENCES
+
+Boat, A. A., Poparad, H., Seward, M. D., Scales, P. C., & Syvertsen, A. K. (2024). The role of organized activities in supporting youth social capital development: A qualitative meta-synthesis. Adolescent Research Review, 9(3), 543–562. https://doi.org/10.1007/s40894-024-00235-1
+
+Fredricks, J. A. (2012). Extracurricular participation and academic outcomes: Testing the over-scheduling hypothesis. Journal of Youth and Adolescence, 41(3), 295–306. https://doi.org/10.1007/s10964-011-9704-0
+
+Le, H. V. (2024). Factors impeding university students' participation in English extracurricular activities: Time constraints and personal obstacles. Heliyon, 10(5), e27332. https://doi.org/10.1016/j.heliyon.2024.e27332
 
 ## Revision Routing
 
-INITIAL entry under pr2_act_02. No prior Chapter 1 baseline or revision directive is assigned. The prior Activity 1 directive does not reopen topic selection or require another Activity 1 submission.
+```yaml
+activity_code: pr2_act_02
+student_code: pr2_pru_10
+entry_mode: REVISION
+revision_directive_id: pr2_pru_10-a02-focused-revision-2026-11-08
+baseline_revision: pr2_pru_10-a02-submitted-snapshot-2026-11-08
+baseline_source: "This exact outcome record, Revision Baseline — submitted Chapter 1 subsection"
+reopen_checkpoints: [H1, H3, H4, H6, H7, H8]
+retained_checkpoints: [H2, H5]
+locked_decisions: [research school, individual authorship, no fieldwork authorization]
+authorized_scope: "Clarify actual versus proposed record availability, eligible-meeting counts and membership periods, self-report fallback and limitations, zero versus missing information, then complete substantive source/understanding checks and bounded record repairs. No unsupervised record request, respondent contact, fieldwork or automatic redesign."
+required_repairs: "Numbered focused repairs below; begin at H6. Retain unaffected work."
+required_approval_before_compilation: "Teacher-authorized records-first/source-labeled fallback remains a proposed plan, not proof that a source is available or reliable. Compatible explanation and wording are authorized. A shift to wholly self-reported attendance, a different reference period, new central measure, or a revised study needed because no feasible paired evidence exists requires an explicit teacher-approved updated concept before finalization/compilation. Every mandatory Activity 2 requirement must also pass; final chapter acceptance remains pending teacher review after resubmission."
+```
+
+1. **H6/H7 — Evidence-source feasibility:** Explain who would hold meeting calendars/minutes, actual meeting/attendance lists and membership-period information, and whether availability is known or merely assumed. For an overall attendance rate the student needs the total eligible meetings actually held across the student's memberships (denominator) and meetings actually attended (numerator), over the same approved period. A list of people who attended one meeting does not establish every meeting held or a student's complete attendance. Canceled meetings are excluded; no held meetings means an undefined rate, not zero. Do not claim records were checked or permissions obtained unless actual evidence exists.
+
+2. **H1/H6 — No-record scenario:** Have the student explain what could validly be known if advisers and members kept no usable records. Missing attendance information must not be coded as absence/zero, and a calendar of planned meetings must not silently be treated as proof those meetings occurred. If total held meetings or attendance cannot reasonably be established, the rate is not computable for that case. Do not substitute an invented estimate or remove all difficult cases without examining feasibility and the resulting study population.
+
+3. **H6/H7 — Self-report is a choice, not an automatic rescue:** The existing approved plan uses adviser records as primary, with supplementary self-report only where reasonably clarified and source-labeled. Ask what a respondent could realistically recall for the historical period, how both numerator and denominator would be supported, how discrepancies/uncertainty would be identified and how a mixed-source rate would be labeled. Do not equate confidence, agreement among members or recollection alone with verified records. A wholly self-reported route is a substantive proposal requiring teacher approval and explicit measurement/recall limitations; do not quietly describe it as record-based attendance. Prospective recording or a different period may be proposed for teacher decision if no feasible historical evidence exists, not implemented or collected by the tutor.
+
+4. **H1/H7 — Bounded feasibility decision:** The student may identify a proposed source/check plan without contacting advisers or participants. Actual record availability should be confirmed through the teacher's authorized process; this directive grants no access/contact permission. If no plausible source supports usable paired observations, identify the exact blocker, summarize feasible student-developed alternatives for the teacher and continue unaffected learning. Do not manufacture a fieldwork approval or final fallback. Do not repeat the earlier overlap-versus-attendance example if the existing explanation is sufficient; recheck it only if the source decision changes its application.
+
+5. **H3/H4 — Sources and missing learning evidence:** Load the actual current controlling files and check the two used publications (Fredricks 2012 and Le 2024) against relevant accessible source text, not existence/metadata alone. Preserve their bounded relevance and differences from local overlap–attendance research. Elicit only missing essential student interpretations/application and clarify unverified consolidated wording. Reuse relevant sources rather than requiring two new ones. Current external verification does not retroactively authenticate prior student understanding or missing tutor turns.
+
+6. **H2/H5/H6/H7/H8 — Integrate and clean up:** After the source plan is feasible and any substantive change explicitly approved, propagate it into background, purpose/questions, scope, planned-data reasoning and all six alignment links. Remove Boat et al. from References unless it is actually used, verified and understood; a third source is not required. Repair unconfirmed instruction/version and manuscript metadata and truthfully unavailable timing. Relabel the consolidated student explanation presented as teacher comment 2 so it is not attributed to the teacher without provenance. Preserve source assistance/capture limits; do not reconstruct inaccessible chats or demand an entire new chapter.
+
+### Evidence, dependency review and resubmission
+
+Use Retained / Open / Recheck / Satisfied / Teacher clarification required with actual evidence. This route does not restart Activity 1 or the whole chapter. Ask one missing explanation at a time, not the entire directive as a questionnaire. Recheck changed links by comparison first and retain unaffected wording and legitimately evidenced learning. A named source, polished paragraph or blanket confirmation is not independent understanding; a partial transcript is not automatically a comprehension failure.
+
+Record the teacher question/comment, actual initial answer, consequential follow-ups, teaching/models/wording support, the student-confirmed decision, manuscript effect and grounded resolution status in the private revised Activity 2 .phx. Preserve accessible original wording and label summaries or unavailable earlier history honestly; do not invent prior dialogue, historical version retrieval, approvals or timestamps. Keep detailed responses out of public outcomes and out of the FINAL OUTPUT-only Word manuscript.
+
+If the chosen repair needs a substantive concept decision beyond the authority above, present a concise student-confirmed proposal for the teacher and continue unaffected learning where feasible. Use ordinary-text recovery notes while blocked; do not generate a partial/provisional .phx or full copyable submission record before all essential gates pass. Once the exact revised identity is authorized, source/understanding and alignment requirements pass, capture readiness time honestly and compile automatically. Verify the prior Activity 2 number and increment it (normally r02 after a verified r01); resolve missing history rather than inventing it. Include entry_mode REVISION and these exact directive/baseline IDs, required metadata and six exact top-level sections. Verify UTF-8/non-archive contents and derive the reading copy exclusively from FINAL OUTPUT. Resubmit to the teacher; no automatic acceptance, next activity, participant contact, record access or fieldwork is authorized.
+
+## Chapter 1 Outcome
+
+Submitted chapter retained as a working baseline; acceptance held. No new clarification answer, source comprehension or feasible records access is certified by this update. The current REVISION directive supersedes the earlier INITIAL route while preserving its history.
 
 ## Teacher's Comments
 
-Required opening clarification — current status: Open; student explanation not yet verified.
+Preserve the student's existing work, but resolve the new concept/feasibility issue and the previously identified source/record gaps before Chapter 1 acceptance. After necessary language handling, ask this first focused question in the student's chosen language:
 
-> If three of your clubs hold meetings at the same time and you attend one, how would you count that occasion for overlap frequency and for your attendance rate? Explain why the counts differ.
+> For one eligible student, where would you obtain the number of club meetings actually held and the number that student attended during September–October 2026, and what would you do if neither the adviser nor club members kept those records?
 
-After language selection, ask this question immediately in the chosen language. It is the first concrete Activity 2 learning move, rather than an orientation-only reply. If language is already known, ask it in the first learning response. Do not reveal or prewrite the answer before the student's first attempt.
+Do not prewrite the answer. Accept brief or Taglish attempts, assess meaning, narrow the next prompt to the actual gap and teach simply where needed. Use a different-case model only after difficulty, then ask the student to apply the distinction to their own study. Agreement or repeated AI wording alone is insufficient. Stop probing once the essential meaning is demonstrated.
 
-Ask the student to explain the counts and their reason before teaching or confirming them. If needed, guide the student to distinguish an overlap occasion from separate attendance obligations, then ask them to apply the distinction to another combination. In a standalone example, an attendance percentage can describe only the stated meetings; do not imply that one occasion alone determines the whole September–October attendance rate. The teacher accepts the revised proposed attendance-source plan: adviser records are primary; self-report may supplement unavailable records only where reasonably clarified, each component is source-labeled, and a mixed rate is never described as fully record-verified. Retain these source limitations in Chapter 1. Unresolved unusable information must be documented; this approval does not validate self-reports or authorize record access. Spearman's rho remains a proposal subject to later suitability checks, not a finalized test.
-
-The teacher requires guided clarification because understanding still needs to be established. Approval is not evidence that the student can already defend the decision. Accept short, Tagalog or Taglish responses; do not treat uncertain wording or English proficiency as failure. Ask one focused question at a time. If a response leaves a gap, narrow it, briefly explain the concept, use a hypothetical different-case model only when needed, and return to the student's own study. Agreement or repetition of AI wording alone is insufficient; look for an explanation and application in the student's own words. Stop probing once the essential meaning is demonstrated.
-
-After satisfactory clarification, continue Activity 2's context/background, verified-source, question-alignment and scope work. If practical context remains missing, next ask for a real situation showing why the problem matters. Do not rerun Activity 1. Compatible explanations and consistent wording refinements within the accepted concept are authorized. A substantive proposal to change central variables, population, design, or approved questions must be referred to the teacher; continue unaffected learning where feasible but do not draft dependent content around an unresolved contradiction.
-
-Mandatory Activity 2 .phx capture: preserve this exact teacher question/comment, the student's actual initial response, each consequential follow-up/revision with enough tutor-question context, the explanation/modeling or wording assistance actually used, what the student subsequently demonstrated, any resulting manuscript effect, and a grounded status (Addressed / Partially addressed / Pending teacher approval / Not applicable). Preserve available original wording; label missing prior history honestly rather than reconstructing it. Put the detailed record under `# STUDENT LEARNING EVIDENCE` in a `## Teacher's Comments and Student Responses` subsection, and evaluate it in `# AI EVALUATION AND FEEDBACK`; record any consequential repair in `# ALIGNMENT AND REVISION AUDIT`. These heading names refer to the future .phx contract, not new top-level headings in this outcome record. Do not put private feedback or the response transcript into the Word manuscript or public outcome.
-
-An essential unresolved clarification prevents READY/compilation, not entry into guided Activity 2 learning. The new completed submission must be the Activity 2 .phx containing both the Chapter 1 manuscript and this clarification evidence, followed by the Word reading copy derived only from FINAL OUTPUT. Do not fabricate an answer, treat approval as mastery, or generate a partial submission. Keep all Activity 2 source-comprehension, timing, alignment, UTF-8/metadata and compilation requirements. No respondent contact, record access or fieldwork is authorized.
+Apply the numbered repairs with the approval boundaries above. Preserve the exact teacher question and the actual response/revision, assistance and resolution status in the new Activity 2 .phx. Current status: Open; no response yet recorded for this directive. Unresolved essential meaning, infeasible paired evidence, missing required source learning, or unapproved substantive research changes prevent dependent finalization and READY/compilation. No full questionnaire, completed sampling/statistical plan, respondent contact or data collection is assigned here.
