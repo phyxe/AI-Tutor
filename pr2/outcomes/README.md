@@ -23,3 +23,7 @@ Do not change only a comment while leaving a contradictory route. Do not use a g
 
 The linked raw GitHub paths work only once the corresponding reviewed files are published and accessible. Test one complete student-entry flow before rollout; current local edits are not automatically available at those URLs.
 
+
+## Collected handoffs
+
+After reviewing a collected handoff, use ../RESUME-PLAN-TEMPLATE.md to set the exact checkpoint/action, next prompt, matched file ID and teacher evidence dispositions. Set RESUME for unfinished work or REVISION for directed repairs. Put only the minimal plan in the selected public activity section and retain detailed work privately; the student can upload the exact teacher-identified handoff. Receipt does not mean completion or approval. Do not reset other learners or invent progress.

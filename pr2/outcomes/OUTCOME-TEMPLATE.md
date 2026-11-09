@@ -47,6 +47,10 @@ No concept recorded. No context, problem, title, questions, variables, study typ
 
 No revision directive issued. No baseline revision or authorized repair scope recorded.
 
+## Resume Plan
+
+No reviewed handoff plan issued. The teacher fills this only after actual review; see RESUME-PLAN-TEMPLATE.md.
+
 ## Teacher's Comments
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
@@ -72,5 +76,9 @@ No Chapter 1 outcome recorded.
 ## Revision Routing
 
 No revision directive issued. No baseline revision or authorized repair scope recorded.
+
+## Resume Plan
+
+No reviewed handoff plan issued. The teacher fills this only after actual review; see RESUME-PLAN-TEMPLATE.md.
 
 ## Teacher's Comments

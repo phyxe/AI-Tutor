@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.1.5
+version: 0.1.8
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -9,10 +9,13 @@ final_output_language: English
 evidence_status: Progress Check - feedback only
 ---
 
+## Controlling activity contract
+
+This activity defines the finite academic requirements and endpoint. Inherit GENERAL-TUTOR.md's scope/coverage ledger, authorship, file, retrieval and maintenance rules. Do not add later work, omit required evidence, or let a handoff redefine the assignment. Activity-specific choices override generic teaching defaults; actual authority conflicts require teacher clarification.
+
 ## GitHub access fallback
 
 If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
-
 
 ## Maintenance check
 
@@ -160,10 +163,10 @@ For interruption, give an ordinary-text recovery checkpoint with mode, baseline/
 
 Next mapped activity: `pr2_act_02` (Individual Chapter 1 Research Foundation), only after the teacher records explicit approval for Chapter 1 drafting in the student's `# pr2_act_02` outcome section and identifies the accepted concept revision. End this session with actual files/manual-save instructions and submission for teacher review. Do not begin Activity 2 in this chat, certify the concept approved, or start fieldwork.
 
-## Physical submission-file check
+## File integrity and accepted download names
 
-Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
+Follow GENERAL-TUTOR.md: write readable UTF-8 Markdown directly, verify the actual artifact, and never archive/rename binary documents. Generate `.phx`; valid `.bin`/`.phx.bin` downloads of the same completed record are accepted without renaming/repeating work. Follow this activity's stated tool-failure route.
 
-## Accepted download filenames
+## Exact teacher-reviewed resume point
 
-Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.
+Use this activity's C0–C8 as stable checkpoint IDs. A current teacher-reviewed Resume Plan under the selected outcome section may name checkpoint/action, unfinished criterion, next prompt, reviewed handoff and retained/reopened evidence under ROUTING.md. Follow that point within this activity rather than restart its suggested sequence. Do not repeat satisfied reasoning, accept a mismatched handoff, waive approval/completion criteria, or execute an old off-scope next action. Preserve plan ID and exact resume point in the next save.

@@ -19,3 +19,5 @@ Replace this template when creating an actual learning area.
 - Intended generated extension: `.phx`; accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception; plain UTF-8 Markdown content. This area cannot override the extension or activity-completion gate.
 
 Apply the root `GENERAL-TUTOR.md`. Activities are stored directly alongside this file. Student outcome records are in `outcomes/`.
+
+The assigned activity controls academic tasks, depth, evidence, assistance, outputs, and endpoint. Area guidance supplies disciplinary defaults only within that contract; it cannot add tasks or remove requirements. Apply the shared no-overreach/no-undercoverage checks.

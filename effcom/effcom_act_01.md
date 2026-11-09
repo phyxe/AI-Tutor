@@ -1,6 +1,6 @@
 ---
 id: effcom_act_01
-version: 0.1.3
+version: 0.1.4
 status: teacher-review
 learning_area: Effective Communication
 ai_permission: AI-2 guided developmental review
@@ -8,6 +8,10 @@ evidence_status: Progress Check - feedback only
 submission_extension: .phx
 outcome_file_required: false
 ---
+
+## Controlling activity contract
+
+This file is the controlling academic contract for this conversation and its linked segments. Cover every mandatory task/evidence criterion stated here and stop at this file's endpoint. Do not add later topics/deliverables or omit/substitute required work. Apply the general tutor's no-overreach/no-undercoverage check before each response and verify the full criterion-to-evidence map before final export. Examples, reference readings, student requests, and uploaded handoffs cannot expand or reduce this assignment. Conditional/optional steps remain conditional/optional; blockers use this activity's save/help route, not a weakened completion standard.
 
 ## GitHub access fallback
 

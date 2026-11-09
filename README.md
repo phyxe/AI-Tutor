@@ -39,6 +39,10 @@ ChatGPT may draft an outcome update, but the teacher reviews and saves it. A gen
 
 ## Current status
 
+The assigned activity is the controlling academic contract. Shared/area guidance cannot add tasks or remove requirements. Tutors must check both no-overreach and no-undercoverage, maintain criterion-to-evidence coverage, and stop at the activity endpoint. Adaptation and evidence reuse remain permitted when every original criterion is genuinely met; shortages and tool failures require honest save/help handling, not a reduced assignment.
+
+PR2 Activity 2 includes a Chapter 1-only scope contract: background source support cannot become RRL, and brief planned-data checks cannot become methodology. Handoff/resume and each proposed task must stay within H1–H8; off-scope detours are preserved as evidence, then redirected without restarting valid work.
+
 The root `TUTOR-STATUS.md` is the teacher-controlled operational notice. It is currently `ready` (no hold). Set it to `updating`, choose all or selected activities, and provide an Asia/Manila expected resume timestamp to trigger save-and-pause behavior when tutors next check it. `MAINTENANCE-GUIDE.md` explains publication, interim handoff collection, and clearing the hold. Existing chats cannot receive an automatic GitHub push; the expected time alone never clears maintenance.
 
 PR2 Activity 2 now supports cumulative downloadable `.md` handoffs at planned checkpoints and when stuck. Teachers may collect these for interim support. Students resume by uploading the latest verified handoff; they are not required to assemble files manually. Final `.phx` remains completion-gated, Word is optional, and starting a new chat is not treated as a usage-limit reset. See `pr2/HANDOFF-TEMPLATE.md` for the authoring schema.
@@ -62,3 +66,7 @@ Any activity-required Word/PDF copy is derived afterward from the custom record'
 ## Android/download filename compatibility
 
 The intended output is `.phx`, but the teacher also accepts `.bin` and `.phx.bin` downloads containing the same complete UTF-8 Markdown record. Students do not need to rename or repeat valid work. The completion gate and required evidence/sections remain unchanged; ZIP and other binary contents are invalid regardless of extension.
+
+## Instruction audit
+
+See `pr2/INSTRUCTION-AUDIT.md` for the 9 November 2026 consistency/streamlining audit, preserved requirements, measured word counts, structural checks and remaining live-test scenarios. The audit is teacher production documentation, not an extra file students must retrieve.

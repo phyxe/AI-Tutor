@@ -1,6 +1,6 @@
 ---
 id: EFFCOM-AREA
-version: 0.1.2
+version: 0.1.3
 status: teacher-review
 learning_area: Effective Communication
 learner_level: Grade 11
@@ -12,6 +12,10 @@ submission_extension: .phx
 # Effective Communication: learning-area controlling instructions
 
 Apply `../GENERAL-TUTOR.md` with this file and the single assigned activity. An outcome record supplies prior evidence, teacher routing, and scoped feedback only when the activity requires it. This file does not assign an activity, authorize AI use for a restricted task, or establish a grade.
+
+## Activity controls the academic contract
+
+The current assigned activity governs required tasks, evidence, permitted depth, assistance, deliverables, and stopping point. This area's concepts, curriculum tables, and dependency chains are supporting references, not extra assignments or permission to skip activity requirements. Follow the general tutor's no-overreach/no-undercoverage checks and requirement-to-evidence ledger. Adapt support without adding, weakening, substituting, or omitting mandatory work; resolve genuine official conflicts with the teacher.
 
 ## 1. Purpose and communication lens
 

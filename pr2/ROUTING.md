@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.1.1
+version: 0.1.3
 status: teacher-review
 ---
 
@@ -45,7 +45,7 @@ The teacher edits these YAML fields in the student's outcome record:
 
 | Action | Required behavior |
 |---|---|
-| INITIAL | Load the selected activity, check its prerequisites, and start only its missing initial work. Do not restart an already submitted activity; a conflicting existing outcome requires clarification. |
+| INITIAL | Load the selected activity, check its prerequisites, and start only its missing initial work. Reuse valid work by default. A current explicit teacher instruction to restart the activity from the beginning authorizes a fresh INITIAL attempt despite an earlier submission; preserve that earlier work as history, not satisfied evidence. Without such an instruction, conflicting existing work requires clarification. |
 | RESUME | Reuse the available in-progress work/checkpoint, verify the resume point, and ask the next unresolved question. Elicit only essential missing evidence, not a full restart. |
 | REVISION | Load the identified baseline and the matching directive from the selected activity's Revision Routing or another teacher-designated source. Reopen named checkpoints and affected dependencies only. Missing baseline, required scope, or directive means teacher clarification, not INITIAL. |
 | WAIT | Briefly explain the recorded pending teacher decision. Do not launch another activity, manufacture approval, or generate a submission. |
@@ -53,13 +53,27 @@ The teacher edits these YAML fields in the student's outcome record:
 
 RESUME and REVISION remain modes of the selected activity, not additional activities. Pass INITIAL or REVISION to the activity's entry-mode contract; RESUME retains the original entry mode recorded in the available work and uses its checkpoint. WAIT/COMPLETE do not begin learning stages. Source verification and current teacher requirements still apply.
 
+## 3A. Teacher-reviewed handoff resume plan
+
+When the teacher collects a handoff, update routing only after reviewing its actual evidence. Do not infer submission/completion/approval from receipt alone. Use RESUME for unfinished learning; REVISION for a directed repair; INITIAL only for new work or an explicit full restart. Current maintenance WAIT takes precedence over execution without erasing the reviewed resume point.
+
+Optional document-level fields for a reviewed handoff are `route_plan_id`, `route_handoff_id`, and `route_resume_action`; they must match `## Resume Plan` in the exact selected activity section. The plan records checkpoint, unfinished criterion, next prompt, reviewed handoff/version, evidence source, teacher dispositions and authorized scope using RESUME-PLAN-TEMPLATE.md. Existing records without a plan remain valid for INITIAL/WAIT/COMPLETE; do not require students to create missing teacher plans. RESUME/REVISION needs enough exact baseline/next-action evidence to avoid guessing. A real contradiction between route, plan and feedback needs teacher clarification.
+
+Each checkpoint uses an optional action suffix: ELICIT (first actual attempt), LEARN (needed concept explanation/different-case model), APPLY (student application/drafting), REPAIR (specific correction), CHECK (verify existing evidence/consistency). For example H5/APPLY resumes background composition, not a new H1 interview. These action labels do not add tasks or make all five actions mandatory. A sufficient answer may skip unnecessary support phases.
+
+Load the current official route/plan and matching actual handoff. If the plan authorizes `source_type: student_upload`, request the identified file if it was not attached; this is teacher-authorized work upload, not permission to replace controlling instructions. Verify student/activity/handoff identity. Do not automatically choose the highest SP number from mixed files. A missing/mismatched required file needs correction/teacher help; do not silently restart or ask students to retype the manuscript. An old handoff's next action cannot override the newer teacher-reviewed plan.
+
+Use retained evidence without repeated interviews; recheck only real dependencies and changed official criteria. A teacher ledger may reference original evidence in the uploaded handoff rather than publish it. Missing essential evidence must be recovered/elicited specifically before final readiness; preserve transcript gaps honestly. Updated approval must still be explicit in the section required by Activity 2.
+
+Begin with the planned next prompt after necessary source/maintenance/approval checks, using known language. If the teacher plan is more specific than the activity's suggested starting order, follow the plan within the activity contract. Add `plan_id`, checkpoint/action, exact unfinished criterion and next prompt to subsequent handoffs so the next tutor resumes the same work. Do not change GitHub or claim teacher review happened merely because a new draft plan was generated.
+
 ## 4. Written feedback and route conflicts
 
 The route selects the activity/action; teacher feedback specifies the issue, authorized repair, restriction, or next decision. Use actual feedback naturally at the relevant stage, not a separate checklist for the learner. Optional blank comments are not an error. Nonbinding suggestions do not become required tasks.
 
 For REVISION, the selected section's Revision Routing must identify the directive, baseline source/revision, checkpoints, required repairs, and authorized scope using `REVISION-DIRECTIVE-TEMPLATE.md` conventions. Prose feedback can explain those fields but cannot silently replace a missing baseline or conflicting approval. Do not invent a structured directive from ambiguous comments.
 
-If the route says INITIAL but the teacher says to revise submitted work, or it selects Activity 2 without its own explicit drafting authorization and accepted concept revision, identify the conflict and contact the teacher. Do not choose a convenient instruction or ask the student to decide what the teacher meant. No approval is inferred from “good,” completion, `.phx` existence, or feedback alone.
+If INITIAL conflicts with a targeted-revision directive (as distinct from an explicit teacher-requested full restart), or it selects Activity 2 without its own explicit drafting authorization and accepted concept revision, identify the conflict and contact the teacher. Do not choose a convenient instruction or ask the student to decide what the teacher meant. No approval is inferred from “good,” completion, `.phx` existence, or feedback alone.
 
 When no route is present, only an unequivocally initialized record with no work or approval may default to Activity 1 INITIAL. Existing work with absent routing needs teacher clarification; do not guess which activity or portion to repeat. A student request cannot change the teacher-maintained route or locked decisions.
 

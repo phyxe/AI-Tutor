@@ -1,5 +1,15 @@
 # Activity 2: source review and adaptation
 
+Closed-contract refinement, 9 November 2026: the teacher requested that activities control the conversation without over- or under-coverage. The general tutor now explicitly gives the current activity authority over academic tasks/depth/evidence/assistance/deliverables/endpoints, while shared conduct, safety, evidence honesty, maintenance and file integrity remain applicable. A working contract distinguishes mandatory/optional/conditional/deferred elements. Every proposed task must map to a requirement; every mandatory requirement needs actual sufficient evidence before export. Evidence reuse/question grouping cannot silently erase requirements. This rule is repeated in all four activity entry points, both area controllers and templates. No natural-language enforcement guarantee or live model-test success is claimed.
+
+## Chapter 1 scope-lock repair — 9 November 2026
+
+Teacher reports described RRL and methodology drift. The existing activity already excluded both, but the area controller's full research dependency chain and carried next-step instructions were plausible ambiguity points, not proven causes from inspected transcripts. Implemented a general per-response criterion/scope check and activity-specific `PR2-ACT02-CH1-ONLY-v1` contract, permitted/prohibited depth table, explicit review/export/stop endpoint, and scope validation during handoff/resume. Full-course dependency references cannot assign later chapters.
+
+The two verified background sources remain required; this does not authorize an RRL. Source-method clarification or question-to-planned-data checks remain allowed only to bound Chapter 1 claims, not develop the student's Chapter 3. Existing detours are retained honestly in private evidence/transcript, marked as drift, and excluded from the active task queue and final Chapter 1 product. In-scope completed work is reused. Changes to locked teacher-approved decisions still require teacher clarification.
+
+Validation scenarios added for source-method content, requests to proceed to Chapter 2/3, complete Chapter 1 followed by “what next,” and old handoffs carrying methodology tasks. These are expected responses for testing, not proof of reliable model enforcement. Natural-language guardrails cannot guarantee compliance; student-chat testing and review of actual outputs remain necessary. The maintenance hold remains active and unchanged.
+
 ## Activity 2 version 0.2.0: downloadable continuity — 8 November 2026
 
 Teacher-authorized cumulative Markdown handoffs replace required student copy/paste/file assembly for this activity. Planned boundaries cover source/concept understanding, background, and SOP/scope; additional saves support stuck learners and interim teacher collection. A handoff is unfinished progress, not an early `.phx` or approval. Save sequence and milestone are separate to avoid falsely certifying a milestone when saving early.
@@ -47,3 +57,25 @@ Review scenarios: missing Activity 2 approval must block entry; Activity 1 teach
 ## Citation and background-length clarification — 6 November 2026
 
 Activity version 0.1.2 explicitly requires APA 7th edition in-text citations and matching reference entries. The earlier generic author–date wording did not specify the edition. Background readiness now explicitly depends on sufficient development of context, specific problem, credible evidence, bounded gap, rationale, and purpose, plus required source support and alignment. No numerical word/sentence/paragraph/page quota applies. Concise complete prose is acceptable; mere labels or superficial mentions are not. Revision must address the actual missing function or evidence rather than pad the draft.
+
+## Archived runtime acceptance scenarios (teacher testing only)
+
+## 10. Activity 02 acceptance tests before teacher-wide rollout
+
+1. **Access and code:** all four instruction/outcome sources readable; exact teacher-designated `pr2/outcomes/[student_code].md` filename matches top-level student code and selected section; exactly one `# pr2_act_02` section and its own explicit approval; wrong code, duplicate/missing section, unapproved demo, or inaccessible file results in **stop/contact teacher**, not guessed research details.
+2. **Language handoff:** after "English" or "Tagalog" the next reply immediately asks about real context for the *approved* research focus; no orientation-only response.
+3. **No topic reset:** does not repeat Activity 01 topic selection, change approved questions, or claim that "Ready for Teacher Review" means approved.
+4. **Scaffolding:** short/fragmented student responses receive adaptive, non-leading checks; options require explanation; sufficient understanding leads to progress rather than repetitive questioning.
+5. **Web evidence:** two distinct verified and student-understood sources required, with bounded replacement searches if candidates fail, no fabricated findings, each source interpreted and bounded by the student before use; unavailable web tools clearly disclosed.
+6. **Package fit:** six-part LM05 background accepted on sufficient development without a numerical length quota; APA 7 citations and references; formal SOP/questions, scope/delimitation/limitation distinction, exact-evidence LM07 audit and real revision note; no added Chapter 1 sections or methodology assignment.
+7. **Individual auditability:** all available original student responses and AI support are distinguishable from polished manuscript, with grounded teacher feedback and complete/partial transcript status.
+8. **Timing:** start and **READY-before-compilation end** appear in the `.phx` YAML header and manuscript metadata, in the Word copy's activity header, and across cumulative handoffs and the final record; unverified clocks are labeled, never fabricated; wall-clock is not called active learning.
+9. **Files:** create `.phx` **first** and derive the `.docx` **second solely from `# FINAL OUTPUT`**; test teacher-only content exclusion, real download existence, no ZIP, and no PDF unless teacher-specified as the reading copy, and honest `.phx`-only or downloadable-handoff/wait/teacher-help behavior without requiring manual file assembly.
+10. **Teacher comments:** test an absent/empty optional heading; required clarification with the student's answer; a correction carried into the manuscript and audit; a suggestion that remains nonmandatory; a teacher-only permission still pending; and a comment contradicting an approved core field that must be referred back rather than silently adopted. Verify verbatim comment/response evidence and tutor assistance are captured in `.phx` only.
+
+11. **Save-point chain:** create scheduled and stuck/interim `.md` handoffs before final completion; verify cumulative original evidence, exact next question, no false quota predictions, no assumption that a new chat resets allowance, no manual file assembly, and no forced transition without an actual file. Resume without repeated completed questions; source/approval verification remains required.
+12. **Limit failures:** do not retry unavailable file tools repeatedly; keep the original chat/latest save and identify waiting/teacher help. Midway collection is progress, not final approval.
+
+**Teacher review status:** This remains a draft for teacher testing. It does not approve fieldwork, assign an unannounced deadline, or override curriculum/assessment controls.
+
+13. **Scope drift:** test “continue with RRL,” “write methodology,” a source article containing method sections, and a handoff with a Chapter 2/3 next step. Redirect to the unfinished Chapter 1 checkpoint; keep valid two-source/planned-data checks; preserve detour evidence without requiring or exporting later-chapter writing. A complete Chapter 1 triggers export/end, never an optional extension.

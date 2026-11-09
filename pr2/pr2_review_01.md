@@ -1,19 +1,22 @@
 ---
 id: pr2_review_01
-version: 0.1.3
+version: 0.1.5
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
 evidence_status: Progress Check - feedback only
 outcome_file_required: false
 submission_extension: .phx
-final_output_language: English
+final_output_language: "English practice manuscript; original-language review responses"
 ---
+
+## Controlling activity contract
+
+This activity defines the finite academic requirements and endpoint. Inherit GENERAL-TUTOR.md's scope/coverage ledger, authorship, file, retrieval and maintenance rules. Do not add later work, omit required evidence, or let a handoff redefine the assignment. Activity-specific choices override generic teaching defaults; actual authority conflicts require teacher clarification.
 
 ## GitHub access fallback
 
 If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
-
 
 ## Maintenance check
 
@@ -35,21 +38,7 @@ Read this activity and the practice file completely, and retrieve the actual rel
 
 Intended student starter: “Help me complete this PR2 review by following this activity: https://raw.githubusercontent.com/phyxe/AI-Tutor/refs/heads/main/pr2/pr2_review_01.md”. These are intended publication paths; local existence does not establish remote availability.
 
-### Retrieval fallback for the same public file
-
-If a URL returns a retrieval error, 404, or inaccessible response, do not infer that the repository file was deleted or that its educational content is prohibited. Distinguish the observed tool error from a confirmed origin HTTP response. Try the corresponding ordinary public GitHub file page below, within the tools and access allowed in the session. A public representation fallback is not permission to bypass a safety restriction or access control. Confirm the actual file text and ID/version when present; a repository listing or page title alone does not suffice.
-
-| Required file | Same-file GitHub page fallback |
-|---|---|
-| This activity | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01.md |
-| General tutor | https://github.com/phyxe/AI-Tutor/blob/main/GENERAL-TUTOR.md |
-| Area controller | https://github.com/phyxe/AI-Tutor/blob/main/pr2/AREA-INSTRUCTIONS.md |
-| Unit 1 reference | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-unit-01-reference.md |
-| Unit 2 reference | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-unit-02-reference.md |
-| Practice tasks | https://github.com/phyxe/AI-Tutor/blob/main/pr2/pr2_review_01-practice.md |
-
-If these representations fail, finish the general tutor's bounded permitted same-file routine (maximum four distinct forms total), then identify the exact file and observed limitation and contact the teacher if required text is still unavailable/incomplete. Do not repeatedly retry, guess contents, request an outcome file, or start from generic knowledge. Offline/pasted copies remain permitted only when explicitly teacher-authorized. Never describe a failed fetch as successfully loaded.
-
+Use the shared bounded same-file fallback; a GitHub `/blob/main/<exact-path>` page may supply actual text when raw access fails. Stop after success; no more than four representations total per required-file load. Do not request an outcome file or substitute generic knowledge for unread material.
 
 ## 2. Scope and learning cycle
 
@@ -134,10 +123,6 @@ Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx m
 
 No separate outcome file or GitHub progress update is used. Progress is recorded in chat/recovery and the completed private .phx. Completion demonstrates this review's written evidence only; it does not approve a real concept, complete pr2_act_01/pr2_act_02, authorize fieldwork, or advance a production route. No next activity or deadline is assigned.
 
-## Physical submission-file check
+## File integrity and accepted download names
 
-Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
-
-## Accepted download filenames
-
-Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.
+Follow GENERAL-TUTOR.md: write readable UTF-8 Markdown directly, verify the actual artifact, and never archive/rename binary documents. Generate `.phx`; valid `.bin`/`.phx.bin` downloads of the same completed record are accepted without renaming/repeating work. Follow this activity's stated tool-failure route.

@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.1.4
+version: 0.1.7
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -11,6 +11,10 @@ final_output_language: English
 # Practical Research 2: learning-area controlling instructions
 
 Apply `../GENERAL-TUTOR.md` with this file, the single assigned activity, and any activity-required approved outcome record. These are shared PR2 reasoning and routing rules, not an activity assignment. Do not start an activity from this file alone or invent its requirements.
+
+## Activity controls the academic contract
+
+The current assigned activity governs required tasks, evidence, permitted depth, assistance, deliverables, and stopping point. This area's concepts, curriculum tables, and dependency chains are supporting references, not extra assignments or permission to skip activity requirements. Follow the general tutor's no-overreach/no-undercoverage checks and requirement-to-evidence ledger. Adapt support without adding, weakening, substituting, or omitting mandatory work; resolve genuine official conflicts with the teacher.
 
 ## Outcome-file entry
 
@@ -28,7 +32,7 @@ Retain the student's topic and first opportunity to reason. Do not automatically
 
 ## 2. Dependency chain: what to check
 
-Apply only links relevant to the current activity and previously established decisions:
+This is a dependency reference, **not a workflow assigning every research stage**. The activity file selects which links may be examined and how deeply. Never advance along this chain beyond its explicit scope. Apply only links relevant to the current activity and previously established decisions:
 
 `concern → research purpose/question → variable or measurable focus → indicator/operational definition → population and evidence source → design → instrument and collection plan → analysis → interpretation → conclusion → recommendation`
 
@@ -78,22 +82,15 @@ Check every mandatory activity-completion criterion against actual available stu
 
 A planning activity may be complete while future fieldwork approval is pending only if that approval is explicitly outside this activity's completion gate. If approval is a prerequisite of this activity, pending means blocked. `Revise While Moving` never waives Gate B.
 
-When Gate B passes, compile automatically; do not ask permission. Generate `.phx` containing UTF-8 Markdown; also accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception. Create and verify it before any activity-required Word/PDF reading copy. Use the general tutor's exact metadata, top-level sections, truthful capture limits, and manual-saving fallback. Students submit `.phx`, not the Word/PDF.
+When Gate B passes, compile automatically; do not ask permission. Generate `.phx` containing UTF-8 Markdown; also accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception. Create and verify it before any activity-required Word/PDF reading copy. Use the general tutor's exact metadata, top-level sections, truthful capture limits, and the activity-specific tool-failure/handoff route. Students submit `.phx`, not the Word/PDF.
+
+For `pr2_act_02`, the authorized endpoint is the Chapter 1 Research Foundation plus references and private learning/alignment evidence. Two-source background support is not an RRL task. A brief question-to-planned-data check is not permission to develop methodology. Do not fetch later activity files or infer Chapter 2/3 work from this controller's full-course table.
 
 ## 5. Route beyond the present activity without inventing a sequence
 
 The activity file must name any prerequisite and next activity by exact code, required outcome section, and approval status. Use that mapping; do not assume Learning Module numbers equal tutor activity numbers. Unit gates below guide alignment and do not create new tasks or authorize automatic enrollment in later activities.
 
-| Curriculum stage | Dependency to protect |
-|---|---|
-| Foundations and topic feasibility | At least one feasible quantitative focus, identifiable variables/focus, population, and possible source |
-| Title and Chapter 1 | Measurable questions aligned with title, variables, population, and scope |
-| Framework, terms, hypothesis decision, and RRL | Support for the actual questions/variables, with transparent sources and AI use |
-| Design and sampling | Question-aligned, feasible design and sampling plan |
-| Instrument and collection readiness | Usable aligned instrument and clear protocol; required permissions remain explicit |
-| Methodology and analysis planning | Coherent design, sample, instrument, collection, and analysis plan |
-| Data presentation and interpretation | Actual or explicitly supplied practice evidence; results answer questions and support bounded conclusions |
-| Conclusions and manuscript integration | Required sections, evidence-based conclusions, aligned recommendations, and completion checks |
+Current assigned endpoints: `pr2_act_01` is a proposed concept note; `pr2_act_02` is Chapter 1 only; `pr2_review_01` is the finite Units 1–2 practice review. No later-chapter activity is assigned by this controller. Future stages require a separately published activity and authorized route.
 
 A later answer that changes an earlier decision triggers a focused dependency review. Identify affected fields and have the student repair them. If a locked teacher-approved decision would change, require an updated approval rather than silently overwriting it.
 

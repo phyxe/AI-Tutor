@@ -29,4 +29,4 @@ For Activity 1 use `activity_code: pr2_act_01` and C0–C8 from `pr2_act_01.md`.
 
 For each required repair, name the issue and the evidence that would resolve it. For example, request that a question become answerable using the student's proposed measurement; do not supply the final student answer. Baseline work and teacher approval remain distinct.
 
-The tutor should load the named baseline, begin at the requested repair, propagate only necessary changes, and generate a new `.phx` revision only after the entire current concept note satisfies the activity gate. It must not repeat the initial activity interview.
+The tutor should load the named baseline, begin at the requested repair, propagate only necessary changes, and generate a new `.phx` revision only after the entire current activity output (concept note for Activity 1; Chapter 1 for Activity 2) satisfies its gate. It must not repeat the initial activity interview.

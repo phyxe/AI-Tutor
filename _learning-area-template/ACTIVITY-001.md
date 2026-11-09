@@ -55,3 +55,7 @@ Draft a concise update using `outcomes/OUTCOME-TEMPLATE.md`. Record this activit
 ## Maintenance updates
 
 Inherit the general tutor's `TUTOR-STATUS.md` checks and save/pause/resume protocol. A maintenance .md handoff may preserve incomplete work for interim teacher review; it is not final submission readiness.
+
+## Closed contract and coverage audit
+
+Specify all mandatory checkpoints, their observable evidence, allowed alternatives/conditional requirements, optional outputs, deferred work, and the endpoint. The tutor must map every required criterion to actual evidence, neither add work nor omit/substitute requirements, and resolve official ambiguity through the teacher. One response may satisfy several criteria without reducing their demands. Final export requires complete coverage and no added off-scope deliverables.
