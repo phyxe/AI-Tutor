@@ -1,16 +1,19 @@
 ---
 student_code: pr2_pru_07
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_01
 route_action: REVISION
-route_directive_id: pr2_pru_07-a01-focused-revision-2026-11-06
+route_directive_id: pr2_pru_07-a01-focused-revision-2026-11-10
 route_baseline_revision: pr2_pru_07-a01-submitted-baseline-2026-11-06
-route_resume_checkpoint: C3
-status: activity-1-focused-revision-required
+route_resume_checkpoint: C2
+route_plan_id: pr2_pru_07-a01-resume-plan-2026-11-10
+route_handoff_id: pr2_pru_07_pr2_act_01_maintenance-2026-11-09
+route_resume_action: CHECK
+status: activity-1-independent-understanding-check-required
 ---
 
-Teacher direction recorded November 6, 2026: retain the newly submitted concept and strengthen only the identified Activity 1 decisions before resubmission. Activity 2 is not authorized. Student identity is maintained separately.
+Teacher review November 10, 2026: new handoff reviewed; continue focused Activity 1 revision at C2 with an independent application check. The November 6 repair scope is retained and refined below. Earlier teacher direction: retain the newly submitted concept and strengthen only the identified Activity 1 decisions before resubmission. Activity 2 is not authorized. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -30,17 +33,17 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 # pr2_act_01 | Research Concept Note
 
 - Activity status: New submission reviewed; focused revision required, not a full restart.
-- Teacher verification: November 6, 2026 direction to strengthen the specific decisions below before Activity 2 consideration.
+- Teacher verification: November 10 handoff review; clearer proposed explanations are available, but repeated tutor-model wording does not establish independent understanding. Activity 2 remains unauthorized.
 - Concept approval status: Workable concept retained as a revision baseline; complete concept and Chapter 1 progression not yet approved.
 - Approved concept revision: None for Activity 2.
 - Current baseline: `pr2_pru_07-a01-submitted-baseline-2026-11-06` (teacher-designated submitted-concept snapshot, not certification of mastery).
-- Current directive: `pr2_pru_07-a01-focused-revision-2026-11-06`.
+- Current directive: `pr2_pru_07-a01-focused-revision-2026-11-10`.
 - Prior route history: November 5 full-restart direction superseded; this is now targeted REVISION, not another INITIAL restart.
 - Submission revision and next file: The reviewed source has no verified student code/revision metadata or full evidence record. This teacher snapshot establishes the concept baseline, not a fabricated prior r01. Resolve completed-submission history before naming the new file: use r01 only if verified as the first completed schema-compliant Activity 1 record, otherwise verify and increment the actual prior number. Do not invent r02. Continue learning while resolving filename history.
 - Student-reported work: New concept supplied; actual earlier learning evidence remains in private teacher storage where available.
-- Tutor-observed learning evidence: No new revision responses recorded by this update. Do not credit polished baseline text as independent explanation.
+- Tutor-observed learning evidence: Reviewed partial handoff records proposed eligibility/period and source/linkage explanations. Several current responses exactly repeat tutor-provided models; retain them as assisted proposals, not satisfied independent evidence. No fresh answer is invented by this update.
 - Checkpoint summary: Reopen C3, C2, C4, C7, C8; retain C0, C1, C5, C6 as baseline content, subject to necessary dependency checks and essential missing understanding evidence only.
-- Next step / resume point: REVISION, C3; focused opening question under Teacher's Comments.
+- Next step / resume point: REVISION C2/CHECK under the November 10 Resume Plan; independent application first, not a repeated whole eligibility interview.
 
 ## Concept Outcome
 
@@ -116,14 +119,14 @@ This is a proposed concept note for review, not authorization to conduct the stu
 activity_code: pr2_act_01
 student_code: pr2_pru_07
 entry_mode: REVISION
-revision_directive_id: pr2_pru_07-a01-focused-revision-2026-11-06
+revision_directive_id: pr2_pru_07-a01-focused-revision-2026-11-10
 baseline_revision: pr2_pru_07-a01-submitted-baseline-2026-11-06
 baseline_source: "This exact outcome record, Revision Baseline subsection"
 reopen_checkpoints: [C3, C2, C4, C7, C8]
 retained_checkpoints: [C0, C1, C5, C6]
 locked_decisions: [current topic, core research purpose, current non-experimental study type]
 authorized_scope: "Clarify eligibility within Grade 11 Wisdom, matching reference period, procrastination versus circumstances, response form for reported reasons, and feasible paired data; consequential alignment only. Preserve the current relationship focus and non-experimental design."
-required_repairs: "Numbered focused repairs below; begin at C3."
+required_repairs: "Numbered focused repairs remain applicable; begin at C2/CHECK under the November 10 Resume Plan, then the first genuinely unresolved repair."
 required_approval_before_compilation: "None additional for repairs within this directive after all Activity 1 completion requirements pass. Teacher clarification is required for changes beyond the authorized scope. Teacher approval after resubmission is required before Activity 2."
 ```
 
@@ -149,15 +152,57 @@ Generate a new .phx only after the entire Activity 1 completion gate passes usin
 
 After the gate passes, compile automatically, verify the actual .phx as UTF-8/non-archive text, and derive the student reading copy from FINAL OUTPUT when supported. The student resubmits the .phx through the teacher's prescribed channel. End with teacher review pending; do not begin Activity 2, change the route automatically, or approve fieldwork.
 
+## Resume Plan
+
+```yaml
+plan_id: pr2_pru_07-a01-resume-plan-2026-11-10
+activity_code: pr2_act_01
+reviewed_handoff_id: pr2_pru_07_pr2_act_01_maintenance-2026-11-09
+reviewed_handoff_sequence: maintenance-interim-2026-11-09
+source_type: teacher_designated_source
+baseline_revision: pr2_pru_07-a01-submitted-baseline-2026-11-06
+activity_version_reviewed: "0.1.9"
+resume_checkpoint: C2
+resume_action: CHECK
+resume_criterion: "Independently distinguish procrastination from barriers to work; tutor-model repetition is insufficient. Then finish missing eligibility/period/reasons/source-plan repairs and integrated review."
+next_prompt: "Describe a situation of your own in which a student starts a module late. Explain whether it is procrastination or a circumstance preventing work, and what information you would need before deciding."
+session_goal: Not separately assigned
+teacher_review_basis: "Teacher reviewed the November 9 Activity 1 handoff and accepted the targeted repair recommendation on November 10."
+retained_checkpoints: [C0, C1, C5, C6]
+open_checkpoints: [C3, C4, C7, C8]
+repair_checkpoints: [C2]
+blocked_checkpoints: []
+authorized_scope: "Original focused Activity 1 revision only; retain concept, setting and nonexperimental relationship purpose. No full restart or automatic Activity 2 progression."
+teacher_approval_status: "Complete concept not approved; Activity 2 unauthorized."
+```
+
+### Teacher-designated reviewed continuity source
+
+This exact outcome's Revision Baseline plus the compact evidence disposition below supply the reviewed continuity context. The full handoff remains private; no missing private file, retyping of the whole concept or full historical transcript is required to begin. If the learner supplies the handoff, match the ID above and preserve actual responses privately. Its old maintenance status is historical: check the live notice before learning/export.
+
+| Checkpoint | Teacher disposition | Reviewed evidence and remaining criterion |
+|---|---|---|
+| C0/C1/C5/C6 | RETAIN / affected checks only | Existing context, problem, title and correlational/nonexperimental direction; not a new independent-mastery claim. |
+| C2 | REPAIR | Meaning of delay/barriers, phone distraction, multiple reasons and record-source wording are clearer, but several responses repeat supplied model answers. Verify transfer without an exact-task answer first. Complete reasons response form/summary and shared-period alignment. |
+| C3 | OPEN / targeted check | Carried-forward proposal excludes zero-late submitters while acknowledging restricted variation and does not preselect known procrastinators. Reuse this evidence; ask only the missing rationale/limited claim, not the full opening interview again. Population/eligibility remains subject to teacher review. |
+| C7 | OPEN | Teacher records proposed, both count fields explicitly unconfirmed; coded linkage proposed. Feasible authorized source, deadlines/period, applicable consent and refusal/incomplete-data/privacy plan still need coherent explanation. Copied linkage wording is not independent mastery. |
+| C4/C8 | RECHECK / OPEN | Propagate only necessary repairs into questions, measures, scope/title and procedure; integrated review not completed. |
+
+### November 10 teaching and completion direction
+
+Do not automatically include a directly copyable sample for each target question. The reviewed transcript explicitly shows repeated tutor wording on procrastination/barriers, cellphone distraction, multiple reasons, record source and linkage. Explain concepts or use a different-case model only when needed, then elicit a fresh student application. Accept short English/Tagalog/Taglish reasoning; polished English is not the criterion. Do not equate model copying with dishonesty or claim that all responses are invalid. Preserve the separately recorded acknowledgment that record contents are still unconfirmed.
+
+Do not impose inclusion/exclusion of zero-late cases; evaluate the learner's justification and limited claim under the original directive. Exact school dates can remain to verify if the intended completed period is coherent. Final instrument validation, pilot testing, fixed sample size, final test and obtained record permission are not concept-stage completion prerequisites. The handoff's claim of completed pilot/teacher instrument approval is uncorroborated in this outcome; do not carry it as a verified fact. A plausible evidence source/permission plan remains necessary; refer an infeasible paired-data plan to the teacher rather than invent a fallback. No collection/contact authorized.
+
 ## Teacher's Comments
 
-Your idea remains workable, and your new submission shows progress. Please strengthen the specified parts of Activity 1 rather than repeat the whole activity. Explain your decisions, make the necessary aligned revisions, and resubmit the completed .phx before teacher review for Activity 2.
+Your new handoff is reviewed. Keep the concept and continue the focused Activity 1 revision. Some proposed explanations are clearer, but answers repeated from tutor samples do not yet show that you can explain and apply the ideas independently. Activity 2 is not authorized yet.
 
-After necessary language handling, ask this first focused question in the student's chosen language:
+After current source/maintenance checks and necessary language handling, ask this first question without supplying a sample answer:
 
-> Would a Wisdom student who submitted every module on time still be eligible for your study? Explain why, and what including or excluding that student would mean for the relationship you want to examine.
+> Describe a situation of your own in which a student starts a module late. Explain whether it is procrastination or a circumstance preventing work, and what information you would need before deciding.
 
-Ask the next missing part according to the actual answer, one question at a time. Do not prewrite the answer or present the entire repair list as an interrogation. Guide the student toward a defensible explanation/application, then move on once it is sufficient. Record unresolved essential issues honestly. Keep detailed answers, feedback and transcript in the private .phx rather than the public outcome.
+Use the actual explanation for the next missing repair. Follow the November 10 Resume Plan rather than restart the whole activity or automatically repeat the earlier C3 opening. Preserve genuine earlier evidence, resolve the remaining reasons/period/eligibility/source-plan and C8 requirements, then compile only after the complete Activity 1 gate passes. Record assistance and actual answers honestly in the private submission. No grade, concept approval, Activity 2 authorization or fieldwork is issued.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
