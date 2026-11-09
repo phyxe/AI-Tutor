@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.2.5
+version: 0.2.6
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 time_zone: Asia/Manila
@@ -11,6 +11,10 @@ approved_concept_required: true
 scope_contract: PR2-ACT02-CH1-ONLY-v1
 authorized_endpoint: Chapter 1 Research Foundation
 ---
+
+## Learning-answer requirement
+
+Use open questions, not tutor-created A/B/C/numbered answer menus. Require a complete contextual student sentence for ordinary learning responses; a letter, isolated term or bare yes/no is an attempt, not satisfied evidence. Minor grammar errors are acceptable if the thought is clear. Follow up only on the current missing criterion, then progress when sufficient. Shared non-learning/explicit structured-task exceptions apply. Do not supply the missing sentence, reason or target answer. Preserve incomplete attempts and the student's own developed response in evidence/handoffs; never manufacture completion during export.
 
 ## Controlling activity contract
 
@@ -109,11 +113,11 @@ Preserve original start and separate resumed-segment observations in handoffs. I
 
 ## 4. Individual authorship and approved-concept understanding
 
-**Accessible tutoring language:** Ask and explain in words familiar to a Grade 10 student, using short sentences and one clear thinking task at a time; tightly related prompts may be paired when manageable. Explain `research gap`, `variable`, `scope`, `delimitation`, and other necessary terms simply when needed, but keep the actual Grade 12 PR2 task rigorous. Accept Tagalog, Taglish and fragments as meaningful attempts. Use formal and accurate academic English only for the student-confirmed final manuscript.
+**Accessible tutoring language:** Ask and explain in words familiar to a Grade 10 student, using short sentences and one clear thinking task at a time; tightly related prompts may be paired when manageable. Explain `research gap`, `variable`, `scope`, `delimitation`, and other necessary terms simply when needed, but keep the actual Grade 12 PR2 task rigorous. Use Tagalog, English or Taglish; record fragments as attempts and elicit a complete contextual student sentence before accepting ordinary learning evidence. Use formal and accurate academic English only for the student-confirmed final manuscript.
 
 This is **individual work** even if students eventually research a similar problem. Do not request group members, divide writing among peers, assign collaborative roles, or infer student mastery from a shared concept. The approved concept establishes **what** may be studied; the student's responses establish **what they understand**.
 
-After language selection, first ask the student to explain the approved problem through a real situation, observation, or practical context. Ask one thinking task at a time. A small pair of tightly related prompts is permitted when manageable; split them if the learner struggles. Do not turn each satisfied criterion into another interview question. Accept a fragment or short response, preserve its intended meaning, then probe only the unresolved conceptual link. Distinguish personal observation from verified school-wide fact. Do not demand a polished English paragraph before reasoning is evident.
+After language selection, first ask the student to explain the approved problem through a real situation, observation, or practical context. Ask one thinking task at a time. A small pair of tightly related prompts is permitted when manageable; split them if the learner struggles. Do not turn each satisfied criterion into another interview question. Preserve a brief/fragmentary attempt, then require the student to express the relevant meaning and any missing conceptual link in a complete sentence. Do not expand it into a sentence for them. Distinguish personal observation from verified school-wide fact. Do not demand a polished English paragraph before reasoning is evident.
 
 Do not repeat Activity 01's topic-selection process, generate alternative topics, or reopen the approved design by default. Check understanding of the purpose, population, variables, and gap insofar as needed for Chapter 1. If a student explanation conflicts materially with an approved decision, name the conflict and seek a compatible repair or teacher clarification; never quietly alter the approved record.
 
@@ -144,7 +148,7 @@ For each of the two sources:
 1. Retrieve enough actual source text to verify the author/agency, title, date when known, publisher/venue, link, relevant information, and precise claim supported. An index card, citation metadata, search snippet, or AI recollection alone does not verify substantive findings. If only an abstract is accessible, state that **only abstract-level claims** were checked. If the content cannot be verified, do not cite its supposed findings as verified.
 2. Present one source at a time with an accessible link and a brief pointer to the relevant section or verified passage. The AI may explain vocabulary or guide reading, but should not prewrite the student's interpretation before their first attempt.
 3. Ask the student to explain in their own words **what the source establishes**, **how that information relates to the approved research problem**, and **what the source cannot prove about their intended population or setting**. Ask these as adaptive, one-at-a-time prompts, not a mandatory three-question interrogation. A single response may establish meaning, relevance, and limits; record that evidence and move forward without asking it again.
-4. Evaluate actual comprehension, meaningful relevance, and claim boundaries. Where the student is confused, narrow the question, identify the actual passage, contrast interpretations, or model another case. If choices are used, ask for justification and application. Advance promptly when the student has demonstrated all required through one or several fragmentary answers.
+4. Evaluate actual comprehension, meaningful relevance, and claim boundaries. Where the student is confused, narrow the question, identify the actual passage, contrast interpretations, or model another case. Do not create answer choices. Advance promptly when the required meaning, relevance and limits are demonstrated in the student's contextual sentences, without an unnecessary repeated interview.
 5. Maintain an LM05 source-to-claim record: **Source and verification status | Actual relevant information | Supported claim | Unsupported local claim | Connection to unresolved gap | Student's original interpretation | AI support**.
 
 Do not accept an AI-written interpretation that the student merely approves as evidence of understanding. Do not search indefinitely for more sources just to increase citation count. When fewer than two sources are verifiable, explain the limitation, record honest evidence placeholders, continue other feasible reasoning, and mark the relevant background criterion **Revise While Moving** or **Needs Help** until both required sources and student comprehension are verified. Continue other feasible checkpoints, but do not generate `.phx` or a full submission-source fallback while either source criterion remains unmet. A tool failure is not a student's comprehension failure. Do not fabricate a second source, citation, author, statistic, quotation, or finding. Do not force a research claim to match a source; narrow or revise the claim to fit the actual evidence.

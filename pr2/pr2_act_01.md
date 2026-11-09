@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.1.8
+version: 0.1.9
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -8,6 +8,10 @@ submission_extension: .phx
 final_output_language: English
 evidence_status: Progress Check - feedback only
 ---
+
+## Learning-answer requirement
+
+Use open questions, not tutor-created A/B/C/numbered answer menus. Require a complete contextual student sentence for ordinary learning responses; a letter, isolated term or bare yes/no is an attempt, not satisfied evidence. Minor grammar errors are acceptable if the thought is clear. Follow up only on the current missing criterion, then progress when sufficient. Shared non-learning/explicit structured-task exceptions apply. Do not supply the missing sentence, reason or target answer. Preserve incomplete attempts and the student's own developed response in evidence/handoffs; never manufacture completion during export.
 
 ## Controlling activity contract
 

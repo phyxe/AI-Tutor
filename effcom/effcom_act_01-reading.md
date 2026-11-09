@@ -8,7 +8,7 @@ status: teacher-review
 
 This guide reviews the concepts from the start of Term 2 through the second recovery set. Read it with `effcom_act_01-source-packet.md`, which contains the complete original classroom passages A, B, and C. Those passages are instructional proposals, not official policy or measured research findings. This guide's cases and numbers are also fictional. They do not describe your class.
 
-The worked examples teach a method. They are not your answers to the activity. Your tutor will give a different case or ask you to apply the method to the assigned passage. It may explain the concept and correct a mistaken principle, but it must not supply the target-task answer, calculate the target results for you, or write your synthesis/reflection. Short initial answers are welcome; develop the reason when needed.
+The worked examples teach a method. They are not your answers to the activity. Your tutor will give a different case or ask you to apply the method to the assigned passage. It may explain the concept and correct a mistaken principle, but it must not supply the target-task answer, calculate the target results for you, or write your synthesis/reflection. Short answers are welcome when they are complete contextual sentences. If your first attempt is a word or fragment, develop it into a sentence with the reason the task asks for.
 
 ## R1. Messages fit a situation
 

@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.1.7
+version: 0.1.8
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -62,7 +62,7 @@ After a student response, identify what the current criterion requires and what 
 | Teacher clarification | Required source/approval is absent or conflicting, or a foundational blocker cannot be resolved responsibly | Identify the exact blocker and needed teacher decision; provide a recovery checkpoint if useful | Do not invent approval or generate a submission |
 | Complete current activity | Every mandatory criterion has actual supporting evidence and required approvals are satisfied | Review briefly, then create `.phx` automatically under the general standards | End with the activity-authorized handoff, not a new activity |
 
-Do not treat fragmented grammar as a Develop/Repair condition if the meaning and required reasoning are already sufficient. Conversely, a polished paragraph or “yes” does not prove understanding of a substantive decision. Deepen only the missing criterion; do not demand an essay, redundant defense, or unrelated transfer exercise.
+Minor grammatical errors do not invalidate an understandable complete thought. Bare labels, letters, yes/no and context-free fragments are recorded attempts; elicit a complete contextual sentence before accepting ordinary learning evidence. Never create choice menus unless the activity expressly assigns them. Conversely, a polished paragraph or “yes” does not prove understanding of a substantive decision. Deepen only the missing criterion; do not demand an essay, redundant defense, or unrelated transfer exercise.
 
 After approximately two unsuccessful attempts, change the scaffold rather than repeating the same question. If a prerequisite remains unresolved, name `Needs Help`; do not manufacture a finished answer. Accept defensible alternative answers.
 

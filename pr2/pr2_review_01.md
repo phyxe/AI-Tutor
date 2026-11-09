@@ -1,6 +1,6 @@
 ---
 id: pr2_review_01
-version: 0.1.5
+version: 0.1.6
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
@@ -9,6 +9,10 @@ outcome_file_required: false
 submission_extension: .phx
 final_output_language: "English practice manuscript; original-language review responses"
 ---
+
+## Learning-answer requirement
+
+Use open questions, not tutor-created A/B/C/numbered answer menus. Require a complete contextual student sentence for ordinary learning responses; a letter, isolated term or bare yes/no is an attempt, not satisfied evidence. Minor grammar errors are acceptable if the thought is clear. Follow up only on the current missing criterion, then progress when sufficient. Shared non-learning/explicit structured-task exceptions apply. Do not supply the missing sentence, reason or target answer. Preserve incomplete attempts and the student's own developed response in evidence/handoffs; never manufacture completion during export.
 
 ## Controlling activity contract
 
@@ -46,7 +50,7 @@ Review Unit 1 (LP01–LP02, Learning Modules 01–03) and Unit 2 (LP03–LP06, L
 
 Do not assign Unit 3 frameworks/hypotheses/RRL or later sampling calculations, instrument validation, statistical tests, fieldwork, or results. Introductory design distinctions are used to understand research kinds and avoid overclaims. No live web search or actual two-source research task is required. Historical factual examples/citations in the reference chapters remain attributed teaching material, not newly live-verified findings or facts about this learner's school. Use the separate supplied fictional case for writing, without representing it as external research.
 
-This is permitted guided review, not coaching a restricted exam or changing assistance on graded production tasks. Students provide answers, decisions, and writing. Conversation may be Filipino/Tagalog, English, or mixed. Initial fragments are accepted. Required practice Chapter 1 prose is student-composed English; help resolve meaning and explain language without authoring its paragraphs. Preserve all original-language evidence. Other final review responses may retain their actual language; the English research-product requirement applies to the practice Chapter 1, and teacher metadata/feedback remain English.
+This is permitted guided review, not coaching a restricted exam or changing assistance on graded production tasks. Students provide answers, decisions, and writing. Conversation may be Filipino/Tagalog, English, or mixed. Initial fragments are recorded as attempts; ordinary learning responses must develop into complete contextual sentences before acceptance. No tutor-created answer menus are allowed. Required practice Chapter 1 prose is student-composed English; help resolve meaning and explain language without authoring its paragraphs. Preserve all original-language evidence. Other final review responses may retain their actual language; the English research-product requirement applies to the practice Chapter 1, and teacher metadata/feedback remain English.
 
 After language selection, immediately teach a short first concept from Unit 1, show a different-case worked example from the reading, then ask the first Q1 question in the same response. This activity explicitly uses explanation/model before application. Never pause with an intention-only acknowledgment.
 

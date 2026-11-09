@@ -1,6 +1,6 @@
 ---
 id: effcom_act_01
-version: 0.1.4
+version: 0.1.5
 status: teacher-review
 learning_area: Effective Communication
 ai_permission: AI-2 guided developmental review
@@ -8,6 +8,10 @@ evidence_status: Progress Check - feedback only
 submission_extension: .phx
 outcome_file_required: false
 ---
+
+## Learning-answer requirement
+
+Use open questions, not tutor-created A/B/C/numbered answer menus. Require a complete contextual student sentence for ordinary learning responses; a letter, isolated term or bare yes/no is an attempt, not satisfied evidence. Minor grammar errors are acceptable if the thought is clear. Follow up only on the current missing criterion, then progress when sufficient. Shared non-learning/explicit structured-task exceptions apply. Do not supply the missing sentence, reason or target answer. Preserve incomplete attempts and the student's own developed response in evidence/handoffs; never manufacture completion during export.
 
 ## Controlling activity contract
 
@@ -54,7 +58,7 @@ For each checkpoint:
 1. Teach the relevant concept in short accessible language using the matching R section; preserve necessary detail and qualifications. One explanation block need not repeat the entire reading.
 2. Show the matching different-case worked example, or reference it briefly if already understood. Do not solve the target task. R8 may demonstrate citation structure with blanks rather than prefill the learner's required citations; R10 may explain the evidence-based reflection pattern without inventing a learner reflection.
 3. Ask one main question/action from the checkpoint's T task. Break its related parts across turns as needed. Do not dump ten tasks or a long quiz at once.
-4. Accept fragments as attempts; ask for missing necessary reasoning and develop completeness. Use concise sandwich feedback: supported point, precise correction if needed, next concrete question/action.
+4. Record fragments as attempts; require a complete contextual student sentence and the necessary reasoning before acceptance. Do not supply choices or complete the sentence for the learner. Use concise sandwich feedback: supported point, precise correction if needed, next concrete question/action.
 5. If confused, change scaffold: smaller question, definition, blank frame, or different analogous case. Return to the target application. Copying the model or agreeing with a tutor answer is not demonstrated learning.
 6. Advance immediately when sufficient. One response may satisfy multiple related criteria. Do not force a fixed turn count or repeat a mastered explanation. An AI explanation is not itself student evidence.
 

@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_03
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
 route_action: REVISION
-route_directive_id: pr2_pru_03-a01-revision-2026-11-05
-route_baseline_revision: pr2_pru_03-a01-baseline-2026-11-05
-route_resume_checkpoint: C4
-status: activity-1-targeted-revision-required
+route_directive_id: pr2_pru_03-a01-revision-2026-11-09
+route_baseline_revision: pr2_pru_03-a01-reviewed-snapshot-2026-11-09
+route_resume_checkpoint: C2
+status: problem-approved-descriptive-redesign-required
 ---
 
-Teacher direction recorded November 5, 2026: topic and research problem accepted; targeted Activity 1 revision and .phx resubmission required before consideration for Activity 2. Student identity is maintained separately.
+Teacher decision recorded November 9, 2026: research problem approved; focused Activity 1 revision required. Complete concept approval and Activity 2 authorization remain pending. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -29,39 +29,30 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research Concept Note
 
-- Activity status: Targeted revision required; original topic declaration available as the embedded baseline below.
-- Submission revision: No verified prior .phx revision number recorded; baseline snapshot ID is not a student submission revision number.
-- Teacher verification: Topic and research problem accepted November 5, 2026; other required components remain subject to targeted repair and review.
-- Concept approval status: Topic/problem accepted only; complete concept and Chapter 1 progression not yet approved.
-- Approved concept revision: No complete concept approved for Activity 2.
-- Student-reported work: Existing submission summarized in the teacher-designated baseline; no new responses claimed.
-- Tutor-observed learning evidence: No revision-session responses observed yet.
-- Checkpoint summary (C0–C8): C0/C1 retained as accepted topic context/problem; C2/C3/C4/C7 open for specified repairs; C5/C6 retained subject to affected alignment checks; C8 required after repair. Retention does not certify undocumented independent understanding.
-- Next step / resume point: REVISION, C4; ask the focused opening question in Teacher's Comments after necessary language handling.
+- Activity status: Teacher-reviewed existing work; targeted REVISION required, not a full restart.
+- Teacher decision date: November 9, 2026 (Asia/Manila).
+- Research problem approval status: Approved within the direction and conditions below.
+- Complete concept approval status: Not approved; no accepted concept revision for Activity 2.
+- Submission revision: No verified completed .phx revision established by this update. A snapshot ID is not a submission revision number.
+- Teacher verification: Existing research planning reviewed; mandatory repairs remain open until supported by actual student evidence.
+- Student-reported work: Research planning preserved through a teacher-reviewed shared conversation; summarized baseline below.
+- Tutor-observed learning evidence: Many earlier answers are available only through tutor summaries. No new student responses or passed checkpoints are claimed by this teacher update.
+- Checkpoint summary: C0/C1 problem/context direction retained subject to affected consistency checks; C2-C8 open or recheck as specified. Retention is not certification of independent mastery.
+- Next step / resume point: REVISION, C2; use the opening clarification below after required source/maintenance checks and necessary language handling.
 
 ## Concept Outcome
 
-Your topic and research problem are accepted. Keep them. Revise only the specified parts of Activity 1, then resubmit the completed .phx for teacher review. You may proceed to Activity 2 only after the teacher reviews that resubmission and records explicit approval.
+The research problem concerning students willingness to voluntarily participate in classroom cleaning is approved. The teacher authorizes a quantitative descriptive redesign to describe reported factors encouraging or discouraging willingness; the former motivation-versus-participation correlation is superseded.
+
+Keep usable work, answer the focused clarifications, complete the aligned Activity 1 concept note and submit the completed .phx for teacher review. Research-problem approval is distinct from complete concept approval, Chapter 1 drafting authorization and fieldwork permission. None of the latter is issued here.
 
 ## Revision Baseline
 
-Baseline ID: `pr2_pru_03-a01-baseline-2026-11-05`. This is a teacher-designated summary snapshot of the existing submission, not a verbatim transcript, not a newly completed student submission, and not proof that every checkpoint was previously satisfied. The source submission remains in private teacher storage. The tutor may use this embedded baseline without asking the student to retype the concept or retrieve a private local path. Do not treat AI-organized wording as independently observed student reasoning.
+Baseline ID: `pr2_pru_03-a01-reviewed-snapshot-2026-11-09`. Teacher-designated continuity snapshot of the reviewed shared-conversation work. It is not a completed student submission or verbatim transcript. No private path, student name or full conversation is published here; use this embedded snapshot to begin without requiring the student to retype existing work. Preserve actual accessible student responses separately and disclose transcript gaps in the private submission.
 
-- **Context:** Classroom cleanliness concerns and differences in students’ cleaning participation; unclear assignments and peer influence are acknowledged possible factors.
-
-- **Research problem:** Whether motivation is associated with participation in maintaining classroom cleanliness, potentially informing students, teachers, and administrators.
-
-- **Proposed title:** “Relationship Between Students' Motivation and Their Participation in Maintaining Classroom Cleanliness at Hawan National High School.”
-
-- **Research questions:** Relationship purpose is explicit, but a main question and specific questions are not separately written.
-
-- **Variables and indicators:** Motivation = willingness/interest and sense of responsibility; participation = self-reported frequency of performing cleaning duties, with Always–Never categories suggested.
-
-- **Study type and rationale:** Non-experimental correlational; numerical survey data, no manipulation or causal conclusion.
-
-- **Population and access:** Eight proposed HNHS junior high students with cleaning responsibilities; selection mechanism/access not detailed.
-
-- **Data gathering:** Structured rating questionnaire; proposed one-week permission, distribution, collection, and organization sequence; voluntary participation, confidentiality, and applicable consent/assent are included.
+- **Working focus:** Classroom cleaning and willingness to volunteer; proposed descriptive direction. No final revised title is approved.
+- **Reviewed planning:** The earlier November 5 baseline concerned a motivation/participation correlation, eight proposed JHS students with cleaning duties and a structured questionnaire. The reviewed conversation developed willingness and actual-participation questions, four-point agreement and five-point frequency responses, a proposed past-five-school-days participation period, printed questionnaires and safeguards. It also proposed 18 convenience respondents. These are historical/proposed decisions, not the newly approved design or population. Willingness is not equivalent to the full construct of motivation. The former correlational title, Pearson analysis, two-variable structure and fixed eight/18-person samples are not locked. Preserve useful context and safeguards, but recheck their relevance.
+- **Evidence limit:** Polished wording, tutor examples and agreement alone do not establish independent understanding. Recover only missing essential reasoning.
 
 ## Revision Routing
 
@@ -69,46 +60,40 @@ Baseline ID: `pr2_pru_03-a01-baseline-2026-11-05`. This is a teacher-designated 
 activity_code: pr2_act_01
 student_code: pr2_pru_03
 entry_mode: REVISION
-revision_directive_id: pr2_pru_03-a01-revision-2026-11-05
-baseline_revision: pr2_pru_03-a01-baseline-2026-11-05
+revision_directive_id: pr2_pru_03-a01-revision-2026-11-09
+baseline_revision: pr2_pru_03-a01-reviewed-snapshot-2026-11-09
 baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C2, C3, C4, C7, C8]
-retained_checkpoints: [C0, C1, C5, C6]
-locked_decisions: [accepted topic, accepted research problem]
-authorized_scope: "Repair questions, measurement, access and procedure within the existing topic/problem and proposed population/design; recheck affected title/design alignment only."
-required_repairs: "The numbered repairs below are mandatory; begin at C4."
-required_approval_before_compilation: "None additional if repairs stay within this directive and all Activity 1 completion requirements pass. Substantive changes to locked decisions require teacher clarification. Teacher approval after resubmission is mandatory before Activity 2."
+reopen_checkpoints: [C2, C3, C4, C5, C6, C7, C8]
+retained_checkpoints: [C0, C1]
+locked_decisions: [approved research problem direction, individual authorship, no fieldwork authorization]
+authorized_scope: "Teacher-authorized descriptive redesign within the approved classroom-cleaning willingness problem; develop reported factors and whole-grade-level population, with consequential questions/title/measurement/procedure changes. Supersedes the November 5 requirement to retain the correlational design and eight-person proposal."
+required_repairs: "Numbered repairs below; begin at C2 with the opening clarification."
+required_approval_before_compilation: "No additional approval for compatible decisions within this directive once all Activity 1 gates pass. Refer a substantive departure or unresolved teacher condition to the teacher. Complete concept and Activity 2 approval require subsequent teacher review."
 ```
 
-1. **C4:** Develop one main question and a coherent small set of specific questions that cover the two measured focuses and the intended relationship; do not supply the student’s final questions.
+1. **C2:** Explain voluntary participation versus assigned cleaning duties and willingness versus actual behavior. Do not equate willingness with the entirety of motivation. Develop plausible student-reported encouraging/discouraging factors without supplying a predetermined list or assuming lack of motivation is the explanation. Distinguish perceived reasons from established causes.
+2. **C3:** Identify and justify one whole grade level as the target population, superseding the earlier eight/18-person proposals. Explain eligibility and feasible voluntary recruitment across that grade; distinguish the target population from an attempt to invite all eligible students and from the eventual participating sample. No forced participation, invented count or automatic permission.
+3. **C4/C5/C6:** Develop descriptive questions, a justified quantitative descriptive design and an aligned student-developed title. Describe reported willingness/factors rather than correlate motivation and participation or claim causal effects. No correlation test or arbitrary minimum sample size is required. Do not carry the old five-day participation period into a new measure without checking fit.
+4. **C7:** Complete the before-during-after procedure, including suitable response forms/reference periods, who supplies which evidence, recruitment/permissions and applicable consent/assent, privacy/storage, refusals and incomplete answers. Preserve valid safeguards. Explain how assigned duties and available opportunities differ from voluntary willingness where relevant.
+5. **C8:** Reconcile all eight concept-note components and obtain missing independent reasoning. Recheck C0/C1 context wording only where needed for the approved descriptive problem; no full topic-selection restart.
 
-2. **C2:** Distinguish willingness/interest or responsibility as motivation from reported actual frequency of cleaning participation. Explain plausible indicators, response formats, source, and reference period without using the same behavior as both variables.
+### History and completion boundaries
 
-3. **C3:** Clarify how the proposed eight HNHS junior high students with cleaning responsibilities could be identified and invited voluntarily; distinguish proposed access from permission.
+This November 9 directive supersedes earlier conflicting directions. Historical titles, sample proposals, tutor readiness labels and old opening questions do not override it. Preserve useful baseline content and reopen only named repairs and actual affected dependencies. Apply the root maintenance protocol before teaching/export; an operational ready notice does not approve a student concept.
 
-4. **C7:** Complete a feasible before–during–after outline: who supplies which evidence, proposed tool/source, recruitment and required permission/consent/assent path, collection steps, basic privacy and secure storage, and handling refusal or incomplete data. Preserve existing safeguards and clarify only missing parts. For record-based evidence, explain confidential linkage and authorized access. Actual fieldwork permission, a validated instrument, a final sample size, and final statistical treatment are not required deliverables here; identify those future decisions truthfully.
+Verify every C0-C8 requirement using legitimate retained evidence plus actual revision responses before compilation. A proposed final sample size, final statistical test, validated instrument and granted fieldwork permission are not Activity 1 deliverables; identify them as future decisions where applicable. They do not replace the required plausible plan and independent understanding. Do not generate an incomplete/provisional .phx merely to record progress. If a hold or interruption applies, use the authorized unfinished Markdown handoff instead.
 
-5. **C8:** Compare all eight concept-note components after the repairs. Propagate only necessary consequential changes and preserve student meaning. Elicit only missing essential understanding; do not repeat retained sections or certify mastery from polished baseline wording.
-
-Keep the existing topic, problem, central focus, proposed design, and population. The student may supply missing setting details, reference periods, recruitment choices, indicators/response formats, and student-developed aligned questions within that scope. Nonsubstantive title edits for consistency are allowed. Do not silently replace the topic, add a variable/intervention, change the target group or design, or make causal claims; refer a necessary substantive departure to the teacher. Retained decisions receive consistency checks, not a repeated Activity 1 interview. If essential baseline understanding is undocumented, ask only the missing evidence question.
-
-### Resubmission and revision identity
-
-Before compilation verify every C0–C8 completion requirement using the baseline plus actual revision evidence, not just this directive. Preserve before/after changes, retained content, actual student answers, assistance, baseline/directive IDs, and truthful transcript limits in the private .phx. Do not generate a partial/provisional .phx or label this baseline summary a completed submission.
-
-The original files reviewed do not establish a previous completed .phx number. Resolve that identity before naming the revised file: if a prior completed .phx is available, verify its number and increment it; if it is confirmed this will be the first completed .phx, use `pr2_pru_03_pr2_act_01_r01.phx` while retaining entry_mode REVISION and this baseline/directive identity. If a prior completed submission exists but its revision is unknown, seek the missing baseline identity rather than inventing r02. Do not block the learning questions while resolving filename history.
-
-After the gate passes, generate the .phx automatically and provide the Activity 1 reading copy when tools permit. The student must resubmit the .phx through the teacher's prescribed channel. End with teacher review pending. Do not start Activity 2 in the revision chat or update approval/route automatically. No fieldwork or respondent contact is authorized.
+Resolve completed submission history before choosing a filename. If this is confirmed as the first completed .phx, use `pr2_pru_03_pr2_act_01_r01.phx` with entry_mode REVISION and the IDs above; otherwise increment the verified prior revision. Do not invent r02 or block learning while filename history is being resolved. Preserve before/after decisions, assistance, actual responses, directive/baseline IDs and truthful transcript limits in the private submission. After the gate passes, compile and provide the reading copy under current instructions; end with teacher review pending. No automatic Activity 2 progression or respondent contact.
 
 ## Teacher's Comments
 
-Your topic and research problem are accepted. You do not need a new topic or a complete restart. Complete the targeted repairs and resubmit Activity 1 as a .phx file before teacher review for Activity 2.
+Your research problem is approved. Continue Activity 1 by strengthening the specified parts; the complete concept is not yet approved. Keep the useful work already developed and explain the unsettled decisions in your own words. Complete and resubmit the Activity 1 .phx before the teacher considers Activity 2.
 
-After necessary language handling, ask this first focused question in the chosen language:
+After required source/maintenance checks and necessary language handling, ask this first focused question in the chosen language:
 
-> What main question do you want to answer about students’ motivation and their participation in classroom cleaning?
+> When you say students voluntarily participate in cleaning, what situation do you mean, and how is it different from completing an assigned cleaning duty?
 
-Use the actual answer to guide one next missing step at a time. Do not prewrite the answer or ask the entire repair list at once. Preserve the current question set where it already exists; develop missing questions through the student's reasoning. Record mandatory repairs as open until supported by actual responses. Full student answers, detailed feedback, and transcript belong in the private submission, not the public outcome record.
+Use the actual answer for the next missing step. Ask one focused question at a time, provide needed explanation without supplying target answers, and do not repeat an already supported interview. Do not prewrite the revised title, questions, indicators or questionnaire. Detailed answers, feedback and the transcript belong in the private submission, not this public record.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
@@ -124,7 +109,7 @@ Use the actual answer to guide one next missing step at a time. Do not prewrite 
 - Tutor-observed learning evidence: Not recorded.
 - Checkpoint summary (H1–H8): Not assessed.
 - Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the assigned Activity 1 revision, submit the revised .phx for teacher review, then await explicit Chapter 1 drafting authorization and an identified accepted concept.
+- Next step / resume point: Complete the November 9 targeted Activity 1 revision, submit the completed .phx for teacher review, then await explicit Chapter 1 drafting authorization and an identified accepted concept.
 
 ## Chapter 1 Outcome
 

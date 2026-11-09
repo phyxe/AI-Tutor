@@ -14,6 +14,8 @@ resume_checkpoint: H5
 resume_action: APPLY
 resume_criterion: SPECIFIC-UNFINISHED-CRITERION
 next_prompt: EXACT-SMALL-STUDENT-QUESTION-OR-ACTION
+session_goal: Not separately assigned
+teacher_review_basis: ACTUAL-REVIEW-REFERENCE-OR-NOT-REVIEWED
 retained_checkpoints: []
 open_checkpoints: []
 repair_checkpoints: []

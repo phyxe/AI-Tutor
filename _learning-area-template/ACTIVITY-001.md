@@ -59,3 +59,7 @@ Inherit the general tutor's `TUTOR-STATUS.md` checks and save/pause/resume proto
 ## Closed contract and coverage audit
 
 Specify all mandatory checkpoints, their observable evidence, allowed alternatives/conditional requirements, optional outputs, deferred work, and the endpoint. The tutor must map every required criterion to actual evidence, neither add work nor omit/substitute requirements, and resolve official ambiguity through the teacher. One response may satisfy several criteria without reducing their demands. Final export requires complete coverage and no added off-scope deliverables.
+
+## Student answers
+
+Require complete contextual sentences for ordinary learning answers, with reasoning appropriate to the criterion. No tutor-created choice menus; explicit activity selection/structured fields and non-learning inputs follow the shared exceptions. Record insufficient attempts, elicit the missing meaning, and advance only when evidence is sufficient. Do not supply a target response.

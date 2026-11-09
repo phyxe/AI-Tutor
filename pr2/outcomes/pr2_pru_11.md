@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_02
-route_action: INITIAL
+route_action: RESUME
 route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: authorized-for-chapter-1-with-entry-clarification
+route_baseline_revision: pr2_pru_11-a02-reviewed-handoff-snapshot-2026-11-09
+route_resume_checkpoint: H1
+status: activity-2-authorized-clarification-gate-open
 ---
 
-Teacher authorization recorded November 6, 2026: the revised time-use concept is accepted for Activity 2 with a mandatory opening clarification. Continue to Chapter 1 development after a satisfactory explanation, with guided repair if needed. This is not certification of independent mastery, approval of the eventual manuscript, or fieldwork permission. Student identity is maintained separately.
+Teacher review November 9, 2026: retain the November 6 authorization, but the clarification stage must be completed before full Activity 2 development or any further Chapter 1 drafting. Existing draft text is provisional, not evidence that this gate passed. Teacher authorization recorded November 6, 2026: the revised time-use concept is accepted for Activity 2 with a mandatory opening clarification. Continue to Chapter 1 development after a satisfactory explanation, with guided repair if needed. This is not certification of independent mastery, approval of the eventual manuscript, or fieldwork permission. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -37,7 +37,7 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Student-reported work: Revised concept describes school-activity hours and homework hours, three questions, numerical measures, convenience sampling, and a proposed survey.
 - Tutor-observed learning evidence: No original student-response or transcript evidence supplied in the source; do not certify authorship or understanding from polished prose alone.
 - Checkpoint summary (C0–C8): Written concept accepted for progression; full Activity 1 learning-evidence and submission-format compliance not certified.
-- Next step / resume point: pr2_act_02 INITIAL; opening clarification after language handling.
+- Next step / resume point: pr2_act_02 RESUME at H1 opening clarification; original Activity 2 entry mode INITIAL. No full drafting before the gate is resolved.
 
 ## Concept Outcome
 
@@ -53,8 +53,8 @@ Proceed with the required Activity 2 opening clarification. A satisfactory expla
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Authorized to begin with mandatory opening clarification; explanation not yet verified.
-- Chapter 1 drafting authorization: Approved for Chapter 1 drafting, conditional on satisfactory resolution of the opening clarification before dependent drafting.
+- Activity status: Authorization retained November 9; resume the mandatory clarification stage, which remains open. Full Activity 2 development is blocked until this stage is satisfactorily completed.
+- Chapter 1 drafting authorization: Approved for Chapter 1 drafting, conditional on satisfactory completion of the clarification stage before any further Chapter 1 drafting or full Activity 2 development.
 - Authorization date: November 6, 2026 (Asia/Manila).
 - Accepted pr2_act_01 concept revision: `pr2_pru_11-approved-concept-snapshot-2026-11-06`; original source revision number not verifiable.
 - Approved concept source: This exact outcome record, Approved Concept Snapshot below. No private local submission is required for tutor entry.
@@ -62,11 +62,11 @@ Proceed with the required Activity 2 opening clarification. A satisfactory expla
 - Submission revision: No Activity 2 submission recorded; use pr2_pru_11_pr2_act_02_r01.phx if it is the first completed Activity 2 submission. Do not derive its number from the unknown Activity 1 revision.
 - Teacher verification: Concept and conditional progression approved; clarification and Chapter 1 learning not yet verified.
 - Chapter 1 approval status: Manuscript not yet submitted or approved; development permission only.
-- Student-reported work: No Activity 2 answers recorded by this update.
-- Tutor-observed learning evidence: Not yet observed in Activity 2.
-- Checkpoint summary (H1–H8): Not assessed.
+- Student-reported work: November 9 handoff preserves explanations about convenience recruitment, breaks/free-time collection, proposed 1-2-day collection window, permission, voluntariness/privacy and recall/small-sample limits. A generated Word draft exists but does not establish compliance or clarification completion.
+- Tutor-observed learning evidence: Teacher-reviewed handoff contains reusable procedure reasoning; the required opening time-versus-completion explanation remains unanswered. No new answer or checkpoint pass is claimed by this update.
+- Checkpoint summary (H1–H8): H1 clarification gate open; other Chapter 1 checkpoints remain incomplete/unverified. Retain supported procedure reasoning for later checks without repeating the same interview.
 - Verified and student-understood sources: Not assessed; two distinct verified, student-understood sources remain required.
-- Next step / resume point: INITIAL; after language handling, ask the exact opening clarification in Teacher's Comments.
+- Next step / resume point: RESUME H1 clarification (original entry mode INITIAL), using the embedded reviewed-handoff snapshot. Ask the exact opening clarification before any further drafting.
 
 ## Approved Concept Snapshot
 
@@ -114,11 +114,25 @@ A short survey would collect each respondent's school-activity and homework hour
 
 ## Chapter 1 Outcome
 
-No Chapter 1 manuscript or verified clarification response recorded. Conditional drafting authorization is separate from demonstrated understanding and manuscript acceptance.
+A generated draft is reported, but no accepted Chapter 1 manuscript or satisfactory opening clarification is established. Authorization is retained; the clarification stage remains mandatory before full Activity 2 development. Existing draft wording cannot bypass that gate.
 
 ## Revision Routing
 
-INITIAL Activity 2 entry. No prior Chapter 1 baseline or revision directive assigned. Reuse the accepted time-use concept and do not repeat Activity 1 topic selection.
+RESUME the unfinished Activity 2 work with original entry_mode INITIAL. No Chapter 1 revision directive or Activity 1 resubmission is required. Reuse the approved concept and the continuity snapshot below; do not repeat topic selection or restart answered sampling questions.
+
+### Reviewed Handoff Snapshot
+
+Snapshot ID: `pr2_pru_11-a02-reviewed-handoff-snapshot-2026-11-09`. Teacher-reviewed summary of the November 9 Activity 2 maintenance handoff, not a final submission, complete transcript or accepted manuscript. Use this embedded snapshot without requiring access to private teacher files.
+
+- Prior reasoning covers available/willing convenience respondents, breaks/free-time recruitment, proposed collection over 1-2 days, permission, voluntary participation, no names/privacy, recall limitations and a small sample. Preserve actual accessible answers in the private record; ask only genuinely missing details later.
+- The required explanation distinguishing homework time from completion is still missing. This is the exact next learning task, regardless of how far an earlier draft progressed.
+- A generated Word draft contains extra headings and does not establish the required Activity 2 structure. Do not carry its unsupported wording forward as accepted student reasoning.
+- School name, a consistent reference week and overlapping time boundaries remain unresolved. The collection window is different from the reference week. Address these within the clarification stage before full drafting so the measures and setting are coherent.
+- Two verified, student-understood sources and the remaining Activity 2 evidence remain incomplete. This snapshot neither invents them nor requires their completion before the initial clarification question.
+
+### Mandatory clarification gate
+
+First elicit the student's own time-versus-completion explanation. If insufficient, teach adaptively and verify application using a focused follow-up rather than accepting agreement. Then resolve the missing school setting, common reference week and overlap-counting boundaries one at a time. Record the actual answers, assessment, assistance and explicit gate status in the next handoff/.phx. Keep full Activity 2 development and further Chapter 1 drafting blocked until these essential clarifications are satisfactory. No separate teacher reapproval is needed to continue within the accepted concept once the gate is genuinely resolved; substantive departures still require teacher clarification.
 
 ## Teacher's Comments
 
@@ -128,7 +142,7 @@ Required opening clarification — status: Open; no student answer is recorded h
 
 After language selection, immediately ask this question in the chosen language. If language is already known, ask it as the first actual learning move. Do not prewrite the answer or treat the approval as proof that the distinction is understood.
 
-Listen for the student's own explanation distinguishing time spent from completion. If the answer is uncertain or confuses those meanings, identify the specific gap, teach briefly, and ask one focused application question. Use a hypothetical different-case example only when needed, then return to this study. Do not accept agreement with AI wording alone as understanding. Accept short, Tagalog or Taglish answers and stop probing when essential meaning is demonstrated. Once the student can explain the distinction, continue Activity 2 without requiring another Activity 1 submission or fresh teacher permission.
+Listen for the student's own explanation distinguishing time spent from completion. If the answer is uncertain or confuses those meanings, identify the specific gap, teach briefly, and ask one focused application question. Use a hypothetical different-case example only when needed, then return to this study. Do not accept agreement with AI wording alone as understanding. Accept short, Tagalog or Taglish answers and stop probing when essential meaning is demonstrated. Once the student can explain the distinction, finish the remaining setting/reference-week/overlap clarifications below. Only after the clarification stage is satisfactorily resolved may full Activity 2 development continue, without another Activity 1 submission or fresh teacher permission.
 
 At the relevant context/scope stage, ask for the actual school name, a consistent meaning of typical week, and how an activity fitting both time categories would be counted. These are authorized clarifications of the existing focus, not permission to change population or add outcomes. Confirm setting and reference-period meaning before dependent Chapter 1 prose. At the SOP stage, elicit main-purpose/main-question wording that faithfully integrates the accepted specific questions. Keep expected relationships tentative and never present hours as proof of completion or a causal effect.
 
