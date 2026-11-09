@@ -69,4 +69,6 @@ The intended output is `.phx`, but the teacher also accepts `.bin` and `.phx.bin
 
 ## Instruction audit
 
+For an existing chat without a save yet, students can send the published `RECOVER.md` URL and ask for recovery. The tutor creates an actual cumulative `.md` handoff when possible, or continues the same authorized unfinished task if appropriate. Maintenance/WAIT still pauses learning. A new chat cannot recover inaccessible earlier turns without supplied work; file-tool failure is disclosed without requiring manual file assembly.
+
 See `pr2/INSTRUCTION-AUDIT.md` for the 9 November 2026 consistency/streamlining audit, preserved requirements, measured word counts, structural checks and remaining live-test scenarios. The audit is teacher production documentation, not an extra file students must retrieve.
