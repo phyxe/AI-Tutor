@@ -1,19 +1,19 @@
 ---
 student_code: pr2_pru_10
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
-route_action: WAIT
-route_directive_id: pr2_pru_10-a02-focused-revision-2026-11-08
+route_action: REVISION
+route_directive_id: pr2_pru_10-a02-focused-revision-2026-11-10
 route_baseline_revision: pr2_pru_10-a02-submitted-snapshot-2026-11-08
 route_resume_checkpoint: H6
-route_plan_id: pr2_pru_10-a02-verification-plan-2026-11-10
+route_plan_id: pr2_pru_10-a02-record-explanation-plan-2026-11-10
 route_handoff_id: pr2_pru_10-pr2_act_02-SP01-2026-11-09
 route_resume_action: CHECK
-status: chapter-1-conditionally-accepted-awaiting-evidence-verification
+status: historical-record-plan-accepted-student-explanation-required
 ---
 
-Teacher decision recorded November 8, 2026: Chapter 1 acceptance held pending the focused Activity 2 revision below. Earlier entry approval is retained as history; it does not certify the unresolved concept/feasibility decision. Student identity is maintained separately.
+Teacher decision updated November 10, 2026: feasibility of using existing historical records, such as attendance sheets or equivalent documentation, is acceptable as a proposed evidence plan. Continue Activity 2 revision at H6: the student must explain in their own words how records could be attained through the appropriate permission process and used. Actual record acquisition is not a Chapter 1 planning prerequisite. Complete manuscript acceptance remains conditional on the explanation and remaining alignment requirements. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -42,7 +42,7 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Student-reported work: Revised concept, learning evidence and audit supplied; partial conversation capture disclosed.
 - Tutor-observed learning evidence: No new student response recorded by this teacher update. The selected Activity 2 clarification remains open.
 - Checkpoint summary (C0–C8): Written revised concept accepted for progression; no blanket certification of independently demonstrated mastery or complete transcript capture.
-- Next step / resume point: pr2_act_02 WAIT at H6 under the November 10 verification plan; original Activity 2 entry mode REVISION and November 8 baseline/directive retained.
+- Next step / resume point: pr2_act_02 REVISION at H6/CHECK under the updated November 10 record-explanation plan; existing approved concept and submitted Chapter 1 baseline retained.
 
 ## Concept Outcome
 
@@ -63,20 +63,20 @@ Chapter 1 acceptance held. Establish a feasible source for both attendance numer
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: November 10 handoff reviewed; reasoning and Chapter 1 direction conditionally accepted, pending verification of feasible historical evidence and final bounded integration.
+- Activity status: Historical-record plan accepted as feasible for Chapter 1 planning; guided REVISION at H6 for the students own explanation of obtaining and using records, then bounded integration.
 - Chapter 1 drafting authorization: Earlier permission retained for bounded guided revision only; current teacher scope below controls unresolved substantive changes. No final manuscript approval.
 - Teacher decision date: November 10, 2026 (Asia/Manila).
-- Teacher decision: Conditional acceptance provided the required historical evidence can be verified. Retain the reviewed explanations and source-learning evidence; do not repeat the completed conceptual interview. Verification of membership periods, meetings actually held and individual attendance is the remaining H6 dependency. Final Chapter 1 acceptance and compilation are not unconditional.
-- Concept authorization for revision: Teacher-authorized records-first/source-labeled fallback remains a proposed plan, not proof that a source is available or reliable. Compatible explanation and wording are authorized. A shift to wholly self-reported attendance, a different reference period, new central measure, or a revised study needed because no feasible paired evidence exists requires an explicit teacher-approved updated concept before finalization/compilation.
+- Teacher decision: Feasibility of previous/existing sources is acceptable, including attendance sheets or similar suitable records. The condition is the students own explanation of how records could be obtained through proper permissions and used for the measures. Supersedes the earlier WAIT for actual historical-record verification. Retain sufficient prior reasoning/source learning; no full restart.
+- Concept authorization for revision: Existing records-first/source-labeled supplementary plan accepted as a feasible proposal. Attendance sheets or equivalent documentation may supply relevant evidence; student must explain what each supplies and its limits. No actual availability/access or permission is claimed. A wholly self-reported route, changed reference period or central measure still requires teacher approval.
 - Earlier accepted concept source: Prior Approved Concept subsection below, retained as historical baseline.
 - Activity 2 revision baseline: `pr2_pru_10-a02-submitted-snapshot-2026-11-08` — submitted manuscript snapshot embedded below; this is a teacher-designated baseline identity, not an invented student submission revision.
 - Submission revision: Verify the latest actual completed Activity 2 revision before incrementing. The source identifies or represents an initial record; do not infer a revision number from activity_version or fabricate missing metadata/history.
-- Current revision directive: `pr2_pru_10-a02-focused-revision-2026-11-08`.
-- Teacher verification: November 9 SP01 handoff reviewed November 10; recorded numerator/denominator, no-record, membership and source-limit explanations accepted for continuity. Actual records remain unverified; no access/permission or new student answer claimed.
-- Chapter 1 approval status: Conditionally accepted subject to verified feasible historical evidence and completed bounded manuscript/alignment repairs; final acceptance not yet established.
-- Checkpoint summary: Retain reviewed H1-H5 reasoning/source evidence; H6 blocked on teacher-mediated evidence verification, H7/H8 consequential integration/audit pending. Do not rerun sufficient explanations.
+- Current revision directive: `pr2_pru_10-a02-focused-revision-2026-11-10`.
+- Teacher verification: November 9 SP01 reviewed; recorded conceptual/source explanations retained. Updated teacher direction accepts proposed record feasibility. Independent explanation of obtaining and using records remains to be elicited; no new student answer or actual record access claimed.
+- Chapter 1 approval status: Conditional acceptance retained, now subject to satisfactory independent record-plan explanation and remaining manuscript/alignment repairs, not actual record acquisition. Final manuscript acceptance not yet established.
+- Checkpoint summary: Retain reviewed H1-H5 reasoning/source evidence; H6 OPEN for independent record-plan explanation; H7/H8 consequential integration/audit pending. No external-verification WAIT.
 - Source evidence: Reviewed handoff records finding/relevance/limits for Fredricks (2012), checked at abstract level, and Le (2024), checked against article text. Retain this bounded evidence; no new source retrieval or missing historical dialogue is invented. Recheck only actual changed dependencies.
-- Next step / resume point: WAIT H6/CHECK for verification result under the November 10 Resume Plan. Do not ask another learning question while awaiting this external dependency.
+- Next step / resume point: REVISION H6/CHECK; ask the new focused record-acquisition/use question in Teachers Comments. After satisfactory explanation, continue H7 and H8 without requiring actual documents or another teacher release.
 
 ## Prior Approved Concept — historical baseline
 
@@ -233,28 +233,23 @@ Le, H. V. (2024). Factors impeding university students' participation in English
 activity_code: pr2_act_02
 student_code: pr2_pru_10
 entry_mode: REVISION
-revision_directive_id: pr2_pru_10-a02-focused-revision-2026-11-08
+revision_directive_id: pr2_pru_10-a02-focused-revision-2026-11-10
 baseline_revision: pr2_pru_10-a02-submitted-snapshot-2026-11-08
 baseline_source: "This exact outcome record, Revision Baseline — submitted Chapter 1 subsection"
-reopen_checkpoints: [H1, H3, H4, H6, H7, H8]
-retained_checkpoints: [H2, H5]
-locked_decisions: [research school, individual authorship, no fieldwork authorization]
-authorized_scope: "Clarify actual versus proposed record availability, eligible-meeting counts and membership periods, self-report fallback and limitations, zero versus missing information, then complete substantive source/understanding checks and bounded record repairs. No unsupervised record request, respondent contact, fieldwork or automatic redesign."
-required_repairs: "Numbered focused repairs below; begin at H6. Retain unaffected work."
-required_approval_before_compilation: "Teacher-authorized records-first/source-labeled fallback remains a proposed plan, not proof that a source is available or reliable. Compatible explanation and wording are authorized. A shift to wholly self-reported attendance, a different reference period, new central measure, or a revised study needed because no feasible paired evidence exists requires an explicit teacher-approved updated concept before finalization/compilation. Every mandatory Activity 2 requirement must also pass; final chapter acceptance remains pending teacher review after resubmission."
+reopen_checkpoints: [H6, H7, H8]
+retained_checkpoints: [H1, H2, H3, H4, H5]
+locked_decisions: [approved research focus and period, research school, individual authorship, no fieldwork authorization]
+authorized_scope: "Explain in the students own words how existing attendance sheets or equivalent records could be obtained through proper permission and used for the approved measures; integrate compatible planning wording and complete the bounded alignment/evidence repairs."
+required_repairs: "Begin H6/CHECK under the updated Resume Plan; feasibility is accepted as a proposed plan, not a requirement to obtain actual records now."
+required_approval_before_compilation: "No further teacher release or actual record acquisition required for compatible planning explanation and integration after all Activity 2 gates pass. Substantive period/measure/design changes require explicit teacher approval. Actual fieldwork/access remains subject to the appropriate permissions."
 ```
 
-1. **H6/H7 — Evidence-source feasibility:** Explain who would hold meeting calendars/minutes, actual meeting/attendance lists and membership-period information, and whether availability is known or merely assumed. For an overall attendance rate the student needs the total eligible meetings actually held across the student's memberships (denominator) and meetings actually attended (numerator), over the same approved period. A list of people who attended one meeting does not establish every meeting held or a student's complete attendance. Canceled meetings are excluded; no held meetings means an undefined rate, not zero. Do not claim records were checked or permissions obtained unless actual evidence exists.
+1. **H6 — Independent record-plan explanation:** Elicit how the student could identify the appropriate record holder, seek authorized permission, obtain only necessary information and use it for the approved measures. Attendance sheets or equivalent relevant documentation are acceptable proposed sources. Do not supply a completed answer or require the student to obtain documents, contact advisers/participants or prove current availability merely to complete Chapter 1.
+2. **H6/H7 — What records can support:** Let the student explain how relevant records would establish eligible meetings actually held and individual attendance within the approved reference/membership periods. An attendance sheet may supply attendance and some meeting details; do not assume every sheet provides the entire denominator or membership history. Preserve the established planned-versus-held, missing-versus-zero and source-label distinctions without repeating the whole interview.
+3. **H6/H7 — Acquisition/use limits:** Explain appropriate permission/confidential linkage and minimal necessary data without publishing identifiable records. If a proposed record lacks a needed field, explain what equivalent/supplementary source could clarify it or identify uncertainty; do not invent counts. This is a planning explanation, not actual collection or a full methodology assignment. A substantive change of period, wholly self-reported approach or central measure needs teacher approval; do not impose one automatically.
+4. **H7/H8 — Integration:** Once the explanation is satisfactory, update the relevant scope/planned-evidence wording, questions/background dependencies only as affected, and finish the six-link exact-evidence audit. Retain reviewed H1-H5 and both source explanations; remove the unused Boat reference as already proposed. Complete honest metadata/revision/provenance repairs without inventing inaccessible dialogue or actual permissions. Final acceptance remains pending review of the completed record.
 
-2. **H1/H6 — No-record scenario:** Have the student explain what could validly be known if advisers and members kept no usable records. Missing attendance information must not be coded as absence/zero, and a calendar of planned meetings must not silently be treated as proof those meetings occurred. If total held meetings or attendance cannot reasonably be established, the rate is not computable for that case. Do not substitute an invented estimate or remove all difficult cases without examining feasibility and the resulting study population.
-
-3. **H6/H7 — Self-report is a choice, not an automatic rescue:** The existing approved plan uses adviser records as primary, with supplementary self-report only where reasonably clarified and source-labeled. Ask what a respondent could realistically recall for the historical period, how both numerator and denominator would be supported, how discrepancies/uncertainty would be identified and how a mixed-source rate would be labeled. Do not equate confidence, agreement among members or recollection alone with verified records. A wholly self-reported route is a substantive proposal requiring teacher approval and explicit measurement/recall limitations; do not quietly describe it as record-based attendance. Prospective recording or a different period may be proposed for teacher decision if no feasible historical evidence exists, not implemented or collected by the tutor.
-
-4. **H1/H7 — Bounded feasibility decision:** The student may identify a proposed source/check plan without contacting advisers or participants. Actual record availability should be confirmed through the teacher's authorized process; this directive grants no access/contact permission. If no plausible source supports usable paired observations, identify the exact blocker, summarize feasible student-developed alternatives for the teacher and continue unaffected learning. Do not manufacture a fieldwork approval or final fallback. Do not repeat the earlier overlap-versus-attendance example if the existing explanation is sufficient; recheck it only if the source decision changes its application.
-
-5. **H3/H4 — Sources and missing learning evidence:** Load the actual current controlling files and check the two used publications (Fredricks 2012 and Le 2024) against relevant accessible source text, not existence/metadata alone. Preserve their bounded relevance and differences from local overlap–attendance research. Elicit only missing essential student interpretations/application and clarify unverified consolidated wording. Reuse relevant sources rather than requiring two new ones. Current external verification does not retroactively authenticate prior student understanding or missing tutor turns.
-
-6. **H2/H5/H6/H7/H8 — Integrate and clean up:** After the source plan is feasible and any substantive change explicitly approved, propagate it into background, purpose/questions, scope, planned-data reasoning and all six alignment links. Remove Boat et al. from References unless it is actually used, verified and understood; a third source is not required. Repair unconfirmed instruction/version and manuscript metadata and truthfully unavailable timing. Relabel the consolidated student explanation presented as teacher comment 2 so it is not attributed to the teacher without provenance. Preserve source assistance/capture limits; do not reconstruct inaccessible chats or demand an entire new chapter.
+The earlier actual-verification WAIT and incompatible November 8/early November 10 conditions are superseded by this updated teacher instruction. Actual source availability must not be falsely claimed, but it is not an extra completion gate for this Chapter 1 planning task. No record acquisition, recruitment or fieldwork is authorized here.
 
 ### Evidence, dependency review and resubmission
 
@@ -267,7 +262,7 @@ If the chosen repair needs a substantive concept decision beyond the authority a
 ## Resume Plan
 
 ```yaml
-plan_id: pr2_pru_10-a02-verification-plan-2026-11-10
+plan_id: pr2_pru_10-a02-record-explanation-plan-2026-11-10
 activity_code: pr2_act_02
 reviewed_handoff_id: pr2_pru_10-pr2_act_02-SP01-2026-11-09
 reviewed_handoff_sequence: SP01
@@ -276,48 +271,46 @@ baseline_revision: pr2_pru_10-a02-submitted-snapshot-2026-11-08
 activity_version_reviewed: "0.2.6"
 resume_checkpoint: H6
 resume_action: CHECK
-resume_criterion: "Teacher-mediated verification that feasible authorized historical evidence can establish membership periods, eligible meetings actually held and individual attendance for the same September-October 2026 cases."
-next_prompt: "Await the teacher's recorded verification result. Do not contact advisers or participants, access records, invent figures or change the period/measures independently."
+resume_criterion: "Student independently explains how existing attendance sheets or equivalent records could be obtained through proper permissions and used for the approved measures. Proposed feasibility is accepted; actual acquisition is not required now."
+next_prompt: "In your own words, how could you obtain the previous club records, such as attendance sheets or similar documents, through the proper permission process, and how would you use them to answer your research questions?"
 session_goal: Not separately assigned
-teacher_review_basis: "Teacher reviewed SP01 and conditionally accepted the recommendation on November 10, subject to verification."
+teacher_review_basis: "November 10 updated teacher instruction accepts feasibility of existing sources subject to the students own acquisition/use explanation; replaces the earlier verification WAIT."
 retained_checkpoints: [H1, H2, H3, H4, H5]
-open_checkpoints: [H7, H8]
+open_checkpoints: [H6, H7, H8]
 repair_checkpoints: []
-blocked_checkpoints: [H6]
-authorized_scope: "WAIT for verification only; original REVISION scope remains for later bounded integration. No new learning, independent fieldwork or automatic substantive redesign during WAIT."
-teacher_approval_status: "Conditional acceptance only; verification and final integration remain pending."
+blocked_checkpoints: []
+authorized_scope: "Guided Activity 2 revision; independent record-plan explanation then bounded integration/audit. No actual record acquisition or external teacher-release prerequisite for the planning task."
+teacher_approval_status: "Record-source feasibility accepted as a proposed plan; independent explanation and final manuscript/alignment gates remain."
 ```
 
 ### Reviewed continuity source and evidence disposition
 
-This exact outcome's approved-concept/submitted-Chapter-1 baselines plus the compact reviewed evidence below are the teacher-designated continuity source. The private SP01 need not be re-uploaded merely to understand this route. Its ID/version identify the reviewed work, not a new final submission. Live source/maintenance checks still apply.
+Use the approved-concept/submitted-Chapter-1 baselines and reviewed summary in this exact outcome. The private SP01 need not be uploaded again merely to begin. Preserve available actual answers privately and disclose partial capture. Check current controlling sources and maintenance status; an old handoff notice does not establish live status.
 
-| Checkpoint | Teacher disposition | Evidence and remaining criterion |
+| Checkpoint | Teacher disposition | Evidence and next requirement |
 |---|---|---|
-| H1-H2/H5 | RETAIN | Recorded context/variable explanations and existing background reasoning/prose. No claim of a newly rewritten chapter. |
-| H3/H4 | RETAIN | SP01 source interpretations explain findings, relevance and setting/construct limits for Fredricks and Le. Preserve abstract-level/full-text distinctions and actual capture limits. |
-| H6 | BLOCKED on verification | Student distinguishes numerator/denominator, planned versus held meetings, membership eligibility, missing versus zero, and proposed versus confirmed availability. Those explanations need not be repeated. Actual evidence feasibility remains unverified. |
-| H7 | RECHECK after verification | Integrate source-labeled supplementary evidence, not-computable cases and limitations without claiming records exist or excluding difficult cases automatically. |
-| H8 | OPEN after verification | Complete exact-evidence/six-link audit and bounded reference/metadata/provenance repairs; do not recreate inaccessible prior turns. |
+| H1/H2/H5 | RETAIN | Reviewed context/variable explanations and background reasoning/prose; recheck only changed dependencies. |
+| H3/H4 | RETAIN | Reviewed interpretations, relevance and limits for Fredricks and Le; preserve abstract/full-text distinctions, do not repeat sufficient source interviews. |
+| H6 | OPEN / CHECK | Existing record-source feasibility accepted. Verify the students own explanation of how records could be obtained and used; do not supply the answer or demand actual documents. |
+| H7 | RECHECK after explanation | Align scope/source labels, permission plan, missing information and appropriate limitations without claiming acquisition occurred. |
+| H8 | OPEN | Complete exact-evidence/six-link audit and bounded evidence/metadata repairs. |
 
-### Conditions and release of the verification gate
+### Gate resolution
 
-The teacher accepts the reviewed reasoning/direction provided the historical evidence is verifiable. Verification must address actual membership periods, eligible meetings actually conducted across relevant clubs, and individual attendance for the same cases/reference period; naming a document, recollection, a planned calendar or agreement alone is insufficient. Record the teacher-mediated result and scope of access without publishing identifiable records here. This route itself authorizes no contact, record request/access, recruitment or collection.
+A meaningful, independently expressed acquisition/use explanation resolves the H6 teaching gate. Accept brief English/Tagalog/Taglish reasoning; polished prose or agreement with a supplied answer alone is insufficient. If needed, ask one focused follow-up or teach with a different-case example, then return to the students study. Continue H7 and H8 once the explanation is satisfactory without requiring an additional teacher release for the unchanged plan.
 
-If suitable historical paired evidence is verified through the teacher's authorized process, the teacher can record that result and change WAIT to REVISION at H7/CHECK for the remaining bounded integration, then H8. A second concept approval is not needed merely to integrate the unchanged verified plan, but a final gate/acceptance record is still required. If sources are insufficient or uncertain, keep H6 blocked and present a concise student-confirmed alternative for teacher decision. A wholly self-reported route, changed period, prospective recording or changed central measure requires explicit updated concept approval. Do not compute missing rates, code unknown attendance as zero or remove cases indiscriminately to manufacture feasibility.
-
-SP01 preserves the old manuscript and marks the new source-feasibility wording as not yet inserted. Boat et al. is removed from the working reference list as directed; final consistency and manuscript metadata still require checks. No READY/export, final submission or unconditional Chapter 1 approval until verification and remaining integration/audit gates pass. The earlier November 8 interview prompts and open-source-learning labels are superseded where this reviewed disposition differs.
+The chapter can describe attendance sheets and equivalent suitable records as planned evidence. Keep actual availability, permission and acquisition truthfully pending where unverified. Normal permission and feasibility checks still apply before actual fieldwork. If the learner exposes an essential contradiction or proposes a substantive redesign, refer that specific issue to the teacher; do not automatically reinstate a general verification WAIT.
 
 ## Chapter 1 Outcome
 
-Teacher conditional acceptance recorded November 10: the reviewed reasoning and Chapter 1 direction are accepted provided historical evidence feasibility can be verified. Actual availability/access is not yet verified. Final manuscript integration/audit and final acceptance remain pending. Current route WAIT at H6 preserves the original REVISION scope and baselines; it does not restart the activity or grant fieldwork permission.
+Updated November 10: feasibility of using existing records is accepted as a proposed evidence plan. Conditional acceptance now requires the student to explain independently how records could be attained and used, then complete bounded manuscript integration and the Activity 2 gates. The earlier external-verification WAIT is superseded. Final manuscript acceptance and fieldwork permission are not granted by this planning decision.
 
 ## Teacher's Comments
 
-Your new handoff shows meaningful progress. The explanations about held meetings, membership periods, attendance evidence, missing data and the two sources are retained. The teacher accepts this direction conditionally, provided the necessary historical evidence can be verified.
+The teacher accepts the feasibility of using previous records, including attendance sheets or similar suitable documentation. You may continue Activity 2. Explain in your own words how you could obtain these records through the appropriate permission process and how their information would support your study. You are not required to collect or upload actual records to answer this planning clarification.
 
-Current next step is teacher-mediated verification at H6, not another learning interview. Briefly explain that finalization is waiting on this result and preserve the reviewed work. Do not repeat the old opening numerator/denominator question, ask for a new survey, contact advisers/participants or access records under this route.
+After required source/maintenance checks and necessary language handling, ask:
 
-> Await the teacher's recorded verification result on whether the historical evidence can support both eligible meetings actually held and individual attendance during the verified membership periods. Do not change the approved period or measures independently.
+> In your own words, how could you obtain the previous club records, such as attendance sheets or similar documents, through the proper permission process, and how would you use them to answer your research questions?
 
-After a recorded positive verification and route release, continue the bounded H7 integration and H8 audit without a full restart or redoing sufficient source explanations. If verification fails, the teacher must decide the revised period/source/measure before dependent finalization. Record actual evidence, assistance and decisions honestly; no unconditional Chapter 1 acceptance, READY/export or fieldwork authorization is issued by this pending condition.
+Do not provide a model answer first or repeat the entire numerator/denominator interview. Use the actual response for one next missing clarification, then proceed to H7 integration and H8 audit once understanding is demonstrated. Preserve sufficient source reasoning and prior work. Record actual answers, assistance and gate resolution in the private revised Activity 2 .phx. No full restart, invented record availability or automatic manuscript approval; actual access and fieldwork still require the appropriate authorization.
