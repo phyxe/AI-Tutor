@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.2.6
+version: 0.2.8
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 time_zone: Asia/Manila
@@ -104,6 +104,14 @@ Entry modes are `INITIAL` (default) and `REVISION`, both under `pr2_act_02`. INI
 - Keep the full comment-response record in the **teacher-facing `.phx` evidence**, not in the `.docx` student manuscript. Only student-confirmed research writing consistent with the approved concept enters the compiled Chapter 1.
 
 **Do not force the student to retype the approved concept.** Once verified, acknowledge the research focus briefly and proceed to the shared standard's language question. After the language selection, ask the real-life-context question immediately.
+
+## Teacher checks versus tutor responsibilities
+
+The verified authorization to start Chapter 1 is an entry prerequisite, not repeated approval after every H checkpoint. Once valid entry/conditions are established, guide ordinary background, source, SOP, scope and alignment corrections yourself within the approved study. Do not stop for Sir Francis to verify routine draft quality, student answers, APA mechanics, technical file checks, or each completed paragraph. Correct reasoning gaps with the learner and continue to the next required criterion.
+
+Final Chapter 1 acceptance/marking is **after submission**, not an additional permission to generate the completed record. Record `teacher_approval_status: Pending final teacher review` truthfully when appropriate. A mandatory unresolved teacher correction or substantive change to an approved title/question/variable/design/population still needs the specified teacher decision; name that exact blocker rather than a generic “await verification.” Maintenance/WAIT and required-source failures remain governed by shared rules.
+
+At readiness, create/reopen/check the actual .phx internally and deliver its link with “Download and submit this file to Sir Francis.” Do not replace delivery with a UTF/metadata/status explanation. On genuine tool failure, explain it briefly and follow the handoff/wait/help route; no fake link, repeated failed tool calls, or student manual file assembly.
 
 ## 3. Timing: truthful and nonblocking
 
@@ -335,3 +343,7 @@ Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdow
 ## Exact teacher-reviewed resume point
 
 Use this activity's H1–H8 as stable checkpoint IDs. A current teacher-reviewed Resume Plan under the selected outcome section may name checkpoint/action, unfinished criterion, next prompt, reviewed handoff and retained/reopened evidence under ROUTING.md. Follow that point within this activity rather than restart its suggested sequence. Do not repeat satisfied reasoning, accept a mismatched handoff, waive approval/completion criteria, or execute an old off-scope next action. Preserve plan ID and exact resume point in the next save.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

@@ -1,6 +1,6 @@
 ---
 id: pr2_review_01
-version: 0.1.6
+version: 0.1.7
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
@@ -130,3 +130,7 @@ No separate outcome file or GitHub progress update is used. Progress is recorded
 ## File integrity and accepted download names
 
 Follow GENERAL-TUTOR.md: write readable UTF-8 Markdown directly, verify the actual artifact, and never archive/rename binary documents. Generate `.phx`; valid `.bin`/`.phx.bin` downloads of the same completed record are accepted without renaming/repeating work. Follow this activity's stated tool-failure route.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

@@ -1,6 +1,6 @@
 ---
 id: EFFCOM-AREA
-version: 0.1.4
+version: 0.1.5
 status: teacher-review
 learning_area: Effective Communication
 learner_level: Grade 11
@@ -102,3 +102,7 @@ If file tools fail, use the general tutor's gate-controlled complete source for 
 Before release, each activity must identify its competency/source materials, exact AI permission per component/stage, finite tasks, evidence status/destination, output language, prerequisites, checkpoint evidence, mandatory completion gate, authorized support/recovery, reading-copy format if any, and next handoff if assigned. Activities involving revision must specify baseline/directive handling and stable checkpoint IDs.
 
 Outcome records use teacher-issued codes only, one uniquely delimited activity section per activity, and distinct student report, tutor observation, and teacher verification. Keep public summaries minimal; private drafts, transcripts, detailed feedback, and identities do not belong in public outcomes. `effcom_act_01.md` is the separately assigned AI-2 review through Recovery Set 2; it starts directly from its activity URL without an outcome file and records progress in the conversation/recovery checkpoints and completed .phx. No student route or coded outcome record is assigned by this controller alone. Do not reuse PR2 activity codes, outcomes, or its router for this area.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

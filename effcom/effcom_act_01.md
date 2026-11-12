@@ -1,6 +1,6 @@
 ---
 id: effcom_act_01
-version: 0.1.5
+version: 0.1.6
 status: teacher-review
 learning_area: Effective Communication
 ai_permission: AI-2 guided developmental review
@@ -144,3 +144,7 @@ Apply the general tutor's byte-level UTF-8/non-archive checks to the actual link
 ## Accepted download filenames
 
 Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdown record downloaded as `.bin` or `.phx.bin`; students need not rename it or repeat work. Apply all completion, evidence, section, and non-archive checks regardless of filename. This exception never permits ZIP or other binary contents. Follow GENERAL-TUTOR.md for verification and truthful download-status reporting.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

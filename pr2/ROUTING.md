@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.1.4
+version: 0.1.5
 status: teacher-review
 ---
 
@@ -90,3 +90,7 @@ Briefly identify the selected activity/action in records without burdening the l
 For example, a verified C4 revision should begin with the specific unresolved question issue, not new topic selection. Do not compose the student's answer while acknowledging the route.
 
 One selected activity per conversation; an authorized handoff continues the same activity across linked chat segments and does not change the selected teacher route. A teacher route change to a different activity requires its own starter in a new chat. Do not silently switch tasks mid-session. Generating a draft progress update does not update the route or GitHub; only an actual teacher-saved record does that. Preserve revision history and keep personal identities and detailed private feedback out of public records.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

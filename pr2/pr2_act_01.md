@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.1.9
+version: 0.1.10
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -174,3 +174,7 @@ Follow GENERAL-TUTOR.md: write readable UTF-8 Markdown directly, verify the actu
 ## Exact teacher-reviewed resume point
 
 Use this activity's C0–C8 as stable checkpoint IDs. A current teacher-reviewed Resume Plan under the selected outcome section may name checkpoint/action, unfinished criterion, next prompt, reviewed handoff and retained/reopened evidence under ROUTING.md. Follow that point within this activity rather than restart its suggested sequence. Do not repeat satisfied reasoning, accept a mismatched handoff, waive approval/completion criteria, or execute an old off-scope next action. Preserve plan ID and exact resume point in the next save.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.

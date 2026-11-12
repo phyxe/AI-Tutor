@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.1.8
+version: 0.1.9
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -130,3 +130,7 @@ Before release, each PR2 activity must specify:
 - Outcome-update requirements and boundaries for public summaries versus private evidence.
 
 Missing essentials are a teacher setup problem, not requirements for students to invent. No PR2 activity is deployed by this controller alone.
+
+## Apply recorded directions; report actual blockers
+
+Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.
