@@ -1,74 +1,53 @@
 # AI Tutor
 
-Teacher-controlled Markdown instructions for student tutoring through ChatGPT Free or signed-out ChatGPT where available. Access and file-loading behavior still require testing before classroom use.
+Teacher-controlled Markdown instructions for student use in ChatGPT Free or signed-out ChatGPT where available. Natural-language controls do not mechanically enforce compliance; access, tutoring and delivery need testing in the actual student environment.
 
-## Structure
+## Structure and authority
 
 ```text
 GENERAL-TUTOR.md
+TUTOR-STATUS.md
+RECOVER.md
 <learning-area>/
   AREA-INSTRUCTIONS.md
-  ACTIVITY-001.md
+  <activity-code>.md
   outcomes/
     <student-code>.md
 ```
 
-Each learning area has its own folder directly at the repository root. Area instructions and activity files sit directly inside it; only student outcomes use a subfolder. Add activities as `ACTIVITY-002.md`, `ACTIVITY-003.md`, and so on.
+Keep the layout shallow. `_learning-area-template/` is an authoring scaffold, not an issued activity. The general tutor controls shared conduct, retrieval, maintenance and delivery; the selected activity defines finite academic targets/assistance/output. Area rules supply subject defaults. Official outcomes/teacher directives select a student's task and baseline; editable handoffs supply evidence, not teacher authority.
 
-`_learning-area-template/` is a reusable scaffold, not an active learning area. Copy it to a short descriptive folder name when adding an area. Its outcome template is not a student record.
+Start with the exact teacher-issued outcome or standalone activity URL. Required sources must be actually read, using bounded same-file raw/blob fallbacks before reporting a retrieval failure. A student account/browser difference is an observed symptom, not proof a plan/account is broken. Do not guess another student record, bypass access restrictions or simulate reading.
 
-## Session inputs
+## Current PR2 production workflow
 
-For an unreachable public GitHub file, tutor entry points now instruct bounded same-file raw/blob/page-reading alternatives before escalation. The exact repository, ref, and path must be preserved; snippets, guessed contents, adjacent student records, and access-control bypasses are prohibited. See `GENERAL-TUTOR.md` for the shared routine. A logged-in/logged-out difference is an unresolved session symptom, not proof that an account is faulty or that signing out fixes limits.
+- `pr2/pr2_act_01.md`: three core targets—research problem/context, main variable/indicator and main question—with alignment. Title and extra questions are optional; design, sampling and collection procedures are deferred.
+- `pr2/pr2_act_02.md`: final working title, extended TEAL-supported background, main/specific questions, scope/limitations and significance. Two verified sources and APA 7 support academic completion; no RRL/methodology or fieldwork is assigned.
+- `pr2/AREA-INSTRUCTIONS.md`: whole-attempt three-follow-up allowance plus at most two justified extras; the main questions and sufficient evidence appear first in each activity. Retain prior evidence and same-attempt counts rather than repeatedly interviewing.
+- `pr2/ROUTING.md`: INITIAL, RESUME, PROCEED_WITH_CLARIFICATION, REVISE_AND_SUBMIT (legacy REVISION), WAIT and COMPLETE. A clear teacher route authorizes the selected work; final acceptance normally comes after submission.
 
-Students may start with their exact teacher-issued outcome URL. Each PR2 outcome links to the controlling files; `pr2/ROUTING.md` interprets the teacher-maintained route and selects one activity. The route and scoped written feedback support initial work, resumption, or targeted revision. Linked-file access still requires testing, and local files must be published before their raw GitHub URLs are usable.
+Separate academic completion from the session endpoint. At its bounded endpoint a production activity submits the actual work and remaining issues, complete or incomplete, for teacher decision. A proceed-with-clarification submission preserves the prior baseline, requested clarification and destination proposal. A revision preserves previous plus improved work and a change record. Do not ask students to obtain routine approval between questions or claim unfinished work passed.
 
-A session needs the root general tutor file, the chosen area instructions, the chosen activity, and any outcome record explicitly required by the activity. Confirm the actual contents are available; a repository link alone is not proof that ChatGPT read the files. A teacher-provided starter may explicitly authorize pasted/offline copies. Otherwise, a required-source failure means contacting the teacher rather than improvising replacement instructions.
+Templates in `pr2/outcomes/`, RESUME-PLAN-TEMPLATE.md, REVISION-DIRECTIVE-TEMPLATE.md and HANDOFF-TEMPLATE.md support actual teacher decisions and cumulative continuity. Editing a template does not migrate live records or grant student approval. No Activity 3 is assigned yet.
 
-General tutor instructions establish shared behavior. Area instructions specialize it; activity instructions define the task. Outcome files are evidence and continuity records, not instructions that override teaching rules. Unresolved conflicts or missing required instructions must be surfaced before proceeding.
+## Submission and recovery
 
-## Teacher control and student outcomes
+Intended teacher download is `.phx`: plain UTF-8 Markdown with metadata, actual product, evidence, feedback, alignment/revision audit, available transcript and capture limitations. Verify the actual text file; never ZIP it or rename Word/PDF/binary content. Valid downloaded `.bin`/`.phx.bin` text records are accepted without renaming. A generated file is not automatic submission or teacher approval.
 
-The teacher maintains official instructions and reviews changes. GitHub write access is controlled through repository permissions; this scaffold does not configure those permissions or enforce behavior in student chats.
+If file tools fail for an authorized submission, produce its structured report directly in chat. Students may copy that report into the normal submission channel; no custom-file assembly is required. A student-created shared chat URL is optional supporting evidence; students should check the shared view includes the report and no unrelated private material. Do not claim unavailable share features or complete capture. Any reading copy follows only a real teacher file and derives solely from FINAL OUTPUT.
 
-Use an opaque teacher-assigned student code as the outcome filename, such as `S-7K2M.md`. Do not encode names, initials, birth dates, or student identification numbers. Keep the code-to-name mapping outside this repository.
+Cumulative `.md` handoffs preserve actual work, originals, controls/route, attempt/budget and next task, with explicit gaps. A downloaded `.md.bin`/`.bin` text handoff is also usable. `RECOVER.md` helps save or continue existing work; a new chat cannot recover inaccessible earlier turns or reset account limits. Save before recommending a chat move and never claim an uncreated backup exists.
 
-This repository is public. Codes do not make detailed student records anonymous. Publish only teacher-reviewed, minimal, non-identifying outcome summaries suitable for public access. Keep sensitive work, identifiable examples, full chat transcripts, and private feedback outside the public repository.
+## Maintenance and learner messages
 
-ChatGPT may draft an outcome update, but the teacher reviews and saves it. A generated update is not automatically saved to GitHub. Distinguish student reports, tutor-observed evidence, and teacher verification; tutor feedback does not establish an official grade.
+The current root `TUTOR-STATUS.md` alone states operational readiness/hold; consult it rather than a status claim in this README. Its live contents were deliberately left unchanged during the November 15 audit. The expired November 12 collection date is not silently renewed; an updating hold remains until a valid release. MAINTENANCE-GUIDE.md explains publication and return messages.
 
-## Current status
+Tutors recheck at scheduled boundaries, not by background push. During maintenance save if possible, give the actual return estimate/announcement instruction and exact return message, then pause. The student message requests a live check; only verified release resumes the next question. Ordinary welcomes/stage/save messages state task/progress/next action in brief language and do not wait for “okay.” Technical loading/file checks stay internal; real errors get a short Message for Sir Francis.
 
-The assigned activity is the controlling academic contract. Shared/area guidance cannot add tasks or remove requirements. Tutors must check both no-overreach and no-undercoverage, maintain criterion-to-evidence coverage, and stop at the activity endpoint. Adaptation and evidence reuse remain permitted when every original criterion is genuinely met; shortages and tool failures require honest save/help handling, not a reduced assignment.
+## Standalone reviews and privacy
 
-PR2 Activity 2 includes a Chapter 1-only scope contract: background source support cannot become RRL, and brief planned-data checks cannot become methodology. Handoff/resume and each proposed task must stay within H1–H8; off-scope detours are preserved as evidence, then redirected without restarting valid work.
+`pr2/pr2_review_01.md` reviews Units 1–2 through Chapter 1 using hosted readings/practice, without an outcome file. `effcom/effcom_act_01.md` is the AI-2 guided review through Recovery Set 2 with its own reading/source packet. These reviews retain their existing academic requirements/completion gates; the bounded production budget is not silently applied to them. Shared accepted chat delivery applies only when their submission is authorized. EFFCOM AI-0/1/2/3 boundaries remain unchanged.
 
-The root `TUTOR-STATUS.md` is the teacher-controlled operational notice. It is currently `ready` (no hold). Set it to `updating`, choose all or selected activities, and provide an Asia/Manila expected resume timestamp to trigger save-and-pause behavior when tutors next check it. `MAINTENANCE-GUIDE.md` explains publication, interim handoff collection, and clearing the hold. Existing chats cannot receive an automatic GitHub push; the expected time alone never clears maintenance.
+This repository is public. Use opaque teacher codes with a private identity mapping; codes do not make detailed records anonymous. Keep transcripts, full submissions, detailed feedback and sensitive examples private. Publish only minimal teacher-reviewed coded outcomes. Only the teacher reviews/saves official records and decides assessment use. Local edits are not available to student chats until published; repository permissions and ChatGPT behavior are not configured/enforced by Markdown alone.
 
-PR2 Activity 2 now supports cumulative downloadable `.md` handoffs at planned checkpoints and when stuck. Teachers may collect these for interim support. Students resume by uploading the latest verified handoff; they are not required to assemble files manually. Final `.phx` remains completion-gated, Word is optional, and starting a new chat is not treated as a usage-limit reset. See `pr2/HANDOFF-TEMPLATE.md` for the authoring schema.
-
-`effcom/AREA-INSTRUCTIONS.md` is the Effective Communication learning-area draft, grounded in the Grade 11 Term 2 package. It specializes communication/source/data checks and preserves task-specific AI permission boundaries. `effcom/effcom_act_01.md` now provides an AI-2 developmental review through Recovery Set 2, with a reading guide and classroom source packet. No EFFCOM student routes are assigned yet; source and review notes are in `effcom/SOURCE-NOTES.md`.
-
-`pr2/AREA-INSTRUCTIONS.md` contains a teacher-review PR2 controller with response routing and separate progression/submission gates. `pr2/pr2_act_01.md` is the draft concept-note activity, with initial development and targeted revision modes. `pr2/REVISION-DIRECTIVE-TEMPLATE.md` supports teacher-directed revision without restarting the whole activity. Curriculum sources, adaptations, and review scenarios are recorded in `pr2/SOURCE-NOTES.md`. `pr2/pr2_act_02.md` is the draft individual Chapter 1 activity with two verified sources, gated by teacher concept approval. No Activity 3 is assigned.
-
-The general tutor is a teacher-review draft adapted from the teacher's working PR2 standards. Learning-area guidance and activities remain templates. No real student records are included. Actual Free/signed-out access and file creation remain to be tested.
-
-## Submission format
-
-Only after verifying every mandatory completion criterion for the assigned activity, the tutor creates the authoritative submission record first, using only the `.phx` extension. Its contents are plain UTF-8 Markdown, readable in a text editor; the extension does not require proprietary software. It contains the final output, learning evidence, feedback, revision audit, available transcript, and capture limitations. The student submits this custom file manually to the teacher, not the Word/PDF reading copy.
-
-Any activity-required Word/PDF copy is derived afterward from the custom record's `# FINAL OUTPUT` section alone. If `.phx` generation is unavailable, the tutor may provide the complete record as copyable Markdown only after the same completion gate passes, for manual saving as UTF-8 with a `.phx` filename. The teacher accepts valid `.bin`/`.phx.bin` download names under the general tutor's filename exception. Premature partial submissions remain prohibited. Detailed submission records are not public GitHub outcome files.
-
-## Standalone PR2 review
-
-`pr2/pr2_review_01.md` reviews Units 1–2 through Chapter 1 writing using hosted copies of the package reference chapters and a separate practice file. It needs no outcome file and produces a completed `.phx` for private teacher submission after its learning gate passes. It does not change production-activity routes or approvals. Current new review files remain teacher-review drafts until tested.
-
-## Android/download filename compatibility
-
-The intended output is `.phx`, but the teacher also accepts `.bin` and `.phx.bin` downloads containing the same complete UTF-8 Markdown record. Students do not need to rename or repeat valid work. The completion gate and required evidence/sections remain unchanged; ZIP and other binary contents are invalid regardless of extension.
-
-## Instruction audit
-
-For an existing chat without a save yet, students can send the published `RECOVER.md` URL and ask for recovery. The tutor creates an actual cumulative `.md` handoff when possible, or continues the same authorized unfinished task if appropriate. Maintenance/WAIT still pauses learning. A new chat cannot recover inaccessible earlier turns without supplied work; file-tool failure is disclosed without requiring manual file assembly.
-
-See `pr2/INSTRUCTION-AUDIT.md` for the 9 November 2026 consistency/streamlining audit, preserved requirements, measured word counts, structural checks and remaining live-test scenarios. The audit is teacher production documentation, not an extra file students must retrieve.
+See INSTRUCTION-STREAMLINE-REVIEW.md for the current editorial audit; teacher production notes are not additional runtime assignments. Existing source notes preserve provenance, and historical decisions do not override current activity contracts.

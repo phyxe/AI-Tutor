@@ -26,6 +26,10 @@ Write a short student-facing explanation in the body, such as “Your teacher is
 
 At its next scheduled successful notice check, an affected tutor stops new learning/final export, creates a cumulative work-in-progress Markdown handoff if file tools are available, then explains the update and expected return time. Students can download that file for resumption or interim teacher collection. A tool failure is disclosed: retain the existing chat and latest actual save; do not require manual assembly, promise an uncreated file, or instruct them to leave without a save.
 
+Use the general tutor's brief learner-facing maintenance message: “Sir Francis has posted a maintenance notice. I've saved your available work in this backup. Please return after [exact teacher-stated date/time, Asia/Manila].” Only claim a backup after successful generation. End with the real download link and **Next step: Download your backup and pause. When you return, send: “The update from Sir Francis is completed; we can resume where we left.” I'll check his notice before we continue.** Include interim submission only if required; do not ask a new learning question or require an acknowledgment. The return phrase triggers verification, not release. A natural equivalent also works.
+
+If no return timestamp is supplied, say that no return time has been announced and instruct the student to return after Sir Francis announces completion. If the estimate has verifiably passed and the hold is still active, explain that maintenance continues; do not direct students to return at a past time or silently extend the deadline. If saving failed, replace the backup claim with “I couldn't create a new backup; keep this chat” and the latest actual save if any, then give the same return instructions. Keep technical diagnostics in a short Message for Sir Francis block when needed.
+
 No prompt can push an update into an inactive chat or guarantee immediate detection. Checks occur at entry/resume, stage boundaries, before final export, after the configured student-turn interval, and when the student reports a teacher update. Five turns is an operational polling interval, not an estimate of account quota. More frequent checks add retrieval overhead. Avoid duplicate checks in the same response.
 
 If students are already using old instructions, send them this message through your normal teaching channel yourself:
@@ -37,6 +41,8 @@ This guide does not send a message to students automatically.
 ## Clear the hold
 
 Finish and verify the affected files, publish them, then set `status: ready` and update the notice ID/time before publishing the ready notice. Keep the teacher announcement accurate. The tutor must recheck the live notice and changed instructions before resuming; it does not automatically restart in the background.
+
+After the student's return message, a verified release leads straight to the exact next authorized learning question using the preserved work and known language. No second “ready to proceed?” question or technical reloading report is needed. If the notice still says updating, keep the pause and provide the next return action; if it cannot be read, report the actual access issue rather than assume release. Do not regenerate an unchanged backup on every return check.
 
 The expected time is an estimate, not an automatic release. If `status` remains `updating` after that time, the hold remains active. Extend the timestamp if delayed. If no trustworthy clock is available, the tutor quotes the exact teacher-provided date/time and timezone without inventing a countdown.
 

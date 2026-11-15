@@ -3,7 +3,7 @@ file_type: AI_TUTOR_HANDOFF
 format_version: "1.0"
 template_only: true
 activity_code: pr2_act_02
-scope_contract: PR2-ACT02-CH1-ONLY-v1
+scope_contract: PR2-ACT02-BOUNDED-CH1-v3
 scope_drift_detected: false
 student_code: TO-BE-RECORDED
 handoff_sequence: Unknown
@@ -13,6 +13,17 @@ chat_segment: Unknown
 trigger: TO-BE-RECORDED
 milestone: TO-BE-RECORDED
 entry_mode: TO-BE-RECORDED
+route_action: TO-BE-RECORDED
+attempt_id: TO-BE-RECORDED
+question_id: TO-BE-RECORDED
+followups_used: Unknown
+followup_count_status: UNKNOWN
+followup_extensions_used: Unknown
+remaining_followups: Unverified
+followup_ledger: []
+carry_forward: []
+decision_timing: AFTER_SUBMISSION
+submission_kind: TO-BE-RECORDED
 plan_id: Not issued
 resume_checkpoint: TO-BE-RECORDED
 resume_action: TO-BE-RECORDED
@@ -52,11 +63,11 @@ Exact controlling/outcome URLs, actual versions, approved concept/conditions sna
 
 | Checkpoint | Criterion/status | Actual evidence | Assistance | Remaining issue |
 |---|---|---|---|---|
-| H1–H8 | Populate each applicable row honestly | Distinguish carried/new evidence | Actual support only | Next repair or none |
+| H1–H8 | Populate current question target and checkpoint honestly | Distinguish carried/new evidence and follow-up usage | Actual support only | Next repair or none |
 
 # CURRENT MANUSCRIPT
 
-Actual current draft only; mark missing parts and distinguish unconfirmed AI suggestions. Do not complete substantive blanks.
+Actual current draft only: final working title, extended TEAL-supported background, main/specific questions, scope/limitations, significance, and references as developed. Mark missing parts and distinguish unconfirmed AI suggestions. Track H7/scope and H7/significance separately; an older scope-only H7 does not establish significance. Do not complete substantive blanks.
 
 # ORIGINAL STUDENT EVIDENCE AND REVISIONS
 
@@ -68,4 +79,6 @@ Available original chronological student/AI turns across segments. Carry prior c
 
 # CAPTURE AND FILE STATUS
 
-Known gaps, exact cumulative coverage, verification actually performed, approval snapshot limits, and final-file status. Say whether the latest file genuinely contains the earlier evidence and what remains unavailable. No claim of quota prediction, reset, automatic submission, or background saving.
+Known gaps, exact cumulative coverage, actual attempt/budget history and uncertainty, verification actually performed, approval snapshot limits, and submission status. Say whether the latest file genuinely contains the earlier evidence and what remains unavailable. No claim of quota prediction, reset, automatic submission, or background saving.
+
+For bounded production sessions, retain the same attempt and consumed allowance across chats. At the authorized endpoint collect complete/incomplete work for teacher review rather than requiring further approval. A carry-forward route includes the previous baseline/clarification plus destination proposal; a revision includes previous plus improved work. Shared chat-report fallback applies to an authorized submission when file tools fail. This handoff itself is continuity, not teacher approval or proof of academic completion.

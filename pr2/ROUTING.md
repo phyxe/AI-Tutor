@@ -1,96 +1,60 @@
 ---
 id: PR2-ROUTING
-version: 0.1.5
+version: 0.3.0
 status: teacher-review
 ---
 
-# PR2: outcome-file conversation entry and routing
+# PR2 entry, teacher decisions and routes
 
-Use this file with `../GENERAL-TUTOR.md`, `AREA-INSTRUCTIONS.md`, the student's exact teacher-issued outcome URL, and the selected activity. It selects the current task; it cannot waive activity prerequisites, approval requirements, authorship checks, or the `.phx` completion gate.
+Read GENERAL-TUTOR.md, AREA-INSTRUCTIONS.md, the exact teacher-issued outcome and selected activity. Check root TUTOR-STATUS.md before executing a route. Maintenance applies independently of student approval. For a failed GitHub link, use up to four equivalent public raw/main, raw/refs/heads/main, blob/main or observed Raw/Code representations of the same exact file; stop on actual-content success, respect denials and never guess another student/ref. Shared retrieval/error rules govern once loaded.
 
-Before selecting or executing a student route, apply the general tutor's root `TUTOR-STATUS.md` maintenance check. An applicable update hold pauses route execution and final export while permitting a work-in-progress handoff; `ready` is operational status, not student approval.
+## 1. Bind the official record
 
-## GitHub access fallback
+The student's starter may simply supply the exact teacher-issued outcome URL. Retrieve actual contents/links; a URL/snippet is not proof of reading. Match filename stem, YAML student code and starter code. Parse unique Level 1 activity sections outside fenced code. Document-level route selects one current activity; current selected-section directive/feedback explains its work. Baselines from earlier sections supply only explicitly assigned context/clarification, not unrelated requirements. Optional blank comments do not block.
 
-If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
-
-## 1. Student entry
-
-The intended student starter is:
-
-> I am taking PR2 and you will help me by following my progress located in: [my teacher-issued GitHub outcome-file URL]
-
-The outcome file contains the controlling-file links and teacher-maintained route. A GitHub URL is an entry locator, not evidence that its contents or linked files were read. Retrieve the actual files before proceeding. Prefer the exact teacher-issued raw text URL. Do not guess another student's URL, search by name, or request an identity mapping.
-
-Follow the outcome filename/YAML/student-code binding. Parse activity Level 1 sections outside fenced code; entry instructions before them are not an activity outcome. The teacher-maintained route fields at the document level select one section. Read comments only from the selected activity; earlier outcomes may supply prerequisites explicitly requested by that activity, not unrelated instructions.
-
-## 2. Exact activity map
-
-| route_activity | Activity file |
+| Selected activity | Exact file |
 |---|---|
 | pr2_act_01 | https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_act_01.md |
 | pr2_act_02 | https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_act_02.md |
 
-No other activity is defined by this router. Missing, unknown, or inaccessible activity files require teacher clarification. The URLs are intended deployment locations, not proof that a draft has been published or approved for release.
+The standalone review has its own direct starter and no outcome requirement. Unknown/missing/conflicting official route needs a short exact teacher diagnostic; do not let a student select a convenient replacement or manufacture approval.
 
-## 3. Route fields and actions
+## 2. Current session directive
 
-The teacher edits these YAML fields in the student's outcome record:
+Teacher authoring fields at document level: `route_activity`, `route_action`, directive ID, baseline revision/source where applicable, resume checkpoint, optional plan/handoff ID and action. Add a `## Current Session Directive` in the selected activity section using OUTCOME-TEMPLATE.md. It states attempt ID, authorized task/boundaries, retained evidence, exact starting target, carried issues/repair scope, `decision_timing: AFTER_SUBMISSION`, submission kind/requirement, and any explicit hold.
 
-- `route_activity`: one exact activity code from the map.
-- `route_action`: INITIAL, RESUME, REVISION, WAIT, or COMPLETE.
-- `route_directive_id`: exact teacher directive ID for REVISION; otherwise Not applicable unless relevant.
-- `route_baseline_revision`: identified baseline for REVISION/RESUME where applicable.
-- `route_resume_checkpoint`: exact C0–C8 or H1–H8 checkpoint when resuming; otherwise Not applicable.
+| route_action | Execute now | Submit for later teacher decision |
+|---|---|---|
+| INITIAL | First/new authorized attempt; reuse existing evidence unless an explicit full restart says otherwise. | Actual work/evidence, complete or incomplete, when the bounded session ends. |
+| RESUME | Same attempt, retained evidence and remaining follow-up allowance; exact unfinished target. | Current cumulative work and status, no reset/reinterview. |
+| PROCEED_WITH_CLARIFICATION | Destination activity is authorized; carry only specified prior issues into relevant destination targets. | Identified earlier baseline + exact requested clarification/student response/change record + proposed destination output. |
+| REVISE_AND_SUBMIT | Stay in selected activity; load previous submission and repair named targets/affected links only. | Accessible previous submission + improved version + actual changes, assistance and remaining issues. |
+| REVISION | Legacy alias for REVISE_AND_SUBMIT when the official directive clearly assigns repair. | Same review record; no old complete-only export barrier. |
+| WAIT | Stop the explicitly blocked learning, explain the actual hold. | Collect existing evidence only if the teacher explicitly requests/permits it; a WAIT is not automatically a new review session. Maintenance has its own handoff rules. |
+| COMPLETE | Acknowledge the recorded endpoint; do not invent work or duplicate a submission. | Only an explicit new teacher collection/revision directive authorizes another record. |
 
-| Action | Required behavior |
-|---|---|
-| INITIAL | Load the selected activity, check its prerequisites, and start only its missing initial work. Reuse valid work by default. A current explicit teacher instruction to restart the activity from the beginning authorizes a fresh INITIAL attempt despite an earlier submission; preserve that earlier work as history, not satisfied evidence. Without such an instruction, conflicting existing work requires clarification. |
-| RESUME | Reuse the available in-progress work/checkpoint, verify the resume point, and ask the next unresolved question. Elicit only essential missing evidence, not a full restart. |
-| REVISION | Load the identified baseline and the matching directive from the selected activity's Revision Routing or another teacher-designated source. Reopen named checkpoints and affected dependencies only. Missing baseline, required scope, or directive means teacher clarification, not INITIAL. |
-| WAIT | Briefly explain the recorded pending teacher decision. Do not launch another activity, manufacture approval, or generate a submission. |
-| COMPLETE | Acknowledge the recorded completion and any teacher handoff. Do not start another activity or generate duplicate files merely because the student opened a chat. |
+Teacher authorization to proceed is distinct from accepting the result. An unambiguous current teacher Activity 2 route with identified accepted/provisional baseline and conditions, including PROCEED_WITH_CLARIFICATION, authorizes Chapter 1 work without another duplicate approval phrase. Existing explicit Chapter 1 drafting approval remains sufficient when matching the selected route. Student claims, “good,” a completed/filed Activity 1 or editable handoff alone do not authorize progression.
 
-RESUME and REVISION remain modes of the selected activity, not additional activities. Pass INITIAL or REVISION to the activity's entry-mode contract; RESUME retains the original entry mode recorded in the available work and uses its checkpoint. WAIT/COMPLETE do not begin learning stages. Source verification and current teacher requirements still apply.
+Apply currently unambiguous legacy teacher feedback without forcing the teacher/student to recreate a new schema first. INITIAL/RESUME/REVISION records remain valid under their actual scope. Do not infer an unrecorded carry-forward approval or use an older historical pending label to negate a newer explicit teacher decision. A real conflict between current authoritative fields, explicit unmet condition or missing baseline identity gets a diagnostic and only independent authorized collection/work, not guessed authority. Do not auto-migrate 31 student records or infer updated teacher decisions from a template.
 
-## 3A. Teacher-reviewed handoff resume plan
+## 3. Clarification and revision rules
 
-When the teacher collects a handoff, update routing only after reviewing its actual evidence. Do not infer submission/completion/approval from receipt alone. Use RESUME for unfinished learning; REVISION for a directed repair; INITIAL only for new work or an explicit full restart. Current maintenance WAIT takes precedence over execution without erasing the reviewed resume point.
+Carry-forward clarification is part of the destination submission, not a new Activity 1 prerequisite interview. Name it briefly at welcome, handle it at the mapped destination target, retain the old baseline, and record addressed/partial/pending teacher decision. It uses the destination attempt's same follow-up allowance. If still unresolved, collect the other authorized targets; do not invent the missing dependency or send the student back for another approval loop.
 
-Optional document-level fields for a reviewed handoff are `route_plan_id`, `route_handoff_id`, and `route_resume_action`; they must match `## Resume Plan` in the exact selected activity section. The plan records checkpoint, unfinished criterion, next prompt, reviewed handoff/version, evidence source, teacher dispositions and authorized scope using RESUME-PLAN-TEMPLATE.md. Existing records without a plan remain valid for INITIAL/WAIT/COMPLETE; do not require students to create missing teacher plans. RESUME/REVISION needs enough exact baseline/next-action evidence to avoid guessing. A real contradiction between route, plan and feedback needs teacher clarification.
+Same-activity revision uses the teacher-identified baseline and repair scope. Request that exact upload when the official source permits it; do not ask the student to reconstruct the old submission. Preserve originals, compare before/after and retain unaffected work. A new teacher-issued revision directive opens a new attempt/budget; merely continuing a chat does not.
 
-Each checkpoint uses an optional action suffix: ELICIT (first actual attempt), LEARN (needed concept explanation/different-case model), APPLY (student application/drafting), REPAIR (specific correction), CHECK (verify existing evidence/consistency). For example H5/APPLY resumes background composition, not a new H1 interview. These action labels do not add tasks or make all five actions mandatory. A sufficient answer may skip unnecessary support phases.
+Preserve explicit teacher locks. Record an unauthorized alternative and its student rationale as a proposal, not a new approved baseline. Continue independent authorized work and submit it; do not stop the entire session for routine title/question/draft quality checks. Only a stated WAIT, real authority conflict or missing authorization blocks the dependent learning. Do not interpret pending final teacher acceptance as WAIT.
 
-Load the current official route/plan and matching actual handoff. If the plan authorizes `source_type: student_upload`, request the identified file if it was not attached; this is teacher-authorized work upload, not permission to replace controlling instructions. Verify student/activity/handoff identity. Do not automatically choose the highest SP number from mixed files. A missing/mismatched required file needs correction/teacher help; do not silently restart or ask students to retype the manuscript. An old handoff's next action cannot override the newer teacher-reviewed plan.
+## 4. Precise checkpoint and budget continuity
 
-Use retained evidence without repeated interviews; recheck only real dependencies and changed official criteria. A teacher ledger may reference original evidence in the uploaded handoff rather than publish it. Missing essential evidence must be recovered/elicited specifically before final readiness; preserve transcript gaps honestly. Updated approval must still be explicit in the section required by Activity 2.
+C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. The activity's opening question table defines current meaning, not an old handoff's task list.
 
-Begin with the planned next prompt after necessary source/maintenance/approval checks, using known language. If the teacher plan is more specific than the activity's suggested starting order, follow the plan within the activity contract. Add `plan_id`, checkpoint/action, exact unfinished criterion and next prompt to subsequent handoffs so the next tutor resumes the same work. Do not change GitHub or claim teacher review happened merely because a new draft plan was generated.
+A reviewed Resume Plan may specify ELICIT, LEARN, APPLY, REPAIR or CHECK plus exact unfinished criterion/next prompt and retained evidence. These labels are not five compulsory stages. Teacher disposition is RETAIN/OPEN/REPAIR/BLOCKED/NOT_REVIEWED with actual evidence references. A plan cannot silently expand the activity or authenticate an uploaded approval. Use the actual matching baseline/handoff, not whichever SP number is highest.
 
-## 4. Written feedback and route conflicts
+Carry attempt ID, directive/plan/baseline, used/remaining budget and extension reasons into every handoff/review record. No reset through chat change. Unknown counts follow the conservative area protocol and are disclosed rather than invented. Read current controls at resume, retain sufficient evidence/language, ask only the exact open target and compile at its bounded endpoint. Receipt of a collected file is not teacher acceptance.
 
-The route selects the activity/action; teacher feedback specifies the issue, authorized repair, restriction, or next decision. Use actual feedback naturally at the relevant stage, not a separate checklist for the learner. Optional blank comments are not an error. Nonbinding suggestions do not become required tasks.
+## 5. Learner message and final action
 
-For REVISION, the selected section's Revision Routing must identify the directive, baseline source/revision, checkpoints, required repairs, and authorized scope using `REVISION-DIRECTIVE-TEMPLATE.md` conventions. Prose feedback can explain those fields but cannot silently replace a missing baseline or conflicting approval. Do not invent a structured directive from ambiguous comments.
+Use the shared verified welcome: actual tasks, accurate current part, retained/repair/carried work and review output. Do not announce route fields, versions or loading traces. Ask language only if unknown; otherwise ask the next assigned question immediately. Transition/save messages lead into the next actual task in the same reply without confirmation. Holds and final delivery end with their actual action.
 
-If INITIAL conflicts with a targeted-revision directive (as distinct from an explicit teacher-requested full restart), or it selects Activity 2 without its own explicit drafting authorization and accepted concept revision, identify the conflict and contact the teacher. Do not choose a convenient instruction or ask the student to decide what the teacher meant. No approval is inferred from “good,” completion, `.phx` existence, or feedback alone.
-
-When no route is present, only an unequivocally initialized record with no work or approval may default to Activity 1 INITIAL. Existing work with absent routing needs teacher clarification; do not guess which activity or portion to repeat. A student request cannot change the teacher-maintained route or locked decisions.
-
-## 5. First response and session boundary
-
-After required retrieval and prerequisite checks, orient the learner once in friendly plain language, using the verified route/Resume Plan. If Sir Francis's review/placement is explicitly recorded, say: “Based on Sir Francis's review of your submitted work, you will continue with [current part]. Your assigned output is [required activity outcome].” For REVISION, identify the repair and retained work. Do not claim teacher review for a default INITIAL route or uploaded handoff alone; use neutral activity orientation instead.
-
-Activity 1's output is the proposed concept note with its eight required components. Activity 2's output is the Chapter 1 Research Foundation (not RRL/methodology). Describe a checkpoint by its task, such as background writing or source interpretation, rather than only C/H codes. State a session-specific goal only if the teacher plan actually sets one; otherwise distinguish today's next step from the whole activity outcome.
-
-Put that short orientation before any essential explanation and end the same response with the actual student-facing question/action under Your turn/Ikaw naman, or Next step/Susunod na gagawin for a hold/blocker/file delivery. Do not append material after that final action block. Maintenance and WAIT take precedence.
-
-Briefly identify the selected activity/action in records without burdening the learner with routing metadata. Ask language preference if not known; after a language answer, ask the actual next task question in the same response. If language is already known, ask that question immediately. Do not end with “I will follow your progress” or ask permission to proceed.
-
-For example, a verified C4 revision should begin with the specific unresolved question issue, not new topic selection. Do not compose the student's answer while acknowledging the route.
-
-One selected activity per conversation; an authorized handoff continues the same activity across linked chat segments and does not change the selected teacher route. A teacher route change to a different activity requires its own starter in a new chat. Do not silently switch tasks mid-session. Generating a draft progress update does not update the route or GitHub; only an actual teacher-saved record does that. Preserve revision history and keep personal identities and detailed private feedback out of public records.
-
-## Apply recorded directions; report actual blockers
-
-Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.
+For actual inaccessible/conflicting controls, use the shared plain-language issue plus Message for Sir Francis with exact diagnostic. Continue independently authorized work; never guess missing controls or claim academic completion/teacher approval. An authorized review record may be incomplete and uses the shared download/chat fallback. End by instructing submission and keeping a copy, then stop for the teacher's next decision. Public outcome drafts are minimal; only teacher saving changes the official record. Do not automatically publish private evidence or switch to an unassigned activity.

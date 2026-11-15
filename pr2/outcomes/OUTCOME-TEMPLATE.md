@@ -1,84 +1,95 @@
 ---
 student_code: TO-BE-ASSIGNED
 learning_area: Practical Research 2
-record_version: "1.1"
+record_version: "2.0"
 route_activity: pr2_act_01
 route_action: INITIAL
 route_directive_id: Not applicable
 route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
+route_resume_checkpoint: C1
 status: template
 ---
 
-TEMPLATE ONLY — not a student record or authorization. Replace the student code and save as its matching filename before use. This teacher-maintained record is initialized only. No learning outcome, submission, or teacher approval has been recorded. Student identity is maintained separately.
+TEMPLATE ONLY: not a student record, approval or issued route. Replace code/fields with actual teacher decisions before use. Keep identity mapping, submissions, detailed feedback and transcripts private.
 
 ## Tutor Entry Instructions
 
-## GitHub access fallback
+This exact teacher-issued outcome URL is the entry point. Read actual current GENERAL-TUTOR.md, TUTOR-STATUS.md, pr2/AREA-INSTRUCTIONS.md, pr2/ROUTING.md and the selected activity. A failed link may use at most four same-file raw/main, raw/refs/heads/main, blob/main or observed Raw/Code forms; stop on success, respect denials and do not guess another student/ref. Follow shared retrieval/errors once loaded. Bind filename/code and read only the selected unique Level 1 activity section plus explicitly assigned prior baseline. Do not claim unread controls are loaded.
 
-If a required teacher-issued GitHub URL fails, try its same-file raw `/main/`, raw `/refs/heads/main/`, and GitHub `/blob/main/` representations using available permitted retrieval/page-reading tools; an observed same-file Raw/Code link may help. Preserve owner/repository/ref and the exact path/student code, stop after success, and use no more than four distinct representations per file. Read actual text and required metadata, not a page title or snippet. Respect explicit safety/access denials; this is not permission to bypass login or restrictions. Only after permitted same-file alternatives fail, report the precise session/tool error and seek teacher help. Do not infer account failure or require signing out. Apply GENERAL-TUTOR.md's complete retrieval routine once loaded.
+The current official route/directive authorizes work. Pending final review is not a mid-chat approval requirement. Execute the activity's bounded targets, preserve baseline and actual counts, then submit complete/incomplete evidence as authorized. A carry-forward route collects the earlier clarification plus destination proposal; a same-activity revision collects previous plus improved work. Do not invent authority, override locks/WAIT, or ask the student to reconfirm a clear teacher decision. Use the shared welcome/language/next-action policy.
 
-The student supplied this exact outcome URL as the teacher-issued entry point. Before tutoring, retrieve and read the actual contents of:
+# pr2_act_01 | Research-problem foundation
 
-1. [General tutor](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/GENERAL-TUTOR.md)
-2. [PR2 learning-area controller](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/AREA-INSTRUCTIONS.md)
-3. [PR2 entry routing](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ROUTING.md)
-4. The activity file selected by the teacher-maintained `route_activity` below, using the routing file's exact activity map.
+## Current Session Directive
 
-Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
+```yaml
+directive_id: TEACHER-ASSIGNED-ID
+attempt_id: TEACHER-ASSIGNED-ATTEMPT
+activity_code: pr2_act_01
+action: INITIAL
+start_checkpoint: C1
+start_question_id: A1-Q1
+authorized_task: TO-BE-SPECIFIED
+baseline_revision: Not applicable
+baseline_source: Not applicable
+retained_evidence: []
+required_repairs: []
+carry_forward: []
+locked_decisions: []
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: ACTIVITY_REVIEW
+stop_for_teacher_decision: false
+```
 
-# pr2_act_01 | Research Concept Note
+- Learning status: Not assessed.
+- Session submission: Not recorded.
+- Teacher final decision: Not recorded.
+- Core target status: A1-Q1 / A1-Q2 / A1-Q3 not assessed.
+- Follow-up count for this attempt: Not started; no actual student attempt captured by this template.
+- Next point: C1 unless the actual teacher route specifies otherwise.
 
-- Activity status: Not started / no evidence recorded.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Concept approval status: Not approved.
-- Approved concept revision: Not recorded.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (C0–C8): Not assessed.
-- Next step / resume point: Initial development under pr2_act_01.
+## Prior Outcome / Baseline
 
-## Concept Outcome
-
-No concept recorded. No context, problem, title, questions, variables, study type, population, or procedure has been accepted.
+No student work recorded by this template. An actual record names an exact private submission/revision or teacher-authorized upload; do not publish the full work here. Title and extra questions are optional Activity 1 bonuses; design/population/gathering are not required.
 
 ## Revision Routing
 
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+No directive issued by this blank template. REVISE_AND_SUBMIT or legacy REVISION must identify baseline, actual repair and authorized boundaries. The teacher decides after receiving the old and improved versions, not after every answer.
 
 ## Resume Plan
 
-No reviewed handoff plan issued. The teacher fills this only after actual review; see RESUME-PLAN-TEMPLATE.md.
+No reviewed plan issued. Use RESUME-PLAN-TEMPLATE.md after actual review. Same-attempt continuation retains the follow-up ledger; a new teacher-issued attempt has its own budget.
 
 ## Teacher's Comments
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
-- Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Await explicit teacher authorization and an identified accepted concept.
+## Current Session Directive
 
-## Chapter 1 Outcome
+No Activity 2 authorization issued by this template. Complete an actual directive only when authorizing it. A valid destination example has `action: PROCEED_WITH_CLARIFICATION`, `activity_code: pr2_act_02`, a new actual attempt ID, the identified prior baseline, an exact carried issue mapped to an A2 target, authorized boundaries and `decision_timing: AFTER_SUBMISSION`. An unambiguous teacher-issued destination route grants drafting authority; a student copying this example does not.
 
-No Chapter 1 outcome recorded.
+Use the same directive fields as Activity 1. A carried issue entry specifies `issue_id`, `source_activity`, actual baseline, clarification requested, `address_at_question`, and `blocks_entry: false`. Do not turn that into another Activity 1 approval cycle. `stop_for_teacher_decision: true` must state the actual hold and which work/collection remains allowed; normally use route_action WAIT for a real hold.
+
+- Learning status: Not assessed.
+- Drafting authorization: Not issued by this template.
+- Accepted/provisional baseline: Not recorded.
+- Conditions/locks: Not recorded.
+- Teacher final Chapter 1 acceptance: Not recorded.
+- Session submission: Not recorded.
+- Core target status: A2-Q1 through A2-Q5 not assessed.
+- Follow-up count for actual attempt: Not recorded.
+
+## Prior Outcome / Baseline
+
+No Chapter 1 outcome recorded. No source, student reasoning, approval or fieldwork permission is implied.
 
 ## Revision Routing
 
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+No actual directive issued. Same-activity revisions use REVISE_AND_SUBMIT with exact baseline and requested repairs.
 
 ## Resume Plan
 
-No reviewed handoff plan issued. The teacher fills this only after actual review; see RESUME-PLAN-TEMPLATE.md.
+No actual reviewed plan issued. H7 includes scope and significance; current activity meanings control older handoffs.
 
 ## Teacher's Comments

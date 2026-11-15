@@ -1,5 +1,20 @@
 # Activity 2: source review and adaptation
 
+> Current-policy notice — 15 November 2026: the approved bounded-session, route and chat-delivery changes supersede earlier conflicting decisions below. See ../INSTRUCTION-STREAMLINE-REVIEW.md and the current runtime controls. This file preserves historical production notes; it is not an additional student task or runtime source.
+
+## Current scope update — 12 November 2026
+
+Activity version 0.3.0 / `PR2-ACT02-CH1-TEAL-v2` supersedes the older scope and acceptance scenarios below wherever they differ. The teacher now requires a final working title, extended Background applying TEAL, main/specific research questions, Scope and Limitations, and a separate Significance section. The former exclusion of significance is retired. Retain two verified sources, APA 7, no numerical background length quota, student authorship, Chapter 1-only depth and explicit drafting authorization.
+
+Passing emphasizes what each question seeks and why it is asked, its background support, the study's focus/boundaries and the reason to conduct it. All five components need usable student-grounded content, but no equal interview weighting, perfection gate or repeated oral defense applies. TEAL is adapted from the package's Unit 3 paragraph scaffold (Topic claim, Evidence, Analysis, Link); this activity explicitly limits that adaptation to Chapter 1 background and does not assign RRL, MAPS or a four-sentence formula. The source package was read only, not edited.
+
+Current editorial scenarios: a missing Activity 1 title/specific-question set is developed under valid Chapter 1 drafting authorization, not sent back for the retired concept-note gate; an actually locked decision still requires authorization to change. A coherent short background with meaningful TEAL/source-to-question links passes without padding. A polished background without student understanding does not. Generic beneficiary lists/guaranteed benefits need repair; realistically explained usefulness passes without a fixed beneficiary count. Old H7 scope evidence is retained, and only missing significance evidence is elicited; old Ready metadata alone does not pass new requirements. Prior finalized submissions are not automatically reassigned. No fieldwork/RRL/methodology follows completion. Existing file-failure rules and the separate dated collection notice were not changed here.
+
+Validation for this update is editorial/structural, not live ChatGPT Free behavior. Historical notes below explain prior decisions and do not add requirements to the current activity.
+
+---
+
+
 Closed-contract refinement, 9 November 2026: the teacher requested that activities control the conversation without over- or under-coverage. The general tutor now explicitly gives the current activity authority over academic tasks/depth/evidence/assistance/deliverables/endpoints, while shared conduct, safety, evidence honesty, maintenance and file integrity remain applicable. A working contract distinguishes mandatory/optional/conditional/deferred elements. Every proposed task must map to a requirement; every mandatory requirement needs actual sufficient evidence before export. Evidence reuse/question grouping cannot silently erase requirements. This rule is repeated in all four activity entry points, both area controllers and templates. No natural-language enforcement guarantee or live model-test success is claimed.
 
 ## Chapter 1 scope-lock repair — 9 November 2026

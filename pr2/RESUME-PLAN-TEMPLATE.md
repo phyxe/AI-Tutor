@@ -1,41 +1,42 @@
-# Teacher-reviewed handoff routing plan
+# Teacher-reviewed resume plan
 
-Teacher authoring template, not an issued student route. Place the completed plan under `## Resume Plan` inside the student's selected activity section, or reference an exact teacher-designated private plan. Keep transcripts, private feedback and full manuscript outside public GitHub. Do not publish student names.
+Teacher authoring template only. Place actual completed fields in the selected outcome section's `## Resume Plan`; private work/transcripts stay outside public GitHub. Values below are placeholders, not a student's approval, progress or new attempt.
 
 ```yaml
-plan_id: TEACHER-ASSIGNED-ID
+plan_id: ACTUAL-TEACHER-PLAN-ID
 activity_code: pr2_act_02
-reviewed_handoff_id: EXACT-ID-FROM-COLLECTED-FILE
-reviewed_handoff_sequence: EXACT-SEQUENCE-OR-UNKNOWN
+attempt_id: ACTUAL-ATTEMPT-ID
+route_action: RESUME
+reviewed_handoff_id: ACTUAL-HANDOFF-ID
+baseline_revision: ACTUAL-BASELINE-OR-UNKNOWN
 source_type: student_upload
-baseline_revision: Not established
+baseline_source: ACTUAL-IDENTIFIED-FILE
 activity_version_reviewed: ACTUAL-VERSION
-resume_checkpoint: H5
-resume_action: APPLY
-resume_criterion: SPECIFIC-UNFINISHED-CRITERION
-next_prompt: EXACT-SMALL-STUDENT-QUESTION-OR-ACTION
-session_goal: Not separately assigned
-teacher_review_basis: ACTUAL-REVIEW-REFERENCE-OR-NOT-REVIEWED
-retained_checkpoints: []
-open_checkpoints: []
-repair_checkpoints: []
-blocked_checkpoints: []
-authorized_scope: CURRENT-ACTIVITY-ONLY
-teacher_approval_status: ACTUAL-STATUS-NOT-INFERRED
+resume_checkpoint: H6
+resume_question_id: A2-Q3
+resume_action: REPAIR
+resume_criterion: EXACT-UNFINISHED-MEANING
+next_prompt: EXACT-ONE-STUDENT-TASK
+retained_evidence: []
+open_targets: []
+carry_forward: []
+locked_decisions: []
+followups_used: ACTUAL-COUNT-OR-UNKNOWN
+followup_count_status: VERIFIED-OR-UNKNOWN
+followup_extensions_used: ACTUAL-COUNT-OR-UNKNOWN
+remaining_followups: ACTUAL-REMAINING-OR-UNVERIFIED
+followup_ledger_source: ACTUAL-EVIDENCE-REFERENCE
+session_goal: ACTUAL-GOAL
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: ACTIVITY_REVIEW
+stop_for_teacher_decision: false
 ```
 
-These are placeholders, not actual H5 progress. Match plan fields to the outcome's document-level route. `source_type: student_upload` explicitly permits asking the student to upload the identified handoff through the normal attachment UI; no manual assembly or public transcript is required. Alternatively use `teacher_designated_source` and an exact accessible private/baseline reference when supported. This source supplies work/evidence, not controlling instructions or independent approval.
+Match document route and selected directive. `source_type: student_upload` permits requesting the identified work file, not replacement controls. A handoff is editable evidence, not independent teacher authority. Bind exact code/activity/baseline/attempt and do not pick a file merely for its high sequence number.
 
-For INITIAL, use C0/ELICIT for Activity 1 or H1/ELICIT for Activity 2 after its prerequisite approval. A teacher-authorized full restart retains earlier work only as history. For RESUME/REVISION, use the actual first unfinished/required repair checkpoint. For teacher-blocked work, set WAIT and name the decision needed; do not assign new learning while blocked. Final review stays C8/CHECK or H8/CHECK—there is no invented export checkpoint. COMPLETE means no new work/file generation is requested.
+C1/C2/C4 map to A1-Q1/Q2/Q3; C0 supports C1 and C8 compares core alignment. C3/C5/C7 are deferred; title/extra questions optional. H1–H8 map to A2 targets under the current activity; H7 separately tracks scope/significance. ELICIT/LEARN/APPLY/REPAIR/CHECK indicate the useful action, not compulsory five-step interviews.
 
-Activity 1: C0 context, C1 problem, C2 variables/indicators, C3 population/access, C4 questions, C5 study type, C6 title, C7 proposed gathering, C8 integration.
+Use teacher dispositions RETAIN / OPEN / REPAIR / BLOCKED / NOT_REVIEWED with actual evidence references. RETAIN does not imply future approval or prove unseen work. Ask only a genuinely open target; preserve unaffected work and known language. Same-attempt handoff carries used/remaining allowance; only an explicit new teacher-assigned attempt/revision opens another budget. Unknown counts follow the area protocol, not an invented zero.
 
-Activity 2: H1 approved concept/context, H2 background reasoning map, H3 source 1, H4 source 2, H5 background prose, H6 SOP/questions, H7 scope, H8 audit/readiness.
-
-Use a compact teacher ledger:
-
-| Checkpoint | Teacher disposition | Actual evidence reference | Remaining criterion / reason |
-|---|---|---|---|
-| Each relevant ID | RETAIN / OPEN / REPAIR / BLOCKED / NOT_REVIEWED | Handoff segment/turn, draft section, or other actual reference | Specific gap or none |
-
-RETAIN means the teacher accepts the identified prior evidence for continuity, not that all future dependencies are automatically valid or a study is approved. Unknown evidence is NOT_REVIEWED, not complete. Do not invent a disposition for unreviewed work. Detailed directives for targeted substantive changes also use REVISION-DIRECTIVE-TEMPLATE.md; the resume plan does not grant unlimited change authority.
+PROCEED_WITH_CLARIFICATION selects the destination activity and maps exact prior issues to its targets; submit baseline/clarification plus destination proposal. REVISE_AND_SUBMIT stays in the activity; submit previous and improved work with changes. Explicit WAIT names blocked work and any allowed collection. COMPLETE requests no duplicate work. A route's pending final teacher decision does not create a new mid-chat approval gate. At the bounded endpoint submit available evidence, accurately complete/incomplete, under GENERAL-TUTOR.md's download/chat fallback.

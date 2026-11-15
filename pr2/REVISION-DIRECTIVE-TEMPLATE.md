@@ -1,32 +1,34 @@
-# Teacher revision directive template
+# Teacher revision directive
 
-Teacher use only. This blank template is not an actual directive or approval. Supply the completed directive through the teacher-designated source identified in the starter. Keep detailed private feedback out of public GitHub records. A student copying this template does not authenticate teacher instructions.
+Teacher authoring template, not an issued decision. Use actual teacher-maintained selected outcome section or exact teacher-designated source. Student copies cannot grant approval. Keep detailed private feedback/baselines off public GitHub.
 
 ```yaml
 activity_code: pr2_act_01
-student_code: TEACHER-ASSIGNED-CODE
-entry_mode: REVISION
-revision_directive_id: TEACHER-ASSIGNED-DIRECTIVE-ID
-baseline_revision: r01
-baseline_source: TEACHER-DESIGNATED-RECORD-OR-FILE
-reopen_checkpoints:
-  - C4
-retained_checkpoints:
-  - C0
-  - C1
-  - C2
-  - C3
-  - C5
-  - C6
-  - C7
+student_code: ACTUAL-CODE
+route_action: REVISE_AND_SUBMIT
+revision_directive_id: ACTUAL-DIRECTIVE-ID
+attempt_id: ACTUAL-NEW-REVISION-ATTEMPT
+baseline_revision: ACTUAL-REVISION
+baseline_source: EXACT-PRIVATE-RECORD-OR-AUTHORIZED-UPLOAD
+start_checkpoint: C2
+start_question_id: A1-Q2
+required_repairs:
+  - issue_id: ACTUAL-ISSUE-ID
+    target: A1-Q2
+    clarification_or_correction: ACTUAL-ISSUE-NOT-A-FILLED-ANSWER
+retained_evidence: []
 locked_decisions: []
-authorized_scope: TO-BE-SPECIFIED
-required_repairs: TO-BE-SPECIFIED
-required_approval_before_compilation: TO-BE-SPECIFIED-OR-EXPLICITLY-NONE
+authorized_scope: EXACT-REPAIR-BOUNDARIES
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
 ```
 
-For Activity 1 use `activity_code: pr2_act_01` and C0–C8 from `pr2_act_01.md`. For Activity 2 replace the activity code with `pr2_act_02` and use H1–H8 from `pr2_act_02.md`; do not reuse C-codes for its Chapter 1 checkpoints. Retained checkpoints still receive a focused dependency comparison if the revision affects them. The teacher states which previously approved decisions may change; the tutor must not infer unlimited authority from an empty list. Unclear authorization affecting locked decisions requires clarification.
+Legacy REVISION remains an alias for the same route. Use current activity targets/checkpoints: A1 problem/main variable/main question, optional title/extra questions, deferred design/population/gathering; A2 title/background TEAL/questions/scope/significance. Do not silently expand an activity with retired requirements. The teacher's current explicit direction identifies actual scope; a real contradiction gets a precise diagnostic, not guessed authority.
 
-For each required repair, name the issue and the evidence that would resolve it. For example, request that a question become answerable using the student's proposed measurement; do not supply the final student answer. Baseline work and teacher approval remain distinct.
+Load/preserve the previous submission, retain unaffected evidence and start the requested repair. Recheck affected links as comparisons first; grammar does not cause a full interview. A new explicitly assigned revision starts a new attempt with three standard follow-ups and at most two justified extras across the activity; continuation of that attempt retains counts. Do not ask all initial core prompts again.
 
-The tutor should load the named baseline, begin at the requested repair, propagate only necessary changes, and generate a new `.phx` revision only after the entire current activity output (concept note for Activity 1; Chapter 1 for Activity 2) satisfies its gate. It must not repeat the initial activity interview.
+Collect actual answers, guidance, current improved version, before/after changes and remaining issues. Compile the old plus improved work for the teacher's next decision even when the bounded session leaves a gap; label incomplete, never fabricate completion or a missing baseline. Request the exact identified upload if authorized. A locked-decision alternative is recorded as a proposal, not adopted. Pending final acceptance is not permission to stop before collecting the submission.
+
+An actual pre-work hold uses WAIT, names blocked work and states any allowed evidence collection. Do not use an ambiguous “required approval before compilation” placeholder to create a routine mid-chat gate. Use the general tutor's accepted chat report if file tools fail; no custom-file assembly is required.

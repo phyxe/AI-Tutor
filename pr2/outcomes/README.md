@@ -1,29 +1,18 @@
-# Student outcomes
+# PR2 coded outcome records
 
-Store one Markdown file per teacher-assigned student code, such as `S-7K2M.md`. Start from `OUTCOME-TEMPLATE.md`; append session entries to preserve previous evidence.
+One teacher-maintained Markdown record per exact assigned code, using OUTCOME-TEMPLATE.md for new records. Never overwrite a real record with the template. Keep identities, full submissions/transcripts, detailed feedback and private baselines outside this public repository; opaque codes alone do not anonymize detailed work. Separate student report, tutor observation and actual teacher verification. Only teacher saving changes the official route.
 
-Use only minimal, teacher-reviewed, non-identifying summaries suitable for this public repository. Keep the identity mapping and sensitive student information elsewhere. Do not store names or full chat transcripts here.
+The learner starts with the exact teacher-issued outcome URL. The tutor must load the linked actual general/status/area/router/activity text; the URL alone is not proof. Local edits are not published automatically. A Current Session Directive in the selected activity records actual authorized task, attempt, baseline, targets, constraints, decision timing and submission expectation. Existing unambiguous legacy routes remain valid; do not fabricate a new directive or teacher decision merely to match the new template.
 
-Separate student reports, tutor observations, and teacher verification. ChatGPT drafts updates; the teacher reviews and saves them.
+- INITIAL: new authorized attempt; reuse valid notes unless teacher explicitly restarts it.
+- RESUME: same attempt, exact open target and carried follow-up allowance.
+- PROCEED_WITH_CLARIFICATION: start destination activity, integrate specified earlier issues, submit prior baseline/clarification plus proposed destination work. No duplicate earlier approval cycle.
+- REVISE_AND_SUBMIT (legacy REVISION): stay in the activity, repair named targets; submit accessible previous and improved versions with changes/remaining issues.
+- WAIT: explicit blocked learning, with any permitted collection stated. Pending final acceptance alone is not WAIT.
+- COMPLETE: no duplicate tasks/files without a new teacher directive.
 
-## Starting through one outcome URL
+Activity 2 needs actual teacher authorization, supplied by a clear current destination route or existing explicit Chapter 1 drafting approval; a student-generated file/claim is not enough. A missing title/question field may be developed under that authorization, not sent back to complete the retired eight-part Activity 1. Do not change a teacher lock or infer permission to collect field data.
 
-The student can use: “I am taking PR2 and you will help me by following my progress located in: [my teacher-issued outcome URL]”. Each record links to the general tutor, PR2 controller, and `../ROUTING.md`. The route selects the activity file; the tutor must actually retrieve all required text. This is a designed workflow, not a guarantee of linked-file retrieval in every ChatGPT access mode.
+Use RESUME-PLAN-TEMPLATE.md after actual handoff review; identify exact work upload/private source, evidence dispositions and next question. A new teacher-assigned revision opens a new attempt/budget; same-attempt chat continuation does not. Receipt of a file is not acceptance. Current production activities submit complete/incomplete evidence at their bounded endpoint, with shared file/chat delivery. Do not publish the private report or update other learners while editing a template.
 
-All 31 initialized records (17 `pr2_pru` and 14 `pr2_cou`) currently route to `pr2_act_01` with `route_action: INITIAL`. No student work or approval is implied.
-
-Teacher updates:
-
-- To resume unfinished work: set RESUME, identify the baseline/checkpoint, and make the actual in-progress evidence available through the teacher-designated source.
-- To require a repair: set REVISION, identify the directive and baseline, and write the checkpoint-specific repair and authorized scope in the selected section's Revision Routing. Teacher's Comments can explain the issue.
-- To advance to Chapter 1: save the accepted concept and explicit Chapter 1 drafting authorization in `# pr2_act_02`, then set `route_activity: pr2_act_02` and `route_action: INITIAL`.
-- To wait for review or finish the assigned route: set WAIT or COMPLETE with an accurate explanation in the selected section.
-
-Do not change only a comment while leaving a contradictory route. Do not use a generated submission as proof of teacher approval. Keep sensitive feedback and full baselines in appropriate teacher-designated storage rather than automatically publishing them here.
-
-The linked raw GitHub paths work only once the corresponding reviewed files are published and accessible. Test one complete student-entry flow before rollout; current local edits are not automatically available at those URLs.
-
-
-## Collected handoffs
-
-After reviewing a collected handoff, use ../RESUME-PLAN-TEMPLATE.md to set the exact checkpoint/action, next prompt, matched file ID and teacher evidence dispositions. Set RESUME for unfinished work or REVISION for directed repairs. Put only the minimal plan in the selected public activity section and retain detailed work privately; the student can upload the exact teacher-identified handoff. Receipt does not mean completion or approval. Do not reset other learners or invent progress.
+All actual student record decisions remain as saved by the teacher. This documentation does not reset their routes, mark work reviewed, migrate approvals or invent progress. Test one actual entry/resume and submission flow in the student environment after publishing reviewed controls.

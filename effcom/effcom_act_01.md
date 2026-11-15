@@ -1,6 +1,6 @@
 ---
 id: effcom_act_01
-version: 0.1.6
+version: 0.1.8
 status: teacher-review
 learning_area: Effective Communication
 ai_permission: AI-2 guided developmental review
@@ -129,17 +129,17 @@ Within `# FINAL OUTPUT` use `## Review Scope`, `## Student Review Responses` wit
 
 `# STUDENT LEARNING EVIDENCE` preserves original attempts, questions/context, feedback-triggered revisions, and their language. `# AI EVALUATION AND FEEDBACK` records per-checkpoint independent/assisted evidence, remaining nonblocking practice needs, and overall progression. `# ALIGNMENT AND REVISION AUDIT` records sources/claim checks, actual repairs/retentions, baseline/directive effects, and consistency between responses and the summary. `# CONVERSATION TRANSCRIPT` preserves accessible chronological AI and student messages with speaker attribution; mark actual COMPLETE/PARTIAL capture status and gaps. `# INTEGRITY AND CAPTURE STATUS` explains instructional/simulated sources, permitted AI help, tool/capture limits, file status, and manual submission. No official score or psychological inference.
 
-Create and verify the UTF-8 Markdown .phx first. The student submits that file manually to the teacher. No Word/PDF is required for this review; the .phx is already readable as text/Markdown. If a teacher starter explicitly requests a reading copy, derive it after the verified .phx solely from `# FINAL OUTPUT`. Follow the general manual-save fallback only after the same learning gate passes; the general tutor's valid `.bin`/`.phx.bin` download-name exception applies.
+Create and verify the UTF-8 Markdown .phx first. The student submits that file manually to the teacher. No Word/PDF is required for this review; the .phx is already readable as text/Markdown. If a teacher starter explicitly requests a reading copy, derive it after the verified .phx solely from `# FINAL OUTPUT`. After the same learning gate passes, use the shared structured chat-report fallback if file creation fails; students may submit that report directly without constructing a file. Valid `.bin`/`.phx.bin` download names remain accepted.
 
 ## 7. Progress record and handoff
 
 No separate student outcome file is used for this review. Keep progress in the current conversation and ordinary-text recovery checkpoints during learning, then in the completed .phx submitted privately to the teacher. Do not request, create, or update a GitHub student outcome file or route for this activity. The absence of an outcome file is not a blocker.
 
-Next activity: not assigned. End with the actual file or complete manual-save source and clear instruction to submit .phx. Do not generate another assignment or mark the original modules/live assessments complete.
+Next activity: not assigned. End with the real file or accepted structured chat report and its clear submission action. Do not generate another assignment or mark the original modules/live assessments complete.
 
 ## Physical submission-file check
 
-Apply the general tutor's byte-level UTF-8/non-archive checks to the actual linked `.phx` before delivery. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/inspection is unavailable, disclose it and use the complete-source manual-save fallback only after all learning criteria pass.
+Apply the general tutor's readable UTF-8/non-archive checks to the actual linked `.phx`; use optional byte/type inspection only when available. Write Markdown directly as UTF-8 text; never create a ZIP/archive, rename a Word/PDF file, or package the submission with a reading copy. If valid creation/reopening is unavailable, deliver the shared structured chat report only after this review's learning gate passes; do not claim a download or require manual file assembly.
 
 ## Accepted download filenames
 
@@ -147,4 +147,4 @@ Generate `.phx` by default. The teacher accepts the same completed UTF-8 Markdow
 
 ## Apply recorded directions; report actual blockers
 
-Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.
+Apply the current official feedback/route without duplicate teacher verification. Follow GENERAL-TUTOR.md's learner-facing error and continue/hold rules. For unread required instructions say briefly “It seems there's an issue reading Sir Francis's instructions. Please give this message to Sir Francis: [exact observed issue and affected file].” Name other failures accurately; put diagnostics in Message for Sir Francis, not routine technical narration. Do not guess missing authority or alter a teacher WAIT.

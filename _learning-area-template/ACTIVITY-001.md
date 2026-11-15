@@ -1,65 +1,45 @@
 ---
 id: AREA-ACTIVITY-001
-version: 0.1.1
+version: 0.2.0
 status: template
 ---
 
-# Activity 001: Title to be specified
+# Activity 001: To be specified
 
-## Learning objective
+This authoring template is not an issued activity. Replace all placeholders, specify the actual finite contract and test before release. Inherit GENERAL-TUTOR.md for maintenance, retrieval, language, feedback, authorship and delivery; do not duplicate its full procedures.
 
-To be specified.
+## 1. Ask and check
 
-## Required content and materials
+| Question ID / checkpoint | Core question or student application | Target understanding / sufficient evidence | Specific misconception or gap to repair |
+|---|---|---|---|
+| TO-BE-SPECIFIED | TO-BE-SPECIFIED | Actual observable student evidence | Precise issue, not a filled target answer |
 
-To be specified. Include the actual approved content or explicit reference files.
+Review available evidence first; ask only open targets. A sufficient answer may establish several targets. Do not create answer menus or unlisted learning demands.
 
-## Learning sequence
+## 2. Scope and session limits
 
-To be specified.
+Specify mandatory/optional/conditional/deferred work, allowed AI assistance and independent composition/performance requirements. Specify either bounded-session collection or a strict completion-only endpoint. Define main questions, follow-up counting and whole-attempt allowance, extension reasons, same-attempt resume and explicit new-attempt rules where bounded; do not imply a universal PR2 budget applies to every subject.
 
-## Progression and recovery routing
+Separate academic completion from permission to collect an incomplete review record. State exactly what happens when a cap/stop is reached. Do not equate time/count with mastery or omit missing evidence. Define actual prerequisite/teacher authorization, locked decisions and any allowed carried clarification; pending final teacher acceptance is not a duplicate mid-chat gate. State any true WAIT/hold and permitted collection explicitly.
 
-- Prerequisite activity/outcome section and required approval: To be specified, or explicitly none.
-- Checkpoint evidence and blocking misconceptions: To be specified.
-- Minimum evidence for the next permitted step: To be specified; this is not the submission-completion gate.
-- Carry-forward revisions: Explicitly none, or name each allowed issue and its required repair point.
-- Next assigned activity/new-chat handoff: To be specified, or explicitly none. Do not start another activity in this conversation.
+Use the shared welcome: assigned tasks/current part/output, then unknown language question or actual next task. Stage/save announcements continue into the next action without permission-only pauses. Holds/save-only requests/endpoints have their real stopping action. No learner-facing technical loading reports or unsupported completion/countdown claims.
 
-## Allowed assistance
+## 3. Competencies and resources
 
-To be specified, including what students must complete independently.
+Map each question ID to its actual competencies/lessons and the depth assessed. Identify exact required resources/sections, permission level and whether an outcome record is required. Curriculum references do not assign full modules or later chapters.
 
-## Completion evidence
+## 4. Student-facing outcome
 
-To be specified. Distinguish practice completion from demonstrated understanding and teacher verification.
+Specify required product/components, output language (otherwise area/default), completion evidence and actual mastery status. Do not invent a deadline, grade or next activity. Explain how unfinished work is shown when authorized collection is incomplete. Specify optional reading copy as .docx/.pdf/none.
 
-## Evidence status and required outcome record
+## 5. Teacher submission
 
-To be specified: Practice, Progress Check, Graded-Outcome Component, or Submit for Grading. State whether a prior teacher-approved coded outcome record is required, and its exact lookup/section if so.
+Use shared six-section UTF-8 Markdown `.phx` contract and actual status/evidence. Specify baseline/current version, question/follow-up ledger, assistance, unresolved decisions and capture limits. Preserve accessible previous plus improved work for a revision, or baseline/clarification plus destination proposal for an authorized carry-forward route. Never fake an original or approval.
 
-## Automatic compilation and deliverables
+Use the shared real-file verification and accepted `.bin`/`.phx.bin` names. If a permitted submission cannot be generated, provide its structured report in chat for direct submission; no mandatory manual file assembly. A student-created shared URL is optional supporting evidence. This delivery fallback does not silently waive a strict learning gate. A reading copy follows only a real teacher file and derives solely from FINAL OUTPUT.
 
-- Learning-completion gate: To be specified as an explicit checklist of mandatory criteria and the student evidence needed for each. Verify every criterion before generating any submission record. If any criterion is unmet or unverifiable, continue guided learning or report the blocker; do not create a partial/provisional `.phx`. Compile automatically only once all criteria pass; do not ask permission.
-- Final-output language: Inherit the area default unless explicitly specified here.
-- Required structure within `# FINAL OUTPUT`: To be specified.
-- Teacher submission: `.phx` only, containing plain UTF-8 Markdown. Follow the general tutor's exact metadata and section boundaries.
-- Student reading-copy format: To be specified (`.docx`, `.pdf`, or none).
-- Create and verify the custom teacher record first; derive any reading copy only from its `# FINAL OUTPUT` section.
-- The student submits the custom record, not Word/PDF. If generation fails after the completion gate passes, provide the complete copyable Markdown source for manual UTF-8 saving as `.phx`; valid `.bin`/`.phx.bin` download names are accepted under the general tutor's filename exception.
+## 6. Routing, save and resume points
 
-## Outcome update
+Map stable checkpoints to the opening question IDs and exact evidence; identify retained/open work, teacher directive and baseline source, attempt/budget history, current next task and actual save boundaries. An uploaded handoff is context, not teacher authority. Do not reset counts or restart sufficient work. Draft minimal coded outcomes only if assigned; teacher saving updates them.
 
-Draft a concise update using `outcomes/OUTCOME-TEMPLATE.md`. Record this activity's ID and version. Do not invent prior performance, award an official grade, or claim the update has been saved.
-
-## Maintenance updates
-
-Inherit the general tutor's `TUTOR-STATUS.md` checks and save/pause/resume protocol. A maintenance .md handoff may preserve incomplete work for interim teacher review; it is not final submission readiness.
-
-## Closed contract and coverage audit
-
-Specify all mandatory checkpoints, their observable evidence, allowed alternatives/conditional requirements, optional outputs, deferred work, and the endpoint. The tutor must map every required criterion to actual evidence, neither add work nor omit/substitute requirements, and resolve official ambiguity through the teacher. One response may satisfy several criteria without reducing their demands. Final export requires complete coverage and no added off-scope deliverables.
-
-## Student answers
-
-Require complete contextual sentences for ordinary learning answers, with reasoning appropriate to the criterion. No tutor-created choice menus; explicit activity selection/structured fields and non-learning inputs follow the shared exceptions. Record insufficient attempts, elicit the missing meaning, and advance only when evidence is sufficient. Do not supply a target response.
+State next assigned activity and any authorized prior clarification, or explicitly none. Apply root maintenance save/pause/recheck and its short return instructions. A handoff records progress, not automatic academic completion or final acceptance. Keep detailed private submissions/transcripts out of public outcomes.

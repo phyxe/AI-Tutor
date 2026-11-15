@@ -1,6 +1,6 @@
 ---
 id: pr2_review_01
-version: 0.1.7
+version: 0.1.9
 status: teacher-review
 learning_area: Practical Research 2
 ai_permission: Guided developmental review
@@ -121,7 +121,7 @@ Within `# FINAL OUTPUT`, use `## Review Scope`, `## Student Review Responses` (P
 
 `# INTEGRITY AND CAPTURE STATUS`: AI-use disclosure, fictional-case/source boundaries, actual retrieval and tool limits, capture/file status, and manual-submission reminder.
 
-Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx manually to the teacher. No Word/PDF is required; a teacher-requested reading copy may follow only from the verified file's `# FINAL OUTPUT`. Follow the general gate-controlled manual-save fallback as .phx only when file tools fail; keep `.phx` as the intended output and accept valid `.bin`/`.phx.bin` downloads under the general tutor's filename exception.
+Create and verify the readable UTF-8 Markdown .phx first. Students submit .phx manually to the teacher. No Word/PDF is required; a teacher-requested reading copy may follow only from the verified file's `# FINAL OUTPUT`. If file tools fail after this review's learning gate passes, use the shared structured chat-report fallback for direct submission without custom-file assembly. Keep `.phx` as the intended download and accept valid `.bin`/`.phx.bin` names.
 
 ## 8. End boundary
 
@@ -133,4 +133,4 @@ Follow GENERAL-TUTOR.md: write readable UTF-8 Markdown directly, verify the actu
 
 ## Apply recorded directions; report actual blockers
 
-Current official teacher feedback and route/Resume Plan are already-issued instructions: apply them without asking the student to reconfirm with the teacher. Follow GENERAL-TUTOR.md's student-centered authority/error policy. Vague teacher-referral wording in this file means only a genuine unresolved blocker after reading the required records and permitted retrieval alternatives. Report it as “There's an error on my part; please report this to your teacher: [specific error].” Identify the affected file/checkpoint and actual missing/conflicting information; do not invent a cause or ask the student to decide the teacher's intent. Preserve work, continue any independently authorized in-scope step, and never fabricate approval. Explicit WAIT/maintenance remains a valid teacher direction, not an error.
+Apply the current official feedback/route without duplicate teacher verification. Follow GENERAL-TUTOR.md's learner-facing error and continue/hold rules. For unread required instructions say briefly “It seems there's an issue reading Sir Francis's instructions. Please give this message to Sir Francis: [exact observed issue and affected file].” Name other failures accurately; put diagnostics in Message for Sir Francis, not routine technical narration. Do not guess missing authority or alter a teacher WAIT.
