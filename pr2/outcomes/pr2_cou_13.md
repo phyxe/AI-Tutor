@@ -1,16 +1,16 @@
 ---
 student_code: pr2_cou_13
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
-route_action: REVISION
-route_directive_id: pr2_cou_13-a01-revision-2026-11-09
-route_baseline_revision: pr2_cou_13-a01-reviewed-snapshot-2026-11-09
-route_resume_checkpoint: C1
-status: path-accepted-not-approved-activity-1-development-required
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_cou_13-a01-teacher-direction-2026-11-16
+route_baseline_revision: pr2_cou_13-a01-reviewed-baseline-2026-11-16
+route_resume_checkpoint: C2
+status: activity-1-focused-core-revision-required
 ---
 
-Teacher decision recorded November 9, 2026: research path accepted for continued development, not approved. Establish understanding and clarify the intended research meaning within Activity 1. No complete concept approval or Activity 2 authorization. Student identity is maintained separately.
+Teacher decision recorded November 16, 2026 (Asia/Manila): Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized. Student identity and detailed learning evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -27,93 +27,72 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Existing interim work reviewed; focused REVISION/development within the preferred path, not an unrelated topic restart.
-- Teacher decision date: November 9, 2026 (Asia/Manila).
-- Research-path disposition: Accepted for development only; not approved.
-- Research problem approval status: Not approved; understanding and intended formulation require clarification.
-- Complete concept approval status: Not approved; no accepted concept revision for Activity 2.
-- Submission revision: No verified completed .phx revision number established; a snapshot ID is not a student submission revision.
-- Teacher verification: Work/path reviewed, not certification of learning. No new student responses or passed checkpoints claimed.
-- Student-reported work: Prior planning retained in the embedded snapshot below.
-- Tutor-observed learning evidence: Use only actual accessible answers; generic quiz results, selected tutor options and polished summaries do not establish concept understanding.
-- Checkpoint summary: Resume at C1 (research problem); required understanding and affected C0-C8 dependencies remain open/recheck as below.
-- Next step / resume point: REVISION C1; ask the opening clarification after required source/maintenance checks and necessary language handling.
+- Teacher approval boundary: Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized.
+- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
+- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
+- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
 
-## Concept Outcome
+## Current Session Directive
 
-The teacher accepts continuing along your preferred research path. This is permission to develop it, not approval of the problem formulation, title, design, measures or complete concept. Establish what you intend to investigate and why the proposed evidence can answer it. Retain useful prior work and clarify missing understanding rather than replace terms in a ready-made plan.
+```yaml
+directive_id: pr2_cou_13-a01-teacher-direction-2026-11-16
+attempt_id: pr2_cou_13-a01-attempt-2026-11-16
+activity_code: pr2_act_01
+action: REVISE_AND_SUBMIT
+start_checkpoint: C2
+start_question_id: A1-Q2
+baseline_revision: pr2_cou_13-a01-reviewed-baseline-2026-11-16
+baseline_source: "This outcome record, Revision Baseline subsection"
+authorized_task: "Repair only the open Activity 1 core targets and affected alignment; preserve sufficient existing evidence."
+retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+required_repairs:
+  - issue_id: pr2_cou_13-core-repair-2026-11-16
+    target: A1-Q2
+    clarification_or_correction: "Explain what responses would represent students’ reported reasons for disposal practices, then align one descriptive main question. Desk litter does not identify individual disposal behavior; home self-reports do not establish causes. Avoid assuming laziness or irresponsibility. No cleaning intervention, extra context essay or unnecessary full restart."
+  - issue_id: pr2_cou_13-alignment-2026-11-16
+    target: A1-Q1 / A1-Q2 / A1-Q3
+    clarification_or_correction: "Reuse sufficient actual evidence and repair only missing meaning or dependent contradictions; no additional final defense."
+carry_forward: []
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 2 authorization, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-Complete the aligned Activity 1 concept and submit the completed .phx for teacher review. Activity 2 and fieldwork remain unauthorized.
+This is a new explicitly teacher-authorized revision attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
 
 ## Revision Baseline
 
-Baseline ID: `pr2_cou_13-a01-reviewed-snapshot-2026-11-09`. Teacher-designated continuity summary of the reviewed interim work, not a completed submission or full verbatim transcript. Use this embedded baseline without requiring private-file access or making the learner repeat all prior work. Acceptance of the path does not mark unsupported components satisfied.
+Baseline ID: `pr2_cou_13-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
 
-The reviewed interim handoff proposes a five-minute daily classroom cleaning routine in Grade 11 Knowledge over two weeks. The historical title claims an effect on cleanliness and participation. Candidate evidence includes litter counts, participation counts/rates, a whole-room cleanliness rating and a feedback survey. The latest observation schedule is twice weekly before/after the routine, distinct from daily implementation. Class size is estimated at 15-20; observer roles alternate between researcher alone and researcher/adviser. Permissions are proposed, not granted. Many choices were selected from tutor options; the capture is partial. No intervention, data or findings are established.
-
-## Revision Routing
-
-```yaml
-activity_code: pr2_act_01
-student_code: pr2_cou_13
-entry_mode: REVISION
-revision_directive_id: pr2_cou_13-a01-revision-2026-11-09
-baseline_revision: pr2_cou_13-a01-reviewed-snapshot-2026-11-09
-baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C1, C2, C3, C4, C5, C6, C7, C8]
-retained_checkpoints: [C0]
-locked_decisions: [accepted research path for development only, individual authorship, no fieldwork authorization]
-authorized_scope: "Preserve the classroom-cleanliness research path; clarify the problem before a solution and develop a feasible nonexperimental quantitative descriptive direction. No implemented cleaning intervention, causal effect study or unrelated replacement topic."
-required_repairs: "Numbered development/repair tasks below; begin at the route checkpoint with the opening clarification."
-required_approval_before_compilation: "No additional approval for compatible choices within this directive once all Activity 1 gates pass. Refer a substantive departure or unresolved teacher condition. Problem and complete concept approval remain pending teacher review; no Activity 2 authorization."
-```
-
-1. **C1:** Explain the specific uncertainty behind the cleaning concern before prescribing a routine. Distinguish personally noticed conditions from the assumption that students do not consider cleaning their responsibility. A possible solution is not itself a research problem; do not assume its effectiveness or a cause of litter.
-2. **C2/C5:** Develop a feasible nonexperimental descriptive focus through the learner's reasoning. Existing practices, experiences, responsibilities or barriers may inform that reasoning, but the tutor must not choose a final focus or force them all into one study. Do not introduce/test a five-minute intervention or infer responsibility/lasting habits from a room becoming cleaner immediately after cleaning.
-3. **C3/C4/C6:** Explain the relevant group/source and access; develop one main question and aligned specific descriptive questions, then a student-developed matching title. Recheck the estimated class count and observer roles rather than inventing them. Do not carry over the effect title or unnecessary survey/count/rating measures automatically. The learner must explain an independently understood scope rather than copy another student's plan with substituted terms; do not disclose other students' work.
-4. **C2/C7:** For retained observations, define units, indicators, observation timing and who records consistently. For self-reports, distinguish reported experience from verified behavior. Explain daily routines versus observation frequency only if still relevant after redesign; no research-imposed change to normal classroom care. Complete permissions/applicable consent/assent, voluntariness, privacy/storage and refusal/missing-data handling. No hazardous-waste handling or coerced cleaning for research.
-5. **C8:** Align all eight concept components and verify the student's own explanations. Retain useful context/safeguards, ask only missing essential reasoning and do not repeat a full topic-selection interview.
-
-### Completion and submission identity
-
-Apply current controlling sources and maintenance checks before teaching/export. Acceptance for development does not waive learning or export gates. Final sample size, statistical test, instrument validation, collected results and granted fieldwork permission are not Activity 1 deliverables; label future decisions truthfully while establishing a plausible coherent plan. Verify all C0-C8 criteria with legitimate evidence before final compilation. No provisional/incomplete .phx; use the permitted unfinished Markdown handoff if interrupted.
-
-Preserve baseline/directive IDs, before/after decisions, actual responses, assistance and transcript limits in the private submission. Verify prior completed submission history before numbering; if confirmed as the first completed .phx, use `pr2_cou_13_pr2_act_01_r01.phx` with entry_mode REVISION, otherwise increment the verified prior revision. Do not invent numbering or block learning over filename history. After completion, compile under current instructions and end with teacher review pending; no automatic approval, Activity 2 progression or fieldwork.
+November 12 work selects why some students do not dispose of their own waste, reports occasional litter under desks and acknowledges not knowing who left it. Questionnaire/count ideas coexist with home habits, participation and desk-level observations. Existing context and the selected concern are retained rather than elicited again.
 
 ## Teacher's Comments
 
-Your research path is accepted for further development, but it is not yet approved. Continue Activity 1 by explaining the intended research problem and establishing your understanding. Keep useful prior work and clarify the specified gaps; do not start an unrelated topic or assume that the existing plan is already correct.
+Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized.
 
-After required source/maintenance checks and necessary language handling, ask:
+Explain what responses would represent students’ reported reasons for disposal practices, then align one descriptive main question. Desk litter does not identify individual disposal behavior; home self-reports do not establish causes. Avoid assuming laziness or irresponsibility. No cleaning intervention, extra context essay or unnecessary full restart.
 
-> Before introducing a five-minute cleaning routine, what do you still need to understand about why litter remains in the classroom or how students currently take part in keeping it clean?
+After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
 
-Use the actual answer to guide the next missing step, one focused question at a time. Teach needed concepts without supplying the final problem, title, questions, indicators or questionnaire. Accept short Tagalog/English/Taglish reasoning and verify essential meaning rather than require polished essays. Detailed answers, feedback and transcript belong in the private submission, not this public record.
+> What could students’ answers tell you about their reasons for disposing of their own waste, and how is that different from what litter under a desk can show?
+
+Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+
+## Submission and Review
+
+Preserve the earlier baseline, actual previous and improved work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+
+Mark COMPLETE only when actual C1/C2/C4 evidence and C8 alignment are sufficient under the teacher conditions; otherwise mark INCOMPLETE with the exact gap. Do not add sampling, statistical tests, full procedures, a validated instrument or collected results as current Activity 1 deliverables. Submission does not authorize Activity 2 automatically.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
 - Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the assigned Activity 1 development/revision and submit the completed .phx for teacher review; await explicit Chapter 1 authorization and an identified accepted concept.
+- Accepted/provisional baseline for destination entry: Not assigned; the snapshot above is an Activity 1 revision baseline only.
+- Final Chapter 1 acceptance: Not approved.
+- Next point: Current Activity 1 focused revision, then teacher review after submission.
 
-## Chapter 1 Outcome
-
-No Chapter 1 outcome recorded.
-
-## Revision Routing
-
-No revision directive issued. No baseline revision or authorized repair scope recorded.
-
-## Teacher's Comments
+Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.

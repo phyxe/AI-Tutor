@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_14
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
-route_action: REVISION
-route_directive_id: pr2_pru_14-a01-revision-2026-11-09
-route_baseline_revision: pr2_pru_14-a01-reviewed-snapshot-2026-11-09
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_14-a01-focused-revision-2026-11-15
+route_baseline_revision: pr2_pru_14-a01-reviewed-baseline-2026-11-15
 route_resume_checkpoint: C1
-status: problem-provisionally-accepted-focused-revision-required
+status: problem-provisionally-accepted-focused-core-revision-required
 ---
 
-Teacher decision recorded November 9, 2026: research problem provisionally accepted; targeted Activity 1 redesign required. Grade 12 respondents are explicitly prohibited because they are occupied with their own research. Complete concept and Activity 2 remain unapproved. Student identity is maintained separately.
+Teacher decision recorded November 15, 2026 (Asia/Manila): retain provisional research-problem acceptance and assign focused Activity 1 revision, not a full restart. Grade 12 respondents remain prohibited. Title, questions and Activity 2 authorization are not approved. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -27,99 +27,80 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Existing draft reviewed; focused REVISION required, not a complete topic restart.
-- Teacher decision date: November 9, 2026 (Asia/Manila).
-- Research problem approval status: Provisionally accepted within the AI/task-submission timeliness concern, subject to the clarifications and redesign below.
-- Complete concept approval status: Not approved; no accepted concept revision for Activity 2.
-- Submission revision: No verified completed .phx revision established. The snapshot ID is not a student submission revision.
-- Teacher verification: Working research draft reviewed; no independent understanding or passed checkpoints inferred from polished wording.
-- Student-reported work: Proposed AI-use/assignment-timeliness study and draft questionnaire preserved in the baseline below.
-- Tutor-observed learning evidence: The submitted draft supplies limited original-answer/transcript evidence. No new answers are claimed by this update.
-- Checkpoint summary: C0 context retained subject to consistency; C1-C8 open/recheck for the authorized redesign. Provisional acceptance does not satisfy the learning-evidence gate.
-- Next step / resume point: REVISION, C1; clarify the submission problem and AI-task context before rebuilding measures or choosing a new population.
+- Research problem: Provisionally accepted for development; clarify the exact submission-timeliness concern in an AI-use or AI-allowed-task context.
+- Teacher-authorized direction: Descriptive inquiry into student-reported factors encouraging or hindering timely submission; no requirement to prove an AI-use/timeliness correlation or causal effect.
+- Teacher restriction: Grade 12 respondents are explicitly prohibited because of their own research workload. A non-Grade-12 group must be identified sufficiently to make the problem/question intelligible; do not assign a full population/sampling plan.
+- Title and questions: Old Grade 12 correlational wording is not approved. Develop aligned student wording within the authorized descriptive direction; a title and extra questions are optional Activity 1 bonuses.
+- Current understanding: Relevant concern/usefulness is partly evident, but the exact AI/task context, measurable focus and aligned main question remain open. The latest collected handoff does not establish implementation of the teacher's earlier redirection.
+- Activity 2: Not authorized.
+- Next point: C1 / A1-Q1; explain the exact concern and AI's role, then address only genuinely open C2/C4 targets and internal C8 alignment.
 
-## Concept Outcome
+## Current Session Directive
 
-Your research problem is provisionally accepted. Keep the concern about submission timeliness in an AI-use or AI-allowed task context, but explain the exact problem you want to describe. The submitted Grade 12 population is not allowed. The intended relationship in the current draft is not sufficiently explained; do not set out to prove that AI use causes or predicts timely submission.
+```yaml
+directive_id: pr2_pru_14-a01-focused-revision-2026-11-15
+attempt_id: pr2_pru_14-a01-revision-attempt-2026-11-15
+activity_code: pr2_act_01
+action: REVISE_AND_SUBMIT
+start_checkpoint: C1
+start_question_id: A1-Q1
+baseline_revision: pr2_pru_14-a01-reviewed-baseline-2026-11-15
+baseline_source: "This outcome record, Revision Baseline subsection; retain accessible original work privately"
+authorized_task: "Clarify the problem and AI/task context, develop its measurable focus and one aligned descriptive main question within a non-Grade-12 context."
+retained_evidence: [provisionally accepted timeliness concern, compatible actual reasoning about possible factors and usefulness]
+required_repairs:
+  - issue_id: pr2_pru_14-problem-context-2026-11-15
+    target: A1-Q1
+    clarification_or_correction: "Explain the uncertainty to investigate and distinguish AI-allowed tasks from tasks on which students actually used AI. Identify a relevant non-Grade-12 context without a full sampling plan."
+  - issue_id: pr2_pru_14-focus-question-2026-11-15
+    target: A1-Q2 / A1-Q3
+    clarification_or_correction: "Explain the descriptive measurable focus and a plausible indicator, then state one aligned main question; distinguish submission by deadline from finishing, planning or general time management."
+carry_forward: []
+locked_decisions: [no Grade 12 respondents, teacher-authorized descriptive direction, individual authorship, no Activity 2 or fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-The teacher authorizes developing a quantitative descriptive direction on students' reported factors encouraging or hindering timely submission in a clearly defined AI-use or AI-allowed task context. These contexts are not interchangeable: a task allowing AI does not establish that a student actually used it. Clarify the intended context through the student's answers, without requiring a correlation or supplying a final factor list. Full concept approval, final title and Activity 2 authorization remain pending.
+This is a new explicitly authorized same-activity revision attempt with three standard follow-ups and at most two justified extras across all targets. No actual student count is invented here; continuation retains counts. The current maintenance notice still applies.
 
 ## Revision Baseline
 
-Baseline ID: `pr2_pru_14-a01-reviewed-snapshot-2026-11-09`. Teacher-designated summary of the reviewed working draft, not a complete .phx or verbatim transcript. Use it without asking the learner to retype existing work. Detailed answers and private source files remain in teacher storage.
+Baseline ID: `pr2_pru_14-a01-reviewed-baseline-2026-11-15`. Teacher-designated review snapshot of the November 12 collected handoff, not a completed accepted submission revision or verbatim transcript.
 
-- **Historical proposed title:** Relationship between AI usage and assignment timeliness among selected Grade 12 students at Hawan National High School. This title and Grade 12 population are not approved and must be revised.
-- **Context/problem:** Interest in AI use and assignment deadlines; the exact uncertainty and intended association are not adequately explained.
-- **Historical questions/design:** AI-use frequency, timeliness during the current grading period and a relationship; quantitative correlational direction proposed, now subject to teacher-authorized descriptive redesign.
-- **Measures:** Ten printed English frequency items, five AI-use and five timeliness items. Timeliness mixes submitting by deadline, finishing early, time management, completing tasks and late submission. A late-submission item runs in the reverse direction. These are draft ideas, not an approved tool or coherent score.
-- **Historical population/access:** Twenty Grade 12 students across strands; simple random selection proposed without demonstrated eligible-list/random-selection procedure. Grade 12 inclusion is now expressly prohibited; neither the count nor sampling label is locked.
-- **Procedure:** Request permission, select students, explain, distribute/answer and collect forms. Voluntariness, applicable consent/assent, privacy/storage, refusal and incomplete responses need development.
-- **Evidence limit:** No collected findings or reliable original-answer transcript established. Preserve actual accessible evidence and disclose gaps rather than inventing student reasoning.
-
-## Revision Routing
-
-```yaml
-activity_code: pr2_act_01
-student_code: pr2_pru_14
-entry_mode: REVISION
-revision_directive_id: pr2_pru_14-a01-revision-2026-11-09
-baseline_revision: pr2_pru_14-a01-reviewed-snapshot-2026-11-09
-baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C1, C2, C3, C4, C5, C6, C7, C8]
-retained_checkpoints: [C0]
-locked_decisions: [no Grade 12 respondents, AI-related submission-timeliness concern, individual authorship, no fieldwork authorization]
-authorized_scope: "Clarify the provisionally accepted problem; develop a quantitative descriptive study of reported factors in timely submission within a defined AI-use or AI-allowed task context. Replace the prohibited Grade 12 population with a justified eligible non-Grade-12 group; align questions, title, measures and procedure."
-required_repairs: "Numbered repairs below; begin at C1."
-required_approval_before_compilation: "No additional approval for compatible decisions within this directive after all Activity 1 gates pass. Refer substantive departures or unresolved teacher conditions. Full concept and Activity 2 approval remain pending subsequent teacher review."
-```
-
-1. **C1:** Explain the exact submission concern, why it matters and what is unknown. Distinguish AI being permitted for a task from actual AI use. Do not assume a particular relationship, causal effect or that all learners use AI. Use the actual explanation to narrow a descriptive reported-factor purpose; do not write the student's problem for them.
-2. **C3:** Exclude Grade 12 explicitly. Develop a relevant non-Grade-12 population, eligibility, reachable evidence source and feasible voluntary recruitment. Identify who has relevant task/submission experience without assuming records, AI-use disclosure or school permissions are available. Do not substitute a grade level or sample count on the student's behalf.
-3. **C2:** Define timely submission against the applicable deadline; distinguish it from finishing early, time management and task completion. Explain the evidence source, reference period and eligible tasks. If self-report is chosen, describe reported behavior/perceptions accurately. Actual records require a plausible authorized access/linkage plan and feasible alternative if unavailable, not assumed access. Define reported factors without prejudging which matter or treating correlations as causes.
-4. **C4/C5/C6:** Develop descriptive questions, numerical data forms, justified descriptive design and student-developed title matching the clarified context and replacement population. Do not carry forward the old relationship question, correlational framing, inconsistent composite or Grade 12 title automatically. Do not require ranking factors unless justified by the question/data.
-5. **C7:** Complete the before-during-after outline: who supplies what evidence, tool/source, voluntary recruitment, permissions/applicable consent/assent, collection, privacy/secure storage and refusal/incomplete-response handling. Preserve useful work and develop only missing details. No requirement for collected data, final sample size, final statistical test or validated instrument at this concept stage; label future decisions truthfully.
-6. **C8:** Reconcile all eight components and elicit essential independent reasoning. Recheck C0 only where affected. Do not restart topic selection or certify completion from AI prose/agreement.
-
-### Completion and submission identity
-
-Apply current source and maintenance checks before learning/export. Teacher acceptance of a problem does not waive the hold or completion criteria. Verify C0-C8 using legitimate retained evidence and actual new answers before compiling; no provisional/incomplete .phx. Use an authorized unfinished Markdown handoff if interrupted. Preserve baseline/directive IDs, before/after changes, assistance, actual responses and transcript limits in the private submission.
-
-Verify completed submission history before naming the next file. If confirmed as the first completed .phx, use `pr2_pru_14_pr2_act_01_r01.phx` with entry_mode REVISION; otherwise increment the verified previous revision. Do not invent a number or block learning while resolving filename history. After the gate passes, compile under current instructions and submit for teacher review. No automatic Activity 2 advancement or fieldwork.
+- **Historical draft:** AI-use frequency and assignment timeliness among selected Grade 12 students at Hawan National High School; a correlational title/questions, ten proposed questionnaire items and twenty respondents. These historical decisions are not approved. Do not lock the obsolete Grade 12 scope merely because the handoff preserved it.
+- **Useful reasoning:** The student expressed interest in why students still submit late even when using AI and identified possible factors such as time management, other tasks, distraction and difficulty understanding lessons. These are possible reported factors, not verified causes or findings. Preserve authentic reasoning rather than imposing a final factor list.
+- **Timeliness:** Submitting on/before the applicable deadline is distinct from completing early, managing time or finishing work without submitting it. The earlier draft mixed these meanings.
+- **Continuity limitation:** The collected handoff did not verify the exact coded outcome/activity and preserved an older direction. Treat this as a disclosed control-loading/capture limitation, not proof of deliberate refusal to follow feedback. Current official code and teacher direction control now.
+- **Private evidence:** Preserve accessible previous output and actual original responses; parts of the collected record are summaries. Do not reconstruct unavailable dialogue, claim a linked newer draft was inspected, or merge another student's work.
 
 ## Teacher's Comments
 
-Your research problem is provisionally accepted. You must use respondents outside Grade 12. Continue Activity 1 by explaining the submission concern and developing a descriptive direction about reported factors within a clearly defined AI/task context. Complete concept approval is still pending.
+Your research problem remains provisionally accepted. Continue with a focused Activity 1 revision; you do not need to start over. Grade 12 respondents are not allowed. Explain the exact timeliness problem, the role of AI in the tasks and your main measurable focus, then develop one aligned descriptive main question.
 
-After required source/maintenance checks and necessary language handling, ask this opening clarification:
+After current controls/maintenance checks and necessary language handling, begin with:
 
-> What exactly is the submission-timeliness problem you want to understand, and what role does AI have in the tasks you mean?
+> What exactly about late submission do you want to understand, and what role does AI have in the assignments you mean?
 
-Use the answer to clarify the intended task context, then develop a justified non-Grade-12 population and timely-submission evidence. Ask one focused question at a time, give needed teaching without supplying the target answers, and retain useful existing work. Do not provide a final title, factor list or completed questionnaire. Detailed responses, feedback and transcript belong in the private submission.
+Distinguish tasks allowing AI from actual AI use without choosing the student's meaning for them. Retain existing supported answers and ask only missing core understanding. Keep the minimal group/context outside Grade 12. Do not supply a finished question, predetermined factors or an ideal response. Do not require a title, full design defense, questionnaire, sampling plan, collection procedure, sources or statistics for this Activity 1 revision.
+
+## Submission and Review
+
+Compile the accessible previous submission plus the improved research-problem foundation, actual changes, original responses, assistance and unresolved issues. If the earlier original is inaccessible, disclose that and retain the available summary without falsely claiming the original is included; do not require the student to reconstruct it. No extra upload or mandatory retrieval of an inaccessible newer draft is needed to begin the embedded baseline's core repair.
+
+Apply the current bounded session rules: collect genuinely unasked core responses, stop repair elicitation when the allowance is exhausted, and submit the actual record with COMPLETE only if all core understanding is sufficiently demonstrated. Otherwise mark INCOMPLETE. No additional routine approval is needed before an authorized review submission. Use current download/chat-report delivery and stop for the teacher's later decision. Do not silently expand this revision into the retired full concept note.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
 - Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the November 9 Activity 1 revision and submit the completed .phx for teacher review; await explicit Chapter 1 authorization and an identified accepted concept.
-
-## Chapter 1 Outcome
-
-No Chapter 1 outcome recorded.
-
-## Revision Routing
-
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+- Accepted/provisional Activity 1 baseline for Activity 2: Not assigned; the revision snapshot above is context for current Activity 1 work, not destination authorization.
+- Title and question-set approval: Not granted.
+- Final Chapter 1 acceptance: Not approved.
+- Next point: Current Activity 1 REVISE_AND_SUBMIT at C1, followed by teacher review of the submitted revision.
 
 ## Teacher's Comments
+
+No Activity 2 work is assigned by this decision. Completing or submitting Activity 1 does not authorize advancement automatically; the teacher will decide after reviewing the revision. This record does not authorize fieldwork, release maintenance or renew the expired November 12 collection directive.

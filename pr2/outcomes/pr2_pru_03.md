@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_03
 learning_area: Practical Research 2
-record_version: "1.3"
-route_activity: pr2_act_01
-route_action: REVISION
-route_directive_id: pr2_pru_03-a01-revision-2026-11-09
-route_baseline_revision: pr2_pru_03-a01-reviewed-snapshot-2026-11-09
-route_resume_checkpoint: C2
-status: problem-approved-descriptive-redesign-required
+record_version: "1.4"
+route_activity: pr2_act_02
+route_action: PROCEED_WITH_CLARIFICATION
+route_directive_id: pr2_pru_03-a02-proceed-clarification-2026-11-15
+route_baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
+route_resume_checkpoint: H2
+status: problem-title-questions-approved-activity-2-clarification-carried
 ---
 
-Teacher decision recorded November 9, 2026: research problem approved; focused Activity 1 revision required. Complete concept approval and Activity 2 authorization remain pending. Student identity is maintained separately.
+Teacher decision recorded November 15, 2026 (Asia/Manila): research problem, title and questions approved; Activity 2 authorized with the specified clarification carried forward. This does not certify every learning target, accept a final Chapter 1 or authorize fieldwork. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -27,98 +27,85 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Teacher-reviewed existing work; targeted REVISION required, not a full restart.
-- Teacher decision date: November 9, 2026 (Asia/Manila).
-- Research problem approval status: Approved within the direction and conditions below.
-- Complete concept approval status: Not approved; no accepted concept revision for Activity 2.
-- Submission revision: No verified completed .phx revision established by this update. A snapshot ID is not a submission revision number.
-- Teacher verification: Existing research planning reviewed; mandatory repairs remain open until supported by actual student evidence.
-- Student-reported work: Research planning preserved through a teacher-reviewed shared conversation; summarized baseline below.
-- Tutor-observed learning evidence: Many earlier answers are available only through tutor summaries. No new student responses or passed checkpoints are claimed by this teacher update.
-- Checkpoint summary: C0/C1 problem/context direction retained subject to affected consistency checks; C2-C8 open or recheck as specified. Retention is not certification of independent mastery.
-- Next step / resume point: REVISION, C2; use the opening clarification below after required source/maintenance checks and necessary language handling.
-
-## Concept Outcome
-
-The research problem concerning students willingness to voluntarily participate in classroom cleaning is approved. The teacher authorizes a quantitative descriptive redesign to describe reported factors encouraging or discouraging willingness; the former motivation-versus-participation correlation is superseded.
-
-Keep usable work, answer the focused clarifications, complete the aligned Activity 1 concept note and submit the completed .phx for teacher review. Research-problem approval is distinct from complete concept approval, Chapter 1 drafting authorization and fieldwork permission. None of the latter is issued here.
-
-## Revision Baseline
-
-Baseline ID: `pr2_pru_03-a01-reviewed-snapshot-2026-11-09`. Teacher-designated continuity snapshot of the reviewed shared-conversation work. It is not a completed student submission or verbatim transcript. No private path, student name or full conversation is published here; use this embedded snapshot to begin without requiring the student to retype existing work. Preserve actual accessible student responses separately and disclose transcript gaps in the private submission.
-
-- **Working focus:** Classroom cleaning and willingness to volunteer; proposed descriptive direction. No final revised title is approved.
-- **Reviewed planning:** The earlier November 5 baseline concerned a motivation/participation correlation, eight proposed JHS students with cleaning duties and a structured questionnaire. The reviewed conversation developed willingness and actual-participation questions, four-point agreement and five-point frequency responses, a proposed past-five-school-days participation period, printed questionnaires and safeguards. It also proposed 18 convenience respondents. These are historical/proposed decisions, not the newly approved design or population. Willingness is not equivalent to the full construct of motivation. The former correlational title, Pearson analysis, two-variable structure and fixed eight/18-person samples are not locked. Preserve useful context and safeguards, but recheck their relevance.
-- **Evidence limit:** Polished wording, tutor examples and agreement alone do not establish independent understanding. Recover only missing essential reasoning.
-
-## Revision Routing
-
-```yaml
-activity_code: pr2_act_01
-student_code: pr2_pru_03
-entry_mode: REVISION
-revision_directive_id: pr2_pru_03-a01-revision-2026-11-09
-baseline_revision: pr2_pru_03-a01-reviewed-snapshot-2026-11-09
-baseline_source: "This exact outcome record, Revision Baseline subsection"
-reopen_checkpoints: [C2, C3, C4, C5, C6, C7, C8]
-retained_checkpoints: [C0, C1]
-locked_decisions: [approved research problem direction, individual authorship, no fieldwork authorization]
-authorized_scope: "Teacher-authorized descriptive redesign within the approved classroom-cleaning willingness problem; develop reported factors and whole-grade-level population, with consequential questions/title/measurement/procedure changes. Supersedes the November 5 requirement to retain the correlational design and eight-person proposal."
-required_repairs: "Numbered repairs below; begin at C2 with the opening clarification."
-required_approval_before_compilation: "No additional approval for compatible decisions within this directive once all Activity 1 gates pass. Refer a substantive departure or unresolved teacher condition to the teacher. Complete concept and Activity 2 approval require subsequent teacher review."
-```
-
-1. **C2:** Explain voluntary participation versus assigned cleaning duties and willingness versus actual behavior. Do not equate willingness with the entirety of motivation. Develop plausible student-reported encouraging/discouraging factors without supplying a predetermined list or assuming lack of motivation is the explanation. Distinguish perceived reasons from established causes.
-2. **C3:** Identify and justify one whole grade level as the target population, superseding the earlier eight/18-person proposals. Explain eligibility and feasible voluntary recruitment across that grade; distinguish the target population from an attempt to invite all eligible students and from the eventual participating sample. No forced participation, invented count or automatic permission.
-3. **C4/C5/C6:** Develop descriptive questions, a justified quantitative descriptive design and an aligned student-developed title. Describe reported willingness/factors rather than correlate motivation and participation or claim causal effects. No correlation test or arbitrary minimum sample size is required. Do not carry the old five-day participation period into a new measure without checking fit.
-4. **C7:** Complete the before-during-after procedure, including suitable response forms/reference periods, who supplies which evidence, recruitment/permissions and applicable consent/assent, privacy/storage, refusals and incomplete answers. Preserve valid safeguards. Explain how assigned duties and available opportunities differ from voluntary willingness where relevant.
-5. **C8:** Reconcile all eight concept-note components and obtain missing independent reasoning. Recheck C0/C1 context wording only where needed for the approved descriptive problem; no full topic-selection restart.
-
-### History and completion boundaries
-
-This November 9 directive supersedes earlier conflicting directions. Historical titles, sample proposals, tutor readiness labels and old opening questions do not override it. Preserve useful baseline content and reopen only named repairs and actual affected dependencies. Apply the root maintenance protocol before teaching/export; an operational ready notice does not approve a student concept.
-
-Verify every C0-C8 requirement using legitimate retained evidence plus actual revision responses before compilation. A proposed final sample size, final statistical test, validated instrument and granted fieldwork permission are not Activity 1 deliverables; identify them as future decisions where applicable. They do not replace the required plausible plan and independent understanding. Do not generate an incomplete/provisional .phx merely to record progress. If a hold or interruption applies, use the authorized unfinished Markdown handoff instead.
-
-Resolve completed submission history before choosing a filename. If this is confirmed as the first completed .phx, use `pr2_pru_03_pr2_act_01_r01.phx` with entry_mode REVISION and the IDs above; otherwise increment the verified prior revision. Do not invent r02 or block learning while filename history is being resolved. Preserve before/after decisions, assistance, actual responses, directive/baseline IDs and truthful transcript limits in the private submission. After the gate passes, compile and provide the reading copy under current instructions; end with teacher review pending. No automatic Activity 2 progression or respondent contact.
-
-## Teacher's Comments
-
-Your research problem is approved. Continue Activity 1 by strengthening the specified parts; the complete concept is not yet approved. Keep the useful work already developed and explain the unsettled decisions in your own words. Complete and resubmit the Activity 1 .phx before the teacher considers Activity 2.
-
-After required source/maintenance checks and necessary language handling, ask this first focused question in the chosen language:
-
-> When you say students voluntarily participate in cleaning, what situation do you mean, and how is it different from completing an assigned cleaning duty?
-
-Use the actual answer for the next missing step. Ask one focused question at a time, provide needed explanation without supplying target answers, and do not repeat an already supported interview. Do not prewrite the revised title, questions, indicators or questionnaire. Detailed answers, feedback and the transcript belong in the private submission, not this public record.
+- Research problem, title and questions: Approved by the teacher on November 15, 2026.
+- Baseline identity: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`; teacher-designated review snapshot, not a fabricated completed submission revision.
+- Evidence disposition: Existing problem-variable-question foundation accepted for Chapter 1 development. Retain descriptive reasoning and the distinction between intention and actual behavior; no new student response is claimed by this teacher update.
+- Current route: Continue in Activity 2 with the named clarification; no separate Activity 1 resubmission or duplicate entry-approval interview is required.
+- History: The November 9 Activity 1 revision is superseded for current routing by this November 15 decision. Preserve accessible prior originals in the private evidence record. Retired full-concept-note, sampling, instrument and collection-plan tasks are not current Activity 1 gates.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
-- Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the November 9 targeted Activity 1 revision, submit the completed .phx for teacher review, then await explicit Chapter 1 drafting authorization and an identified accepted concept.
+- Chapter 1 drafting authorization: Approved through PROCEED_WITH_CLARIFICATION.
+- Teacher decision date: November 15, 2026 (Asia/Manila).
+- Accepted/provisional Activity 1 baseline: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`, embedded below; based on teacher-reviewed November 12 collected work.
+- Chapter 1 final acceptance: Pending after submission; no final Chapter 1 is accepted by this update.
+- Student learning status: Retain supported prior evidence; no new student answers, completed clarification, verified source comprehension or finished Chapter 1 are claimed here.
+- Next point: H2 / A2-Q2, the carried clarification and background reasoning, after current controls and maintenance checks; reuse known language and sufficient evidence.
 
-## Chapter 1 Outcome
+## Current Session Directive
 
-No Chapter 1 outcome recorded.
+```yaml
+directive_id: pr2_pru_03-a02-proceed-clarification-2026-11-15
+attempt_id: pr2_pru_03-a02-attempt-2026-11-15
+activity_code: pr2_act_02
+action: PROCEED_WITH_CLARIFICATION
+start_checkpoint: H2
+start_question_id: A2-Q2
+baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
+baseline_source: "This outcome record, Accepted Baseline subsection"
+authorized_task: "Develop the current Activity 2 Chapter 1 foundation and collect the specified Activity 1 clarification within relevant destination targets."
+retained_evidence: [teacher-approved research problem, teacher-approved title, teacher-approved main and specific questions, compatible accessible prior reasoning]
+carry_forward:
+  - issue_id: pr2_pru_03-clarification-2026-11-15
+    source_activity: pr2_act_01
+    baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
+    clarification_requested: "Clarify intention versus actual cleaning behavior, voluntary initiative versus assigned duties, and reported factors versus established causes. Preserve existing sufficient explanations; the basketball observation does not establish why students do not clean."
+    address_at_question: A2-Q2
+    blocks_entry: false
+locked_decisions: [approved problem, approved title and questions, individual authorship, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: DESTINATION_WITH_CLARIFICATION
+stop_for_teacher_decision: false
+```
 
-## Revision Routing
+This is a new teacher-authorized destination attempt. Apply the current three standard follow-ups plus at most two justified extras across the whole attempt, including the carried issue. No actual count is claimed before student work begins; subsequent continuation retains used counts. Maintenance/explicit holds remain binding.
 
-No revision directive issued. No baseline revision or authorized repair scope recorded.
+## Accepted Baseline
+
+Snapshot ID: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`. This is a minimal teacher-approved study identity and continuity record; detailed submissions and student dialogue remain private. It is not a complete transcript, validated instrument, verified population count or completed Activity 2 submission.
+
+- **Approved research problem:** Describe Grade 10 students intention to participate voluntarily in classroom cleaning and the encouraging and discouraging factors they report.
+- **Approved title:** Level of Intention and Encouraging and Discouraging Factors Related to Voluntary Classroom Cleaning Among Grade 10 Students of Hawan National High School
+- **Accepted focus and claim boundary:** Intention to clean voluntarily and student-reported encouraging/discouraging factors; descriptive purpose, not a motivation-participation correlation or causal explanation.
+- **Approved main question:** What is the level of intention of Grade 10 students at Hawan National High School to participate voluntarily in classroom cleaning, and what encouraging and discouraging factors do they report?
+
+Approved specific questions:
+
+1. What is the level of intention of Grade 10 students to initiate classroom cleaning voluntarily without being asked?
+2. What encouraging factors related to voluntary classroom cleaning are reported by Grade 10 students?
+3. What discouraging factors related to voluntary classroom cleaning are reported by Grade 10 students?
+
+Use this exact question set rather than combining historical variants or optional questions. For the cleaning study, “related to” in the approved title does not authorize correlation testing or causal claims.
 
 ## Teacher's Comments
 
-Topic/problem acceptance does not authorize Activity 2. No automatic advancement on tutor completion or .phx generation; the teacher must review the resubmission and update this section and the route explicitly.
+Your research problem, title and questions are approved. Proceed with Activity 2 and include the specified clarification with your proposed Chapter 1 work for teacher review.
+
+Clarify intention versus actual cleaning behavior, voluntary initiative versus assigned duties, and reported factors versus established causes. Preserve existing sufficient explanations; the basketball observation does not establish why students do not clean.
+
+After current instruction/maintenance checks and language handling only if needed, begin with the actual unresolved clarification in the known language:
+
+> What could your study tell you about students intention to clean voluntarily, and what could it not establish about their actual cleaning behavior or reasons for not cleaning?
+
+Integrate the answer into background/question reasoning and relevant limitations. Reuse already sufficient evidence; do not supply an ideal answer, completed paragraph, checklist or rating scheme. Do not require instrument construction, a sampling/statistical plan or actual data collection. Observe the current Activity 2 scope and shared follow-up allowance.
+
+If the clarification remains unresolved, record the actual attempt, help and missing meaning, continue independently answerable authorized targets, and collect the available Chapter 1 work honestly as incomplete where appropriate. Do not invent dependent reasoning, force another Activity 1 approval cycle or treat pending final acceptance as WAIT. A proposal changing approved study identity is recorded separately for later teacher decision rather than silently adopted.
+
+## Submission and Review
+
+Preserve the accessible prior baseline, actual clarification, assistance, changes and proposed Activity 2 product in the private review record. Distinguish carried summaries from original student responses and disclose unavailable material. Do not demand reconstruction of missing dialogue. An embedded identity snapshot is available for entry; retain additional original evidence if accessible.
+
+Two verified, student-understood sources and the five current Chapter 1 components are required for academic completion. Missing evidence does not prohibit an authorized complete/incomplete review submission at the bounded endpoint. Use current download/chat-report delivery rules, then stop for the teacher's decision. This approval does not release maintenance or renew the expired November 12 collection directive.

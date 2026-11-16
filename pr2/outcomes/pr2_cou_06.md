@@ -1,16 +1,16 @@
 ---
 student_code: pr2_cou_06
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
-route_action: INITIAL
-route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: fresh-activity-1-required-no-submission
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_cou_06-a01-teacher-direction-2026-11-16
+route_baseline_revision: pr2_cou_06-a01-reviewed-baseline-2026-11-16
+route_resume_checkpoint: C2
+status: activity-1-focused-core-revision-required
 ---
 
-Teacher decision recorded November 9, 2026: no submission was available for review; start Activity 1 as a fresh INITIAL attempt. No research problem, population or concept approved. Student identity is maintained separately.
+Teacher decision recorded November 16, 2026 (Asia/Manila): Lateness research problem approved for focused descriptive development on frequency and reported reasons. Remove grades/classroom performance and their proposed relationship from the current study. Complete concept approval remains pending. Student identity and detailed learning evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -27,62 +27,72 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Fresh INITIAL attempt required by teacher direction November 9, 2026 because no submission was received for review.
-- Submission revision: No verified completed .phx revision recorded.
-- Teacher verification: No research submission available to assess; this does not establish that the learner has done no work.
-- Research problem approval status: Not approved.
-- Concept approval status: Not approved.
-- Population approval status: Not approved.
-- Approved concept revision: Not recorded.
-- Student-reported work: No assessable submission recorded by this update.
-- Tutor-observed learning evidence: No fresh responses observed; no checkpoint marked satisfied.
-- Checkpoint summary (C0–C8): Fresh development required.
-- Next step / resume point: INITIAL at context/problem development C0/C1 after required source/maintenance checks and necessary language handling.
+- Teacher approval boundary: Lateness research problem approved for focused descriptive development on frequency and reported reasons. Remove grades/classroom performance and their proposed relationship from the current study. Complete concept approval remains pending.
+- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
+- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
+- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
 
-## Concept Outcome
+## Current Session Directive
 
-No submission was available for the teacher to review. Begin Activity 1 as a fresh activity and explain your intended concern in your own words. You may develop an earlier interest or choose a new concern; no topic, population or component is preapproved. Complete the concept note and submit the completed .phx for teacher review before Activity 2 consideration.
+```yaml
+directive_id: pr2_cou_06-a01-teacher-direction-2026-11-16
+attempt_id: pr2_cou_06-a01-attempt-2026-11-16
+activity_code: pr2_act_01
+action: REVISE_AND_SUBMIT
+start_checkpoint: C2
+start_question_id: A1-Q2
+baseline_revision: pr2_cou_06-a01-reviewed-baseline-2026-11-16
+baseline_source: "This outcome record, Revision Baseline subsection"
+authorized_task: "Repair only the open Activity 1 core targets and affected alignment; preserve sufficient existing evidence."
+retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+required_repairs:
+  - issue_id: pr2_cou_06-core-repair-2026-11-16
+    target: A1-Q2
+    clarification_or_correction: "Explain one honest operational meaning of lateness and a plausible numerical indicator; do not claim either alternative policy explanation as fact. Align one descriptive main question on lateness frequency and reported reasons. Retain existing problem understanding; no grade-record or relationship inquiry in this authorized direction."
+  - issue_id: pr2_cou_06-alignment-2026-11-16
+    target: A1-Q1 / A1-Q2 / A1-Q3
+    clarification_or_correction: "Reuse sufficient actual evidence and repair only missing meaning or dependent contradictions; no additional final defense."
+carry_forward: []
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 2 authorization, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-## Revision Routing
+This is a new explicitly teacher-authorized revision attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
 
-No REVISION directive or approved baseline applies. This is an explicit teacher-authorized fresh INITIAL attempt, not a recovery/resume task. Do not require a missing earlier submission, private file or prior review completion before beginning. Any earlier work is historical, not automatically satisfied evidence. Apply current controlling files and maintenance checks.
+## Revision Baseline
+
+Baseline ID: `pr2_cou_06-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
+
+November 12 work identifies Grade 11 Knowledge lateness and proposes arrival times/minutes late over one month. Reasons and grades/performance were added. Two alternative explanations of a five-minute threshold conflict and neither is verified as school policy. The new research work replaces the old no-submission characterization.
 
 ## Teacher's Comments
 
-You did not provide a submission for this review, so there is no research-problem explanation available for the teacher to assess. Please start Activity 1 as a fresh activity. Explain the actual concern, who experiences it, what you have noticed and what you want to understand. The tutor will guide you one step at a time.
+Lateness research problem approved for focused descriptive development on frequency and reported reasons. Remove grades/classroom performance and their proposed relationship from the current study. Complete concept approval remains pending.
 
-After required source/maintenance checks and necessary language handling, ask:
+Explain one honest operational meaning of lateness and a plausible numerical indicator; do not claim either alternative policy explanation as fact. Align one descriptive main question on lateness frequency and reported reasons. Retain existing problem understanding; no grade-record or relationship inquiry in this authorized direction.
 
-> What specific problem or concern do you want to understand, and who would benefit from understanding it?
+After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
 
-Develop context/problem first, then meaningful measures, a justified population/access route, questions, design, title and procedure. Ask one focused question at a time, accept short English/Tagalog/Taglish reasoning and teach needed concepts without providing target answers or a completed concept. Do not force a correlation or intervention. No population is selected on the student's behalf.
+> How will you mean and recognize lateness in this study without claiming an unverified school rule, and how does that fit what you want to describe?
 
-Verify all C0-C8 evidence/alignment gates before compilation; no incomplete/provisional .phx. Preserve actual responses, assistance and truthful transcript limits privately. Verify completed submission history before numbering; use `pr2_cou_06_pr2_act_01_r01.phx` only if confirmed as the first completed submission, otherwise increment the verified prior revision. Do not invent a history or block learning while resolving filename details. End with teacher review pending. No automatic approval, Activity 2 progression or fieldwork.
+Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+
+## Submission and Review
+
+Preserve the earlier baseline, actual previous and improved work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+
+Mark COMPLETE only when actual C1/C2/C4 evidence and C8 alignment are sufficient under the teacher conditions; otherwise mark INCOMPLETE with the exact gap. Do not add sampling, statistical tests, full procedures, a validated instrument or collected results as current Activity 1 deliverables. Submission does not authorize Activity 2 automatically.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
 - Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the teacher-directed fresh Activity 1 attempt, submit the completed .phx and await explicit teacher authorization and an identified accepted concept.
+- Accepted/provisional baseline for destination entry: Not assigned; the snapshot above is an Activity 1 revision baseline only.
+- Final Chapter 1 acceptance: Not approved.
+- Next point: Current Activity 1 focused revision, then teacher review after submission.
 
-## Chapter 1 Outcome
-
-No Chapter 1 outcome recorded.
-
-## Revision Routing
-
-No revision directive issued. No baseline revision or authorized repair scope recorded.
-
-## Teacher's Comments
+Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.

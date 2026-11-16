@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_02
-route_action: RESUME
-route_directive_id: Not applicable
-route_baseline_revision: pr2_pru_11-a02-reviewed-handoff-snapshot-2026-11-09
-route_resume_checkpoint: H1
-status: activity-2-authorized-clarification-gate-open
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-15
+route_baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-15
+route_resume_checkpoint: H2
+status: clarification-addressed-activity-2-focused-development-required
 ---
 
-Teacher review November 9, 2026: retain the November 6 authorization, but the clarification stage must be completed before full Activity 2 development or any further Chapter 1 drafting. Existing draft text is provisional, not evidence that this gate passed. Teacher authorization recorded November 6, 2026: the revised time-use concept is accepted for Activity 2 with a mandatory opening clarification. Continue to Chapter 1 development after a satisfactory explanation, with guided repair if needed. This is not certification of independent mastery, approval of the eventual manuscript, or fieldwork permission. Student identity is maintained separately.
+Teacher decision recorded November 15, 2026 (Asia/Manila): The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -27,125 +27,79 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Rebuilt concept submitted and accepted for progression November 6, 2026, subject to clarification within Activity 2.
-- Submission revision: Not verifiable from the source; no YAML revision identity supplied. Do not invent r01 or r02 for this Activity 1 file.
-- Teacher verification: Revised concept accepted for Chapter 1 development; individual understanding remains to be checked in Activity 2.
-- Concept approval status: Accepted time-use concept; homework hours replace the earlier homework-completion focus.
-- Approved concept revision: `pr2_pru_11-approved-concept-snapshot-2026-11-06` (teacher-designated snapshot ID, not a claimed student submission number).
-- Student-reported work: Revised concept describes school-activity hours and homework hours, three questions, numerical measures, convenience sampling, and a proposed survey.
-- Tutor-observed learning evidence: No original student-response or transcript evidence supplied in the source; do not certify authorship or understanding from polished prose alone.
-- Checkpoint summary (C0–C8): Written concept accepted for progression; full Activity 1 learning-evidence and submission-format compliance not certified.
-- Next step / resume point: pr2_act_02 RESUME at H1 opening clarification; original Activity 2 entry mode INITIAL. No full drafting before the gate is resolved.
-
-## Concept Outcome
-
-The revised concept now consistently studies time spent on school activities and time spent on homework. This explicitly supersedes the earlier homework-completion focus. The November 5 full-restart direction is historical and no longer the active route. No additional Activity 1 resubmission is required to enter the authorized Activity 2 clarification.
-
-## Revision Routing
-
-No active Activity 1 revision or restart. The accepted source was a readable local .phx concept note without the required YAML/six-section evidence structure. This approval concerns its research concept, not a retrospective declaration that those missing requirements were satisfied. Do not invent metadata, student answers, a transcript, or a new Activity 1 revision. Use the embedded snapshot for Activity 2; the private source need not be fetched by the tutor.
-
-## Teacher's Comments
-
-Proceed with the required Activity 2 opening clarification. A satisfactory explanation, including guided learning where necessary, is required before dependent Chapter 1 drafting. Capture the clarification in the new Activity 2 .phx rather than requiring another Activity 1 submission.
+- Earlier research concept and Activity 2 entry authorization: Retained.
+- Accepted original concept identity: `pr2_pru_11-approved-concept-snapshot-2026-11-06`.
+- Current activity: Activity 2; no Activity 1 restart or extra concept-note submission assigned.
+- Current clarification disposition: The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Authorization retained November 9; resume the mandatory clarification stage, which remains open. Full Activity 2 development is blocked until this stage is satisfactorily completed.
-- Chapter 1 drafting authorization: Approved for Chapter 1 drafting, conditional on satisfactory completion of the clarification stage before any further Chapter 1 drafting or full Activity 2 development.
-- Authorization date: November 6, 2026 (Asia/Manila).
-- Accepted pr2_act_01 concept revision: `pr2_pru_11-approved-concept-snapshot-2026-11-06`; original source revision number not verifiable.
-- Approved concept source: This exact outcome record, Approved Concept Snapshot below. No private local submission is required for tutor entry.
-- Approval conditions: Ask the opening question, assess the actual answer, provide adaptive teaching as needed, and verify the student's explanation before continuing dependent Chapter 1 drafting. No separate teacher permission is needed merely to continue after satisfactory clarification within this accepted concept.
-- Submission revision: No Activity 2 submission recorded; use pr2_pru_11_pr2_act_02_r01.phx if it is the first completed Activity 2 submission. Do not derive its number from the unknown Activity 1 revision.
-- Teacher verification: Concept and conditional progression approved; clarification and Chapter 1 learning not yet verified.
-- Chapter 1 approval status: Manuscript not yet submitted or approved; development permission only.
-- Student-reported work: November 9 handoff preserves explanations about convenience recruitment, breaks/free-time collection, proposed 1-2-day collection window, permission, voluntariness/privacy and recall/small-sample limits. A generated Word draft exists but does not establish compliance or clarification completion.
-- Tutor-observed learning evidence: Teacher-reviewed handoff contains reusable procedure reasoning; the required opening time-versus-completion explanation remains unanswered. No new answer or checkpoint pass is claimed by this update.
-- Checkpoint summary (H1–H8): H1 clarification gate open; other Chapter 1 checkpoints remain incomplete/unverified. Retain supported procedure reasoning for later checks without repeating the same interview.
-- Verified and student-understood sources: Not assessed; two distinct verified, student-understood sources remain required.
-- Next step / resume point: RESUME H1 clarification (original entry mode INITIAL), using the embedded reviewed-handoff snapshot. Ask the exact opening clarification before any further drafting.
+- Chapter 1 drafting authorization: Retained for focused Activity 2 revision/development within the approved study.
+- Teacher decision date: November 15, 2026 (Asia/Manila).
+- Required prior clarification: Addressed through the reviewed actual explanation; do not ask it again merely to match an earlier prompt form.
+- Final Chapter 1 acceptance: Pending after revised submission; no new final acceptance or official grade.
+- Academic completion: Remaining current Chapter 1 targets require work; no new student response or full completion is claimed by this teacher update.
+- Next point: H2 / A2-Q2; use retained evidence and ask only the missing current understanding.
 
-## Approved Concept Snapshot
+## Current Session Directive
 
-Snapshot ID: `pr2_pru_11-approved-concept-snapshot-2026-11-06`. Teacher-designated concept accepted from the newly submitted time-use proposal. This is a faithful concept summary, not a student transcript or invented completion record. Unknown setting details remain explicitly unresolved and must be elicited before dependent manuscript wording. No local findings, permissions, sample counts, or results are verified by this snapshot.
+```yaml
+directive_id: pr2_pru_11-a02-focused-revision-2026-11-15
+attempt_id: pr2_pru_11-a02-revision-attempt-2026-11-15
+activity_code: pr2_act_02
+action: REVISE_AND_SUBMIT
+start_checkpoint: H2
+start_question_id: A2-Q2
+baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-15
+baseline_source: "This outcome record, Reviewed Baseline subsection; accessible previous originals remain private"
+authorized_task: "Complete the remaining current Chapter 1 targets with focused revision and retained sufficient evidence."
+retained_evidence: [existing study authorization and approved identity, addressed prior clarification, compatible actual source/question/scope reasoning]
+required_repairs:
+  - issue_id: pr2_pru_11-remaining-chapter-work-2026-11-15
+    target: A2-Q2
+    clarification_or_correction: "Develop the preliminary background into student-grounded TEAL-supported reasoning; complete verification and sufficient student understanding of two existing source leads, develop a separate Significance section, and confirm the actual school setting only if still unspecified. Reuse established week/overlap and question reasoning."
+carry_forward: []
+locked_decisions: [approved study focus and actual title/questions, retained reference boundaries, individual authorship, no final Chapter 1 acceptance, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-### Context
+This new explicitly authorized revision attempt permits three standard follow-ups plus at most two justified targeted extras across the whole activity. Prior work supplies evidence without being charged to the new attempt's count. No actual count is invented; resumed segments retain used counts, language and the exact open target. Do not invent an extra defense or routine teacher gate.
 
-Grade 10 students may participate in clubs, sports, school events and student groups while also completing homework outside class. The researcher wants to understand how students divide their time. General statements in the submission are motivating context, not verified school-wide prevalence.
+## Reviewed Baseline
 
-### Research Problem
+Baseline ID: `pr2_pru_11-a02-reviewed-baseline-2026-11-15`. Teacher-designated snapshot of the November 12 work, not a fabricated completed revision number. Preserve accessible older baseline/submission and actual responses privately; disclose unavailable originals rather than reconstruct them.
 
-Determine the weekly time participating Grade 10 students report spending on school activities and homework, and whether those two time-use measures are related. Findings may inform students' reflection on time use and teachers' or administrators' understanding of schedules. Do not turn this into a test of homework completion or academic achievement.
+Approved title: Participation in School Activities and Time Spent on Homework among Grade 10 Students.
 
-### Proposed Title
-
-Participation in School Activities and Time Spent on Homework among Grade 10 Students
-
-### Research Questions
-
-The source provides three aligned questions, without a separately stated main question:
+Approved specific questions:
 
 1. How many hours do Grade 10 students spend participating in school activities each week?
 2. How many hours do Grade 10 students spend doing homework each week?
 3. Is there a relationship between the time spent on school activities and the time spent doing homework?
 
-The accepted overall purpose is to describe both weekly time measures and examine their association in the intended Grade 10 group. Teacher authorization permits student-developed main-question/purpose wording faithful to that focus during Activity 2. Do not replace the three specific questions or add completion/grades as a new outcome without teacher approval.
+Retain the accepted overall purpose: describe both weekly-hour measures and their association. A student-developed explicit main question faithful to that purpose may be established in Activity 2 without replacing the approved specific questions. Do not add grades, completion, correctness or on-time submission as outcomes. Retain Monday–Sunday including weekends and established overlap accounting from accessible work; clarify only a real inconsistency. No actual school name, recruited sample or fieldwork permission is invented.
 
-### Variables and Proposed Indicators
-
-School-activity participation: each student's reported weekly hours in clubs, sports, school events and student groups. Homework time: each student's reported weekly hours completing assignments or other schoolwork outside class. The proposed source is a short survey, with paired measurements from the same individual. Both are time-use measures; the source's IV/DV labels do not authorize causal interpretation. Hours spent do not establish how much work was completed, whether it was correct, or whether it was submitted on time.
-
-### Proposed Study Type and Rationale
-
-Quantitative, non-experimental relationship study using numerical self-reported hours. The source describes a correlational purpose without assigning students to activities or controlling schedules. Group averages and a possible teacher-guided correlation are proposed; the final statistical method remains a later decision. Any expected negative relationship is a tentative expectation, not a finding or required outcome.
-
-### Target Population and Proposed Access
-
-Grade 10 students from the researcher's own school. The source leaves the school name as a placeholder; it is not yet established. Approximately 10–15 available, willing and permitted students are proposed through convenience sampling. These are proposed numbers, not recruited participants. Individual student is the unit of observation. Generalization is limited by convenience selection and small participation; do not imply coverage of all Grade 10 students.
-
-Teacher authorization permits the student to identify the actual school setting already intended by 'own school' and explain a consistent reference period and counting boundaries; do not invent the school name or silently broaden the population.
-
-### Proposed Data-Gathering Procedure
-
-A short survey would collect each respondent's school-activity and homework hours during a typical week. The proposed collection window is 1–2 days after permission, using free time/breaks without disrupting classes; it is distinct from the week being reported. The plan includes explaining the purpose, voluntary participation/refusal, no respondent names, private research use, teacher permission, school rules, and any required school or parent/guardian permission. Applicable student assent, secure storage and incomplete-response handling remain later procedural details to develop before fieldwork; no recruitment or collection is authorized. Recall estimates may be inaccurate. The exact meaning of typical week and treatment of overlapping time require clarification in the relevant Chapter 1 planned-data/scope check, not a full methodology assignment.
-
-## Chapter 1 Outcome
-
-A generated draft is reported, but no accepted Chapter 1 manuscript or satisfactory opening clarification is established. Authorization is retained; the clarification stage remains mandatory before full Activity 2 development. Existing draft wording cannot bypass that gate.
-
-## Revision Routing
-
-RESUME the unfinished Activity 2 work with original entry_mode INITIAL. No Chapter 1 revision directive or Activity 1 resubmission is required. Reuse the approved concept and the continuity snapshot below; do not repeat topic selection or restart answered sampling questions.
-
-### Reviewed Handoff Snapshot
-
-Snapshot ID: `pr2_pru_11-a02-reviewed-handoff-snapshot-2026-11-09`. Teacher-reviewed summary of the November 9 Activity 2 maintenance handoff, not a final submission, complete transcript or accepted manuscript. Use this embedded snapshot without requiring access to private teacher files.
-
-- Prior reasoning covers available/willing convenience respondents, breaks/free-time recruitment, proposed collection over 1-2 days, permission, voluntary participation, no names/privacy, recall limitations and a small sample. Preserve actual accessible answers in the private record; ask only genuinely missing details later.
-- The required explanation distinguishing homework time from completion is still missing. This is the exact next learning task, regardless of how far an earlier draft progressed.
-- A generated Word draft contains extra headings and does not establish the required Activity 2 structure. Do not carry its unsupported wording forward as accepted student reasoning.
-- School name, a consistent reference week and overlapping time boundaries remain unresolved. The collection window is different from the reference week. Address these within the clarification stage before full drafting so the measures and setting are coherent.
-- Two verified, student-understood sources and the remaining Activity 2 evidence remain incomplete. This snapshot neither invents them nor requires their completion before the initial clarification question.
-
-### Mandatory clarification gate
-
-First elicit the student's own time-versus-completion explanation. If insufficient, teach adaptively and verify application using a focused follow-up rather than accepting agreement. Then resolve the missing school setting, common reference week and overlap-counting boundaries one at a time. Record the actual answers, assessment, assistance and explicit gate status in the next handoff/.phx. Keep full Activity 2 development and further Chapter 1 drafting blocked until these essential clarifications are satisfactory. No separate teacher reapproval is needed to continue within the accepted concept once the gate is genuinely resolved; substantive departures still require teacher clarification.
+The November 12 actual answer explicitly distinguishes weekly-hour measures from grades or completion and explains alignment with title/questions. That meaning is accepted; the handoff's stale Open label for the earlier one-hour example no longer governs. Existing source leads are Tjaden et al. (2019) and Fredricks (2012); preserve usable prior interpretations but complete actual source-to-claim verification and missing understanding. A source lead alone is not verified support. Background and significance remain unfinished; relevant existing usefulness reasoning may be reused.
 
 ## Teacher's Comments
 
-Required opening clarification — status: Open; no student answer is recorded here.
+The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending.
 
-> If a student reports spending only one hour on homework in a week, what can that tell you—and what can it not tell you—about whether the student completed their homework?
+Develop the preliminary background into student-grounded TEAL-supported reasoning; complete verification and sufficient student understanding of two existing source leads, develop a separate Significance section, and confirm the actual school setting only if still unspecified. Reuse established week/overlap and question reasoning.
 
-After language selection, immediately ask this question in the chosen language. If language is already known, ask it as the first actual learning move. Do not prewrite the answer or treat the approval as proof that the distinction is understood.
+After current controls/maintenance checks and necessary language handling, start with the next missing target rather than the resolved clarification. Use existing answers first; a suitable prompt if its reasoning is not already sufficient is:
 
-Listen for the student's own explanation distinguishing time spent from completion. If the answer is uncertain or confuses those meanings, identify the specific gap, teach briefly, and ask one focused application question. Use a hypothetical different-case example only when needed, then return to this study. Do not accept agreement with AI wording alone as understanding. Accept short, Tagalog or Taglish answers and stop probing when essential meaning is demonstrated. Once the student can explain the distinction, finish the remaining setting/reference-week/overlap clarifications below. Only after the clarification stage is satisfactorily resolved may full Activity 2 development continue, without another Activity 1 submission or fresh teacher permission.
+> What uncertainty about Grade 10 students school-activity and homework hours does your background need to explain, and why is answering it useful in your school?
 
-At the relevant context/scope stage, ask for the actual school name, a consistent meaning of typical week, and how an activity fitting both time categories would be counted. These are authorized clarifications of the existing focus, not permission to change population or add outcomes. Confirm setting and reference-period meaning before dependent Chapter 1 prose. At the SOP stage, elicit main-purpose/main-question wording that faithfully integrates the accepted specific questions. Keep expected relationships tentative and never present hours as proof of completion or a causal effect.
+Reuse actual source interpretations and existing rationale/scope evidence. TEAL is connected topic/evidence/analysis/link reasoning, not a numerical paragraph formula or new worksheet. A separate Significance section needs usable student-grounded meaning; the tutor may polish established ideas but must not invent beneficiaries, benefits or assessed prose. No sampling, instrument, statistics, actual record acquisition or fieldwork tasks are assigned here.
 
-Preserve the exact opening teacher question, actual initial student answer, consequential follow-up/revision with enough tutor-question context, explanations/models or wording assistance actually given, demonstrated understanding, resolution status, and any manuscript effect in the new Activity 2 .phx. Use a Teacher's Comments and Student Responses subsection under STUDENT LEARNING EVIDENCE; evaluate the learning in AI EVALUATION AND FEEDBACK and record consequential repairs in ALIGNMENT AND REVISION AUDIT. Keep actual accessible wording and mark unavailable history honestly. The Word reading copy contains only FINAL OUTPUT, not private clarification evidence or feedback.
+## Submission and Review
 
-If an essential issue remains unresolved, continue guided clarification and withhold dependent drafting and READY/compilation. Do not invent missing facts or create a partial/provisional submission. Substantive changes to the accepted focus, population, design or specific questions need teacher clarification. All Activity 2 requirements, including two verified/student-understood sources, time evidence, alignment audit and the UTF-8/metadata/six-section .phx contract, still apply. Approval does not authorize respondent contact, record access or fieldwork.
+Preserve accessible previous and improved work, actual before/after changes, original student responses, source records and access limits, assistance, target/budget ledger and remaining issues. Separate summaries from verbatim evidence. At the bounded endpoint collect the authorized complete/incomplete review record; missing source support or reasoning affects academic completion, not permission to submit actual progress. COMPLETE requires all five current components, two verified student-understood sources and aligned reasoning.
+
+A proposal conflicting with locked decisions is recorded separately for later teacher review without adoption; continue independent authorized targets. Pending final acceptance is not WAIT. Use current file/chat-report delivery and stop for the teacher's next decision. This November 15 directive supersedes earlier active Open/clarification and completion-only task wording, not history or actual teacher locks. It does not release maintenance, renew the expired November 12 collection directive or grant fieldwork/record-access permission.

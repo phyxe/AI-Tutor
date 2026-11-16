@@ -1,16 +1,16 @@
 ---
 student_code: pr2_cou_02
 learning_area: Practical Research 2
-record_version: "1.2"
+record_version: "1.3"
 route_activity: pr2_act_01
-route_action: INITIAL
-route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: fresh-activity-1-required-insufficient-research-explanation
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_cou_02-a01-teacher-direction-2026-11-16
+route_baseline_revision: pr2_cou_02-a01-reviewed-baseline-2026-11-16
+route_resume_checkpoint: C2
+status: activity-1-focused-core-revision-required
 ---
 
-Teacher decision recorded November 9, 2026: begin Activity 1 as a fresh INITIAL attempt. The files submitted so far do not contain a sufficiently substantive research-problem explanation for teacher approval or a research-direction decision. No problem or concept is approved. Student identity is maintained separately.
+Teacher decision recorded November 16, 2026 (Asia/Manila): Research problem approved: reasons for delayed washing of tools and equipment after cooking activities. Complete concept, title and main question remain pending; Activity 2 is not authorized. Student identity and detailed learning evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -27,69 +27,72 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Fresh INITIAL attempt explicitly directed by the teacher November 9, 2026; begin from context and problem development.
-- Submission revision: No verified completed Activity 1 .phx revision established by this update.
-- Teacher verification: Submitted artifact reviewed; insufficient substantive research-problem explanation to approve or act upon as a research concept.
-- Research problem approval status: Not approved.
-- Concept approval status: Not approved.
-- Approved concept revision: Not recorded.
-- Student-reported work: Prior submitted artifact retained as history only; no fresh Activity 1 answers recorded.
-- Tutor-observed learning evidence: No new student responses or satisfied concept checkpoints claimed.
-- Checkpoint summary (C0–C8): Fresh attempt required; no prior component is treated as satisfied by the submitted file.
-- Next step / resume point: INITIAL, beginning with context/problem clarification under C0/C1; ask the opening question below after required source/maintenance checks and necessary language handling.
+- Teacher approval boundary: Research problem approved: reasons for delayed washing of tools and equipment after cooking activities. Complete concept, title and main question remain pending; Activity 2 is not authorized.
+- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
+- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
+- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
 
-## Concept Outcome
+## Current Session Directive
 
-The files submitted so far do not contain a sufficiently substantive explanation of a research problem for the teacher to approve it or make a research-direction decision from it. Begin Activity 1 as a fresh activity and develop the concern, context, purpose and evidence in your own words. This feedback concerns the submitted evidence, not a judgment that you have made no effort.
+```yaml
+directive_id: pr2_cou_02-a01-teacher-direction-2026-11-16
+attempt_id: pr2_cou_02-a01-attempt-2026-11-16
+activity_code: pr2_act_01
+action: REVISE_AND_SUBMIT
+start_checkpoint: C2
+start_question_id: A1-Q2
+baseline_revision: pr2_cou_02-a01-reviewed-baseline-2026-11-16
+baseline_source: "This outcome record, Revision Baseline subsection"
+authorized_task: "Repair only the open Activity 1 core targets and affected alignment; preserve sufficient existing evidence."
+retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+required_repairs:
+  - issue_id: pr2_cou_02-core-repair-2026-11-16
+    target: A1-Q2
+    clarification_or_correction: "Explain the main focus of reported reasons for delayed washing and a plausible indicator, then state and explain one aligned descriptive main question. Retain the demonstrated problem/context; do not restart or assume the reasons in advance."
+  - issue_id: pr2_cou_02-alignment-2026-11-16
+    target: A1-Q1 / A1-Q2 / A1-Q3
+    clarification_or_correction: "Reuse sufficient actual evidence and repair only missing meaning or dependent contradictions; no additional final defense."
+carry_forward: []
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 2 authorization, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-A fresh attempt does not require a new topic: the learner may explain a previous interest anew or choose another concern. No earlier topic mention or tutor-generated wording is accepted as an approved baseline. Complete the concept-note requirements and submit the completed .phx for teacher review before any Activity 2 authorization.
+This is a new explicitly teacher-authorized revision attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
 
-## Revision Routing
+## Revision Baseline
 
-No REVISION directive or accepted baseline applies. The teacher explicitly authorizes a fresh `INITIAL` attempt on November 9, 2026. Prior work is historical rather than retained satisfied evidence; this instruction supersedes generic reuse/resume expectations for these submitted artifacts. Do not ask for a recovery file or prior completed review as a prerequisite to beginning.
+Baseline ID: `pr2_cou_02-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
 
-### Historical artifact disposition
-
-The reviewed file concerns a separate PR2 review activity and does not establish an assessable personal research concept. An earlier topic mention is insufficient research-problem evidence and is not approved.
-
-Do not continue the separate review exercise, repeat technical troubleshooting, invent prior answers or infer approval from the artifact. Use the current production Activity 1 requirements. Apply current controlling sources and the maintenance protocol before teaching/export; a temporary hold permits the prescribed unfinished handoff rather than premature final compilation.
+November 12 work identifies some Grade 11 Knowledge cooking groups leaving unwashed items in the shared sink, reducing space for later users. The learner chooses to understand reasons for delayed washing and corrects an earlier all-groups claim to some groups. Laziness, reliance on groupmates and bacteria are impressions or unverified concerns, not findings.
 
 ## Teacher's Comments
 
-Please start Activity 1 as a fresh activity. Your submitted files do not yet contain a substantive research-problem explanation that the teacher can approve or use to decide the direction of your research. Explain the actual concern, who experiences it, what you have noticed and what you want to understand. The tutor will guide you one step at a time.
+Research problem approved: reasons for delayed washing of tools and equipment after cooking activities. Complete concept, title and main question remain pending; Activity 2 is not authorized.
 
-After required source/maintenance checks and necessary language handling, ask:
+Explain the main focus of reported reasons for delayed washing and a plausible indicator, then state and explain one aligned descriptive main question. Retain the demonstrated problem/context; do not restart or assume the reasons in advance.
 
-> What specific problem or concern do you want to understand, and who would benefit from understanding it?
+After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
 
-Use the actual answer to develop context and problem first, then the measurable focus, target population/access, questions, design, title and procedure. Ask one focused question at a time and teach needed ideas without supplying a completed problem, title, questions or instrument. Accept short English/Tagalog/Taglish reasoning and distinguish observations from assumptions. Do not force a relationship, experimental solution or ready-made topic.
+> What information from students would help you understand their reasons for not washing promptly, without assuming those reasons beforehand?
 
-Verify all C0–C8 evidence and alignment requirements before final compilation; no incomplete/provisional .phx. Preserve actual answers, assistance and truthful transcript limits privately. Check completed submission history before numbering the final file; use `pr2_cou_02_pr2_act_01_r01.phx` only if confirmed as the first completed Activity 1 submission, otherwise increment the verified prior revision. Do not invent numbering or delay learning to recover an old file. End with teacher review pending. No automatic problem/concept approval, Activity 2 progression or fieldwork.
+Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+
+## Submission and Review
+
+Preserve the earlier baseline, actual previous and improved work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+
+Mark COMPLETE only when actual C1/C2/C4 evidence and C8 alignment are sufficient under the teacher conditions; otherwise mark INCOMPLETE with the exact gap. Do not add sampling, statistical tests, full procedures, a validated instrument or collected results as current Activity 1 deliverables. Submission does not authorize Activity 2 automatically.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Not started / entry blocked pending teacher concept approval.
 - Chapter 1 drafting authorization: Not approved.
-- Accepted pr2_act_01 concept revision: Not recorded.
-- Approved concept source: Not recorded.
-- Approval conditions: No authorization issued.
-- Submission revision: Not recorded.
-- Teacher verification: Pending.
-- Chapter 1 approval status: Not approved.
-- Student-reported work: Not recorded.
-- Tutor-observed learning evidence: Not recorded.
-- Checkpoint summary (H1–H8): Not assessed.
-- Verified and student-understood sources: Not assessed.
-- Next step / resume point: Complete the teacher-directed fresh Activity 1 attempt, submit the completed .phx for review and await explicit teacher authorization and an identified accepted concept.
+- Accepted/provisional baseline for destination entry: Not assigned; the snapshot above is an Activity 1 revision baseline only.
+- Final Chapter 1 acceptance: Not approved.
+- Next point: Current Activity 1 focused revision, then teacher review after submission.
 
-## Chapter 1 Outcome
-
-No Chapter 1 outcome recorded.
-
-## Revision Routing
-
-No revision directive issued. No baseline revision or authorized repair scope recorded.
-
-## Teacher's Comments
+Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.

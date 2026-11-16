@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_17
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_02
-route_action: INITIAL
-route_directive_id: Not applicable
-route_baseline_revision: Not applicable
-route_resume_checkpoint: Not applicable
-status: activity-2-teacher-directed-restart
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_17-a02-direction-2026-11-15
+route_baseline_revision: pr2_pru_17-reviewed-status-2026-11-15
+route_resume_checkpoint: H1
+status: activity-2-focused-meaning-revision-required
 ---
 
-Teacher direction recorded November 9, 2026: redo Activity 2 from the beginning because the submitted defense-practice file lacks the required manuscript and learning evidence needed to assess progress. The earlier concept is retained as the reference, but its central terms and population rationale require actual explanation before dependent drafting. Student identity is maintained separately.
+Teacher decision recorded November 15, 2026 (Asia/Manila): Retain Activity 2 authorization and genuine new evidence. Replace the repeated full-restart task queue with focused revision of unresolved study meanings and current Chapter 1 development. The regular-use threshold, ChatGPT-excluded study-time interpretation and revised exact title/questions are not newly approved; final Chapter 1 acceptance remains pending. Student identity is maintained separately.
 
 ## Tutor Entry Instructions
 
@@ -27,120 +27,74 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-# pr2_act_01 | Research Concept Note
+# pr2_act_01 | Research-problem foundation
 
-- Activity status: Submitted concept reviewed for progression; Activity 1 completion gate not independently certified by this record.
-- Submission revision: Original submission has no verified revision number; do not invent r01 or a completed .phx.
-- Teacher verification: Teacher authorized progression on November 5, 2026, with targeted clarification carried into Activity 2.
-- Concept approval status: Accepted for Chapter 1 drafting within the scope and conditions recorded under pr2_act_02.
-- Approved concept revision: pr2_pru_17-concept-snapshot-2026-11-05 (teacher-record snapshot ID, not a claimed student submission revision).
-- Student-reported work: Available concept declaration informed the snapshot; no new student answer is claimed.
-- Tutor-observed learning evidence: No Activity 2 interaction recorded; individual understanding must be elicited.
-- Checkpoint summary (C0–C8): Not newly certified; focused unresolved issues retained in the selected Activity 2 comments.
-- Next step / resume point: pr2_act_02 INITIAL, expressly teacher-directed restart under the November 9 directions in the selected section.
-
-## Concept Outcome
-
-The accepted concept snapshot is embedded in this record's pr2_act_02 section. Source provenance: Teacher-reviewed local Activity1 PDF declaration; duplicate reading copy has identical extracted text. Personal filenames are retained only in private teacher storage.
-
-## Revision Routing
-
-No Activity 1 revision route is assigned. Do not restart topic selection or generate a retrospective Activity 1 submission.
-
-## Teacher's Comments
-
-Progression to Activity 2 is authorized. Apply the required clarification in the selected pr2_act_02 section.
+- Earlier concept/reference and Activity 2 entry authority: Retained under the current selected Activity 2 conditions.
+- No Activity 1 restart or additional retired concept-note gate is assigned.
+- Approval of a reference does not establish independent understanding of unresolved choices.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Activity status: Teacher-directed restart from the beginning in INITIAL mode.
-- Teacher direction date: November 9, 2026 (Asia/Manila).
-- Reason for restart: The new file contains research-defense practice Q&A rather than the required Chapter 1 manuscript, source-learning evidence, approved-concept explanations, alignment audit and complete teacher-facing Activity 2 record. It is insufficient to judge completion of this activity.
-- Chapter 1 drafting authorization: Earlier concept/entry authorization retained for guided Activity 2 redevelopment; dependent manuscript drafting must wait until essential concept meaning and population rationale are explained. No final chapter approval.
-- Accepted concept reference: pr2_pru_17-concept-snapshot-2026-11-05, embedded below; not proof that the underlying choices have been understood or locally verified.
-- Approval conditions: Start Activity 2 again at the approved-concept/context stage. Define and justify regular ChatGPT use, distinguish observation from assumptions about Grade 10 users, and explain feasible voluntary reporting. Refer substantive changes to the teacher; do not invent supporting facts or silently substitute a term in another study.
-- Submission history: Defense-practice Q&A received as supplementary material; not a completed Chapter 1 or revision baseline. No valid completed Activity 2 revision number is established by that file. Verify any actual completed Activity 2 submission history before numbering; do not infer r02 because the activity is being redone.
-- Teacher verification: Submitted content reviewed; adequate individual learning evidence for Activity 2 not established. No new student explanation is recorded by this update.
-- Chapter 1 approval status: Not approved.
-- Checkpoint summary (H1–H8): All stages require fresh development/verification in this restarted Activity 2 attempt. Supplementary rehearsal answers do not automatically satisfy the checkpoints.
-- Verified and student-understood sources: Not established by the submitted Q&A; two distinct verified, student-understood sources remain mandatory.
-- Next step / resume point: INITIAL teacher-directed restart at H1; after necessary language handling, ask the first focused question under Teacher's Comments.
+- Current teacher direction: Retain Activity 2 authorization and genuine new evidence. Replace the repeated full-restart task queue with focused revision of unresolved study meanings and current Chapter 1 development. The regular-use threshold, ChatGPT-excluded study-time interpretation and revised exact title/questions are not newly approved; final Chapter 1 acceptance remains pending.
+- Current task: Defend regular school-related ChatGPT use, distinguish observed basis from assumptions about eligible Grade 10 users, and clarify study time before developing dependent Chapter 1 claims. Retain supported relationship/weekly-duration reasoning; record substantive alternatives separately.
+- Entry point: H1 / A2-Q1; retain sufficient actual evidence and known language.
+- Academic completion: Not established by this update; no invented new answers or passed targets.
+- Final research/Chapter 1 acceptance: Not granted.
 
-## Approved Concept Snapshot
+## Current Session Directive
 
-Snapshot ID: `pr2_pru_17-concept-snapshot-2026-11-05`. Teacher-designated accepted baseline for Activity 2. These are previously accepted proposed study decisions, not verified local findings, evidence of student understanding, approved instruments, obtained access, or collected results. The November 9 teacher direction requires justification of regular use and the Grade 10 population before dependent Chapter 1 drafting; the historical two-days-per-week criterion must not be treated as self-justifying.
+```yaml
+directive_id: pr2_pru_17-a02-direction-2026-11-15
+attempt_id: pr2_pru_17-a02-attempt-2026-11-15
+activity_code: pr2_act_02
+action: REVISE_AND_SUBMIT
+start_checkpoint: H1
+start_question_id: A2-Q1
+baseline_revision: pr2_pru_17-reviewed-status-2026-11-15
+baseline_source: "This outcome record, Reviewed Context subsection; accessible originals retained privately"
+authorized_task: "Defend regular school-related ChatGPT use, distinguish observed basis from assumptions about eligible Grade 10 users, and clarify study time before developing dependent Chapter 1 claims. Retain supported relationship/weekly-duration reasoning; record substantive alternatives separately."
+retained_evidence: [compatible actual earlier reasoning with assistance and capture limits]
+required_repairs: [named unresolved meaning and consequential core links below]
+carry_forward: []
+locked_decisions: [actual teacher boundaries below, individual authorship, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: REVISION_REVIEW
+stop_for_teacher_decision: false
+```
 
-### Context
+This explicit direction authorizes a new bounded attempt with three standard follow-ups and at most two justified extras across the whole selected activity. No actual used count or new learning progress is invented here. Prior work supplies evidence, not counts charged to this new attempt. Continuation retains actual counts and language; skip sufficient targets. An older placement or draft label does not create extra core questions.
 
-The researcher sometimes chooses ChatGPT instead of spending longer studying and wants to examine the relationship. This personal experience does not establish reduced study time or class-wide prevalence.
+## Reviewed Context
 
-### Research Problem
+Baseline identity: `pr2_pru_17-reviewed-status-2026-11-15`. This is teacher-reviewed continuity context, not a fabricated completed submission revision, actual new response or complete transcript. The latest available progress record supplies the partial new evidence described below.
 
-Whether weekly school-related ChatGPT use frequency and duration are separately associated with weekly study time among eligible regular users is unknown. The purpose is to support reflection on responsible use, not establish causation.
+Historical accepted concept reference: pr2_pru_17-concept-snapshot-2026-11-05. Historical title: The Relationship Between Regular ChatGPT Usage and Study Time Among Grade 10 – Perseverance Students. The original accepted purpose examines the separate associations of weekly school-related ChatGPT frequency and duration with weekly study time. Specific question focuses are weekly frequency, weekly duration, frequency–study-time relationship and duration–study-time relationship. Preserve this as provenance, not proof that current definitions/population assumptions are defended.
 
-### Proposed Title
+The November 12 progress file contains actual student question/measurement explanations, including daily ChatGPT-use time summed across Monday–Sunday and zero-study-day recording. This is new useful evidence compared with the earlier defense-practice file; do not erase it or restart all questioning. However the threshold of at least two uses per week is not independently justified; historical frequency was days used, so do not conflate days, sessions and duration or silently adopt a new threshold/unit.
 
-The Relationship Between Regular ChatGPT Usage and Study Time Among Grade 10 – Perseverance Students
+One-section manageability does not establish that students actually use ChatGPT for schoolwork and can report it. Require a bounded distinction between observations and assumptions, not actual recruitment/screening or prevalence proof.
 
-### Research Questions
-
-A separately worded main question was not supplied. The accepted overall purpose is to examine the separate relationships of weekly school-related ChatGPT frequency and duration with weekly study time in the approved regular-user group. The teacher authorizes student-developed main-question wording faithful to that purpose during Activity 2.
-
-Specific questions:
-
-1. How often do Grade 10 – Perseverance students use ChatGPT for school-related activities in a week?
-2. How much time do Grade 10 – Perseverance students spend using ChatGPT for school-related activities in a week?
-3. Is there a relationship between the frequency of ChatGPT usage and students’ weekly study time?
-4. Is there a relationship between the duration of ChatGPT usage and students’ weekly study time?
-
-### Variables and Proposed Indicators
-
-ChatGPT frequency: number of days used for school-related activities during a common Monday–Sunday period. ChatGPT duration: total school-related use hours/minutes across that week. Study time: weekly hours/minutes spent on actual reading/review, assignments, and school activities, excluding all ChatGPT time. Frequency and duration remain separate measures.
-
-### Proposed Study Type and Rationale
-
-Quantitative correlational: examine the two usage–study-time associations without manipulating use or claiming causation. Four specific questions are accepted; do not require reduction solely to meet an older 2–3-question recommendation.
-
-### Target Population and Proposed Access
-
-Grade 10–Perseverance students who use ChatGPT for school-related activities at least two days per week. Proposed class screening followed by random selection from the eligible list. This accepted scope concerns regular users, not all classmates; actual access, eligible count, and final sample size remain unconfirmed.
-
-### Proposed Data-Gathering Procedure
-
-After school/teacher permission and applicable parent consent/student assent, screen eligibility and invite selected eligible students voluntarily. Proposed questionnaire/seven-day daily record with reminders; add daily values for weekly totals. True nonuse is zero; an unrecalled entry is missing, not guessed or coded zero. Explain refusal/withdrawal without grade consequences; avoid unnecessary identifiers and keep responses confidential. Safe linkage/selection, storage, and missing-data decisions need later planning. No screening, recruitment, or collection is authorized here.
-
-## Chapter 1 Outcome
-
-The defense-practice file is retained as supplementary work, not accepted as Activity 2 completion. Redo the full Activity 2 learning and manuscript sequence from the beginning; no full restart of Activity 1 or automatic new-topic selection is assigned. Prior concept permission is not revoked by inference, but unsupported or unworkable essential decisions must be brought to the teacher before dependent drafting.
-
-## Revision Routing
-
-This is an explicit teacher-directed INITIAL restart of Activity 2 despite the earlier entry authorization and newly submitted practice material. It is not a targeted REVISION of a completed Chapter 1, so no invented Chapter 1 baseline or revision directive is required. route_directive_id and route_baseline_revision remain Not applicable. The teacher has expressly authorized restarting; the earlier work does not create an INITIAL-route conflict. Do not merely ask the learner to upload or retrieve a different draft as a substitute for this restart.
-
-Use the approved concept as the reference for fresh individual explanations; do not repeat Activity 1 topic selection. If usable source text or earlier personal notes are available, they may support the restarted learning, but no checkpoint is automatically passed because a polished answer or a similar approved study exists. Avoid needless repetitions once the student actually demonstrates a criterion in this new attempt.
+The tutor instructed exclusion of all ChatGPT time from study time; the student response about keeping data separate is insufficient justification. ChatGPT use can occur during studying. Do not require nonoverlap automatically or accept an implicit replacement of total study time with study time without ChatGPT. Elicit the intended meaning; record any construct/title/question change as a proposal for teacher review. Whether ordinary class attendance belongs in study time also remains unclear. No full Chapter 1 or two-source support is established by this file.
 
 ## Teacher's Comments
 
-Your submitted file contains research-defense practice questions and answers, but it does not include the required Chapter 1 and learning evidence needed to judge your progress in Activity 2. Please redo Activity 2 from the beginning. You need to explain and justify the central choices in your own study; replacing a term in an existing research pattern is not enough to show that the new population, measures and questions fit. This is feedback about the submitted evidence, not a judgment about your effort, character or intent.
+Retain Activity 2 authorization and genuine new evidence. Replace the repeated full-restart task queue with focused revision of unresolved study meanings and current Chapter 1 development. The regular-use threshold, ChatGPT-excluded study-time interpretation and revised exact title/questions are not newly approved; final Chapter 1 acceptance remains pending.
 
-After necessary language handling, immediately ask:
+After current controls/maintenance checks and necessary language handling, begin with the actual open target in the known language:
 
-> In your own words, what would count as regular school-related ChatGPT use in your study, and why?
+> What would count as regular school-related ChatGPT use in your study, and what makes that meaning appropriate for the problem you want to investigate?
 
-Do not supply a definition or point to the existing two-days-per-week criterion as the answer before the first attempt. Use one focused follow-up at a time according to the actual response. Require the student's own explanation/application, not agreement or repetition of AI wording. Accept short, Filipino/Tagalog or Taglish attempts; scaffold unfamiliar concepts and stop probing a criterion once it is adequately explained.
+Retain authorized ChatGPT-use/study-time inquiry and Grade 10 Perseverance setting as the reference while defending meaning. Do not approve a threshold, frequency-unit change, ChatGPT-exclusion rule or changed exact title/questions by implication. A proposal is not an accepted baseline.
 
-1. **Define regular use (H1/H6/H7):** Distinguish frequency, duration, routine/habit and school-related purpose. Ask what time span the definition refers to and why a threshold identifies the intended group. The earlier at-least-two-days criterion is a proposed accepted boundary needing justification, not an empirical definition of regularity or a universally valid cutoff. If the student cannot justify it or proposes a different cutoff/reference period, record a student-confirmed proposal for teacher approval rather than invent a rationale or quietly change eligibility. Do not add addiction or harmful-use claims.
+Teach briefly at the actual gap, using a genuinely different-case example only when needed, then request the student's own application within the allowance. Do not provide the target answer, completed question/paragraph or missing sentence for copying/approval. Preserve assistance and actual attempts; a polished draft, copied model or agreement alone is not understanding. Do not demand cosmetic refinements, bonus tasks or repeated defenses of sufficient evidence.
 
-2. **Justify Grade 10 and the named section (H1/H2/H7):** Ask what specific experience or observation led the student to think Grade 10–Perseverance uses ChatGPT for schoolwork. Distinguish personal use, observed use, something heard from classmates and an unverified assumption about class-wide use. Ask why this group fits the actual purpose rather than merely being easy to reach. No local prevalence, student identity, reported use or use frequency may be invented. It is acceptable to say that eligibility and prevalence remain unknown; explain what must be verified later through an authorized process. Choosing a different grade/section or expanding to all users/nonusers requires teacher clarification.
+Develop the five current Chapter 1 components and two verified student-understood background sources, checking existing evidence before reopening anything. Integrate the named concept clarification into its relevant title/background/question/scope target; do not turn it into a separate unlimited prerequisite interview. No instrument, validation, screening/recruitment, sample-size/statistical plan, RRL or fieldwork is assigned. A real missing meaning may block dependent claims, but collect independent authorized targets rather than invent the meaning or repeatedly seek routine approval.
 
-3. **Explain reporting and feasibility (H1/H6/H7):** Ask what would make a self-report usable and what its limits are. Do not assume everyone uses ChatGPT, everyone will disclose use, or declarations prove actual platform activity. Consider recall, reluctance to disclose, nonparticipation and missing entries without labeling students dishonest or demanding proof. Do not require account histories, chat contents, screenshots, passwords or identifying evidence. Propose voluntary, confidential reporting and permitted consent/assent/permission pathways; no screening, participant contact or data collection is authorized now. If no plausible eligible/reachable group or reporting route exists, identify the teacher decision needed instead of manufacturing feasibility.
+## Submission and Review
 
-4. **Show that the research links fit this study (H1/H6/H7):** Have the student explain separately what frequency and duration capture and how study time excluding ChatGPT time would be understood in an actual schoolwork example. Resolve overlap in mixed activities without silently double-counting. Explain why the questions can be answered with the planned evidence and whose experience is excluded by the regular-user restriction. Similarity to another student's topic is not proof of copying; equally, generic defense answers are not proof the student can justify these specific links. Do not infer a causal reduction in study time or assume the relationship must be negative.
+Preserve accessible earlier originals and actual current/improved work with before/after changes, responses, assistance, target and follow-up ledger and unresolved issues. For a fresh start retain only relevant optional earlier evidence without locking the student to it. If only a summary is available, label it; do not reconstruct inaccessible originals or require whole-study retyping. The embedded context is sufficient to begin the named task.
 
-5. **Complete the full Activity 2 sequence (H2–H8):** Once H1 meaning/feasibility is adequate and any required concept change is teacher-approved, develop the six-part background reasoning, retrieve two relevant distinct credible sources and elicit the student's understanding, relevance and claim limits for each. Then draft/revise the required Background, SOP/questions and Scope and Delimitation, and complete all six alignment links and an actual consequential revision note. Do not substitute defense practice, anticipated results, later analysis/conclusion questions or full methodology/instrument assignments for the required Chapter 1 work. Keep the accepted concept's supported decisions unless a change is explicitly authorized.
+At the bounded endpoint submit the authorized complete/incomplete review record. COMPLETE requires actual sufficient understanding and current assigned output; ending the session is not passing. Missing understanding/source support does not prohibit an honest authorized review submission. Use current file/chat-report delivery, then stop for the teacher's next decision. Unauthorized alternatives remain proposals, not adopted decisions.
 
-6. **Learning record and final submission:** Preserve actual initial responses, consequential follow-ups/revisions with enough tutor-prompt context, observed understanding/gaps, assistance/models/drafting actually provided and teacher-comment resolution in the new Activity 2 .phx. Keep private feedback/transcript out of the Word manuscript and public outcomes. Do not reconstruct inaccessible earlier turns, invent times, certify independent authorship from edited prose or merely mark all checkpoints Ready after confirmations. Mark transcript capture truthfully.
-
-An unresolved essential definition, unsupported population/reporting feasibility, missing source comprehension or unapproved substantive concept change blocks dependent drafting and READY/compilation. Continue useful independent learning where possible and provide ordinary-text recovery/proposal notes if teacher input is needed; do not generate an incomplete/provisional .phx. After every Activity 2 gate passes, compile automatically with verified revision identity, required YAML, six exact sections, the required start/readiness time fields or honest unavailability, and UTF-8/non-archive byte verification. Derive the Word reading copy solely from FINAL OUTPUT. Submit the completed Activity 2 .phx for teacher review. No automatic approval, next activity or fieldwork follows.
-
-Current restart status: Not yet begun in this record. No new definition, Grade 10-use evidence, reporting justification or student answer has been supplied by this teacher update.
+This November 15 direction supersedes the earlier active unlimited/completion-only task queue and any full-restart requirement expressly replaced above; it preserves historical evidence, teacher approval boundaries and actual holds. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
