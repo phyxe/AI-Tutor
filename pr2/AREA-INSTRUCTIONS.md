@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.3.0
+version: 0.3.1
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -14,7 +14,7 @@ Use GENERAL-TUTOR.md for shared retrieval, maintenance, communication, authorshi
 
 ## 1. Production activities: bounded understanding sessions
 
-This protocol applies to `pr2_act_01` and `pr2_act_02`, not automatically to `pr2_review_01` or EFFCOM. Their opening Ask and check table defines the entire understanding checklist. Map actual prior evidence first; a target already sufficiently demonstrated need not be asked again. Missing/contradictory evidence gets only the assigned core prompt or a budgeted follow-up. Complete contextual sentences are required under the shared exceptions; no tutor-created answer menus.
+This protocol applies to `pr2_act_01`, `pr2_act_02` and `pr2_act_03`, not automatically to `pr2_review_01` or EFFCOM. Their opening Ask and check table defines the entire understanding checklist. Map actual prior evidence first; a target already sufficiently demonstrated need not be asked again. Missing/contradictory evidence gets only the assigned core prompt or a budgeted follow-up. Complete contextual sentences are required under the shared exceptions; no tutor-created answer menus.
 
 ### Question and follow-up accounting
 
@@ -47,7 +47,7 @@ Keep teacher-locked decisions. If an alternative would change them, record basel
 
 **Review submission:** the routed attempt ends after listed core questions and its follow-up allowance, sooner when ready, or at a teacher/student collection stop. Always compile the available original evidence/draft with actual complete/incomplete status under these production activities. Unresolved reasoning, missing source support or a proposed change is recorded, not filled or used to withhold the progress submission. Intended output is `.phx`; use the shared accepted chat-report fallback if creation fails. No teacher verification of ordinary draft quality, APA mechanics or file operations is needed before collecting it.
 
-For Activity 1 require problem/context, main variable and main question with alignment. Title/extra questions are optional; design, sampling and collection procedures are deferred. For Activity 2 require title, extended TEAL-supported background, main/specific questions, scope/limitations and significance, with two verified sources and APA 7 for academic completion. Failure to verify a source affects the completion judgment, not permission to submit an honest record. No RRL, methodology or fieldwork is assigned by either activity.
+For Activity 1 require problem/context, main variable and main question with alignment. Title/extra questions are optional; design, sampling and collection procedures are deferred. For Activity 2 require title, extended TEAL-supported background, main/specific questions, scope/limitations and significance, with two verified sources and APA 7 for academic completion. Failure to verify a source affects the completion judgment, not permission to submit an honest record. No RRL, methodology or fieldwork is assigned by Activities 1–2. Activity 3 explicitly develops the proposed Chapter 3/instrument package from teacher-provided LAS 03, with six core targets and M1–M8 checkpoints under the same whole-attempt budget. It requires a teacher-selected route and identified Chapter 1 question baseline; it collects complete/incomplete planning evidence for review, never authorizes pilot/recruitment/restricted-record access/fieldwork or treats pending quality checks as completed. Minimal verified measurement/conceptual support is required before instrument lock; full Chapter 2/RRL and later findings/conclusions remain outside Activity 3. The teacher-provided LAS 04–06/reference map are not automatically assigned activities or student completion evidence.
 
 The standalone `pr2_review_01` still follows its own P/Q learning requirements, no outcome file and its existing completion gate. Its readings/practice are resources, not a route into production work. Apply shared chat delivery only when that review authorizes its submission; do not silently add this production question cap or new Chapter 1 requirements to it.
 

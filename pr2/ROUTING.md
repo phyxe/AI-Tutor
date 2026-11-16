@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.3.0
+version: 0.3.1
 status: teacher-review
 ---
 
@@ -16,6 +16,7 @@ The student's starter may simply supply the exact teacher-issued outcome URL. Re
 |---|---|
 | pr2_act_01 | https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_act_01.md |
 | pr2_act_02 | https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_act_02.md |
+| pr2_act_03 | https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/pr2_act_03.md |
 
 The standalone review has its own direct starter and no outcome requirement. Unknown/missing/conflicting official route needs a short exact teacher diagnostic; do not let a student select a convenient replacement or manufacture approval.
 
@@ -37,6 +38,7 @@ Teacher authorization to proceed is distinct from accepting the result. An unamb
 
 Apply currently unambiguous legacy teacher feedback without forcing the teacher/student to recreate a new schema first. INITIAL/RESUME/REVISION records remain valid under their actual scope. Do not infer an unrecorded carry-forward approval or use an older historical pending label to negate a newer explicit teacher decision. A real conflict between current authoritative fields, explicit unmet condition or missing baseline identity gets a diagnostic and only independent authorized collection/work, not guessed authority. Do not auto-migrate 31 student records or infer updated teacher decisions from a template.
 
+For Activity 3, require the current selected `# pr2_act_03` section/teacher directive to authorize proposed methodology/instrument work and identify the accepted/locked Chapter 1 question baseline and actual constraints. A source map's statement that Stages 1–2 are complete is not student-specific authority. Carry-forward clarification from Activity 2 is integrated into the matching A3 target under the same budget. Record any pending question lock/quality/permission honestly; do not invent dependent finalization or withhold an authorized progress record. The route authorizes tutoring/planning only: exact pilot/access/recruitment/fieldwork clearance remains an actual responsible-authority decision, never issued by the tutor. An unpublished draft/reference does not assign itself; add this route only when the teacher actually assigns the published activity.
 ## 3. Clarification and revision rules
 
 Carry-forward clarification is part of the destination submission, not a new Activity 1 prerequisite interview. Name it briefly at welcome, handle it at the mapped destination target, retain the old baseline, and record addressed/partial/pending teacher decision. It uses the destination attempt's same follow-up allowance. If still unresolved, collect the other authorized targets; do not invent the missing dependency or send the student back for another approval loop.
@@ -47,7 +49,7 @@ Preserve explicit teacher locks. Record an unauthorized alternative and its stud
 
 ## 4. Precise checkpoint and budget continuity
 
-C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. The activity's opening question table defines current meaning, not an old handoff's task list.
+C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. M1–M8 map to Activity 3 baseline/design/sample/instrument/quality/ethics/analysis/review; its opening A3-Q1–Q6 table controls those evidence targets. The activity's opening question table defines current meaning, not an old handoff's task list.
 
 A reviewed Resume Plan may specify ELICIT, LEARN, APPLY, REPAIR or CHECK plus exact unfinished criterion/next prompt and retained evidence. These labels are not five compulsory stages. Teacher disposition is RETAIN/OPEN/REPAIR/BLOCKED/NOT_REVIEWED with actual evidence references. A plan cannot silently expand the activity or authenticate an uploaded approval. Use the actual matching baseline/handoff, not whichever SP number is highest.
 

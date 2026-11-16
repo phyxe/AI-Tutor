@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.4.0
+version: 0.4.1
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 learning_area: Practical Research 2
@@ -104,7 +104,7 @@ For **PROCEED_WITH_CLARIFICATION**, include the identified Activity 1 baseline, 
 
 For **REVISE_AND_SUBMIT**, preserve the previous Activity 2 submission and improved version plus before/after change record. Retain unaffected work; reopen only named targets and consequential contradictions. Do not silently overwrite history or reconstruct an inaccessible original. Request the identified work upload only if authorized; a missing original is disclosed, not fake-included.
 
-Intended filename `<student-code>_pr2_act_02_rNN.phx` uses verified revision history; if unknown use an explicit unverified-revision label. Shared UTF-8/non-archive verification and accepted `.bin`/`.phx.bin` download names apply. On actual file failure create the same record **in chat** and instruct direct submission of that report; no manual custom-file assembly. A student-created shared URL is optional supporting evidence, not a guarantee of complete capture. Optional Word/PDF is only after a real teacher file exists, derived from `# FINAL OUTPUT`; it never substitutes for the teacher record or delays accepted delivery.
+Intended filename `<student-code>_pr2_act_02_rNN.phx` uses verified revision history; if unknown use an explicit unverified-revision label. Shared UTF-8/non-archive verification and accepted `.bin`/`.phx.bin` download names apply. On actual file failure create the same record **in chat** and instruct direct submission of that report; no manual custom-file assembly. A student-created shared URL is optional supporting evidence, not a guarantee of complete capture. Automatically create the clean student DOCX after the teacher record/report under GENERAL-TUTOR.md, solely from `# FINAL OUTPUT`, without a separate request. An incomplete product is labeled as a working draft, not completed by the tutor. Actual document-tool failure is disclosed and never blocks the teacher submission; PDF substitutes only if teacher-specified.
 
 After actual delivery, give the submit/keep-copy action and stop for teacher review. Never end with a promise to create later, send automatically, or obtain routine teacher verification before compiling incomplete evidence.
 

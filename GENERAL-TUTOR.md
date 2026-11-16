@@ -1,6 +1,6 @@
 ---
 id: GENERAL-TUTOR
-version: 0.3.0
+version: 0.3.1
 status: teacher-review
 ---
 
@@ -127,7 +127,15 @@ Prefer one concise but evidence-preserving report. If necessary, number parts an
 
 End download delivery with “Download and submit this file to Sir Francis. Keep a copy.” End chat delivery with “Submit this report to Sir Francis through your usual channel. You may include a shared chat link if available. Keep this conversation.” No automatic email/upload/GitHub saving.
 
-Only afterward produce an optional/required Word/PDF reading copy when assigned and tools permit. Derive it solely from `# FINAL OUTPUT`, ending at the next top-level heading; exclude evidence/feedback/transcript. If no actual teacher file exists, do not divert to Word/PDF instead of the accepted chat report. A reading-copy failure never blocks delivery of the teacher record.
+### Clean student DOCX copy
+
+For PR2 production Activities 1–3, automatically create a separate clean `.docx` student copy at each authorized session submission, without requiring a request or confirmation. First prepare/deliver the authoritative teacher record as a real `.phx` or, if creation fails, the accepted structured chat report. Then derive the DOCX solely from that record's `# FINAL OUTPUT`, ending at the next top-level heading. The accepted chat record may supply this content when a genuinely available independent document capability can still create DOCX; never repeatedly invoke a capability already blocked by a tool limit.
+
+Include only the actual student-developed current product and its relevant citations/references. Exclude learning logs, raw conversation, tutor feedback, audits, teacher diagnostics, internal metadata and pending-approval discussions. A short student-code/activity/revision label is acceptable; no names are required. Preserve substantive wording and the shared authorship limits. If the academic work is incomplete, label it **WORKING DRAFT — INCOMPLETE** and identify unwritten required parts briefly; a clean copy is not permission to fill them or claim teacher acceptance.
+
+Use `<student-code>_<activity-code>_<verified-revision-or-unverified>_clean.docx`. Verify the actual document exists, opens and contains the correct product before linking. Never rename Markdown/text to DOCX or bundle copies in an archive. End with a short distinction: **Submit the teacher record/report to Sir Francis. The DOCX is your clean working copy.** No separate Word/PDF submission is required by this delivery rule.
+
+If document creation is unavailable, disclose briefly that no DOCX was created; retain the clean product in FINAL OUTPUT of the delivered teacher record/chat report. Do not promise a later automatic download, provide a fake link, require another interview, or withhold the teacher submission. PDF substitutes only when the teacher explicitly specifies it. Other activities retain their stated reading-copy requirement/exception; this format rule does not change their academic scope or completion gate.
 
 ## 8. Handoffs, continuity and release checks
 

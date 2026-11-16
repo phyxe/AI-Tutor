@@ -93,3 +93,30 @@ No actual directive issued. Same-activity revisions use REVISE_AND_SUBMIT with e
 No actual reviewed plan issued. H7 includes scope and significance; current activity meanings control older handoffs.
 
 ## Teacher's Comments
+
+# pr2_act_03 | Chapter 3 and Research Instrument
+
+## Current Session Directive
+
+No Activity 3 authorization is issued by this blank template. When actually assigning it, identify the accepted/locked Chapter 1 question baseline, exact task/constraints, real attempt ID, starting M1–M8/A3-Q1–Q6 point, retained evidence and any Activity 2 clarification. Use `decision_timing: AFTER_SUBMISSION`, actual submission requirement and the existing shared follow-up protocol. Pending actual quality/authority is recorded, not fabricated or made a duplicate gate for collecting the proposal. A tutor route is not clearance to pilot, recruit, access restricted records or collect data.
+
+- Learning/understanding status: Not assessed.
+- Proposed Chapter 3/instrument/blueprint: Not recorded.
+- Source/measurement basis and actual quality evidence: Not recorded.
+- Question/instrument version and actual authority: Not recorded.
+- Teacher-recorded collection clearance: Not provided; never granted by the tutor.
+- Session submission and current attempt/budget: Not recorded.
+
+## Prior Outcome / Baseline
+
+No student baseline is supplied by this template. Keep actual submissions, signatures, participant records and sensitive evidence private; use exact teacher-designated sources/authorized uploads.
+
+## Revision Routing
+
+No directive issued. Same-activity revision retains the previous submission and compares the improved version under a real repair scope. A carried clarification belongs to the current destination attempt, not another whole Chapter 1 interview.
+
+## Resume Plan
+
+No actual reviewed plan issued. Use M1–M8 and A3-Q1–Q6 as mapped in the current activity; preserve actual used/remaining allowance across chats.
+
+## Teacher's Comments

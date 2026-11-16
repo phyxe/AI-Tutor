@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_09
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_01
-route_action: INITIAL
-route_directive_id: pr2_pru_09-a01-direction-2026-11-15
-route_baseline_revision: Not applicable
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_09-a01-distinct-angle-2026-11-16
+route_baseline_revision: pr2_pru_09-a01-reviewed-baseline-2026-11-16
 route_resume_checkpoint: C1
-status: activity-1-teacher-directed-restart-current-core
+status: retained-club-academic-conflict-path-distinct-angle-required
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded. Student identity is maintained separately.
+Teacher direction recorded November 16, 2026 (Asia/Manila): retain the research path concerning conflicting times of club and academic activities. Guide the learner to develop a substantively different angle within that path. The exact problem formulation, variable, title and main question are not finally approved; Activity 2 remains unauthorized. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,67 +29,79 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Current teacher direction: Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded.
-- Current task: Develop the current three-target Activity 1 foundation: problem/context, main variable with possible indicator, and one aligned main question.
-- Entry point: C1 / A1-Q1; retain sufficient actual evidence and known language.
-- Academic completion: Not established by this update; no invented new answers or passed targets.
-- Final research/Chapter 1 acceptance: Not granted.
+- Teacher decision: Continue the club–academic scheduling-conflict path; develop a distinct inquiry rather than change to an unrelated topic or restart all work.
+- Academic status: November 16 submission is INCOMPLETE. Problem/context, main-variable/indicator meaning and main-question alignment are partly demonstrated; no repaired target or new student answer is claimed here.
+- Next point: C1 / A1-Q1, limited to clarifying the actual conflict and distinct uncertainty; reuse the existing concern and prioritization attempt, then repair affected C2/C4 meaning.
+- Approval boundary: Permission to develop this path is not final approval of a new angle or authorization for Chapter 1/fieldwork.
+- Supersession: This directive replaces the November 15 INITIAL/restart route and old no-new-submission statement. Preserve prior work as evidence without accepting tutor wording as independent understanding.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_09-a01-direction-2026-11-15
-attempt_id: pr2_pru_09-a01-attempt-2026-11-15
+directive_id: pr2_pru_09-a01-distinct-angle-2026-11-16
+attempt_id: pr2_pru_09-a01-revision-attempt-2026-11-16
 activity_code: pr2_act_01
-action: INITIAL
+action: REVISE_AND_SUBMIT
 start_checkpoint: C1
 start_question_id: A1-Q1
-baseline_revision: Not applicable
-baseline_source: "Not applicable; earlier idea optional historical context"
-authorized_task: "Develop the current three-target Activity 1 foundation: problem/context, main variable with possible indicator, and one aligned main question."
-retained_evidence: [compatible actual earlier reasoning with assistance and capture limits]
-required_repairs: []
+baseline_revision: pr2_pru_09-a01-reviewed-baseline-2026-11-16
+baseline_source: "This outcome record, Revision Baseline subsection; accessible November 16 submission retained privately"
+authorized_task: "Develop a distinct descriptive angle within conflicting club and academic activity times, then repair the main variable/indicator and one aligned main question."
+retained_evidence: [student-originated scheduling-conflict concern, student-originated prioritization focus, actual prior responses with assistance labels]
+required_repairs:
+  - issue_id: pr2_pru_09-distinct-angle-2026-11-16
+    target: A1-Q1
+    clarification_or_correction: "Clarify a concrete club-versus-academic conflict and what the learner wants to understand about students facing it. Develop a distinct descriptive uncertainty; do not substitute overlap-frequency versus club-attendance correlation or merely rename a group."
+  - issue_id: pr2_pru_09-indicator-question-2026-11-16
+    target: A1-Q2 / A1-Q3
+    clarification_or_correction: "Elicit the learner's own meaning and plausible indicator of the selected focus, then one main question and its alignment reasoning. Agreement with a tutor-supplied question is insufficient evidence."
 carry_forward: []
-locked_decisions: [actual teacher boundaries below, individual authorship, no fieldwork authorization]
+locked_decisions: [retain club-academic scheduling-conflict path, distinct descriptive inquiry required, Grade 12 excluded, individual authorship, no Activity 2 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
-submission_kind: ACTIVITY_REVIEW
+submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This explicit direction authorizes a new bounded attempt with three standard follow-ups and at most two justified extras across the whole selected activity. No actual used count or new learning progress is invented here. Prior work supplies evidence, not counts charged to this new attempt. Continuation retains actual counts and language; skip sufficient targets. An older placement or draft label does not create extra core questions.
+This is a new explicitly teacher-authorized focused revision attempt, not a continuation that silently resets the earlier allowance. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt; no used count is claimed yet. Retain actual counts on continuation. Ask only open core targets, reuse sufficient evidence and use C8 as an internal comparison rather than another defense.
 
-## Reviewed Context
+## Revision Baseline
 
-Status snapshot: `pr2_pru_09-reviewed-status-2026-11-15`. This is teacher-reviewed continuity context, not a fabricated completed submission revision, actual new response or complete transcript. No new named submission was found in the current intake; retain the existing placement without inferring additional progress.
+Baseline ID: `pr2_pru_09-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot of the November 16 Activity 1 review, not a completed submission revision or full transcript.
 
-Earlier planning concerned time management and school-club participation. The teacher required a fresh Activity 1 attempt; earlier title/questions and respondent proposals are not approved or locked. Preserve only usable student notes as historical starting evidence. Do not carry an earlier Grade 12 respondent proposal as an accepted boundary; the teacher has expressly restricted Grade 12 participation due to their own research workload.
+The learner identifies difficulty managing school and club activities when their times conflict and names how students prioritize activities as the focus. The reason given remains general. The tutor supplied the indicator of deciding which activity to do first and the question, “How do Grade 11 students prioritize their school and club activities when both are scheduled at the same time?” The learner agreed but did not explain the indicator or question alignment independently. Retain that wording as an assisted prior proposal, not an approved or independently demonstrated main question.
+
+Grade 11 replaced the earlier Grade 12 proposal. Grade 12 remains excluded; Grade 11 is a proposed contextual group, not an approved sample. The previous review reports two follow-ups used in the November 15 attempt; preserve that history separately from this new revision allowance.
 
 ## Teacher's Comments
 
-Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded.
+Continue with conflicting times of club and academic activities. Develop a different angle within that concern, grounded in what you actually want to understand. You are not being asked to start over or select an unrelated topic.
 
-After current controls/maintenance checks and necessary language handling, begin with the actual open target in the known language:
+### Tutor guidance for differentiation
 
-> What specific problem do you want to investigate, and why does it matter in the situation you have in mind?
+The neighboring approved study concerns the relationship between overlapping club-meeting frequency and club-meeting attendance among students with multiple club memberships. Do not retrieve another learner's record or ask this learner to compare classmates' work. The boundary stated here is sufficient: this student's inquiry must concern club-versus-academic conflicts and a distinct uncertainty, rather than reproduce an overlap-frequency/club-attendance relationship. Changing only the grade, title or a few terms does not establish a distinct inquiry.
 
-Student may retain or change the idea. Do not force a second variable or claim that a practice improves outcomes from descriptive responses. No automatic adoption of an old population.
+Guide toward a manageable descriptive angle emerging from the learner's situation and explanation. Explore how the learner understands the competing obligations and what remains unknown about students facing them. Decision-making/prioritization is an existing student-originated lead, not a final selected variable. Do not impose a ready-made angle, list answer options to adopt, or supply a title, indicator or main research question. Explain the relevant concept briefly or use a genuinely different-case example, then elicit the learner's own application.
 
-Teach briefly at the actual gap, using a genuinely different-case example only when needed, then request the student's own application within the allowance. Do not provide the target answer, completed question/paragraph or missing sentence for copying/approval. Preserve assistance and actual attempts; a polished draft, copied model or agreement alone is not understanding. Do not demand cosmetic refinements, bonus tasks or repeated defenses of sufficient evidence.
+Distinguish simultaneous attendance obligations from tasks sharing a deadline or limited preparation time. “Which activity first” may not describe an actual simultaneous conflict. Help the learner explain the intended situation; do not invent local events, prevalence or consequences. Do not presume harm, lower grades or missed attendance, and do not add an unnecessary relationship or intervention.
 
-Required work is only problem/context, main variable with plausible indicator and one aligned main question; C8 is an internal comparison. Title and extra questions are optional. No full concept note, design defense, sampling/access plan, questionnaire, statistical plan, collection procedure or source search is assigned. A minimal group/context check may make the core intelligible without creating methodology work.
+After current-source/status checks and language handling only if needed, begin with:
+
+> Describe a situation in which club and academic activities compete for the same time. What do you want to understand about how students deal with that situation?
+
+Use the answer to establish the distinct uncertainty, then repair only the missing variable/indicator meaning and main-question alignment. Accept short English/Tagalog/Taglish explanations; a polished AI draft or “I agree” does not demonstrate the missing understanding. Preserve actual student wording and assistance privately.
 
 ## Submission and Review
 
-Preserve accessible earlier originals and actual current/improved work with before/after changes, responses, assistance, target and follow-up ledger and unresolved issues. For a fresh start retain only relevant optional earlier evidence without locking the student to it. If only a summary is available, label it; do not reconstruct inaccessible originals or require whole-study retyping. The embedded context is sufficient to begin the named task.
+Preserve the accessible previous submission, revised output, actual before/after changes, prompt context, assistance, target status and follow-up ledger. If only a summary is accessible, disclose that limit; do not reconstruct missing originals or make the learner retype the entire study.
 
-At the bounded endpoint submit the authorized complete/incomplete review record. COMPLETE requires actual sufficient understanding and current assigned output; ending the session is not passing. Missing understanding/source support does not prohibit an honest authorized review submission. Use current file/chat-report delivery, then stop for the teacher's next decision. Unauthorized alternatives remain proposals, not adopted decisions.
+At the bounded endpoint submit the authorized complete/incomplete revision for teacher review. Mark COMPLETE only when the actual problem, variable/indicator, main question and internal alignment are sufficient; otherwise identify the exact gap. The revised angle remains for teacher decision after submission rather than another permission pause between questions.
 
-This November 15 direction supersedes the earlier active unlimited/completion-only task queue and any full-restart requirement expressly replaced above; it preserves historical evidence, teacher approval boundaries and actual holds. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
+Title and extra questions are optional. No sampling/access plan, instrument, full design defense, statistical plan, source search, collected results or Chapter 1 writing is assigned. Use current file/chat-report and student-output delivery instructions. Follow the live TUTOR-STATUS.md; this outcome does not alter it or renew the expired collection directive. No fieldwork, participant contact or record access is authorized.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
 - Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional baseline for Activity 2: Not assigned.
-- Final Chapter 1 acceptance: Not approved.
-- Next step: Submit the current Activity 1 work for teacher review. No automatic advancement follows completion or file generation.
+- Accepted/provisional baseline for Activity 2: Not assigned; the snapshot above supports Activity 1 revision only.
+- Final Chapter 1 acceptance: Not granted.
+- Next point: Focused Activity 1 revision and teacher review after submission; no automatic progression.

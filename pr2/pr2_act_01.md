@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.3.0
+version: 0.3.1
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -63,7 +63,7 @@ A concise English research-problem foundation preserving the student's establish
 - Main Variable and Possible Indicator.
 - Main Research Question.
 
-Include optional title/additional questions only if genuinely offered. Do not fill absent sections, invent local facts or write an ideal answer to hide gaps. An incomplete product is still submitted as work in progress for teacher review. This is not a full eight-part concept note. No Word/PDF reading copy is required.
+Include optional title/additional questions only if genuinely offered. Do not fill absent sections, invent local facts or write an ideal answer to hide gaps. An incomplete product is still submitted as work in progress for teacher review. This is not a full eight-part concept note. Automatically provide the clean student DOCX under GENERAL-TUTOR.md after delivering the teacher record/report; use only FINAL OUTPUT, with an incomplete-draft label where applicable. Do not wait for the student to request it.
 
 ## 5. Required teacher submission
 
