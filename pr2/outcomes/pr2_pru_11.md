@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-15
-route_baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-15
+route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-16
+route_baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-16
 route_resume_checkpoint: H2
-status: clarification-addressed-activity-2-focused-development-required
+status: new-background-significance-setting-accepted-limited-activity-2-revision
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending. Student identity is maintained separately.
+Teacher decision recorded November 16, 2026 (Asia/Manila): Accept the November 16 local-gap explanation, significance reasoning and Hawan National High School setting as progress. Retain approved title/questions and Activity 2 authorization. Require only the remaining relationship rationale, any genuinely unresolved overlap-accounting ambiguity, and source/reference corrections before final Chapter 1 acceptance, which remains pending. Detailed student evidence and identity mapping remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,50 +29,56 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Earlier research concept and Activity 2 entry authorization: Retained.
-- Accepted original concept identity: `pr2_pru_11-approved-concept-snapshot-2026-11-06`.
-- Current activity: Activity 2; no Activity 1 restart or extra concept-note submission assigned.
-- Current clarification disposition: The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending.
+- Earlier concept/title/questions and Activity 2 authorization: Retained.
+- Accepted original identity: `pr2_pru_11-approved-concept-snapshot-2026-11-06`.
+- Hours-versus-homework-completion clarification: Addressed; no Activity 1 restart or repeated prerequisite defense.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Retained for focused Activity 2 revision/development within the approved study.
-- Teacher decision date: November 15, 2026 (Asia/Manila).
-- Required prior clarification: Addressed through the reviewed actual explanation; do not ask it again merely to match an earlier prompt form.
-- Final Chapter 1 acceptance: Pending after revised submission; no new final acceptance or official grade.
-- Academic completion: Remaining current Chapter 1 targets require work; no new student response or full completion is claimed by this teacher update.
-- Next point: H2 / A2-Q2; use retained evidence and ask only the missing current understanding.
+- New local-gap explanation, significance reasoning and school setting: Accepted as progress.
+- Chapter 1 drafting authorization: Retained for limited revision; final acceptance pending after submission.
+- Academic completion: Not newly certified; actual missing meaning/support must be resolved or truthfully recorded.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_11-a02-focused-revision-2026-11-15
-attempt_id: pr2_pru_11-a02-revision-attempt-2026-11-15
+directive_id: pr2_pru_11-a02-focused-revision-2026-11-16
+attempt_id: pr2_pru_11-a02-revision-attempt-2026-11-16
 activity_code: pr2_act_02
 action: REVISE_AND_SUBMIT
 start_checkpoint: H2
 start_question_id: A2-Q2
-baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-15
-baseline_source: "This outcome record, Reviewed Baseline subsection; accessible previous originals remain private"
-authorized_task: "Complete the remaining current Chapter 1 targets with focused revision and retained sufficient evidence."
-retained_evidence: [existing study authorization and approved identity, addressed prior clarification, compatible actual source/question/scope reasoning]
+baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-16
+baseline_source: "This outcome record, Reviewed Baseline subsection; retain accessible November 16 submission privately"
+authorized_task: "Complete a limited Activity 2 revision of the relationship rationale and any genuine overlap-accounting ambiguity, with focused verification/correction of the two existing sources and references; retain accepted new work."
+retained_evidence: [prior teacher decisions within stated boundaries, accepted November 16 progress, compatible actual earlier reasoning with assistance labels]
 required_repairs:
-  - issue_id: pr2_pru_11-remaining-chapter-work-2026-11-15
-    target: A2-Q2
-    clarification_or_correction: "Develop the preliminary background into student-grounded TEAL-supported reasoning; complete verification and sufficient student understanding of two existing source leads, develop a separate Significance section, and confirm the actual school setting only if still unspecified. Reuse established week/overlap and question reasoning."
+  - issue_id: pr2_pru_11-repair-1-2026-11-16
+    target: A2-Q2 / A2-Q3
+    clarification_or_correction: "If not already sufficiently explained in accessible evidence, explain what examining the relationship adds beyond separately describing weekly school-activity and homework hours. Do not assume more activity hours necessarily mean less homework time or that association proves cause. Retain the local-gap explanation and approved questions; no new full background interview."
+  - issue_id: pr2_pru_11-repair-2-2026-11-16
+    target: A2-Q4
+    clarification_or_correction: "First reuse the earlier accepted explanation of overlapping time. Clarify only an actual ambiguity or contradiction in the new sentence that the same period is counted only once: explain its assignment between the two separate weekly-hour measures without inventing a rule or revisiting the resolved hours-versus-completion example."
+  - issue_id: pr2_pru_11-repair-3-2026-11-16
+    target: A2-Q2 / references
+    clarification_or_correction: "Retain Tjaden et al. (2019) and Fredricks (2012). The teacher review checked the publications and found the summaries broadly defensible; complete accurate source-to-claim limits and reference details using permitted retrieval. Do not require replacement sources or a separate verification worksheet. Do not claim the student performed a check merely because the teacher/tutor did."
 carry_forward: []
-locked_decisions: [approved study focus and actual title/questions, retained reference boundaries, individual authorship, no final Chapter 1 acceptance, no fieldwork authorization]
+locked_decisions: [approved title and specific questions, weekly-hour association focus, accepted progress and addressed earlier clarification, individual authorship, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This new explicitly authorized revision attempt permits three standard follow-ups plus at most two justified targeted extras across the whole activity. Prior work supplies evidence without being charged to the new attempt's count. No actual count is invented; resumed segments retain used counts, language and the exact open target. Do not invent an extra defense or routine teacher gate.
+This explicitly teacher-authorized new focused revision has three standard follow-ups plus at most two justified targeted extras across the whole attempt. Preserve prior attempt ledgers separately; no used count or new student answer is invented here. Continuations retain actual counts. Reuse sufficient answers, ask only the open meaning, and compile at the bounded endpoint whether complete or incomplete.
 
 ## Reviewed Baseline
 
-Baseline ID: `pr2_pru_11-a02-reviewed-baseline-2026-11-15`. Teacher-designated snapshot of the November 12 work, not a fabricated completed revision number. Preserve accessible older baseline/submission and actual responses privately; disclose unavailable originals rather than reconstruct them.
+Baseline ID: `pr2_pru_11-a02-reviewed-baseline-2026-11-16`. Teacher-designated review snapshot of the November 16 submission, not a completed submission revision or full verbatim transcript. Preserve actual prior/current products and original responses privately; label summaries and unavailable originals honestly.
+
+November 16 work now includes all five Chapter 1 components as a working draft, not a certified complete manuscript. The student independently identifies the local weekly-hours information gap, distinguishes previous findings from local figures, provides plausible significance for students/teachers/administrators and identifies Hawan National High School. Those additions are accepted as progress; do not elicit them again merely to match a former prompt. The existing hours-versus-homework-completion clarification remains addressed. The new text explains separate totals more clearly than the added value of their relationship and uses an ambiguous overlapping-time sentence. Ten to fifteen available/willing Grade 10 respondents remain proposed, not an approved sample. Recruitment, actual permissions and collected data are not Chapter 1 completion gates.
+
+### Retained approved study identity
 
 Approved title: Participation in School Activities and Time Spent on Homework among Grade 10 Students.
 
@@ -82,24 +88,31 @@ Approved specific questions:
 2. How many hours do Grade 10 students spend doing homework each week?
 3. Is there a relationship between the time spent on school activities and the time spent doing homework?
 
-Retain the accepted overall purpose: describe both weekly-hour measures and their association. A student-developed explicit main question faithful to that purpose may be established in Activity 2 without replacing the approved specific questions. Do not add grades, completion, correctness or on-time submission as outcomes. Retain Monday–Sunday including weekends and established overlap accounting from accessible work; clarify only a real inconsistency. No actual school name, recruited sample or fieldwork permission is invented.
+Retain Monday–Sunday including weekends, the approved weekly-hour association purpose and compatible earlier overlap reasoning. A student-developed main question faithful to this purpose does not replace the approved specific questions. Do not add grades, completion, correctness or timely submission as outcomes.
 
-The November 12 actual answer explicitly distinguishes weekly-hour measures from grades or completion and explains alignment with title/questions. That meaning is accepted; the handoff's stale Open label for the earlier one-hour example no longer governs. Existing source leads are Tjaden et al. (2019) and Fredricks (2012); preserve usable prior interpretations but complete actual source-to-claim verification and missing understanding. A source lead alone is not verified support. Background and significance remain unfinished; relevant existing usefulness reasoning may be reused.
+### Teacher-checked source continuity
+
+- Tjaden et al. (2019), The Long-Term Effects of Time Use during High School on Positive Development: https://pubmed.ncbi.nlm.nih.gov/31481978/ . Supports the relevance of time allocation and development, not local weekly hours or a demonstrated school-activity/homework-hour relationship at this school.
+- Fredricks (2012), Extracurricular participation and academic outcomes: testing the over-scheduling hypothesis: https://pubmed.ncbi.nlm.nih.gov/21814871/ . The approximately five-hour average concerns the American tenth graders studied; it is neither a local benchmark nor a recommended maximum. Preserve both generally positive associations and limits at very high involvement rather than presenting participation as inherently harmful.
+
+These publications were checked in the teacher review; student source understanding is assessed through actual existing explanation and only genuine missing claim limits. Complete author/publication/DOI details from the originals; minor APA mechanics do not justify another student interview. Source verification by the reviewer is not a fabricated student action or proof of full independent understanding.
 
 ## Teacher's Comments
 
-The latest actual explanation sufficiently addresses the time-spent versus homework-completion distinction. Do not repeat the one-hour example as a prerequisite. Retain Activity 2 authorization and approved title/questions; continue the remaining background/source/significance work and clarify only genuinely missing setting or scope information. Final manuscript acceptance remains pending.
+Accept the November 16 local-gap explanation, significance reasoning and Hawan National High School setting as progress. Retain approved title/questions and Activity 2 authorization. Require only the remaining relationship rationale, any genuinely unresolved overlap-accounting ambiguity, and source/reference corrections before final Chapter 1 acceptance, which remains pending.
 
-Develop the preliminary background into student-grounded TEAL-supported reasoning; complete verification and sufficient student understanding of two existing source leads, develop a separate Significance section, and confirm the actual school setting only if still unspecified. Reuse established week/overlap and question reasoning.
+Check existing evidence first and ask the opening question only if that meaning is still missing. Retain the new local-gap, school-setting and significance explanations without repeating them. Preserve the approved title and question set below. Use prior overlap reasoning; do not reopen the one-hour example or mistake homework hours for completion/grades. The earlier blanket demand for source-verification notes is superseded: no worksheet, replacement-source hunt or repeated source quiz is assigned. The tutor may correct complete bibliographic details after checking them and polish already established meaning, but cannot supply the missing relationship rationale. Proposed participant counts and permission plans remain proposals, not additional learning tasks.
 
-After current controls/maintenance checks and necessary language handling, start with the next missing target rather than the resolved clarification. Use existing answers first; a suitable prompt if its reasoning is not already sufficient is:
+After current-source/status checks and language handling only if needed, use the actual missing target:
 
-> What uncertainty about Grade 10 students school-activity and homework hours does your background need to explain, and why is answering it useful in your school?
+> Beyond knowing the weekly hours for each activity separately, what could examining their relationship help you understand—and what would it still not prove?
 
-Reuse actual source interpretations and existing rationale/scope evidence. TEAL is connected topic/evidence/analysis/link reasoning, not a numerical paragraph formula or new worksheet. A separate Significance section needs usable student-grounded meaning; the tutor may polish established ideas but must not invent beneficiaries, benefits or assessed prose. No sampling, instrument, statistics, actual record acquisition or fieldwork tasks are assigned here.
+Teach briefly at the actual gap and request the student's own application. Do not supply a finished target answer/question or accept agreement as missing reasoning. Preserve known language, original attempts and actual assistance privately.
 
 ## Submission and Review
 
-Preserve accessible previous and improved work, actual before/after changes, original student responses, source records and access limits, assistance, target/budget ledger and remaining issues. Separate summaries from verbatim evidence. At the bounded endpoint collect the authorized complete/incomplete review record; missing source support or reasoning affects academic completion, not permission to submit actual progress. COMPLETE requires all five current components, two verified student-understood sources and aligned reasoning.
+Collect the accessible previous submission plus improved actual work, before/after changes, original answers, assistance, target/follow-up ledger and unresolved issues. Do not require reconstruction of missing dialogue or pretend that a public summary is the original private submission. No new final acceptance or passed target is claimed by this teacher update.
 
-A proposal conflicting with locked decisions is recorded separately for later teacher review without adoption; continue independent authorized targets. Pending final acceptance is not WAIT. Use current file/chat-report delivery and stop for the teacher's next decision. This November 15 directive supersedes earlier active Open/clarification and completion-only task wording, not history or actual teacher locks. It does not release maintenance, renew the expired November 12 collection directive or grant fieldwork/record-access permission.
+COMPLETE requires the five current Activity 2 components, two verified relevant sources with sufficient student understanding and actual aligned reasoning. Their presence as headings or the end of the allowance does not establish completion. Missing understanding/support is recorded as INCOMPLETE rather than filled or used to withhold the authorized review. Do not reopen retained sufficient targets for an extra alignment defense, impose a verification worksheet, or require sampling, instruments, recruitment, permissions or actual data as Chapter 1 completion gates.
+
+Use current file/chat-report and clean-copy delivery instructions; then stop for the teacher's decision after submission. Follow live TUTOR-STATUS.md; this record does not change maintenance or revive an expired collection notice. No participant contact, restricted-record access, implementation or fieldwork is authorized.
