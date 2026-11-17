@@ -1,7 +1,7 @@
 ---
 student_code: pr2_cou_13
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_cou_13-a01-teacher-direction-2026-11-16
@@ -11,6 +11,23 @@ status: activity-1-focused-core-revision-required
 ---
 
 Teacher decision recorded November 16, 2026 (Asia/Manila): Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized. Student identity and detailed learning evidence remain private.
+
+## Teacher Identity and Topic Binding — November 17, 2026
+
+- **Required record identity:** `pr2_cou_13`. The outcome URL filename, embedded `student_code`, active directive and baseline must belong to this same exact record.
+- **Original research path:** Classroom cleanliness and participation, historically framed as a five-minute cleaning routine.
+- **Current teacher-authorized direction:** Retain the refined provisional problem about reported reasons for students’ waste-disposal practices. No researcher-imposed routine/effect inquiry or automatic home-habit causal explanation.
+- **Retained actual progress:** The learner selects disposal of one’s own waste as the concern and acknowledges that litter under desks does not identify who left it. Questionnaire, home-practice and desk-level ideas remain unaligned proposals.
+- **Current next target:** C2 / A1-Q2: clarify reported-reason evidence and one descriptive main question, retaining the existing context rather than reinterviewing it.
+- **Source-metadata limitation:** The latest export explicitly carries the matching student code. Older duplicate md/bin files count as one record, not additional progress.
+
+Before teaching or compiling progress, bind the actual loaded outcome to the teacher-issued URL and this study identity. Do not choose an adjacent roster code, retrieve another student's outcome, transfer approvals or infer that similar concerns imply shared work. Read the assigned controls/current route, not a guessed activity from the code suffix. A student code identifies a learner record; an activity code identifies assigned work.
+
+Compare accessible handoff/submission code, topic, collection date and actual teacher decisions. A historical Activity 1 export may correctly precede a later Activity 2 route; preserve the historical label and follow the current official route. Unknown metadata remains a disclosed limitation rather than invented verification. A generic quiz, tutor-written draft, reconstructed outcome copy or file-generation claim is not new demonstrated progress.
+
+If a supplied link loads a different code, stop using that record and report the exact URL/code conflict; request only the correct teacher-issued link if it is unavailable. If this outcome is correctly bound but a handoff/chat introduces a different student's topic or code, identify and set aside the conflicting material instead of merging it. Continue only independently answerable work grounded in this record and verified accessible evidence. For genuinely uncertain ownership, report the specific conflict and seek teacher clarification before dependent use; do not rewrite original metadata, transfer ownership or invent missing progress. Preserve authentic prior work, assistance labels, language and the actual attempt ledger.
+
+This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
 
 ## Tutor Entry Instructions
 

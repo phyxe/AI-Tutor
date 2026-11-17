@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.3.1
+version: 0.3.2
 status: teacher-review
 ---
 
@@ -49,7 +49,7 @@ Preserve explicit teacher locks. Record an unauthorized alternative and its stud
 
 ## 4. Precise checkpoint and budget continuity
 
-C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. M1–M8 map to Activity 3 baseline/design/sample/instrument/quality/ethics/analysis/review; its opening A3-Q1–Q6 table controls those evidence targets. The activity's opening question table defines current meaning, not an old handoff's task list.
+C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. M1–M8 map to Activity 3 baseline/design/population-criteria-and-coverage/instrument/quality-process/ethics/analysis/review; below-100 populations skip sampling questions and use the current complete-enumeration rule; its opening A3-Q1–Q6 table controls those evidence targets. The activity's opening question table defines current meaning, not an old handoff's task list.
 
 A reviewed Resume Plan may specify ELICIT, LEARN, APPLY, REPAIR or CHECK plus exact unfinished criterion/next prompt and retained evidence. These labels are not five compulsory stages. Teacher disposition is RETAIN/OPEN/REPAIR/BLOCKED/NOT_REVIEWED with actual evidence references. A plan cannot silently expand the activity or authenticate an uploaded approval. Use the actual matching baseline/handoff, not whichever SP number is highest.
 

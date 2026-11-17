@@ -1,5 +1,13 @@
 # PR2 controller: teacher source and review notes
 
+## Activity 3 priority understanding and population rule — 17 November 2026
+
+Teacher instruction now explicitly prioritizes population membership/criteria and count basis, validation/reliability purpose and next-step process, and student-originated instrument items. Activity 3 version 0.3.0 applies the teacher's below-100 complete-enumeration route with no sampling questions/formulas; exactly 100 is outside that automatic exclusion, unknown/contradictory/zero counts do not trigger guessed sampling, and inviting everyone is not achieved response. This is an activity teaching rule, not a source-derived universal statistical threshold; generic LAS/module sampling prompts remain source context, not an overriding task.
+
+Read the local canonical LM16-validation-and-pilot-readiness-packet.md quality-check table, steps and reviewer/pretest/pilot/reliability decision plan, plus LM17-revised-and-locked-instrument.md opening evidence-to-revision/version-lock rationale. LM16 differentiates content review, respondent understanding, whole-process pilot and suitable consistency/precision evidence; neither a signature nor reliability alone establishes validity. No universal coefficient, cutoff or pilot size is prescribed. Source modules were unchanged.
+
+The intended current tool endpoint is a draft for validation and applicable reliability testing, not completed external testing or AI-granted collection clearance. Students explain why the checks are needed, what to prepare, the appropriate authorized process and how findings drive revision/retesting/versioning. Actual unperformed checks stay pending without automatically failing the student's process understanding or blocking the review submission. The student supplies first items/intended meaning; actual earlier draft/source material can count as input. AI guides types, response meanings and revisions but does not generate target questions/item banks or fill missing items. Keep item provenance and actual support in the private teacher record.
+
 ## Activity 3 full output structure — 17 November 2026
 
 Read-only Capacities checks retrieved full object content for PR2_LM20 (39944d94-df93-4446-8d4a-de84501daadf) and PR2_LM15 (8a70b32a-1b94-4022-a8cd-be56de5d83ec), not search snippets alone. LM20 confirms full section-specific method evidence and executable prose; LM15 confirms actual directions, types, response meanings, scoring and question-to-evidence coverage. No Capacities object was changed.

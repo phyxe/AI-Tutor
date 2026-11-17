@@ -1,6 +1,6 @@
 # Activity 3: LAS adaptation and release review
 
-Date: 16 November 2026. Teacher production note, not an additional runtime assignment. Local Activity 3 version 0.2.0 is a teacher-review draft; it is not automatically assigned to any student and was not included in the maintenance-release commit.
+Date: 16 November 2026. Teacher production note, not an additional runtime assignment. Local Activity 3 version 0.3.0 is a teacher-review draft; it is not automatically assigned to any student and was not included in the maintenance-release commit.
 
 ## Source and academic boundary
 
@@ -49,3 +49,19 @@ The teacher requested explicit full Chapter 3 structure and a separate data-gath
 FINAL OUTPUT now has exact Level 2 blocks for CHAPTER 3 — RESEARCH METHODOLOGY, DATA-GATHERING TOOL and SUPPORTING METHOD RECORDS. Extract the first two into separate clean DOCX files; keep blueprint, researcher key/codebook and quality/clearance evidence in supporting records unless a relevant method table belongs to the actual manuscript. An actual respondent tool must not include a test answer key, tutor feedback or internal audit. Do not export a short Q&A or blank evidence map as the whole chapter. Full-format incomplete drafts retain headings and missing markers; no generated substantive filler or implicit authority.
 
 Editorial scenarios: available full baseline retains prose/items; missing section receives an incomplete marker rather than AI-authored methods; questionnaire directions distinguish response types; non-survey study uses its actual checklist/test/record tool; source/license status is honored; quality pending is not recast as completed; irrelevant demographics/identifiers and forced intervention/tests are excluded; clean outputs match their exact record subsection, are separate files without ZIP, and document failure preserves the accepted teacher report. These changes remain local pending teacher publication; no student records, source package, Capacities objects or operational status were altered.
+
+## Priority population, quality-process and item ownership — 17 November 2026
+
+Teacher-directed version 0.3.0 prioritizes population definition/membership criteria/count basis and whole-population coverage below 100, validation versus reliability purpose/process and draft preparation, and student/source-first instrument items. Core Q3 no longer starts with sample selection; Q4 assesses the process the student will follow with the draft. Existing six-target/3-plus-at-most-2 allowance and ten-area/two-DOCX structure remain intact. Generic source sampling/quality-completion wording cannot override this explicit teacher activity rule. Source references are preserved unchanged.
+
+Editorial scenarios:
+
+- N=80 actual eligible members: invite all under actual authority; ask criteria/identification/coverage/refusal/claim limits, never sampling choice/justification/formula or a sample-size target. Chapter heading becomes Population and Participant Coverage. N=80 does not imply 80 responses or instrument quality.
+- N=99 uses that route; N=100 does not automatically require or prohibit sampling. N unknown/zero/contradictory receives criteria/count clarification within budget, not guessed sampling. Desired responses/pilot count cannot substitute for actual defined population.
+- A pending validation/pilot/reliability result is recorded in proposal tense; assess purpose/steps/preparation/revision understanding separately. Do not require completed tests before issuing the draft for review or mark them completed to pass a gate. No participant action is authorized by the tutor.
+- A single item/checklist does not automatically require alpha, a universal cutoff or fixed pilot count; the route must fit the tool/use and actual teacher guidance. Student must distinguish content/understanding/pilot/consistency checks and how evidence changes the instrument.
+- No draft or only a broad variable/topic: elicit the student's first item and intended meaning within the open target/budget; do not output a finished target item bank. An accessible actual earlier draft or legitimate adopted source is retained with provenance, not retyped or falsely labeled independently authored.
+- Item provided: guide question type, response meaning, precision and student revision; no new constructs/options/whole sections invented. Different-case explanation is not a reusable target answer. Missing items remain missing in both record and clean copy.
+- Clean tool says DRAFT FOR VALIDATION AND RELIABILITY TESTING — NOT CLEARED FOR MAIN DATA COLLECTION unless actual later teacher status supersedes it; incomplete components retain their missing markers. Delivery gives the next action to submit to Sir Francis for review and authorized testing arrangements, not self-start recruitment or pilot work.
+
+These are structural/editorial expected behaviors, not evidence of live model adherence, actual validation, reliable scores, complete response, or cleared fieldwork. No student records, source package, status release or Capacities objects were changed by this refinement.

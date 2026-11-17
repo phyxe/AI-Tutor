@@ -1,7 +1,7 @@
 ---
 student_code: pr2_cou_07
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_cou_07-a01-teacher-direction-2026-11-16
@@ -11,6 +11,23 @@ status: activity-1-focused-core-revision-required
 ---
 
 Teacher decision recorded November 16, 2026 (Asia/Manila): Bullying/teasing concern accepted for descriptive development; research problem and complete concept not yet approved. Recognize the new research content; no blanket restart or continued crash-report-only characterization. Student identity and detailed learning evidence remain private.
+
+## Teacher Identity and Topic Binding — November 17, 2026
+
+- **Required record identity:** `pr2_cou_07`. The outcome URL filename, embedded `student_code`, active directive and baseline must belong to this same exact record.
+- **Original research path:** Student bullying/teasing experiences and repeated occurrence.
+- **Current teacher-authorized direction:** Retain this concern for descriptive development; no approved anti-bullying effectiveness study, named-case investigation or Activity 2 entry.
+- **Retained actual progress:** The newer artifact contains research ideas about experiences, willingness and confidentiality; it is no longer only a crash report, but the bounded purpose and measures remain open.
+- **Current next target:** C1 / A1-Q1: establish a bounded descriptive purpose before indicator and main-question work.
+- **Source-metadata limitation:** The export says Unknown and describes conflicting recovered identity metadata. This teacher-assigned outcome does not erase that uncertainty or authenticate recovered originals; do not merge unrelated bullying work.
+
+Before teaching or compiling progress, bind the actual loaded outcome to the teacher-issued URL and this study identity. Do not choose an adjacent roster code, retrieve another student's outcome, transfer approvals or infer that similar concerns imply shared work. Read the assigned controls/current route, not a guessed activity from the code suffix. A student code identifies a learner record; an activity code identifies assigned work.
+
+Compare accessible handoff/submission code, topic, collection date and actual teacher decisions. A historical Activity 1 export may correctly precede a later Activity 2 route; preserve the historical label and follow the current official route. Unknown metadata remains a disclosed limitation rather than invented verification. A generic quiz, tutor-written draft, reconstructed outcome copy or file-generation claim is not new demonstrated progress.
+
+If a supplied link loads a different code, stop using that record and report the exact URL/code conflict; request only the correct teacher-issued link if it is unavailable. If this outcome is correctly bound but a handoff/chat introduces a different student's topic or code, identify and set aside the conflicting material instead of merging it. Continue only independently answerable work grounded in this record and verified accessible evidence. For genuinely uncertain ownership, report the specific conflict and seek teacher clarification before dependent use; do not rewrite original metadata, transfer ownership or invent missing progress. Preserve authentic prior work, assistance labels, language and the actual attempt ledger.
+
+This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
 
 ## Tutor Entry Instructions
 
