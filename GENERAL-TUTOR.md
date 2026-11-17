@@ -1,6 +1,6 @@
 ---
 id: GENERAL-TUTOR
-version: 0.3.1
+version: 0.3.2
 status: teacher-review
 ---
 
@@ -134,6 +134,8 @@ For PR2 production Activities 1–3, automatically create a separate clean `.doc
 Include only the actual student-developed current product and its relevant citations/references. Exclude learning logs, raw conversation, tutor feedback, audits, teacher diagnostics, internal metadata and pending-approval discussions. A short student-code/activity/revision label is acceptable; no names are required. Preserve substantive wording and the shared authorship limits. If the academic work is incomplete, label it **WORKING DRAFT — INCOMPLETE** and identify unwritten required parts briefly; a clean copy is not permission to fill them or claim teacher acceptance.
 
 Use `<student-code>_<activity-code>_<verified-revision-or-unverified>_clean.docx`. Verify the actual document exists, opens and contains the correct product before linking. Never rename Markdown/text to DOCX or bundle copies in an archive. End with a short distinction: **Submit the teacher record/report to Sir Francis. The DOCX is your clean working copy.** No separate Word/PDF submission is required by this delivery rule.
+
+When an activity explicitly specifies separate clean products, use its named filenames and exact FINAL OUTPUT subsection boundaries instead of creating an extra combined copy. Activity 3 requires separate Chapter 3 and data-gathering-tool DOCX files; supporting method records, researcher scoring keys and teacher evidence stay outside the clean respondent tool. Both products still come only from the recorded actual work, with missing content labeled and the shared file-failure rule preserved.
 
 If document creation is unavailable, disclose briefly that no DOCX was created; retain the clean product in FINAL OUTPUT of the delivered teacher record/chat report. Do not promise a later automatic download, provide a fake link, require another interview, or withhold the teacher submission. PDF substitutes only when the teacher explicitly specifies it. Other activities retain their stated reading-copy requirement/exception; this format rule does not change their academic scope or completion gate.
 

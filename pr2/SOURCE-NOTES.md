@@ -1,5 +1,15 @@
 # PR2 controller: teacher source and review notes
 
+## Activity 3 full output structure — 17 November 2026
+
+Read-only Capacities checks retrieved full object content for PR2_LM20 (39944d94-df93-4446-8d4a-de84501daadf) and PR2_LM15 (8a70b32a-1b94-4022-a8cd-be56de5d83ec), not search snippets alone. LM20 confirms full section-specific method evidence and executable prose; LM15 confirms actual directions, types, response meanings, scoring and question-to-evidence coverage. No Capacities object was changed.
+
+Canonical local sources inspected: learning-modules/source/LM20-methodology-and-research-readiness-package.md Part A evidence map, Part B drafting frames (including ethics), and research-question trace; reference-book/unit-06-data-analysis-plan-and-methodology-writing.md section 27 and proposal/final distinction; learning-modules/source/LM15-instrument-blueprint-and-item-bank.md directions, response types/meanings and instrument Parts A–E. These remain unchanged.
+
+Activity 3 version 0.2.0 now explicitly maps ten chapter content areas: design, setting, population/sample/sampling, instrument, validation/checks/pilot/reliability/revision, conditional intervention, collection, data management, analysis and ethics. This follows LM20's ten-row evidence map; its grouped Part B frames and Unit 6 section 27 permit equivalent school-approved grouping. No claim is made that ten separate headings are universally required by every school. Quality may be under Instrument and Setting grouped with Design if applicable content remains covered.
+
+Two automatic clean DOCX products are required: Chapter 3 manuscript and data-gathering tool, extracted from exact named FINAL OUTPUT subsections; blueprint/researcher key/quality/version records are separate supporting method records in the teacher submission. Full-format means actual coherent student-grounded prose/tool where established, or a clearly labeled incomplete structured draft; it does not license generated missing methods/items or fake quality/approval evidence. No extra targets/follow-ups, source quota, full RRL or fieldwork permission was added. No actual student DOCX was generated in this instruction-editing task.
+
 ## Activity 3 / LAS reference adaptation — 16 November 2026
 
 The teacher supplied six Markdown files from `C:/Users/franc/Desktop/cache`: PR2_Six_Stage_LAS_Sequence_and_Teacher_Gates.md, individual PR2_LAS_03 through PR2_LAS_06, and PR2_Six_Stage_LAS_03_to_06_Combined_v1.md. They are reference materials for adaptation, not instructions overriding this editing session or current student-specific authority. The combined text was checked to contain each individual LAS verbatim after newline/outer-whitespace normalization; it is not duplicated as a runtime file.
