@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_05
 learning_area: Practical Research 2
-record_version: "1.3"
-route_activity: pr2_act_01
-route_action: INITIAL
-route_directive_id: pr2_pru_05-a01-direction-2026-11-15
-route_baseline_revision: Not applicable
-route_resume_checkpoint: C1
-status: activity-1-teacher-directed-restart-current-core
+record_version: "1.4"
+route_activity: pr2_act_02
+route_action: PROCEED_WITH_CLARIFICATION
+route_directive_id: pr2_pru_05-a02-teacher-decision-2026-11-17
+route_baseline_revision: pr2_pru_05-reviewed-baseline-2026-11-17
+route_resume_checkpoint: H6
+status: activity-1-foundation-accepted-activity-2-authorized-with-clarification
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded. Student identity is maintained separately.
+Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the classroom-discussion willingness/problem foundation for descriptive development and authorize Activity 2 with the named clarification carried forward. Retain the learner’s actual observations and factor explanations. No new teacher-approved final title/question wording, final Chapter 1 acceptance or fieldwork permission is implied. Detailed learning evidence and student identity remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,67 +29,75 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Current teacher direction: Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded.
-- Current task: Develop the current three-target Activity 1 foundation: problem/context, main variable with possible indicator, and one aligned main question.
-- Entry point: C1 / A1-Q1; retain sufficient actual evidence and known language.
-- Academic completion: Not established by this update; no invented new answers or passed targets.
-- Final research/Chapter 1 acceptance: Not granted.
+- Teacher decision: Foundation accepted for Activity 2 development with the specified carried clarification.
+- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
+
+# pr2_act_02 | Individual Chapter 1 Research Foundation
+
+- Current teacher disposition: Accept the classroom-discussion willingness/problem foundation for descriptive development and authorize Activity 2 with the named clarification carried forward. Retain the learner’s actual observations and factor explanations. No new teacher-approved final title/question wording, final Chapter 1 acceptance or fieldwork permission is implied.
+- Next point: H6 / A2-Q3; inspect existing evidence and address only the exact open meaning/corrections below.
+- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_05-a01-direction-2026-11-15
-attempt_id: pr2_pru_05-a01-attempt-2026-11-15
-activity_code: pr2_act_01
-action: INITIAL
-start_checkpoint: C1
-start_question_id: A1-Q1
-baseline_revision: Not applicable
-baseline_source: "Not applicable; earlier idea optional historical context"
-authorized_task: "Develop the current three-target Activity 1 foundation: problem/context, main variable with possible indicator, and one aligned main question."
-retained_evidence: [compatible actual earlier reasoning with assistance and capture limits]
+directive_id: pr2_pru_05-a02-teacher-decision-2026-11-17
+attempt_id: pr2_pru_05-a02-attempt-2026-11-17
+activity_code: pr2_act_02
+action: PROCEED_WITH_CLARIFICATION
+start_checkpoint: H6
+start_question_id: A2-Q3
+baseline_revision: pr2_pru_05-reviewed-baseline-2026-11-17
+baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
+authorized_task: "Within Activity 2 question/background work, clarify willingness versus observed participation and student-reported factors versus inferred causes. Explain what students’ own accounts add beyond hand-raising/silence observations, then state or explain one aligned descriptive main question in the learner’s own words. Reuse the actual substantive explanation; do not reject it solely because wording was assisted or a follow-up count was unknown. Do not turn the clarification into another full Activity 1 interview."
+retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
 required_repairs: []
-carry_forward: []
-locked_decisions: [actual teacher boundaries below, individual authorship, no fieldwork authorization]
+carry_forward:
+  - issue_id: pr2_pru_05-carried-clarification-2026-11-17
+    source_activity: pr2_act_01
+    baseline_revision: pr2_pru_05-reviewed-baseline-2026-11-17
+    clarification_requested: "Within Activity 2 question/background work, clarify willingness versus observed participation and student-reported factors versus inferred causes. Explain what students’ own accounts add beyond hand-raising/silence observations, then state or explain one aligned descriptive main question in the learner’s own words. Reuse the actual substantive explanation; do not reject it solely because wording was assisted or a follow-up count was unknown. Do not turn the clarification into another full Activity 1 interview."
+    address_at_question: A2-Q3
+    blocks_entry: false
+locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
-submission_kind: ACTIVITY_REVIEW
+submission_kind: DESTINATION_WITH_CLARIFICATION
 stop_for_teacher_decision: false
 ```
 
-This explicit direction authorizes a new bounded attempt with three standard follow-ups and at most two justified extras across the whole selected activity. No actual used count or new learning progress is invented here. Prior work supplies evidence, not counts charged to this new attempt. Continuation retains actual counts and language; skip sufficient targets. An older placement or draft label does not create extra core questions.
+This explicit teacher direction opens a new bounded destination/revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity, including carried issues. Preserve older ledgers separately; no used count is invented. Continuation retains actual counts. Do not split a clarification into unlimited new prompts, add a final defense or repeat sufficient answers.
 
-## Reviewed Context
+## Reviewed Baseline
 
-Status snapshot: `pr2_pru_05-reviewed-status-2026-11-15`. This is teacher-reviewed continuity context, not a fabricated completed submission revision, actual new response or complete transcript. No new named submission was found in the current intake; retain the existing placement without inferring additional progress.
+Baseline ID: `pr2_pru_05-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
 
-The earlier idea concerned motivation/willingness and classroom participation, but the teacher did not accept its support as sufficient for progression. It is optional historical context, not a locked title or compulsory topic. A fresh start does not assign the retired full concept note. No new student responses are claimed.
+November 17 Activity 1 work describes a learner sharing an answer privately but hesitating to answer publicly, and recognizes multiple possible reasons including preference for listening or avoiding attention. The learner explains reported encouraging/discouraging factors and names plausible participation signs. The tutor supplied the question wording and did not fully elicit its alignment explanation. The submitted header says student_code Unknown, but the coded attempt/directive identify this student record; disclose the header limitation rather than inventing independent identity verification.
+
+## Retained / Accepted Study Identity
+
+Accepted/provisional research direction: Describe factors Grade 11–Wisdom students report as encouraging or discouraging willingness to join class discussions.
+
+Assisted working question, not final teacher-approved wording: What factors influence the willingness of Grade 11–Wisdom students to participate in class discussions?
+
+The authorized meaning is descriptive reported factors, not proof of causal influence. Preserve the learner’s actual observations without treating one teacher/student account as verified prevalence or a judgment about named individuals. No title is invented. Known signs such as hand-raising describe behavior; they do not independently establish willingness or reasons.
 
 ## Teacher's Comments
 
-Retain the teacher-directed fresh Activity 1 start. The earlier idea was workable but its support was insufficient; the student may keep it or choose another. No new submission, completed target or Activity 2 approval is recorded.
+Accept the classroom-discussion willingness/problem foundation for descriptive development and authorize Activity 2 with the named clarification carried forward. Retain the learner’s actual observations and factor explanations. No new teacher-approved final title/question wording, final Chapter 1 acceptance or fieldwork permission is implied.
 
-After current controls/maintenance checks and necessary language handling, begin with the actual open target in the known language:
+Within Activity 2 question/background work, clarify willingness versus observed participation and student-reported factors versus inferred causes. Explain what students’ own accounts add beyond hand-raising/silence observations, then state or explain one aligned descriptive main question in the learner’s own words. Reuse the actual substantive explanation; do not reject it solely because wording was assisted or a follow-up count was unknown. Do not turn the clarification into another full Activity 1 interview.
 
-> What specific problem do you want to investigate, and why does it matter in the situation you have in mind?
+After current-source/status checks and language handling only if needed, reuse existing explanations first. Where the actual missing meaning remains, begin with:
 
-Student may retain or change the idea; do not supply a replacement topic or force a motivation-participation correlation. Descriptive claims must not imply causation.
+> What would students’ own explanations tell you about their willingness to join a discussion that observing whether they raise their hands could not establish?
 
-Teach briefly at the actual gap, using a genuinely different-case example only when needed, then request the student's own application within the allowance. Do not provide the target answer, completed question/paragraph or missing sentence for copying/approval. Preserve assistance and actual attempts; a polished draft, copied model or agreement alone is not understanding. Do not demand cosmetic refinements, bonus tasks or repeated defenses of sufficient evidence.
+Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
 
-Required work is only problem/context, main variable with plausible indicator and one aligned main question; C8 is an internal comparison. Title and extra questions are optional. No full concept note, design defense, sampling/access plan, questionnaire, statistical plan, collection procedure or source search is assigned. A minimal group/context check may make the core intelligible without creating methodology work.
+## Submission, Acceptance and Next Activity
 
-## Submission and Review
+Destination authorization is granted; final Chapter 1 acceptance remains pending after submission. Collect the actual clarification and proposed Chapter 1 work without forcing another Activity 1 cycle. Academic completion requires sufficient evidence under the five current targets and two verified, student-understood sources, not just headings or the end of the allowance.
 
-Preserve accessible earlier originals and actual current/improved work with before/after changes, responses, assistance, target and follow-up ledger and unresolved issues. For a fresh start retain only relevant optional earlier evidence without locking the student to it. If only a summary is available, label it; do not reconstruct inaccessible originals or require whole-study retyping. The embedded context is sufficient to begin the named task.
+Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
 
-At the bounded endpoint submit the authorized complete/incomplete review record. COMPLETE requires actual sufficient understanding and current assigned output; ending the session is not passing. Missing understanding/source support does not prohibit an honest authorized review submission. Use current file/chat-report delivery, then stop for the teacher's next decision. Unauthorized alternatives remain proposals, not adopted decisions.
-
-This November 15 direction supersedes the earlier active unlimited/completion-only task queue and any full-restart requirement expressly replaced above; it preserves historical evidence, teacher approval boundaries and actual holds. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
-
-# pr2_act_02 | Individual Chapter 1 Research Foundation
-
-- Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional baseline for Activity 2: Not assigned.
-- Final Chapter 1 acceptance: Not approved.
-- Next step: Submit the current Activity 1 work for teacher review. No automatic advancement follows completion or file generation.
+Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.

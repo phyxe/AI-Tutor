@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_03
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_02
-route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_pru_03-a02-proceed-clarification-2026-11-15
-route_baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_03-a02-teacher-decision-2026-11-17
+route_baseline_revision: pr2_pru_03-reviewed-baseline-2026-11-17
 route_resume_checkpoint: H2
-status: problem-title-questions-approved-activity-2-clarification-carried
+status: activity-2-submission-accepted-limited-alignment-corrections
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): research problem, title and questions approved; Activity 2 authorized with the specified clarification carried forward. This does not certify every learning target, accept a final Chapter 1 or authorize fieldwork. Student identity is maintained separately.
+Teacher decision recorded November 17, 2026 (Asia/Manila): The November 17 Activity 2 submission is accepted with the limited background/scope corrections below. Retain the approved descriptive problem, title and questions. Accept the demonstrated source relevance/local limits, question explanations and usefulness as progress; do not repeat the original clarification interview. No next-activity or fieldwork authorization is issued. Detailed learning evidence and student identity remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,83 +29,77 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Research problem, title and questions: Approved by the teacher on November 15, 2026.
-- Baseline identity: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`; teacher-designated review snapshot, not a fabricated completed submission revision.
-- Evidence disposition: Existing problem-variable-question foundation accepted for Chapter 1 development. Retain descriptive reasoning and the distinction between intention and actual behavior; no new student response is claimed by this teacher update.
-- Current route: Continue in Activity 2 with the named clarification; no separate Activity 1 resubmission or duplicate entry-approval interview is required.
-- History: The November 9 Activity 1 revision is superseded for current routing by this November 15 decision. Preserve accessible prior originals in the private evidence record. Retired full-concept-note, sampling, instrument and collection-plan tasks are not current Activity 1 gates.
+- Teacher decision: Earlier foundation and Activity 2 authority retained within the current study boundaries.
+- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Approved through PROCEED_WITH_CLARIFICATION.
-- Teacher decision date: November 15, 2026 (Asia/Manila).
-- Accepted/provisional Activity 1 baseline: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`, embedded below; based on teacher-reviewed November 12 collected work.
-- Chapter 1 final acceptance: Pending after submission; no final Chapter 1 is accepted by this update.
-- Student learning status: Retain supported prior evidence; no new student answers, completed clarification, verified source comprehension or finished Chapter 1 are claimed here.
-- Next point: H2 / A2-Q2, the carried clarification and background reasoning, after current controls and maintenance checks; reuse known language and sufficient evidence.
+- Current teacher disposition: The November 17 Activity 2 submission is accepted with the limited background/scope corrections below. Retain the approved descriptive problem, title and questions. Accept the demonstrated source relevance/local limits, question explanations and usefulness as progress; do not repeat the original clarification interview. No next-activity or fieldwork authorization is issued.
+- Next point: H2 / A2-Q2; inspect existing evidence and address only the exact open meaning/corrections below.
+- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_03-a02-proceed-clarification-2026-11-15
-attempt_id: pr2_pru_03-a02-attempt-2026-11-15
+directive_id: pr2_pru_03-a02-teacher-decision-2026-11-17
+attempt_id: pr2_pru_03-a02-attempt-2026-11-17
 activity_code: pr2_act_02
-action: PROCEED_WITH_CLARIFICATION
+action: REVISE_AND_SUBMIT
 start_checkpoint: H2
 start_question_id: A2-Q2
-baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
-baseline_source: "This outcome record, Accepted Baseline subsection"
-authorized_task: "Develop the current Activity 2 Chapter 1 foundation and collect the specified Activity 1 clarification within relevant destination targets."
-retained_evidence: [teacher-approved research problem, teacher-approved title, teacher-approved main and specific questions, compatible accessible prior reasoning]
-carry_forward:
-  - issue_id: pr2_pru_03-clarification-2026-11-15
-    source_activity: pr2_act_01
-    baseline_revision: pr2_pru_03-a01-reviewed-baseline-2026-11-15
-    clarification_requested: "Clarify intention versus actual cleaning behavior, voluntary initiative versus assigned duties, and reported factors versus established causes. Preserve existing sufficient explanations; the basketball observation does not establish why students do not clean."
-    address_at_question: A2-Q2
-    blocks_entry: false
-locked_decisions: [approved problem, approved title and questions, individual authorship, no fieldwork authorization]
+baseline_revision: pr2_pru_03-reviewed-baseline-2026-11-17
+baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
+authorized_task: "Narrow the actual background to voluntary classroom cleaning, intention and reported factors. Qualify unsupported statements about local facilities/routines, peer-leadership roles, causal sanitation outcomes or unexamined local facts. Bound scope to the actual proposed coverage, including the one-section limitation; do not represent Compassion as all Grade 10. Revise only affected scope/title coverage wording as a labeled proposal if it changes the approved title. Significance describes possible uses, not guaranteed improvements or measured behavior. Retain sufficient student explanations and the accepted submission; no full restart."
+retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
+required_repairs:
+  - issue_id: pr2_pru_03-focused-work-2026-11-17
+    target: A2-Q2
+    clarification_or_correction: "Narrow the actual background to voluntary classroom cleaning, intention and reported factors. Qualify unsupported statements about local facilities/routines, peer-leadership roles, causal sanitation outcomes or unexamined local facts. Bound scope to the actual proposed coverage, including the one-section limitation; do not represent Compassion as all Grade 10. Revise only affected scope/title coverage wording as a labeled proposal if it changes the approved title. Significance describes possible uses, not guaranteed improvements or measured behavior. Retain sufficient student explanations and the accepted submission; no full restart."
+carry_forward: []
+locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
-submission_kind: DESTINATION_WITH_CLARIFICATION
+submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This is a new teacher-authorized destination attempt. Apply the current three standard follow-ups plus at most two justified extras across the whole attempt, including the carried issue. No actual count is claimed before student work begins; subsequent continuation retains used counts. Maintenance/explicit holds remain binding.
+This explicit teacher direction opens a new bounded destination/revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity, including carried issues. Preserve older ledgers separately; no used count is invented. Continuation retains actual counts. Do not split a clarification into unlimited new prompts, add a final defense or repeat sufficient answers.
 
-## Accepted Baseline
+## Reviewed Baseline
 
-Snapshot ID: `pr2_pru_03-a01-reviewed-baseline-2026-11-15`. This is a minimal teacher-approved study identity and continuity record; detailed submissions and student dialogue remain private. It is not a complete transcript, validated instrument, verified population count or completed Activity 2 submission.
+Baseline ID: `pr2_pru_03-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
 
-- **Approved research problem:** Describe Grade 10 students intention to participate voluntarily in classroom cleaning and the encouraging and discouraging factors they report.
-- **Approved title:** Level of Intention and Encouraging and Discouraging Factors Related to Voluntary Classroom Cleaning Among Grade 10 Students of Hawan National High School
-- **Accepted focus and claim boundary:** Intention to clean voluntarily and student-reported encouraging/discouraging factors; descriptive purpose, not a motivation-participation correlation or causal explanation.
-- **Approved main question:** What is the level of intention of Grade 10 students at Hawan National High School to participate voluntarily in classroom cleaning, and what encouraging and discouraging factors do they report?
+The November 17 manuscript retains intention to clean voluntarily and reported encouraging/discouraging factors, but background passages broaden into actual practices, general campus cleanliness and unsupported local claims. The learner explains the relevance and local limits of the WHO/UNICEF/UNESCO WASH brief and DepEd Brigada guidelines, restates the questions and supplies significance. Grade 10–Compassion is the submitted section proposal. Its manageability does not make it representative of all Grade 10; preserve this bounded scope and do not invent approval of a full-grade sample or generalization.
+
+## Retained / Accepted Study Identity
+
+Retained approved title: Level of Intention and Encouraging and Discouraging Factors Related to Voluntary Classroom Cleaning Among Grade 10 Students of Hawan National High School.
+
+Approved main question: What is the level of intention of Grade 10 students at Hawan National High School to participate voluntarily in classroom cleaning, and what encouraging and discouraging factors do they report?
 
 Approved specific questions:
-
 1. What is the level of intention of Grade 10 students to initiate classroom cleaning voluntarily without being asked?
 2. What encouraging factors related to voluntary classroom cleaning are reported by Grade 10 students?
 3. What discouraging factors related to voluntary classroom cleaning are reported by Grade 10 students?
 
-Use this exact question set rather than combining historical variants or optional questions. For the cleaning study, “related to” in the approved title does not authorize correlation testing or causal claims.
+Retain the exact approved framework; related factors do not authorize correlation tests or causal claims. Existing references are the WHO/UNICEF/UNESCO 2023 WASH topic brief and DepEd Memorandum 062, s. 2022. Preserve actual source access/understanding and correct claim limits, without forcing replacement sources.
 
 ## Teacher's Comments
 
-Your research problem, title and questions are approved. Proceed with Activity 2 and include the specified clarification with your proposed Chapter 1 work for teacher review.
+The November 17 Activity 2 submission is accepted with the limited background/scope corrections below. Retain the approved descriptive problem, title and questions. Accept the demonstrated source relevance/local limits, question explanations and usefulness as progress; do not repeat the original clarification interview. No next-activity or fieldwork authorization is issued.
 
-Clarify intention versus actual cleaning behavior, voluntary initiative versus assigned duties, and reported factors versus established causes. Preserve existing sufficient explanations; the basketball observation does not establish why students do not clean.
+Narrow the actual background to voluntary classroom cleaning, intention and reported factors. Qualify unsupported statements about local facilities/routines, peer-leadership roles, causal sanitation outcomes or unexamined local facts. Bound scope to the actual proposed coverage, including the one-section limitation; do not represent Compassion as all Grade 10. Revise only affected scope/title coverage wording as a labeled proposal if it changes the approved title. Significance describes possible uses, not guaranteed improvements or measured behavior. Retain sufficient student explanations and the accepted submission; no full restart.
 
-After current instruction/maintenance checks and language handling only if needed, begin with the actual unresolved clarification in the known language:
+After current-source/status checks and language handling only if needed, reuse existing explanations first. Where the actual missing meaning remains, begin with:
 
-> What could your study tell you about students intention to clean voluntarily, and what could it not establish about their actual cleaning behavior or reasons for not cleaning?
+> Which statements in your background describe actual cleaning behavior or school-wide conditions beyond your study, and how will you bring them back to intention and reported factors?
 
-Integrate the answer into background/question reasoning and relevant limitations. Reuse already sufficient evidence; do not supply an ideal answer, completed paragraph, checklist or rating scheme. Do not require instrument construction, a sampling/statistical plan or actual data collection. Observe the current Activity 2 scope and shared follow-up allowance.
+Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
 
-If the clarification remains unresolved, record the actual attempt, help and missing meaning, continue independently answerable authorized targets, and collect the available Chapter 1 work honestly as incomplete where appropriate. Do not invent dependent reasoning, force another Activity 1 approval cycle or treat pending final acceptance as WAIT. A proposal changing approved study identity is recorded separately for later teacher decision rather than silently adopted.
+## Submission, Acceptance and Next Activity
 
-## Submission and Review
+The teacher has accepted this submission with the limited corrections specified above. Preserve that acceptance; collect the corrected version and actual changes without a new full defense or generic reapproval cycle. Do not represent a remaining proposed study-identity/source-plan change as silently approved. No automatic next-activity authority follows acceptance.
 
-Preserve the accessible prior baseline, actual clarification, assistance, changes and proposed Activity 2 product in the private review record. Distinguish carried summaries from original student responses and disclose unavailable material. Do not demand reconstruction of missing dialogue. An embedded identity snapshot is available for entry; retain additional original evidence if accessible.
+Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
 
-Two verified, student-understood sources and the five current Chapter 1 components are required for academic completion. Missing evidence does not prohibit an authorized complete/incomplete review submission at the bounded endpoint. Use current download/chat-report delivery rules, then stop for the teacher's decision. This approval does not release maintenance or renew the expired November 12 collection directive.
+Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.

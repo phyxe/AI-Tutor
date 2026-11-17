@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_10
 learning_area: Practical Research 2
-record_version: "1.7"
+record_version: "1.8"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_10-a02-focused-revision-2026-11-15
-route_baseline_revision: pr2_pru_10-a02-reviewed-baseline-2026-11-15
+route_directive_id: pr2_pru_10-a02-teacher-decision-2026-11-17
+route_baseline_revision: pr2_pru_10-reviewed-baseline-2026-11-17
 route_resume_checkpoint: H7
-status: clarification-addressed-activity-2-focused-development-required
+status: activity-2-submission-accepted-overlap-definition-refinement
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): The record-plan clarification is addressed: the student independently explained appropriate permission, relevant record types and their uses, and confidentiality. Retain the approved study and record-source feasibility as a proposed plan; actual acquisition/availability/access is not a new Chapter 1 prerequisite. Final manuscript acceptance remains pending. Student identity is maintained separately.
+Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the November 17 Chapter 1 submission and the intersecting-meeting-duration definition in principle, with limited explanation/consistency corrections. Retain the approved study, significance and addressed record-source clarification. The compiler’s obsolete activity/INITIAL labels and claim that significance is scope drift do not govern. No new activity or fieldwork is authorized. Detailed learning evidence and student identity remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,73 +29,72 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Earlier research concept and Activity 2 entry authorization: Retained.
-- Accepted original concept identity: `pr2_pru_10-approved-a01-r01-snapshot-2026-11-06`.
-- Current activity: Activity 2; no Activity 1 restart or extra concept-note submission assigned.
-- Current clarification disposition: The record-plan clarification is addressed: the student independently explained appropriate permission, relevant record types and their uses, and confidentiality. Retain the approved study and record-source feasibility as a proposed plan; actual acquisition/availability/access is not a new Chapter 1 prerequisite. Final manuscript acceptance remains pending.
+- Teacher decision: Earlier foundation and Activity 2 authority retained within the current study boundaries.
+- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Retained for focused Activity 2 revision/development within the approved study.
-- Teacher decision date: November 15, 2026 (Asia/Manila).
-- Required prior clarification: Addressed through the reviewed actual explanation; do not ask it again merely to match an earlier prompt form.
-- Final Chapter 1 acceptance: Pending after revised submission; no new final acceptance or official grade.
-- Academic completion: Remaining current Chapter 1 targets require work; no new student response or full completion is claimed by this teacher update.
-- Next point: H7 / A2-Q5; use retained evidence and ask only the missing current understanding.
+- Current teacher disposition: Accept the November 17 Chapter 1 submission and the intersecting-meeting-duration definition in principle, with limited explanation/consistency corrections. Retain the approved study, significance and addressed record-source clarification. The compiler’s obsolete activity/INITIAL labels and claim that significance is scope drift do not govern. No new activity or fieldwork is authorized.
+- Next point: H7 / A2-Q4; inspect existing evidence and address only the exact open meaning/corrections below.
+- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_10-a02-focused-revision-2026-11-15
-attempt_id: pr2_pru_10-a02-revision-attempt-2026-11-15
+directive_id: pr2_pru_10-a02-teacher-decision-2026-11-17
+attempt_id: pr2_pru_10-a02-attempt-2026-11-17
 activity_code: pr2_act_02
 action: REVISE_AND_SUBMIT
 start_checkpoint: H7
-start_question_id: A2-Q5
-baseline_revision: pr2_pru_10-a02-reviewed-baseline-2026-11-15
-baseline_source: "This outcome record, Reviewed Baseline subsection; accessible previous originals remain private"
-authorized_task: "Complete the remaining current Chapter 1 targets with focused revision and retained sufficient evidence."
-retained_evidence: [existing study authorization and approved identity, addressed prior clarification, compatible actual source/question/scope reasoning]
+start_question_id: A2-Q4
+baseline_revision: pr2_pru_10-reviewed-baseline-2026-11-17
+baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
+authorized_task: "Explain the intersecting-time definition briefly and apply it consistently; the teacher accepts the refinement in principle, not a new demand for complete record acquisition. Retain primary adviser/organizational records and the authorized source-labeled supplementary plan. Do not silently replace it with a wholly self-reported or different records-only plan: identify any intentional source-plan change for teacher review. A mixed rate is not fully record-verified; missing numerator/denominator or no eligible meetings cannot become a guessed zero. Keep Significance, which is required by current Activity 2. Reuse existing source meanings and verify only genuine uncertainties; no new full source interview or method/statistical assignment."
+retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
 required_repairs:
-  - issue_id: pr2_pru_10-remaining-chapter-work-2026-11-15
-    target: A2-Q5
-    clarification_or_correction: "Develop a separate Significance section using existing rationale and only missing student reasoning about realistic users and uses. Check existing background for meaningful TEAL links and other genuine alignment gaps without repeating supported source/record-plan explanations."
+  - issue_id: pr2_pru_10-focused-work-2026-11-17
+    target: A2-Q4
+    clarification_or_correction: "Explain the intersecting-time definition briefly and apply it consistently; the teacher accepts the refinement in principle, not a new demand for complete record acquisition. Retain primary adviser/organizational records and the authorized source-labeled supplementary plan. Do not silently replace it with a wholly self-reported or different records-only plan: identify any intentional source-plan change for teacher review. A mixed rate is not fully record-verified; missing numerator/denominator or no eligible meetings cannot become a guessed zero. Keep Significance, which is required by current Activity 2. Reuse existing source meanings and verify only genuine uncertainties; no new full source interview or method/statistical assignment."
 carry_forward: []
-locked_decisions: [approved study focus and actual title/questions, retained reference boundaries, individual authorship, no final Chapter 1 acceptance, no fieldwork authorization]
+locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This new explicitly authorized revision attempt permits three standard follow-ups plus at most two justified targeted extras across the whole activity. Prior work supplies evidence without being charged to the new attempt's count. No actual count is invented; resumed segments retain used counts, language and the exact open target. Do not invent an extra defense or routine teacher gate.
+This explicit teacher direction opens a new bounded destination/revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity, including carried issues. Preserve older ledgers separately; no used count is invented. Continuation retains actual counts. Do not split a clarification into unlimited new prompts, add a final defense or repeat sufficient answers.
 
 ## Reviewed Baseline
 
-Baseline ID: `pr2_pru_10-a02-reviewed-baseline-2026-11-15`. Teacher-designated snapshot of the November 12 work, not a fabricated completed revision number. Preserve accessible older baseline/submission and actual responses privately; disclose unavailable originals rather than reconstruct them.
+Baseline ID: `pr2_pru_10-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
+
+The new manuscript has a developed background, questions, significance, membership-period boundaries and not-computable treatment for unavailable information. It changes overlap from exactly identical date/time wording to intersecting scheduled durations and drops explicit supplementary-source labels. Original clarification/source explanations are carried in consolidated November 7 text, not newly independent November 17 answers. The compilation uses retired activity 0.2.6/INITIAL fields despite the actual current revision route; preserve the artifact’s provenance and correct current records.
+
+## Retained / Accepted Study Identity
 
 Approved title: The Relationship Between the Frequency of Overlapping Club Meeting Schedules and the Overall Club Meeting Attendance Rates of Students with Multiple Club Memberships at Hawan National High School.
 
 Approved main question: Is there a significant relationship between the frequency of overlapping club meeting schedules and the overall club meeting attendance rates of students with multiple club memberships at Hawan National High School during September–October 2026?
 
-Retained specific-question focus: frequency of qualifying overlaps; overall meeting attendance rates; association between those measures. Preserve compatible reviewed question wording. Count qualifying actual simultaneous meeting occasions once, while separate club meetings remain separate attendance obligations. Retain September–October 2026, verified membership-period boundaries, noncausal claims and source-labeled supplementary information. Missing denominators/attendance cannot be guessed; no eligible meetings is undefined rather than zero. A wholly self-reported replacement, central measure or period change remains a proposal for teacher decision.
-
-The November 12 record provides actual independent permission/use and confidentiality answers plus inherited source interpretations with relevance/limits. Fredricks is recorded as abstract-level support and Le as full-text support; preserve these access limits and check only necessary claim uncertainty, not a new compulsory source interview. The older Ready label does not establish coverage of the newly separate Significance section. Prior revision numbering is partly student-reported; do not invent verification of r01/r02 history.
+Retain specific-question coverage of qualifying overlaps, overall attendance rates and their association. The clarified overlap condition is meetings on the same date with intersecting scheduled durations, including partial overlap, when the meetings actually occurred and the student was a member. Retain the accepted one-occasion versus separate-attendance-obligations distinction; do not repeat the three-club calculation. September–October 2026, noncausal claims and membership boundaries remain retained.
 
 ## Teacher's Comments
 
-The record-plan clarification is addressed: the student independently explained appropriate permission, relevant record types and their uses, and confidentiality. Retain the approved study and record-source feasibility as a proposed plan; actual acquisition/availability/access is not a new Chapter 1 prerequisite. Final manuscript acceptance remains pending.
+Accept the November 17 Chapter 1 submission and the intersecting-meeting-duration definition in principle, with limited explanation/consistency corrections. Retain the approved study, significance and addressed record-source clarification. The compiler’s obsolete activity/INITIAL labels and claim that significance is scope drift do not govern. No new activity or fieldwork is authorized.
 
-Develop a separate Significance section using existing rationale and only missing student reasoning about realistic users and uses. Check existing background for meaningful TEAL links and other genuine alignment gaps without repeating supported source/record-plan explanations.
+Explain the intersecting-time definition briefly and apply it consistently; the teacher accepts the refinement in principle, not a new demand for complete record acquisition. Retain primary adviser/organizational records and the authorized source-labeled supplementary plan. Do not silently replace it with a wholly self-reported or different records-only plan: identify any intentional source-plan change for teacher review. A mixed rate is not fully record-verified; missing numerator/denominator or no eligible meetings cannot become a guessed zero. Keep Significance, which is required by current Activity 2. Reuse existing source meanings and verify only genuine uncertainties; no new full source interview or method/statistical assignment.
 
-After current controls/maintenance checks and necessary language handling, start with the next missing target rather than the resolved clarification. Use existing answers first; a suitable prompt if its reasoning is not already sufficient is:
+After current-source/status checks and language handling only if needed, reuse existing explanations first. Where the actual missing meaning remains, begin with:
 
-> Who could use the answers to your research questions, and how could those answers help them understand or make decisions about club meeting schedules?
+> How does your intersecting-time definition apply when meetings overlap only partly, and what source limits must your revised scope preserve?
 
-Reuse actual source interpretations and existing rationale/scope evidence. TEAL is connected topic/evidence/analysis/link reasoning, not a numerical paragraph formula or new worksheet. A separate Significance section needs usable student-grounded meaning; the tutor may polish established ideas but must not invent beneficiaries, benefits or assessed prose. No sampling, instrument, statistics, actual record acquisition or fieldwork tasks are assigned here.
+Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
 
-## Submission and Review
+## Submission, Acceptance and Next Activity
 
-Preserve accessible previous and improved work, actual before/after changes, original student responses, source records and access limits, assistance, target/budget ledger and remaining issues. Separate summaries from verbatim evidence. At the bounded endpoint collect the authorized complete/incomplete review record; missing source support or reasoning affects academic completion, not permission to submit actual progress. COMPLETE requires all five current components, two verified student-understood sources and aligned reasoning.
+The teacher has accepted this submission with the limited corrections specified above. Preserve that acceptance; collect the corrected version and actual changes without a new full defense or generic reapproval cycle. Do not represent a remaining proposed study-identity/source-plan change as silently approved. No automatic next-activity authority follows acceptance.
 
-A proposal conflicting with locked decisions is recorded separately for later teacher review without adoption; continue independent authorized targets. Pending final acceptance is not WAIT. Use current file/chat-report delivery and stop for the teacher's next decision. This November 15 directive supersedes earlier active Open/clarification and completion-only task wording, not history or actual teacher locks. It does not release maintenance, renew the expired November 12 collection directive or grant fieldwork/record-access permission.
+Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
+
+Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.
