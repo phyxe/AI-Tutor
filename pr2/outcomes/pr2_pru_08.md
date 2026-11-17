@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_08
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_08-a02-focused-revision-2026-11-15
 route_baseline_revision: pr2_pru_08-a02-reviewed-baseline-2026-11-15
 route_resume_checkpoint: H2
-status: activity-2-focused-development-final-acceptance-pending
+status: activity-2-retained-reconstruction-not-new-learning-evidence
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): Retain the approved concept/title/questions and Activity 2 authorization. The proportion-versus-raw-count clarification is demonstrated; do not repeat the original comparison example. Redirect to current Chapter 1 development, integrating only missing frequency/attention claim limits. Final Chapter 1 acceptance remains pending; no fieldwork permission. Student identity is maintained separately.
+Teacher decision recorded November 17, 2026 (Asia/Manila): Retain the approved concept/title/questions and current Activity 2 development route. The newly received reconstructed document is an organizational reference, not new student clarification or completed Chapter 1 evidence. Retain the demonstrated proportion-versus-raw-count explanation; develop the actual background, verified source reasoning and significance. Final Chapter 1 acceptance remains pending. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -36,11 +36,19 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
 - Chapter 1 drafting authorization: Retained for this focused Activity 2 revision/development.
-- Current teacher direction: Retain the approved concept/title/questions and Activity 2 authorization. The proportion-versus-raw-count clarification is demonstrated; do not repeat the original comparison example. Redirect to current Chapter 1 development, integrating only missing frequency/attention claim limits.
+- Current teacher direction: Retain the approved concept/title/questions and current Activity 2 development route. The newly received reconstructed document is an organizational reference, not new student clarification or completed Chapter 1 evidence. Retain the demonstrated proportion-versus-raw-count explanation; develop the actual background, verified source reasoning and significance. Final Chapter 1 acceptance remains pending.
 - Teacher decision date: November 15, 2026 (Asia/Manila).
 - Academic completion: Not established; genuine remaining targets need development. No new student response or finished repair is claimed by this update.
 - Final Chapter 1 acceptance: Pending after submission, not a mid-chat verification gate.
 - Next point: H2 / A2-Q2, retaining actual sufficient evidence and known language.
+
+## Current Reviewed Evidence — November 17, 2026
+
+The newly received November 16 document explicitly reconstructs a draft from outcome record version 1.4. It contains placeholders for extended background, significance and sources and supplies no new student answers. Do not use reconstruction as evidence that the learner completed a clarification. Equally, missing content in the public outcome or reconstructed copy does not prove that all corresponding private prior evidence is absent. Retrieve/reuse actual accessible prior submission and explanations before asking.
+
+Continue at H2/A2-Q2 using the actual student work, developing the extended background and two verified student-understood sources, then other genuinely missing current Chapter 1 components. Retain the accepted proportion reasoning and only actual missing gaming-frequency/attention claim limits. A reconstructed manuscript is not an original student product or a substitute for new student reasoning. No repeated calculation interview, instrument assignment or full restart.
+
+This review continues the existing Activity 2 attempt and route. It does not reset the shared follow-up allowance or establish a new student response. If the existing allowance is exhausted or its history is unknown, record that honestly and submit available authorized work; do not assume a fresh budget.
 
 ## Current Session Directive
 
@@ -89,17 +97,15 @@ No developed Chapter 1 manuscript or two verified student-understood sources are
 
 ## Teacher's Comments
 
-Retain the approved concept/title/questions and Activity 2 authorization. The proportion-versus-raw-count clarification is demonstrated; do not repeat the original comparison example. Redirect to current Chapter 1 development, integrating only missing frequency/attention claim limits.
+Retain the approved concept/title/questions and current Activity 2 development route. The newly received reconstructed document is an organizational reference, not new student clarification or completed Chapter 1 evidence. Retain the demonstrated proportion-versus-raw-count explanation; develop the actual background, verified source reasoning and significance. Final Chapter 1 acceptance remains pending.
 
-Develop the actual Chapter 1 foundation, beginning with extended background and two verified student-understood sources. Reuse demonstrated percentage reasoning; clarify only missing limits of gaming frequency and self-reported attention, not another calculation interview or instrument assignment.
+Continue at H2/A2-Q2 using the actual student work, developing the extended background and two verified student-understood sources, then other genuinely missing current Chapter 1 components. Retain the accepted proportion reasoning and only actual missing gaming-frequency/attention claim limits. A reconstructed manuscript is not an original student product or a substitute for new student reasoning. No repeated calculation interview, instrument assignment or full restart.
 
-After current controls/maintenance checks and necessary language handling, use existing answers first and ask the actual missing target. A suitable opening where that meaning remains missing is:
+After current controls/status checks and language handling only if needed, use actual accessible evidence first, then ask only the unresolved meaning:
 
-> What situation makes your question about gaming during teacher-led discussions and students attention worth investigating, and what does your existing background explain about that concern?
+> What situation makes your question about gaming during teacher-led discussions and students’ attention worth investigating, and what does your actual existing background explain about that concern?
 
-Do not supply the target paragraph, interpretation or completed question set for approval. Use brief teaching and a genuinely different-case example when needed, then elicit the student's own application. Stop probing sufficient evidence. Retain actual assistance, original answers and consequential changes; no automatic judgment of understanding from fluent wording or agreement.
-
-Check the five current Chapter 1 components and two verified, student-understood sources. TEAL and significance are assessed through actual meaning, not word/paragraph quotas or worksheets. No questionnaire, validation, statistics, sampling calculation, participant contact or RRL/methodology task is assigned. Preserve supplementary work privately without making it a completion barrier.
+Retain supported prior answers, assistance and capture limits. Teach briefly at the actual gap and elicit the learner’s own application; do not supply a finished question/paragraph or accept agreement as missing understanding. A reconstructed reference or new questionnaire alone is not a passed learning target. No source search or methodology task is added to Activity 1; Activity 2 remains within its five current targets and two verified student-understood sources. Pending final acceptance does not require another permission pause between questions.
 
 ## Submission and Review
 
@@ -108,3 +114,5 @@ Preserve accessible previous work and the improved version/proposed Chapter 1, a
 Submit actual complete/incomplete evidence at the bounded endpoint. COMPLETE requires sufficient student-grounded components, two verified understood sources, alignment and actual teacher conditions; ending the session does not establish mastery. Pending final acceptance does not prevent the authorized review record. Use current file/chat-report delivery and stop for teacher decision. A substantive departure beyond the authorized changes remains a separately labeled proposal; continue independent authorized work without inventing approval.
 
 This November 15 directive supersedes earlier contradictory active task queues, unresolved labels expressly addressed here and completion-only export rules, not historical evidence or remaining teacher locks. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
+
+The November 17 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.

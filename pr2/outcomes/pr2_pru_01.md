@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_01
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_01-a01-direction-2026-11-15
-route_baseline_revision: pr2_pru_01-reviewed-status-2026-11-15
+route_directive_id: pr2_pru_01-a01-focused-revision-2026-11-17
+route_baseline_revision: pr2_pru_01-a01-reviewed-baseline-2026-11-17
 route_resume_checkpoint: C1
-status: topic-approved-focused-activity-1-revision-required
+status: parking-topic-retained-affected-experience-clarification-open
 ---
 
-Teacher decision recorded November 15, 2026 (Asia/Manila): Retain parking-topic approval only. No new submission or demonstrated repair is recorded. Continue focused Activity 1 revision; title/questions and Activity 2 remain unapproved. Student identity is maintained separately.
+Teacher decision recorded November 17, 2026 (Asia/Manila): Retain parking-topic approval and focused Activity 1 revision. The newly received file adds a questionnaire to the earlier concept but does not address the required affected-experience/group clarification. Title, questions and Activity 2 remain unapproved. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,26 +29,37 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Current teacher direction: Retain parking-topic approval only. No new submission or demonstrated repair is recorded. Continue focused Activity 1 revision; title/questions and Activity 2 remain unapproved.
-- Current task: Explain the specific parking situation and affected experience, clarify the main variable with a plausible indicator, and develop one aligned main question.
+- Current teacher direction: Retain parking-topic approval and focused Activity 1 revision. The newly received file adds a questionnaire to the earlier concept but does not address the required affected-experience/group clarification. Title, questions and Activity 2 remain unapproved.
+- Current task: Clarify the specific parking-related experience and who directly experiences it. Distinguish pedestrian obstruction/inconvenience from support for a proposed designated parking area; support alone does not establish personal experience. Identify the relevant group through that meaning rather than automatically Grade 11 or a mandatory all-groups sample. Then repair the variable/indicator and one aligned descriptive main question. Do not expand or validate the questionnaire.
 - Entry point: C1 / A1-Q1; retain sufficient actual evidence and known language.
 - Academic completion: Not established by this update; no invented new answers or passed targets.
 - Final research/Chapter 1 acceptance: Not granted.
 
+## Current Reviewed Evidence — November 17, 2026
+
+The file newly received November 17 carries a November 16 filename but states that it compiles a November 7 discussion. Direct comparison with the November 8 submitted file shows that the added material is an eight-item proposed questionnaire and its alignment notes; the core problem, Grade 11-only boundary, title and questions are unchanged. This is an artifact addition, not demonstrated completion of the latest core repair. The questionnaire is supplementary, unapproved work, not a current Activity 1 requirement.
+
+Clarify the specific parking-related experience and who directly experiences it. Distinguish pedestrian obstruction/inconvenience from support for a proposed designated parking area; support alone does not establish personal experience. Identify the relevant group through that meaning rather than automatically Grade 11 or a mandatory all-groups sample. Then repair the variable/indicator and one aligned descriptive main question. Do not expand or validate the questionnaire.
+
+This teacher decision authorizes a new focused Activity 1 revision attempt. Preserve the earlier ledger separately; use three standard follow-ups plus at most two justified targeted extras across this whole new attempt. No used count is invented; continuations retain actual counts.
+
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_01-a01-direction-2026-11-15
-attempt_id: pr2_pru_01-a01-attempt-2026-11-15
+directive_id: pr2_pru_01-a01-focused-revision-2026-11-17
+attempt_id: pr2_pru_01-a01-revision-attempt-2026-11-17
 activity_code: pr2_act_01
 action: REVISE_AND_SUBMIT
 start_checkpoint: C1
 start_question_id: A1-Q1
-baseline_revision: pr2_pru_01-reviewed-status-2026-11-15
-baseline_source: "This outcome record, Reviewed Context subsection; accessible originals retained privately"
-authorized_task: "Explain the specific parking situation and affected experience, clarify the main variable with a plausible indicator, and develop one aligned main question."
+baseline_revision: pr2_pru_01-a01-reviewed-baseline-2026-11-17
+baseline_source: "This outcome record, Current Reviewed Evidence and Revision Baseline / Reviewed Context subsections"
+authorized_task: "Clarify the specific parking-related experience and who directly experiences it. Distinguish pedestrian obstruction/inconvenience from support for a proposed designated parking area; support alone does not establish personal experience. Identify the relevant group through that meaning rather than automatically Grade 11 or a mandatory all-groups sample. Then repair the variable/indicator and one aligned descriptive main question. Do not expand or validate the questionnaire."
 retained_evidence: [compatible actual earlier reasoning with assistance and capture limits]
-required_repairs: [named unresolved meaning and consequential core links below]
+required_repairs:
+  - issue_id: pr2_pru_01-core-repair-2026-11-17
+    target: A1-Q1 / A1-Q2 / A1-Q3
+    clarification_or_correction: "Clarify the specific parking-related experience and who directly experiences it. Distinguish pedestrian obstruction/inconvenience from support for a proposed designated parking area; support alone does not establish personal experience. Identify the relevant group through that meaning rather than automatically Grade 11 or a mandatory all-groups sample. Then repair the variable/indicator and one aligned descriptive main question. Do not expand or validate the questionnaire."
 carry_forward: []
 locked_decisions: [actual teacher boundaries below, individual authorship, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
@@ -61,23 +72,21 @@ This explicit direction authorizes a new bounded attempt with three standard fol
 
 ## Reviewed Context
 
-Baseline identity: `pr2_pru_01-reviewed-status-2026-11-15`. This is teacher-reviewed continuity context, not a fabricated completed submission revision, actual new response or complete transcript. No new named submission was found in the current intake; retain the existing placement without inferring additional progress.
+Baseline identity: `pr2_pru_01-a01-reviewed-baseline-2026-11-17`. This is teacher-reviewed continuity context, not a fabricated completed submission revision, actual new response or complete transcript. A newly received artifact has now been reviewed as recorded above; the unchanged core does not establish completion of the latest repair.
 
 The historical November 8 submission concerns lack of a designated parking area at Hawan National High School and vehicles along pathways. These are motivating student observations, not measured prevalence or approved causal findings. The teacher rejected a Grade 11-only boundary as automatically appropriate: consider the actual affected group or people whose vehicles use parking, potentially students, personnel or guests as relevant. Do not force all groups into the study or turn this into a sampling plan. The exact experience/problem remains to be established. Prior submitted planning is retained as context, not a newly approved title/questions.
 
 ## Teacher's Comments
 
-Retain parking-topic approval only. No new submission or demonstrated repair is recorded. Continue focused Activity 1 revision; title/questions and Activity 2 remain unapproved.
+Retain parking-topic approval and focused Activity 1 revision. The newly received file adds a questionnaire to the earlier concept but does not address the required affected-experience/group clarification. Title, questions and Activity 2 remain unapproved.
 
-After current controls/maintenance checks and necessary language handling, begin with the actual open target in the known language:
+Clarify the specific parking-related experience and who directly experiences it. Distinguish pedestrian obstruction/inconvenience from support for a proposed designated parking area; support alone does not establish personal experience. Identify the relevant group through that meaning rather than automatically Grade 11 or a mandatory all-groups sample. Then repair the variable/indicator and one aligned descriptive main question. Do not expand or validate the questionnaire.
 
-> Describe one specific situation involving parking at school that you want to understand. Who directly experiences that situation, and what happens to them?
+After current controls/status checks and language handling only if needed, use actual accessible evidence first, then ask only the unresolved meaning:
 
-Keep the parking direction; determine the relevant experience/group through the student explanation. No assumed Grade 11-only population, invented observations, mandatory multi-group sample or fieldwork.
+> What specific parking-related experience do you want to understand, and who directly experiences it?
 
-Teach briefly at the actual gap, using a genuinely different-case example only when needed, then request the student's own application within the allowance. Do not provide the target answer, completed question/paragraph or missing sentence for copying/approval. Preserve assistance and actual attempts; a polished draft, copied model or agreement alone is not understanding. Do not demand cosmetic refinements, bonus tasks or repeated defenses of sufficient evidence.
-
-Required work is only problem/context, main variable with plausible indicator and one aligned main question; C8 is an internal comparison. Title and extra questions are optional. No full concept note, design defense, sampling/access plan, questionnaire, statistical plan, collection procedure or source search is assigned. A minimal group/context check may make the core intelligible without creating methodology work.
+Retain supported prior answers, assistance and capture limits. Teach briefly at the actual gap and elicit the learner’s own application; do not supply a finished question/paragraph or accept agreement as missing understanding. A reconstructed reference or new questionnaire alone is not a passed learning target. No source search or methodology task is added to Activity 1; Activity 2 remains within its five current targets and two verified student-understood sources. Pending final acceptance does not require another permission pause between questions.
 
 ## Submission and Review
 
@@ -93,3 +102,5 @@ This November 15 direction supersedes the earlier active unlimited/completion-on
 - Accepted/provisional baseline for Activity 2: Not assigned.
 - Final Chapter 1 acceptance: Not approved.
 - Next step: Submit the current Activity 1 work for teacher review. No automatic advancement follows completion or file generation.
+
+The November 17 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.
