@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_17
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_17-a02-direction-2026-11-15
 route_baseline_revision: pr2_pru_17-reviewed-status-2026-11-15
 route_resume_checkpoint: H1
-status: activity-2-retained-reconstruction-definitions-still-unresolved
+status: activity-2-progress-accepted-regular-use-study-time-clarification-open
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Retain Activity 2 authorization and previously demonstrated weekly-duration reasoning. The newly received reconstructed reference does not resolve the regular-use definition or study-time meaning. The two-day threshold and automatic exclusion of ChatGPT time remain unapproved; continue the existing focused clarification without a full restart. Final Chapter 1 acceptance remains pending. Student identity and detailed evidence remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Retain Activity 2 authorization and accept the latest recorded frequency-versus-duration, weekly-record missing-versus-zero and noncausal relationship reasoning as progress, subject to the submission's summary/assistance limits. Regular-use eligibility, study-time meaning and the observed basis for eligible Grade 10 users remain unresolved. Neither the earlier two-day threshold nor the newly proposed two-or-more separate uses per week is approved; automatic exclusion of ChatGPT time is not approved. Continue focused Activity 2 clarification and Chapter 1 development without a full restart. Exact revised questions and final Chapter 1 acceptance remain pending; Activity 3 is not authorized. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -35,19 +35,31 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Current teacher direction: Retain Activity 2 authorization and previously demonstrated weekly-duration reasoning. The newly received reconstructed reference does not resolve the regular-use definition or study-time meaning. The two-day threshold and automatic exclusion of ChatGPT time remain unapproved; continue the existing focused clarification without a full restart. Final Chapter 1 acceptance remains pending.
-- Current task: Continue the current H1/A2-Q1 clarification of regular school-related use, evidence versus assumptions about the proposed Grade 10 users, and the intended study-time construct. Preserve actual earlier weekly-duration reasoning. Do not silently change days to sessions, approve a two-day threshold or subtract all ChatGPT time from studying; reuse legitimate prior explanations and elicit only missing meaning within the existing shared allowance. Record substantive alternatives for later teacher decision, without adopting them or requiring screening/recruitment.
+- Current teacher direction: Retain Activity 2 authorization and accept the latest recorded frequency-versus-duration, weekly-record missing-versus-zero and noncausal relationship reasoning as progress, subject to the submission's summary/assistance limits. Regular-use eligibility, study-time meaning and the observed basis for eligible Grade 10 users remain unresolved. Neither the earlier two-day threshold nor the newly proposed two-or-more separate uses per week is approved; automatic exclusion of ChatGPT time is not approved. Continue focused Activity 2 clarification and Chapter 1 development without a full restart. Exact revised questions and final Chapter 1 acceptance remain pending; Activity 3 is not authorized.
+- Current task: Continue at H1/A2-Q1 using the latest recorded answers first. Clarify what counts as one separate school-related use and why the proposed regular-use threshold fits the intended inquiry; two uses on one day differs from use on two days. Clarify the intended study-time construct, including homework/independent study, ChatGPT-assisted study and ordinary class attendance, then distinguish observed basis from assumptions about eligible Grade 10 users. Briefly teach the consequences of alternative meanings and elicit the learner's own application; do not supply the definition or require screening/recruitment. Preserve demonstrated frequency/duration and missing/zero reasoning without repeating that interview. Apply the resulting meanings to affected title/questions, scope and background; substantive changes remain proposals for teacher review.
 - Entry point: H1 / A2-Q1; retain sufficient actual evidence and known language.
 - Academic completion: Not established by this update; no invented new answers or passed targets.
 - Final research/Chapter 1 acceptance: Not granted.
 
-## Current Reviewed Evidence — November 17, 2026
+## Historical Artifact Review — November 17, 2026
 
 The newly received November 16 file explicitly reconstructs research content from the outcome record and supplies no new student answers. It repeats at-least-two-days-per-week eligibility and study time excluding all ChatGPT time. Those remain disputed proposals, not accepted definitions merely because a reconstruction repeats them. Do not treat the draft’s blanket proposed/accepted description as authority overriding current teacher conditions. Preserve its disclosed reconstruction provenance separately from actual original evidence.
 
-Continue the current H1/A2-Q1 clarification of regular school-related use, evidence versus assumptions about the proposed Grade 10 users, and the intended study-time construct. Preserve actual earlier weekly-duration reasoning. Do not silently change days to sessions, approve a two-day threshold or subtract all ChatGPT time from studying; reuse legitimate prior explanations and elicit only missing meaning within the existing shared allowance. Record substantive alternatives for later teacher decision, without adopting them or requiring screening/recruitment.
+Continue at H1/A2-Q1 using the latest recorded answers first. Clarify what counts as one separate school-related use and why the proposed regular-use threshold fits the intended inquiry; two uses on one day differs from use on two days. Clarify the intended study-time construct, including homework/independent study, ChatGPT-assisted study and ordinary class attendance, then distinguish observed basis from assumptions about eligible Grade 10 users. Briefly teach the consequences of alternative meanings and elicit the learner's own application; do not supply the definition or require screening/recruitment. Preserve demonstrated frequency/duration and missing/zero reasoning without repeating that interview. Apply the resulting meanings to affected title/questions, scope and background; substantive changes remain proposals for teacher review.
 
 This review continues the existing Activity 2 attempt and route. It does not reset the shared follow-up allowance or establish a new student response. If the existing allowance is exhausted or its history is unknown, record that honestly and submit available authorized work; do not assume a fresh budget.
+
+## Latest Reviewed Evidence and Continuation — November 18, 2026
+
+The latest revision-review record attributes new explanations to the learner but supplies organized summaries rather than a verbatim question/answer transcript. Preserve that provenance and assistance limit; do not fabricate original turns or erase the recorded progress.
+
+Accept as progress the distinction between frequency and duration, separate uses on the same day, summed weekly duration, missing entries versus explicit zero, and relationship rather than causation. The proposed separate frequency–study-time and duration–study-time questions are compatible with the retained inquiry, but their exact wording remains proposed until the constructs are settled. Retain the supplementary statistical reasoning for later use; do not add null-hypothesis, significance-test, instrument or data-handling quizzes as Chapter 1 prerequisites.
+
+The current proposal is two or more separate school-related uses per week, not the earlier two days per week. Its relevance/recurrence/measurability explanation is progress, not sufficient justification or teacher approval of the cutoff. A separate use remains ambiguous (for example, a prompt, conversation or working period); elicit the learner's intended meaning rather than choose it for them. Study-time inclusion/exclusion and the actual basis for expecting eligible Grade 10 users remain unresolved. No prevalence, screening or participant data is claimed or required now.
+
+After the limited construct clarification, continue independently answerable Chapter 1 work within the five current targets, including two verified relevant sources and sufficient student interpretation/local limits. The latest file does not establish completed Chapter 1 or that source evidence. Do not substitute methodological detail for those targets or repeat sufficient earlier explanations.
+
+This November 18 decision supersedes incompatible current progress labels; the November 17 reconstruction review below remains historical provenance. Continue the existing November 15 attempt and shared follow-up ledger without resetting counts. Unknown history must remain disclosed. At the bounded endpoint submit available complete/incomplete work with precise unresolved issues; no extra questioning merely to obtain completion.
 
 ## Current Session Directive
 
@@ -61,7 +73,7 @@ start_question_id: A2-Q1
 baseline_revision: pr2_pru_17-reviewed-status-2026-11-15
 baseline_source: "This outcome record, Reviewed Context subsection; accessible originals retained privately"
 authorized_task: "Defend regular school-related ChatGPT use, distinguish observed basis from assumptions about eligible Grade 10 users, and clarify study time before developing dependent Chapter 1 claims. Retain supported relationship/weekly-duration reasoning; record substantive alternatives separately."
-retained_evidence: [compatible actual earlier reasoning with assistance and capture limits]
+retained_evidence: [compatible actual earlier reasoning, November 18 recorded frequency-duration and missing-zero reasoning, noncausal relationship reasoning, assistance and summary capture limits]
 required_repairs: [named unresolved meaning and consequential core links below]
 carry_forward: []
 locked_decisions: [actual teacher boundaries below, individual authorship, no fieldwork authorization]
@@ -71,7 +83,7 @@ submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-The original November 15 teacher-authorized Activity 2 attempt continues. The November 17 artifact review does not open a new allowance. Retain actual used counts, known language and sufficient evidence; where history is unknown, disclose it rather than invent a fresh allowance. Apply the shared three standard follow-ups plus at most two justified extras across that attempt. Submit actual complete/incomplete evidence at its bounded endpoint.
+The original November 15 teacher-authorized Activity 2 attempt continues. The November 17 and November 18 reviews do not open a new allowance. Retain actual used counts, known language and sufficient evidence; where history is unknown, disclose it rather than invent a fresh allowance. Apply the shared three standard follow-ups plus at most two justified extras across that attempt. Submit actual complete/incomplete evidence at its bounded endpoint.
 
 ## Reviewed Context
 
@@ -87,13 +99,13 @@ The tutor instructed exclusion of all ChatGPT time from study time; the student 
 
 ## Teacher's Comments
 
-Retain Activity 2 authorization and previously demonstrated weekly-duration reasoning. The newly received reconstructed reference does not resolve the regular-use definition or study-time meaning. The two-day threshold and automatic exclusion of ChatGPT time remain unapproved; continue the existing focused clarification without a full restart. Final Chapter 1 acceptance remains pending.
+Retain Activity 2 authorization and accept the latest recorded frequency-versus-duration, weekly-record missing-versus-zero and noncausal relationship reasoning as progress, subject to the submission's summary/assistance limits. Regular-use eligibility, study-time meaning and the observed basis for eligible Grade 10 users remain unresolved. Neither the earlier two-day threshold nor the newly proposed two-or-more separate uses per week is approved; automatic exclusion of ChatGPT time is not approved. Continue focused Activity 2 clarification and Chapter 1 development without a full restart. Exact revised questions and final Chapter 1 acceptance remain pending; Activity 3 is not authorized.
 
-Continue the current H1/A2-Q1 clarification of regular school-related use, evidence versus assumptions about the proposed Grade 10 users, and the intended study-time construct. Preserve actual earlier weekly-duration reasoning. Do not silently change days to sessions, approve a two-day threshold or subtract all ChatGPT time from studying; reuse legitimate prior explanations and elicit only missing meaning within the existing shared allowance. Record substantive alternatives for later teacher decision, without adopting them or requiring screening/recruitment.
+Continue at H1/A2-Q1 using the latest recorded answers first. Clarify what counts as one separate school-related use and why the proposed regular-use threshold fits the intended inquiry; two uses on one day differs from use on two days. Clarify the intended study-time construct, including homework/independent study, ChatGPT-assisted study and ordinary class attendance, then distinguish observed basis from assumptions about eligible Grade 10 users. Briefly teach the consequences of alternative meanings and elicit the learner's own application; do not supply the definition or require screening/recruitment. Preserve demonstrated frequency/duration and missing/zero reasoning without repeating that interview. Apply the resulting meanings to affected title/questions, scope and background; substantive changes remain proposals for teacher review.
 
 After current controls/status checks and language handling only if needed, use actual accessible evidence first, then ask only the unresolved meaning:
 
-> What would count as regular school-related ChatGPT use in your study, and what makes that meaning appropriate for the problem you want to investigate?
+> In your proposal, what exactly counts as one separate school-related ChatGPT use, and why would two or more of those uses in a week identify the regular use you want to study?
 
 Retain supported prior answers, assistance and capture limits. Teach briefly at the actual gap and elicit the learner’s own application; do not supply a finished question/paragraph or accept agreement as missing understanding. A reconstructed reference or new questionnaire alone is not a passed learning target. No source search or methodology task is added to Activity 1; Activity 2 remains within its five current targets and two verified student-understood sources. Pending final acceptance does not require another permission pause between questions.
 
@@ -105,4 +117,4 @@ At the bounded endpoint submit the authorized complete/incomplete review record.
 
 This November 15 direction supersedes the earlier active unlimited/completion-only task queue and any full-restart requirement expressly replaced above; it preserves historical evidence, teacher approval boundaries and actual holds. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
 
-The November 17 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.
+The November 18 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.

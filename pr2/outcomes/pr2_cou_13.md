@@ -1,33 +1,28 @@
 ---
 student_code: pr2_cou_13
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_13-a01-teacher-direction-2026-11-16
-route_baseline_revision: pr2_cou_13-a01-reviewed-baseline-2026-11-16
-route_resume_checkpoint: C2
-status: activity-1-focused-core-revision-required
+route_directive_id: pr2_cou_13-a01-teacher-direction-2026-11-18
+route_baseline_revision: pr2_cou_13-reviewed-baseline-2026-11-18
+route_resume_checkpoint: C4
+status: activity-1-descriptive-main-question-alignment-required
 ---
 
-Teacher decision recorded November 16, 2026 (Asia/Manila): Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized. Student identity and detailed learning evidence remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Descriptive reasons-for-waste-disposal problem remains provisionally accepted. The new relationship component is not approved. Activity 2 remains withheld pending focused question alignment. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — November 17, 2026
+## Teacher Identity and Topic Binding — Current November 18, 2026
 
-- **Required record identity:** `pr2_cou_13`. The outcome URL filename, embedded `student_code`, active directive and baseline must belong to this same exact record.
+- **Required record identity:** `pr2_cou_13`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Classroom cleanliness and participation, historically framed as a five-minute cleaning routine.
-- **Current teacher-authorized direction:** Retain the refined provisional problem about reported reasons for students’ waste-disposal practices. No researcher-imposed routine/effect inquiry or automatic home-habit causal explanation.
-- **Retained actual progress:** The learner selects disposal of one’s own waste as the concern and acknowledges that litter under desks does not identify who left it. Questionnaire, home-practice and desk-level ideas remain unaligned proposals.
-- **Current next target:** C2 / A1-Q2: clarify reported-reason evidence and one descriptive main question, retaining the existing context rather than reinterviewing it.
-- **Source-metadata limitation:** The latest export explicitly carries the matching student code. Older duplicate md/bin files count as one record, not additional progress.
+- **Current teacher-authorized direction:** Descriptive reasons-for-waste-disposal problem remains provisionally accepted. The new relationship component is not approved. Activity 2 remains withheld pending focused question alignment.
+- **Retained actual progress:** The learner distinguishes reported reasons from visible litter and no longer assumes litter identifies its owner. The new main question nevertheless relates those responses to an overall class litter count without establishing that this answers the accepted descriptive inquiry.
+- **Current next target:** C4 / A1-Q3: Align one main question to students' reported reasons for disposing or not disposing of their own waste. Remove the unsupported relationship component and explain the descriptive purpose. Litter observations may provide context without becoming a second study.
 
-Before teaching or compiling progress, bind the actual loaded outcome to the teacher-issued URL and this study identity. Do not choose an adjacent roster code, retrieve another student's outcome, transfer approvals or infer that similar concerns imply shared work. Read the assigned controls/current route, not a guessed activity from the code suffix. A student code identifies a learner record; an activity code identifies assigned work.
+Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_13` and activity_code `pr2_act_01`. Correcting export metadata does not rewrite the original submission.
 
-Compare accessible handoff/submission code, topic, collection date and actual teacher decisions. A historical Activity 1 export may correctly precede a later Activity 2 route; preserve the historical label and follow the current official route. Unknown metadata remains a disclosed limitation rather than invented verification. A generic quiz, tutor-written draft, reconstructed outcome copy or file-generation claim is not new demonstrated progress.
-
-If a supplied link loads a different code, stop using that record and report the exact URL/code conflict; request only the correct teacher-issued link if it is unavailable. If this outcome is correctly bound but a handoff/chat introduces a different student's topic or code, identify and set aside the conflicting material instead of merging it. Continue only independently answerable work grounded in this record and verified accessible evidence. For genuinely uncertain ownership, report the specific conflict and seek teacher clarification before dependent use; do not rewrite original metadata, transfer ownership or invent missing progress. Preserve authentic prior work, assistance labels, language and the actual attempt ledger.
-
-This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
+This explicit decision supersedes the November 16 route and November 17 current-target/approval limitations only where changed here. Recheck current controllers and maintenance; do not revive an expired collection notice. On a mid-conversation refresh retain actual answers, resolved targets, known language, drafting/source context and the current attempt ledger. Do not reset merely because this file was reloaded.
 
 ## Tutor Entry Instructions
 
@@ -46,70 +41,71 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized.
-- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
-- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
-- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
+- Teacher approval boundary: Descriptive reasons-for-waste-disposal problem remains provisionally accepted. The new relationship component is not approved. Activity 2 remains withheld pending focused question alignment.
+- Retained Activity 1 evidence: The learner distinguishes reported reasons from visible litter and no longer assumes litter identifies its owner. The new main question nevertheless relates those responses to an overall class litter count without establishing that this answers the accepted descriptive inquiry.
+- Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_13-a01-teacher-direction-2026-11-16
-attempt_id: pr2_cou_13-a01-attempt-2026-11-16
+directive_id: pr2_cou_13-a01-teacher-direction-2026-11-18
+attempt_id: pr2_cou_13-a01-attempt-2026-11-18
 activity_code: pr2_act_01
 action: REVISE_AND_SUBMIT
-start_checkpoint: C2
-start_question_id: A1-Q2
-baseline_revision: pr2_cou_13-a01-reviewed-baseline-2026-11-16
-baseline_source: "This outcome record, Revision Baseline subsection"
-authorized_task: "Repair only the open Activity 1 core targets and affected alignment; preserve sufficient existing evidence."
-retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+start_checkpoint: C4
+start_question_id: A1-Q3
+baseline_revision: pr2_cou_13-reviewed-baseline-2026-11-18
+baseline_source: "This outcome record, Reviewed Baseline subsection"
+authorized_task: "Align one main question to students' reported reasons for disposing or not disposing of their own waste. Remove the unsupported relationship component and explain the descriptive purpose. Litter observations may provide context without becoming a second study."
+retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs:
-  - issue_id: pr2_cou_13-core-repair-2026-11-16
-    target: A1-Q2
-    clarification_or_correction: "Explain what responses would represent students’ reported reasons for disposal practices, then align one descriptive main question. Desk litter does not identify individual disposal behavior; home self-reports do not establish causes. Avoid assuming laziness or irresponsibility. No cleaning intervention, extra context essay or unnecessary full restart."
-  - issue_id: pr2_cou_13-alignment-2026-11-16
-    target: A1-Q1 / A1-Q2 / A1-Q3
-    clarification_or_correction: "Reuse sufficient actual evidence and repair only missing meaning or dependent contradictions; no additional final defense."
+  - issue_id: pr2_cou_13-scoped-next-work-2026-11-18
+    target: A1-Q3
+    clarification_or_correction: "Align one main question to students' reported reasons for disposing or not disposing of their own waste. Remove the unsupported relationship component and explain the descriptive purpose. Litter observations may provide context without becoming a second study."
 carry_forward: []
-locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 2 authorization, no fieldwork authorization]
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This is a new explicitly teacher-authorized revision attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
+This decision authorizes a new bounded attempt for the assigned work only: three standard follow-ups plus at most two justified targeted extras across the whole attempt. Starting a new attempt is not a restart of demonstrated learning. Once begun, continuation retains actual used counts and extension reasons; do not invent or reset them. Unknown prior counts are disclosed under the area protocol. At the bounded endpoint compile the actual complete or incomplete review record; no unlimited questioning or complete-only submission barrier.
 
-## Revision Baseline
+## Reviewed Baseline
 
-Baseline ID: `pr2_cou_13-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
+Baseline ID: `pr2_cou_13-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+
+The learner distinguishes reported reasons from visible litter and no longer assumes litter identifies its owner. The new main question nevertheless relates those responses to an overall class litter count without establishing that this answers the accepted descriptive inquiry.
+
+### Earlier compatible context — provenance, not superseded routing
 
 November 12 work selects why some students do not dispose of their own waste, reports occasional litter under desks and acknowledges not knowing who left it. Questionnaire/count ideas coexist with home habits, participation and desk-level observations. Existing context and the selected concern are retained rather than elicited again.
 
 ## Teacher's Comments
 
-Refined reasons-for-waste-disposal-practices problem provisionally accepted; complete approval requires the focused core clarification. Exclude home practices from the core unless a necessary, answerable role is explained; no intervention authorized.
+Descriptive reasons-for-waste-disposal problem remains provisionally accepted. The new relationship component is not approved. Activity 2 remains withheld pending focused question alignment.
 
-Explain what responses would represent students’ reported reasons for disposal practices, then align one descriptive main question. Desk litter does not identify individual disposal behavior; home self-reports do not establish causes. Avoid assuming laziness or irresponsibility. No cleaning intervention, extra context essay or unnecessary full restart.
+Do not treat a graph or co-occurrence of two group summaries as evidence of association. Do not add home practices, an intervention, causal conclusions or a methodology/statistics exercise to repair the question. Preserve sufficient prior problem and indicator reasoning.
 
-After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
+Align one main question to students' reported reasons for disposing or not disposing of their own waste. Remove the unsupported relationship component and explain the descriptive purpose. Litter observations may provide context without becoming a second study.
 
-> What could students’ answers tell you about their reasons for disposing of their own waste, and how is that different from what litter under a desk can show?
+After required source/maintenance checks, begin with the actual next question:
 
-Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+> How would you state your main question so that it describes students' reported reasons for their waste-disposal practices without claiming a relationship from the overall classroom litter count?
+
+Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 
 ## Submission and Review
 
-Preserve the earlier baseline, actual previous and improved work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+Preserve baseline, actual prior/improved answers, changes, assistance, unresolved issues and the shared follow-up ledger. Review only named gaps and affected alignment. Do not reconstruct missing dialogue, require retyping the whole study, or punish the learner for a tutor's off-scope questions.
 
-Mark COMPLETE only when actual C1/C2/C4 evidence and C8 alignment are sufficient under the teacher conditions; otherwise mark INCOMPLETE with the exact gap. Do not add sampling, statistical tests, full procedures, a validated instrument or collected results as current Activity 1 deliverables. Submission does not authorize Activity 2 automatically.
+Activity 1 completion concerns the problem, main focus/plausible indicator and one aligned main question. Do not add design, sampling, instruments, statistics or results. Submit the focused revision for teacher review; Activity 2 remains unauthorized.
+
+This record authorizes only its stated tutoring/drafting work, not participant contact, restricted-record access, recruitment, pilot testing, implementation or fieldwork. Follow current delivery and maintenance rules.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional baseline for destination entry: Not assigned; the snapshot above is an Activity 1 revision baseline only.
-- Final Chapter 1 acceptance: Not approved.
-- Next point: Current Activity 1 focused revision, then teacher review after submission.
-
-Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.
+- Chapter 1 drafting authorization: Not yet authorized; selected Activity 1 repair controls.
+- Final Chapter 1 acceptance: Pending; destination authorization and accepted individual targets are not final Chapter 1 acceptance.
+- Activity 3: Not authorized by this decision.

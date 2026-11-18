@@ -1,33 +1,28 @@
 ---
 student_code: pr2_cou_12
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_12-a01-teacher-direction-2026-11-16
-route_baseline_revision: pr2_cou_12-a01-reviewed-baseline-2026-11-16
-route_resume_checkpoint: C1
-status: activity-1-focused-core-revision-required
+route_directive_id: pr2_cou_12-a01-teacher-direction-2026-11-18
+route_baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-18
+route_resume_checkpoint: C4
+status: activity-1-main-question-only-focused-revision
 ---
 
-Teacher decision recorded November 16, 2026 (Asia/Manila): Classroom phone-use path retained for descriptive development; exact problem and complete concept not yet approved. Activity 2 withheld. Narrow to phone-use patterns unless the learner independently justifies an additional behavior focus and its indicators. Student identity and detailed learning evidence remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — November 17, 2026
+## Teacher Identity and Topic Binding — Current November 18, 2026
 
-- **Required record identity:** `pr2_cou_12`. The outcome URL filename, embedded `student_code`, active directive and baseline must belong to this same exact record.
+- **Required record identity:** `pr2_cou_12`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Phone Down, Focus Up: classroom mobile-phone use and selected classroom behaviors, with a proposed Grade 8–Loyalty/Filipino-class setting.
-- **Current teacher-authorized direction:** Retain classroom phone-use patterns as the path for descriptive Activity 1 development. The improvement-oriented historical title, exact problem formulation and proposed instrument are not approved. Responsible-AI-use understanding is not this study.
-- **Retained actual progress:** Existing work distinguishes academic/personal phone use and contains extensive permission/privacy planning. The actual uncertainty and meanings of visible behavior remain open; listening, answering, attention and comprehension are not equivalent.
-- **Current next target:** C1 / A1-Q1: explain what remains unknown about classroom phone-use patterns; then repair indicator and main question. Do not redirect to responsible AI or import an Activity 2 approval.
-- **Source-metadata limitation:** Both named progress handoffs explicitly carry this student code. Preserve the actual classroom-phone work and proposed setting as history, not an approved sample or renewed method assignment.
+- **Current teacher-authorized direction:** Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
+- **Retained actual progress:** The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
+- **Current next target:** C4 / A1-Q3: Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question.
 
-Before teaching or compiling progress, bind the actual loaded outcome to the teacher-issued URL and this study identity. Do not choose an adjacent roster code, retrieve another student's outcome, transfer approvals or infer that similar concerns imply shared work. Read the assigned controls/current route, not a guessed activity from the code suffix. A student code identifies a learner record; an activity code identifies assigned work.
+Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_12` and activity_code `pr2_act_01`. Correcting export metadata does not rewrite the original submission.
 
-Compare accessible handoff/submission code, topic, collection date and actual teacher decisions. A historical Activity 1 export may correctly precede a later Activity 2 route; preserve the historical label and follow the current official route. Unknown metadata remains a disclosed limitation rather than invented verification. A generic quiz, tutor-written draft, reconstructed outcome copy or file-generation claim is not new demonstrated progress.
-
-If a supplied link loads a different code, stop using that record and report the exact URL/code conflict; request only the correct teacher-issued link if it is unavailable. If this outcome is correctly bound but a handoff/chat introduces a different student's topic or code, identify and set aside the conflicting material instead of merging it. Continue only independently answerable work grounded in this record and verified accessible evidence. For genuinely uncertain ownership, report the specific conflict and seek teacher clarification before dependent use; do not rewrite original metadata, transfer ownership or invent missing progress. Preserve authentic prior work, assistance labels, language and the actual attempt ledger.
-
-This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
+This explicit decision supersedes the November 16 route and November 17 current-target/approval limitations only where changed here. Recheck current controllers and maintenance; do not revive an expired collection notice. On a mid-conversation refresh retain actual answers, resolved targets, known language, drafting/source context and the current attempt ledger. Do not reset merely because this file was reloaded.
 
 ## Tutor Entry Instructions
 
@@ -46,70 +41,71 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Classroom phone-use path retained for descriptive development; exact problem and complete concept not yet approved. Activity 2 withheld. Narrow to phone-use patterns unless the learner independently justifies an additional behavior focus and its indicators.
-- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
-- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
-- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
+- Teacher approval boundary: Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
+- Retained Activity 1 evidence: The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
+- Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_12-a01-teacher-direction-2026-11-16
-attempt_id: pr2_cou_12-a01-attempt-2026-11-16
+directive_id: pr2_cou_12-a01-teacher-direction-2026-11-18
+attempt_id: pr2_cou_12-a01-attempt-2026-11-18
 activity_code: pr2_act_01
 action: REVISE_AND_SUBMIT
-start_checkpoint: C1
-start_question_id: A1-Q1
-baseline_revision: pr2_cou_12-a01-reviewed-baseline-2026-11-16
-baseline_source: "This outcome record, Revision Baseline subsection"
-authorized_task: "Repair only the open Activity 1 core targets and affected alignment; preserve sufficient existing evidence."
-retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+start_checkpoint: C4
+start_question_id: A1-Q3
+baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-18
+baseline_source: "This outcome record, Reviewed Baseline subsection"
+authorized_task: "Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question."
+retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs:
-  - issue_id: pr2_cou_12-core-repair-2026-11-16
-    target: A1-Q1
-    clarification_or_correction: "Clarify the actual uncertainty before the proposed solution; then explain the main variable, plausible indicator and aligned descriptive main question. Reuse supported context. Do not prolong permission, replacement, absence or sampling scenarios. Visible actions or silence alone do not establish attention/comprehension. Keep compatible later planning as provisional history."
-  - issue_id: pr2_cou_12-alignment-2026-11-16
-    target: A1-Q1 / A1-Q2 / A1-Q3
-    clarification_or_correction: "Reuse sufficient actual evidence and repair only missing meaning or dependent contradictions; no additional final defense."
+  - issue_id: pr2_cou_12-scoped-next-work-2026-11-18
+    target: A1-Q3
+    clarification_or_correction: "Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question."
 carry_forward: []
-locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 2 authorization, no fieldwork authorization]
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
 ```
 
-This is a new explicitly teacher-authorized revision attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
+This decision authorizes a new bounded attempt for the assigned work only: three standard follow-ups plus at most two justified targeted extras across the whole attempt. Starting a new attempt is not a restart of demonstrated learning. Once begun, continuation retains actual used counts and extension reasons; do not invent or reset them. Unknown prior counts are disclosed under the area protocol. At the bounded endpoint compile the actual complete or incomplete review record; no unlimited questioning or complete-only submission barrier.
 
-## Revision Baseline
+## Reviewed Baseline
 
-Baseline ID: `pr2_cou_12-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
+Baseline ID: `pr2_cou_12-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+
+The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
+
+### Earlier compatible context — provenance, not superseded routing
 
 November 12 work preserves a broad phone-use/classroom-behavior draft and extensive permission/privacy planning. Later notes change duration and selection; the central problem is less developed than procedures. Listening, answering, visible participation and comprehension are not equivalent, and the improvement-oriented title does not match observation only.
 
 ## Teacher's Comments
 
-Classroom phone-use path retained for descriptive development; exact problem and complete concept not yet approved. Activity 2 withheld. Narrow to phone-use patterns unless the learner independently justifies an additional behavior focus and its indicators.
+Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
 
-Clarify the actual uncertainty before the proposed solution; then explain the main variable, plausible indicator and aligned descriptive main question. Reuse supported context. Do not prolong permission, replacement, absence or sampling scenarios. Visible actions or silence alone do not establish attention/comprehension. Keep compatible later planning as provisional history.
+This is classroom phone use, not Airalyn's responsible-AI topic. Application names alone do not establish purpose: social media/messages can have academic uses. Do not require a finalized observation schedule, sample, instrument, scoring plan or learning-effect claim at Activity 1.
 
-After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
+Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question.
 
-> What do you still need to understand about classroom phone-use patterns, and why would that information matter before proposing a solution?
+After required source/maintenance checks, begin with the actual next question:
 
-Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+> What one main research question expresses what you want to find out about phone-use patterns during Grade 8 Loyalty Filipino classes, and what would answering it tell you?
+
+Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 
 ## Submission and Review
 
-Preserve the earlier baseline, actual previous and improved work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+Preserve baseline, actual prior/improved answers, changes, assistance, unresolved issues and the shared follow-up ledger. Review only named gaps and affected alignment. Do not reconstruct missing dialogue, require retyping the whole study, or punish the learner for a tutor's off-scope questions.
 
-Mark COMPLETE only when actual C1/C2/C4 evidence and C8 alignment are sufficient under the teacher conditions; otherwise mark INCOMPLETE with the exact gap. Do not add sampling, statistical tests, full procedures, a validated instrument or collected results as current Activity 1 deliverables. Submission does not authorize Activity 2 automatically.
+Activity 1 completion concerns the problem, main focus/plausible indicator and one aligned main question. Do not add design, sampling, instruments, statistics or results. Submit the focused revision for teacher review; Activity 2 remains unauthorized.
+
+This record authorizes only its stated tutoring/drafting work, not participant contact, restricted-record access, recruitment, pilot testing, implementation or fieldwork. Follow current delivery and maintenance rules.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional baseline for destination entry: Not assigned; the snapshot above is an Activity 1 revision baseline only.
-- Final Chapter 1 acceptance: Not approved.
-- Next point: Current Activity 1 focused revision, then teacher review after submission.
-
-Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.
+- Chapter 1 drafting authorization: Not yet authorized; selected Activity 1 repair controls.
+- Final Chapter 1 acceptance: Pending; destination authorization and accepted individual targets are not final Chapter 1 acceptance.
+- Activity 3: Not authorized by this decision.

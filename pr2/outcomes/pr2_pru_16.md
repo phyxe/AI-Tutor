@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_16
 learning_area: Practical Research 2
-record_version: "1.5"
-route_activity: pr2_act_02
-route_action: RESUME
-route_directive_id: pr2_pru_16-a02-teacher-decision-2026-11-17
-route_baseline_revision: pr2_pru_16-reviewed-baseline-2026-11-17
-route_resume_checkpoint: H8
-status: activity-2-chapter-1-submission-accepted
+record_version: "1.6"
+route_activity: pr2_act_03
+route_action: INITIAL
+route_directive_id: pr2_pru_16-a03-initial-2026-11-18
+route_baseline_revision: pr2_pru_16-a02-accepted-question-baseline-2026-11-18
+route_resume_checkpoint: M1
+status: chapter-1-accepted-activity-3-authorized
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the November 17 Chapter 1 submission and the satisfaction-versus-preference clarification. Retain the approved descriptive satisfaction study and product-specific reasoning, including separate overall food/drink ratings. No further conceptual interview is required merely because older transcript capture is partial or fieldwork procedure approval is pending. No Activity 3 or fieldwork authorization is issued. Detailed learning evidence and student identity remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Chapter 1 acceptance is retained, the latest reviewed corrections are accepted within the boundaries below, and Activity 3 is explicitly authorized. Develop the proposed Chapter 3 and data-gathering tool from the locked Chapter 1 questions. This grants tutoring/planning authority only, not permission for pilot testing, participant contact, recruitment, restricted-record access or fieldwork. Detailed student evidence remains private.
 
 ## Tutor Entry Instructions
 
@@ -27,70 +27,106 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
+For this route, retrieve the actual current Activity 3 and its linked LAS 03 reference, using the routing file's exact activity map. Verify this file's code and accepted study before using any handoff. Preserve actual conversation answers, source notes and drafting context. Do not repeat Activity 1/2 or substitute another student's record. Latest explicit teacher authorization controls over obsolete INITIAL-Activity-2, pending-acceptance or no-Activity-3 statements in historical submissions.
+
 # pr2_act_01 | Research-problem foundation
 
-- Teacher decision: Earlier foundation and Activity 2 authority retained within the current study boundaries.
-- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
+Earlier accepted study foundation retained; no restart or duplicate concept approval interview.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Current teacher disposition: Accept the November 17 Chapter 1 submission and the satisfaction-versus-preference clarification. Retain the approved descriptive satisfaction study and product-specific reasoning, including separate overall food/drink ratings. No further conceptual interview is required merely because older transcript capture is partial or fieldwork procedure approval is pending. No Activity 3 or fieldwork authorization is issued.
-- Next point: H8 / A2-Q1; administrative consistency/delivery only, with no new learning question.
-- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
+- Teacher disposition: Chapter 1 accepted for progression; latest reviewed corrections retained.
+- Historical acceptance: November 17, 2026; Activity 3 assignment issued November 18, 2026.
+- Accepted question-version identity: `pr2_pru_16-a02-accepted-question-baseline-2026-11-18`, embedded in the selected Activity 3 section below.
+- Historical tutor completion labels, missing original-turn capture or obsolete compilation rules do not revoke teacher acceptance. Preserve real authorship/capture limitations rather than claim new independent learning.
+- No further full Chapter 1 interview or collection of actual records is a prerequisite to the authorized Activity 3 planning. Retain any minor factual/source cleanup without fabricating support or changing study identity.
+
+# pr2_act_03 | Chapter 3 and Research Instrument
+
+- Teacher authorization: Granted November 18, 2026; current selected route INITIAL at M1 / A3-Q1.
+- Assigned scope: Proposed research methodology and student/source-grounded data-gathering tool under the actual current Activity 3 and LAS 03 reference.
+- Prior baseline: `pr2_pru_16-a02-accepted-question-baseline-2026-11-18`; accepted title, main/specific questions and constraints below.
+- Learning/understanding status: Not yet assessed for the new Activity 3 attempt. Retain sufficient existing answers without claiming the new targets passed.
+- Instrument quality status: Actual draft/review/pretest/pilot/reliability/version status must be checked and labeled truthfully; none is invented or certified by this route.
+- Teacher-recorded collection clearance: NOT_GRANTED by this outcome. Tutor approval cannot grant real-world access or fieldwork.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_16-a02-teacher-decision-2026-11-17
-attempt_id: pr2_pru_16-a02-attempt-2026-11-15
-activity_code: pr2_act_02
-action: RESUME
-start_checkpoint: H8
-start_question_id: A2-Q1
-baseline_revision: pr2_pru_16-reviewed-baseline-2026-11-17
-baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
-authorized_task: "Preserve the accepted Chapter 1 and resolved clarification. Perform only genuinely necessary wording/source-detail consistency corrections and clean-copy delivery, reusing the actual manuscript and student answers. Retain perceived-freshness and product-applicability limits, the stated eligibility reference window and limits on generalizing beyond regular buyers. Do not reopen satisfaction versus preference, require another overall alignment defense, or turn proposed eligibility/permissions into an academic acceptance barrier. Administrative document cleanup does not reopen the study or assign Activity 3."
-retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
-required_repairs:
-  - issue_id: pr2_pru_16-focused-work-2026-11-17
-    target: A2-Q1
-    clarification_or_correction: "Preserve the accepted Chapter 1 and resolved clarification. Perform only genuinely necessary wording/source-detail consistency corrections and clean-copy delivery, reusing the actual manuscript and student answers. Retain perceived-freshness and product-applicability limits, the stated eligibility reference window and limits on generalizing beyond regular buyers. Do not reopen satisfaction versus preference, require another overall alignment defense, or turn proposed eligibility/permissions into an academic acceptance barrier. Administrative document cleanup does not reopen the study or assign Activity 3."
+directive_id: pr2_pru_16-a03-initial-2026-11-18
+attempt_id: pr2_pru_16-a03-attempt-2026-11-18
+activity_code: pr2_act_03
+action: INITIAL
+start_checkpoint: M1
+start_question_id: A3-Q1
+baseline_revision: pr2_pru_16-a02-accepted-question-baseline-2026-11-18
+baseline_source: "This outcome record, Accepted Chapter 1 Question Baseline subsection; actual latest manuscript and earlier original responses retained privately"
+question_baseline_id: pr2_pru_16-a02-accepted-question-baseline-2026-11-18
+authorized_task: "Develop and explain a proposed Chapter 3 and separate data-gathering tool through the six current Activity 3 targets, reusing sufficient prior evidence and preserving the locked Chapter 1 study."
+retained_evidence: [accepted Chapter 1 title and question framework, accepted reviewed corrections, actual existing student reasoning and drafts with provenance and assistance limits]
+required_repairs: []
 carry_forward: []
-locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
+locked_decisions: [accepted question baseline and study-specific constraints below, student-originated instrument content or genuine source-item provenance, individual authorship, no real-world collection clearance]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
-submission_kind: REVISION_REVIEW
+submission_kind: ACTIVITY_REVIEW
 stop_for_teacher_decision: false
+collection_clearance_status: NOT_GRANTED_BY_TUTOR
+teacher_recorded_collection_clearance: NOT_GRANTED
 ```
 
-This is administrative continuation of the accepted Activity 2 manuscript, not a fresh learning attempt. Preserve the actual ledger and do not reset the allowance or ask another quiz. If no genuine wording/source correction remains, deliver/reuse the actual clean product and supporting record, then stop.
+This is a new explicitly teacher-authorized Activity 3 attempt: three standard follow-ups plus at most two justified targeted extras across the whole attempt, not per item/source/question. No used count is claimed before work begins. Same-attempt continuation, including a new chat, retains actual used counts and the exact open target. Inspect known evidence first and ask only missing targets.
 
-## Reviewed Baseline
+## Accepted Chapter 1 Question Baseline
 
-Baseline ID: `pr2_pru_16-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
+Baseline ID: `pr2_pru_16-a02-accepted-question-baseline-2026-11-18`. Teacher-designated accepted study/question snapshot supporting Activity 3, not a fabricated submission revision, full original transcript, instrument-quality certificate or access permission. Use the actual existing private manuscript/answers when accessible; request only the named missing work if needed, not a complete retyping or reconstruction of unavailable history.
 
-The learner explicitly explains rating satisfaction with the actual soft fries received rather than preference for crispy fries. Further answers distinguish food-only/drink-only applicability, separate overall ratings, perceived versus objective quality and realistic uses. The manuscript contains the five current Chapter 1 components and two relevant sources; earlier source reasoning is retained as summary with access limits. Partial historical capture and proposed procedural permissions are disclosed limitations, not independent reasons to fail an otherwise supported Chapter 1.
+**Accepted title:** Students’ Level of Satisfaction with the Quality and Quantity of Food and Drinks Sold by Grade 12 TVL Students at Hawan National High School
 
-## Retained / Accepted Study Identity
+**Accepted main question:** What is the level of satisfaction of students who purchase food or drinks from Grade 12 TVL students at Hawan National High School?
 
-Accepted title: Students’ Level of Satisfaction with the Quality and Quantity of Food and Drinks Sold by Grade 12 TVL Students at Hawan National High School.
+Accepted specific questions, locked for current Activity 3 planning:
 
-Accepted main question: What is the level of satisfaction of students who purchase food or drinks from Grade 12 TVL students at Hawan National High School?
+1. What is the level of students’ satisfaction with the quality of food, in terms of taste, freshness, and texture, and the quality of drinks, in terms of taste and freshness?
+2. What is the level of students’ satisfaction with the quantity of food and drinks, in terms of food serving size, amount of drink received, and amount of ice?
+3. What are the students’ overall levels of satisfaction with the food and drinks sold by Grade 12 TVL students, rated separately for food and drinks?
 
-Retained specific-question framework: satisfaction with food taste/freshness/texture and drink taste/freshness; quantity (food serving size, drink amount and ice amount); separate overall satisfaction ratings for food and drinks. Respondents rate only products they actually purchased/experienced. These are customer satisfaction judgments, not measured safety/nutrition/preparation quality. Freshness is perceived freshness. The regular-buyer proposal and its limited generalization remain explicit scope choices, not evidence of superior respondents or fieldwork approval.
+### Reviewed progress and acceptance continuity
+
+Chapter 1 was accepted November 17. The latest file retains exactly the accepted research product and updates its teacher-acceptance/current-route metadata; it does not introduce a new study. The learner has explained actual-product satisfaction versus preferred attributes, food-only/drink-only applicability, separate overall ratings, perceived versus objective quality and realistic usefulness. Retain those explanations and the manuscript. Historical partial transcripts and procedural approvals do not reopen accepted Chapter 1.
+
+### Study-specific constraints
+
+- Retain the descriptive customer-satisfaction purpose, school setting, food/drink attributes and separate overall satisfaction judgments. Do not convert this into a preference comparison, relationship test, objective safety/nutrition assessment or assessment of preparation processes.
+- Only rate products personally purchased and experienced. Food-only buyers do not rate food they did not buy, and drink-only buyers do not rate unexperienced food; each applicable product has its own valid response group. A person who bought both may rate both separately. Nonapplicability/missing responses are not dissatisfaction or zero.
+- Freshness is perceived freshness. Keep satisfaction with amount of ice separate from a claim of measured liquid volume or product safety. Do not silently merge food and drink overall scores or invent a composite scoring scheme.
+- Retain the accepted regular-buyer scope proposal of purchases on at least three different days within the seven days before the survey; the separate two-week collection window remains a proposed logistical period. Confirm its actual application, relevant population criteria and aggregate count within M3, not through a new full Chapter 1 defense. No eligible population size is verified and no actual recruitment is authorized.
+- Grade 12 TVL students are the sellers/products' context, not automatic respondents. Do not silently expand respondent eligibility or infer an exception to an actual teacher restriction; record a real boundary conflict if it arises while continuing independent planning.
+- Retain the five-point satisfaction meanings already explained as proposed response evidence, without pretending the instrument or scale has been validated for this study. Use actual existing student/source items first; a previously tutor-written example is not independently student-originated merely because it appears in the manuscript.
+- Retain Santana et al. (2023) and Lee (2019) relevance and contextual limits. Their existence does not validate this draft tool or establish local satisfaction. No repeated satisfaction-versus-preference or blanket alignment interview is assigned.
+
+Substantive changes to the locked question/construct/population/period remain separately recorded proposals with the learner's rationale for teacher decision after submission. Do not silently adopt them, invent authority or stop all independent planning for routine draft quality approval.
 
 ## Teacher's Comments
 
-Accept the November 17 Chapter 1 submission and the satisfaction-versus-preference clarification. Retain the approved descriptive satisfaction study and product-specific reasoning, including separate overall food/drink ratings. No further conceptual interview is required merely because older transcript capture is partial or fieldwork procedure approval is pending. No Activity 3 or fieldwork authorization is issued.
+Proceed to Activity 3 using your accepted Chapter 1. Keep useful answers and drafts from the existing conversation. Do not start over or seek duplicate permission to begin.
 
-Preserve the accepted Chapter 1 and resolved clarification. Perform only genuinely necessary wording/source-detail consistency corrections and clean-copy delivery, reusing the actual manuscript and student answers. Retain perceived-freshness and product-applicability limits, the stated eligibility reference window and limits on generalizing beyond regular buyers. Do not reopen satisfaction versus preference, require another overall alignment defense, or turn proposed eligibility/permissions into an academic acceptance barrier. Administrative document cleanup does not reopen the study or assign Activity 3.
+After current-control/status checks and language handling only if needed, compare existing evidence with A3-Q1 and ask only the actual missing meaning. A suitable first prompt is:
 
-Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
+> What information would answer each approved satisfaction question, and which food or drink ratings would actually apply to each respondent?
 
-## Submission, Acceptance and Next Activity
+Then proceed through the six current targets: question-to-evidence mapping, design fit, population criteria/count/coverage, actual instrument and validation/reliability preparation, ethical procedure/data handling, and analysis/claim limits. One actual answer can satisfy several targets; no extra final defense is assigned.
 
-The teacher has accepted this Chapter 1 submission. Record the acceptance separately from any earlier tutor INCOMPLETE label. Historical partial capture remains disclosed, not erased or automatically treated as academic failure. Do not fabricate unaided authorship or verified procedure approval. No new teacher approval is needed merely to create the clean accepted copy.
+Apply the current teacher-specific population rule: known eligible population 1–99 means invite all eligible members under actual authority, with no sampling-method selection/interview or sample-size formulas. Unknown counts require an aggregate count basis and honest disclosure, not a sampling lesson. At 100 or more, sampling is conditional on actual relevance/authority; it is not automatic. Population count, invitations and actual responses are different quantities. Never request an identifiable roster just to establish the count.
 
-Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
+The learner develops the actual substantive instrument items/record fields and explains their meaning. Reuse existing actual student/source drafts and preserve provenance; do not generate a target item bank, response options or completed methodology for agreement. Explain concepts with brief genuinely different-case examples when needed, then elicit the learner's own application. Do not convert a prior tutor example into student-created evidence.
 
-Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.
+Validation and reliability are distinct processes. Help the learner understand how the draft will be reviewed, checked for respondent understanding and tested for applicable consistency, what materials/records are needed, and how evidence would guide revisions/versioning. Pending external tests are not fabricated completed checks and do not prohibit submission of a prepared draft. Do not prescribe a universal coefficient, cutoff or pilot count; do not contact anyone or access records without actual clearance.
+
+## Submission and Review
+
+Produce the authorized complete/incomplete Activity 3 teacher record at the bounded endpoint, preserving the accepted Chapter 1 baseline, actual question-to-indicator-to-item/field-to-code-to-analysis chain, original student attempts, assistance, source/measurement basis, version changes, quality/permission status and whole-attempt ledger. Follow the current Activity 3 full manuscript coverage; the headings are output coverage, not extra interviews. Missing content stays visibly incomplete rather than being supplied by the tutor.
+
+After the teacher record/report, provide the two actual separate clean DOCX working products required by Activity 3: **CHAPTER 3 — RESEARCH METHODOLOGY** and the **data-gathering tool**, using only the corresponding actual FINAL OUTPUT subsections. Verify files before linking, exclude tutor logs/audits and disclose generation limits. Do not falsely label the tool validated/reliable or ready for main collection.
+
+Final Chapter 3/tool acceptance, real validation/pilot/access permissions and fieldwork clearance are separate future decisions. Submit actual work for teacher review, keep copies and stop at the authorized endpoint. Do not automatically assign Activity 4, collect data, approach participants or access restricted records. Follow live TUTOR-STATUS.md; this outcome does not alter maintenance.

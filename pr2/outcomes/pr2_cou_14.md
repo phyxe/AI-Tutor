@@ -1,33 +1,28 @@
 ---
 student_code: pr2_cou_14
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_02
-route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_cou_14-a02-teacher-direction-2026-11-16
-route_baseline_revision: pr2_cou_14-a01-reviewed-baseline-2026-11-16
-route_resume_checkpoint: H2
-status: activity-2-authorized-with-scoped-clarification
+route_action: COMPLETE
+route_directive_id: pr2_cou_14-a02-teacher-direction-2026-11-18
+route_baseline_revision: pr2_cou_14-reviewed-baseline-2026-11-18
+route_resume_checkpoint: H8
+status: chapter-1-accepted-activity-3-not-yet-authorized
 ---
 
-Teacher decision recorded November 16, 2026 (Asia/Manila): Descriptive waste-segregation problem and main/specific question framework approved; Activity 2 authorized. Working title accepted in principle with normal refinement. Proposed population, sample, scoring thresholds and instruments are not finally approved. Student identity and detailed learning evidence remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — November 17, 2026
+## Teacher Identity and Topic Binding — Current November 18, 2026
 
-- **Required record identity:** `pr2_cou_14`. The outcome URL filename, embedded `student_code`, active directive and baseline must belong to this same exact record.
+- **Required record identity:** `pr2_cou_14`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Waste segregation inside the school canteen, initially described as awareness/practices/bin conditions.
-- **Current teacher-authorized direction:** Retain the approved descriptive knowledge, self-reported practices and bin-condition framework and Activity 2 route; working title accepted in principle. Do not infer individual actions or causes from bin contents.
-- **Retained actual progress:** Existing question/indicator reasoning distinguishes knowledge from reports and bin observations, availability from labels, N/A from Never and student units from bin-check units. Proposed scoring thresholds/sample are not approved instruments.
-- **Current next target:** H2 / A2-Q2: develop the background with verified/understood sources and relevant claim limits, then other missing current Chapter 1 components.
-- **Source-metadata limitation:** The latest export code matches; it uses activity rather than activity_code for its historical pr2_act_01 value. Preserve this as a metadata issue, not a new route or ownership change.
+- **Current teacher-authorized direction:** Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
+- **Retained actual progress:** The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
+- **Current next target:** H8 / accepted endpoint: Acknowledge the accepted Chapter 1 endpoint and retain the reviewed draft and source notes. Do not open a new teaching/revision interview, duplicate submission, methodology activity or Activity 3 without an explicit new teacher directive.
 
-Before teaching or compiling progress, bind the actual loaded outcome to the teacher-issued URL and this study identity. Do not choose an adjacent roster code, retrieve another student's outcome, transfer approvals or infer that similar concerns imply shared work. Read the assigned controls/current route, not a guessed activity from the code suffix. A student code identifies a learner record; an activity code identifies assigned work.
+Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_14` and activity_code `pr2_act_02`. Correcting export metadata does not rewrite the original submission.
 
-Compare accessible handoff/submission code, topic, collection date and actual teacher decisions. A historical Activity 1 export may correctly precede a later Activity 2 route; preserve the historical label and follow the current official route. Unknown metadata remains a disclosed limitation rather than invented verification. A generic quiz, tutor-written draft, reconstructed outcome copy or file-generation claim is not new demonstrated progress.
-
-If a supplied link loads a different code, stop using that record and report the exact URL/code conflict; request only the correct teacher-issued link if it is unavailable. If this outcome is correctly bound but a handoff/chat introduces a different student's topic or code, identify and set aside the conflicting material instead of merging it. Continue only independently answerable work grounded in this record and verified accessible evidence. For genuinely uncertain ownership, report the specific conflict and seek teacher clarification before dependent use; do not rewrite original metadata, transfer ownership or invent missing progress. Preserve authentic prior work, assistance labels, language and the actual attempt ledger.
-
-This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
+This explicit decision supersedes the November 16 route and November 17 current-target/approval limitations only where changed here. Recheck current controllers and maintenance; do not revive an expired collection notice. On a mid-conversation refresh retain actual answers, resolved targets, known language, drafting/source context and the current attempt ledger. Do not reset merely because this file was reloaded.
 
 ## Tutor Entry Instructions
 
@@ -46,50 +41,47 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Descriptive waste-segregation problem and main/specific question framework approved; Activity 2 authorized. Working title accepted in principle with normal refinement. Proposed population, sample, scoring thresholds and instruments are not finally approved.
-- Evidence reviewed: November 12 progress collection and existing teacher record. No new student answer, completed clarification or passed learning target is claimed by this update.
-- History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
-- Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
+- Teacher approval boundary: Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
+- Retained Activity 1 evidence: The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
+- Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Approved through the current PROCEED_WITH_CLARIFICATION route.
-- Final Chapter 1 acceptance: Pending after submission; no finished Chapter 1, verified sources or source comprehension are claimed by this teacher update.
-- Next point: Specified destination target below; no separate Activity 1 resubmission or duplicate entry-approval interview is required.
+- Chapter 1 drafting authorization: Authorized; preserve the approved descriptive/association direction and stated boundaries.
+- Final Chapter 1 acceptance: Accepted November 18, 2026; Activity 3 remains unassigned.
+- Activity 3: Not authorized by this decision.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_14-a02-teacher-direction-2026-11-16
-attempt_id: pr2_cou_14-a02-attempt-2026-11-16
+directive_id: pr2_cou_14-a02-teacher-direction-2026-11-18
+attempt_id: pr2_cou_14-a02-attempt-2026-11-18
 activity_code: pr2_act_02
-action: PROCEED_WITH_CLARIFICATION
-start_checkpoint: H2
-start_question_id: A2-Q2
-baseline_revision: pr2_cou_14-a01-reviewed-baseline-2026-11-16
-baseline_source: "This outcome record, Accepted / Provisional Baseline subsection"
-authorized_task: "Develop the five current Activity 2 Chapter 1 targets, integrating only the specified carried clarification."
-retained_evidence: [compatible actual prior reasoning, teacher approval boundaries stated above, accessible prior work with assistance labels]
+action: COMPLETE
+start_checkpoint: H8
+start_question_id: A2-Q1
+baseline_revision: pr2_cou_14-reviewed-baseline-2026-11-18
+baseline_source: "This outcome record, Reviewed Baseline subsection"
+authorized_task: "Acknowledge the accepted Chapter 1 endpoint and retain the reviewed draft and source notes. Do not open a new teaching/revision interview, duplicate submission, methodology activity or Activity 3 without an explicit new teacher directive."
+retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs: []
-carry_forward:
-  - issue_id: pr2_cou_14-carried-clarification-2026-11-16
-    source_activity: pr2_act_01
-    baseline_revision: pr2_cou_14-a01-reviewed-baseline-2026-11-16
-    clarification_requested: "Preserve the approved three-part descriptive framework while developing the background, two verified/understood sources, scope and significance. Explain evidence-to-question links and claim limits; do not infer respondent behavior or causes from bin contents. Proposed high/moderate/low knowledge cutoffs and frequency-score bands remain unvalidated proposals, not accepted instruments or Activity 2 entry gates."
-    address_at_question: A2-Q2
-    blocks_entry: false
-locked_decisions: [teacher-approved destination entry, accepted study identity within stated conditions, individual authorship, no fieldwork authorization]
+carry_forward: []
+locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: DESTINATION_WITH_CLARIFICATION
-stop_for_teacher_decision: false
+submission_required: false
+submission_kind: NONE_ACCEPTED_ENDPOINT
+stop_for_teacher_decision: true
 ```
 
-This is a new explicitly teacher-authorized destination attempt. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt, including carried issues. No used count is invented before work begins; continuation retains the actual ledger. Do not turn missing understanding into unlimited questioning or a ban on submission.
+COMPLETE is an accepted endpoint, not an instruction to start another attempt. Do not demand another submission or question sequence. Minor permitted editorial correction does not authorize a fresh assessment.
 
-## Accepted / Provisional Baseline
+## Reviewed Baseline
 
-Baseline ID: `pr2_cou_14-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot based on reviewed November 12 work, not a fabricated completed submission revision or full transcript. Use this embedded identity to begin; preserve accessible originals privately and label summary-only evidence honestly.
+Baseline ID: `pr2_cou_14-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+
+The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
+
+### Earlier compatible context — provenance, not superseded routing
 
 Working title: Waste Segregation Practices in the School Canteen: Students’ Knowledge, Self-Reported Waste Disposal Practices, and Trash Bin Conditions. Main question: What is the status of waste segregation practices in the school canteen in terms of students’ knowledge, self-reported waste disposal practices, and trash bin conditions? Three specific questions address knowledge of segregation, reported disposal frequency and bin availability/labels/visible segregation. November 12 reasoning distinguishes knowledge, reports and observed bins, available versus clearly labeled bins, N/A versus Never, and bin observations versus individual behavior. Grade 12 remains excluded.
 
@@ -101,20 +93,20 @@ Approved specific-question framework (wording retained from reviewed work):
 
 ## Teacher's Comments
 
-Descriptive waste-segregation problem and main/specific question framework approved; Activity 2 authorized. Working title accepted in principle with normal refinement. Proposed population, sample, scoring thresholds and instruments are not finally approved.
+Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
 
-Preserve the approved three-part descriptive framework while developing the background, two verified/understood sources, scope and significance. Explain evidence-to-question links and claim limits; do not infer respondent behavior or causes from bin contents. Proposed high/moderate/low knowledge cutoffs and frequency-score bands remain unvalidated proposals, not accepted instruments or Activity 2 entry gates.
+Keep published findings separate from this study's future evidence; avoid unsupported causal wording. Sample size, proposed scoring thresholds, instrument validation and full procedures are later methodology matters, not retroactive Chapter 1 acceptance gates. Existing Grade 12 exclusion remains. No fieldwork permission is granted.
 
-After required current-source/maintenance checks and language handling only if needed, begin with the actual next question:
+Acknowledge the accepted Chapter 1 endpoint and retain the reviewed draft and source notes. Do not open a new teaching/revision interview, duplicate submission, methodology activity or Activity 3 without an explicit new teacher directive.
 
-> How does your background explain the need to describe knowledge, reported practices and bin conditions separately, and what can these different sources of evidence actually establish?
+Next action:
 
-Reuse known language and sufficient earlier explanations. Accept short English/Tagalog/Taglish attempts and assess meaning; do not supply an ideal answer, completed question or paragraph for the learner to adopt. Preserve the distinction between student reasoning, recovered summaries and AI-organized wording. Detailed dialogue and feedback belong in the private submission.
+> Acknowledge that Chapter 1 is accepted and that the next activity awaits the teacher's assignment; do not ask a new assessment question.
+
+Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 
 ## Submission and Review
 
-Preserve the earlier baseline, actual clarification and proposed Chapter 1 work, assistance, changes, target status and shared follow-up ledger. At the bounded endpoint compile the authorized review record even if incomplete; name unresolved evidence honestly. Do not reconstruct missing dialogue or make the learner retype a full prior study.
+Chapter 1 is accepted. Keep the accepted work and references; await the teacher's next activity assignment. No automatic Activity 3, duplicate export or extra defense.
 
-Academic completion requires the five current Chapter 1 targets and two distinct credible, actually verified and student-understood sources. Missing support or clarification means incomplete evidence, not permission to fabricate or withhold the review submission. Integrate the carried issue in its destination target; continue independently answerable authorized work if it remains unresolved. Do not send the learner back through an automatic Activity 1 approval cycle. Record a substantive proposed study change separately for teacher decision.
-
-Use current verified file/chat-report delivery rules and stop for the teacher’s decision after submission. This record grants no fieldwork, participant contact, record access or implementation permission. Current maintenance/explicit holds remain binding; this update does not release maintenance or renew the expired November 12 collection directive.
+This record authorizes only its stated tutoring/drafting work, not participant contact, restricted-record access, recruitment, pilot testing, implementation or fieldwork. Follow current delivery and maintenance rules.

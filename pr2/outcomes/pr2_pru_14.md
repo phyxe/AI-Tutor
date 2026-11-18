@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_14
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_14-a01-focused-revision-2026-11-16
@@ -10,7 +10,7 @@ route_resume_checkpoint: C1
 status: provisional-problem-retained-descriptive-focus-question-revision-required
 ---
 
-Teacher decision recorded November 16, 2026 (Asia/Manila): Provisional research-problem acceptance retained. Authorize one focused Activity 1 revision of the descriptive factors focus, indicator and main question. Grade 12 remains prohibited. Title/final question approval and Activity 2 entry remain pending. Detailed student evidence and identity mapping remain private.
+Teacher decision recorded November 18, 2026 (Asia/Manila): Retain provisional problem acceptance and the existing focused Activity 1 revision. The latest review record supplies no new student answer resolving the descriptive focus, indicator or aligned main question. Preserve valid earlier reasoning; continue only those unresolved targets without a full restart. Grade 12 remains prohibited. Title/main-question approval, Activity 2 and Chapter 1 drafting remain unauthorized. Detailed student evidence and identity mapping remain private.
 
 ## Tutor Entry Instructions
 
@@ -33,6 +33,14 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - New evidence: Grade 10 context, actual-versus-allowed AI use and submission-by-deadline indicators are retained as progress.
 - Title/main question approval: Pending; no aligned main question was elicited in the reviewed attempt.
 - Activity 2: Not authorized.
+
+## Latest Reviewed Evidence and Continuation — November 18, 2026
+
+The latest revision-review submission preserves a partial record and earlier baseline summaries, but explicitly supplies no new learner answer to the current problem-focus prompt, indicator explanation or aligned main question. Requests to compile/export a PHX or Chapter 1 are delivery requests, not demonstrations of those meanings. The earlier AI-generated Chapter 1 remains an out-of-scope assisted draft; do not adopt it as approved student work or require the learner to defend it.
+
+Retain the Grade 10 context, possible reasons already named, AI-allowed versus actual AI-use distinction and submission-by-deadline meaning. Begin directly with the existing open C1/A1-Q1 prompt below, then elicit only missing C2/indicator and C4/main-question reasoning. The missing question was not previously elicited; do not call it an incorrect student answer. Do not repeat the extended methodology interview or impose a full restart.
+
+This decision continues the November 16 focused revision attempt and its existing identifiers; it does not open another attempt or reset follow-ups. The latest file records zero follow-ups in its accessible session and unknown earlier history. Preserve actual counts and capture limits; do not infer a wholly unused allowance from that session-only zero. Apply the current bounded protocol and submit the available complete/incomplete review at its endpoint.
 
 ## Current Session Directive
 
