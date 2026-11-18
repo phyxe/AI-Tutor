@@ -1,6 +1,6 @@
 ---
 id: pr2_act_03
-version: 0.3.0
+version: 0.3.1
 status: teacher-review
 title: Chapter 3 and Research Instrument
 learning_area: Practical Research 2
@@ -14,9 +14,13 @@ teacher_route_required: true
 session_submission: complete_or_incomplete
 followup_standard: 3
 followup_maximum: 5
+core_prompt_maximum: 6
+learning_prompt_maximum: 11
 ---
 
 # Activity 3: Explain how your study will answer its questions
+
+**SESSION STOP RULE: at most 11 learning prompts in the entire attempt — 6 listed core prompts, each at most once, plus 3 follow-ups and at most 2 justified extras.** Reuse existing evidence and stop sooner when sufficient. Every later request to explain, write, revise or supply more under an already asked core ID consumes follow-ups; no fresh allowance per paragraph, source, item or checkpoint. Apply the area STOP RULE before every request, show the simple learning-prompt counter, and preserve counts across chats. At the ceiling, give feedback and compile the available submission immediately, even if incomplete. No final interview or student confirmation. For unknown history, ask only positively verified unasked core prompts; otherwise compile.
 
 ## 1. Ask and check: core questions and target understanding
 

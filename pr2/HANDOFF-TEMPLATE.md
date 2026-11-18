@@ -16,6 +16,9 @@ entry_mode: TO-BE-RECORDED
 route_action: TO-BE-RECORDED
 attempt_id: TO-BE-RECORDED
 question_id: TO-BE-RECORDED
+learning_prompts_used: UNKNOWN
+learning_prompt_maximum: 10
+core_prompt_ids_asked: []
 followups_used: Unknown
 followup_count_status: UNKNOWN
 followup_extensions_used: Unknown
@@ -82,3 +85,5 @@ Available original chronological student/AI turns across segments. Carry prior c
 Known gaps, exact cumulative coverage, actual attempt/budget history and uncertainty, verification actually performed, approval snapshot limits, and submission status. Say whether the latest file genuinely contains the earlier evidence and what remains unavailable. No claim of quota prediction, reset, automatic submission, or background saving.
 
 For bounded production sessions, retain the same attempt and consumed allowance across chats. At the authorized endpoint collect complete/incomplete work for teacher review rather than requiring further approval. A carry-forward route includes the previous baseline/clarification plus destination proposal; a revision includes previous plus improved work. Shared chat-report fallback applies to an authorized submission when file tools fail. This handoff itself is continuity, not teacher approval or proof of academic completion.
+
+Question-limit continuity: replace these Activity 2 template counts with the assigned activity ceiling (Activity 1: 8; Activity 2: 10; Activity 3: 11) and actual evidence. An empty ID list with unknown history does not prove that no core prompts were asked. Preserve used slots and count uncertainty; apply the area STOP RULE before any next task. No required retrofit of older teacher records.

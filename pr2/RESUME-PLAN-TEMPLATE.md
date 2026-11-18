@@ -21,6 +21,9 @@ retained_evidence: []
 open_targets: []
 carry_forward: []
 locked_decisions: []
+learning_prompts_used: UNKNOWN
+learning_prompt_maximum: 10
+core_prompt_ids_asked: []
 followups_used: ACTUAL-COUNT-OR-UNKNOWN
 followup_count_status: VERIFIED-OR-UNKNOWN
 followup_extensions_used: ACTUAL-COUNT-OR-UNKNOWN
@@ -42,3 +45,5 @@ Use teacher dispositions RETAIN / OPEN / REPAIR / BLOCKED / NOT_REVIEWED with ac
 PROCEED_WITH_CLARIFICATION selects the destination activity and maps exact prior issues to its targets; submit baseline/clarification plus destination proposal. REVISE_AND_SUBMIT stays in the activity; submit previous and improved work with changes. Explicit WAIT names blocked work and any allowed collection. COMPLETE requests no duplicate work. A route's pending final teacher decision does not create a new mid-chat approval gate. At the bounded endpoint submit available evidence, accurately complete/incomplete, under GENERAL-TUTOR.md's download/chat fallback.
 
 Activity 3: M1 question-baseline/evidence/measurement basis, M2 design, M3 population membership/criteria/count basis and conditional coverage (below 100: complete enumeration, no sampling prompts), M4 student/source-first instrument/blueprint, M5 validation/reliability process understanding and actual pending quality status, M6 ethical procedure/permissions, M7 proposed analysis, M8 planning review/actual clearance status and submission. Map to A3-Q1–Q6 in the opening table. A resume plan authorizes only the assigned tutoring; it never clears participant contact, pilot work or restricted records. Preserve question/instrument versions and actual pending authority.
+
+Question-limit continuity: replace these Activity 2 template counts with the assigned activity ceiling (Activity 1: 8; Activity 2: 10; Activity 3: 11) and actual evidence. An empty ID list with unknown history does not prove that no core prompts were asked. Preserve used slots and count uncertainty; apply the area STOP RULE before any next task. No required retrofit of older teacher records.

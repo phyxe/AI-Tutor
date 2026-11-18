@@ -1,6 +1,6 @@
 ---
 id: pr2_act_02
-version: 0.4.1
+version: 0.4.2
 status: teacher-review
 title: Individual Chapter 1 Research Foundation
 learning_area: Practical Research 2
@@ -14,9 +14,13 @@ scope_contract: PR2-ACT02-BOUNDED-CH1-v3
 session_submission: complete_or_incomplete
 followup_standard: 3
 followup_maximum: 5
+core_prompt_maximum: 5
+learning_prompt_maximum: 10
 ---
 
 # Activity 2: Explain and propose your Chapter 1 foundation
+
+**SESSION STOP RULE: at most 10 learning prompts in the entire attempt — 5 listed core prompts, each at most once, plus 3 follow-ups and at most 2 justified extras.** Reuse existing evidence and stop sooner when sufficient. Every later request to explain, write, revise or supply more under an already asked core ID consumes follow-ups; no fresh allowance per paragraph, source, item or checkpoint. Apply the area STOP RULE before every request, show the simple learning-prompt counter, and preserve counts across chats. At the ceiling, give feedback and compile the available submission immediately, even if incomplete. No final interview or student confirmation. For unknown history, ask only positively verified unasked core prompts; otherwise compile.
 
 ## 1. Ask and check: core questions and target understanding
 

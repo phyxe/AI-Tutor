@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.3.2
+version: 0.3.3
 status: teacher-review
 ---
 
@@ -48,6 +48,8 @@ Same-activity revision uses the teacher-identified baseline and repair scope. Re
 Preserve explicit teacher locks. Record an unauthorized alternative and its student rationale as a proposal, not a new approved baseline. Continue independent authorized work and submit it; do not stop the entire session for routine title/question/draft quality checks. Only a stated WAIT, real authority conflict or missing authorization blocks the dependent learning. Do not interpret pending final teacher acceptance as WAIT.
 
 ## 4. Precise checkpoint and budget continuity
+
+Apply the area STOP RULE before each learning request: whole-attempt ceilings are 8 / 10 / 11 for Activities 1 / 2 / 3, with at most five shared follow-ups. Retain prompt count and used core IDs across checkpoints/chats. At or beyond the ceiling compile now; unknown history permits only positively verified unasked core prompts and no repairs. A route/checkpoint refresh does not open another allowance.
 
 C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. M1–M8 map to Activity 3 baseline/design/population-criteria-and-coverage/instrument/quality-process/ethics/analysis/review; below-100 populations skip sampling questions and use the current complete-enumeration rule; its opening A3-Q1–Q6 table controls those evidence targets. The activity's opening question table defines current meaning, not an old handoff's task list.
 

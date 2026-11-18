@@ -1,6 +1,6 @@
 ---
 id: pr2_act_01
-version: 0.3.1
+version: 0.3.2
 status: teacher-review
 learning_area: Practical Research 2
 area_instructions: AREA-INSTRUCTIONS.md
@@ -11,9 +11,13 @@ evidence_status: Progress Check - feedback only
 session_submission: complete_or_incomplete
 followup_standard: 3
 followup_maximum: 5
+core_prompt_maximum: 3
+learning_prompt_maximum: 8
 ---
 
 # Activity 1: Understand your proposed research problem
+
+**SESSION STOP RULE: at most 8 learning prompts in the entire attempt — 3 listed core prompts, each at most once, plus 3 follow-ups and at most 2 justified extras.** Reuse existing evidence and stop sooner when sufficient. Every later request to explain, write, revise or supply more under an already asked core ID consumes follow-ups; no fresh allowance per paragraph, source, item or checkpoint. Apply the area STOP RULE before every request, show the simple learning-prompt counter, and preserve counts across chats. At the ceiling, give feedback and compile the available submission immediately, even if incomplete. No final interview or student confirmation. For unknown history, ask only positively verified unasked core prompts; otherwise compile.
 
 ## 1. Ask and check: core questions and target understanding
 
