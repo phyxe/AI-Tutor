@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_10
 learning_area: Practical Research 2
-record_version: "1.9"
+record_version: "2.0"
 route_activity: pr2_act_03
-route_action: INITIAL
-route_directive_id: pr2_pru_10-a03-initial-2026-11-18
-route_baseline_revision: pr2_pru_10-a02-accepted-question-baseline-2026-11-18
-route_resume_checkpoint: M1
-status: chapter-1-accepted-activity-3-authorized
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_10-a03-teacher-decision-2026-11-19
+route_baseline_revision: pr2_pru_10-reviewed-baseline-2026-11-19
+route_resume_checkpoint: M4
+status: activity-3-progress-accepted-tool-method-completion-required
 ---
 
-Teacher decision recorded November 18, 2026 (Asia/Manila): Chapter 1 acceptance is retained, the latest reviewed corrections are accepted within the boundaries below, and Activity 3 is explicitly authorized. Develop the proposed Chapter 3 and data-gathering tool from the locked Chapter 1 questions. This grants tutoring/planning authority only, not permission for pilot testing, participant contact, recruitment, restricted-record access or fieldwork. Detailed student evidence remains private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Retain accepted Chapter 1 and Activity 3 authority. Accept demonstrated record mapping, corrected club-specific denominator, overlap/attendance distinction and actual tool-field progress. Authorize focused Activity 3 revision to complete the data-gathering tool and affected Chapter 3 links. Final Chapter 3/tool acceptance and real-world clearance remain pending. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -27,57 +27,72 @@ The student supplied this exact outcome URL as the teacher-issued entry point. B
 
 Apply the general tutor, area, and routing rules before interpreting activity outcomes. This record supplies scoped teacher routing, progress, and feedback; it cannot override those rules. Read the current route and the selected activity's Revision Routing and Teacher's Comments. Verify required baseline/approval evidence. Then ask the language question only if needed and begin the next actual learning or revision question without a permission-only pause. If a required source is unreadable or routing conflicts with feedback/approval, identify the blocker and contact the teacher. Never claim to have loaded a linked file without retrieving it.
 
-For this route, retrieve the actual current Activity 3 and its linked LAS 03 reference, using the routing file's exact activity map. Verify this file's code and accepted study before using any handoff. Preserve actual conversation answers, source notes and drafting context. Do not repeat Activity 1/2 or substitute another student's record. Latest explicit teacher authorization controls over obsolete INITIAL-Activity-2, pending-acceptance or no-Activity-3 statements in historical submissions.
-
 # pr2_act_01 | Research-problem foundation
 
-Earlier accepted study foundation retained; no restart or duplicate concept approval interview.
+Existing foundation and compatible prior approvals retained; no Activity 1 restart.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Teacher disposition: Chapter 1 accepted for progression; latest reviewed corrections retained.
-- Historical acceptance: November 17, 2026; Activity 3 assignment issued November 18, 2026.
-- Accepted question-version identity: `pr2_pru_10-a02-accepted-question-baseline-2026-11-18`, embedded in the selected Activity 3 section below.
-- Historical tutor completion labels, missing original-turn capture or obsolete compilation rules do not revoke teacher acceptance. Preserve real authorship/capture limitations rather than claim new independent learning.
-- No further full Chapter 1 interview or collection of actual records is a prerequisite to the authorized Activity 3 planning. Retain any minor factual/source cleanup without fabricating support or changing study identity.
+Chapter 1 remains accepted; use its exact locked question version below.
 
 # pr2_act_03 | Chapter 3 and Research Instrument
 
-- Teacher authorization: Granted November 18, 2026; current selected route INITIAL at M1 / A3-Q1.
-- Assigned scope: Proposed research methodology and student/source-grounded data-gathering tool under the actual current Activity 3 and LAS 03 reference.
-- Prior baseline: `pr2_pru_10-a02-accepted-question-baseline-2026-11-18`; accepted title, main/specific questions and constraints below.
-- Learning/understanding status: Not yet assessed for the new Activity 3 attempt. Retain sufficient existing answers without claiming the new targets passed.
-- Instrument quality status: Actual draft/review/pretest/pilot/reliability/version status must be checked and labeled truthfully; none is invented or certified by this route.
-- Teacher-recorded collection clearance: NOT_GRANTED by this outcome. Tutor approval cannot grant real-world access or fieldwork.
+Retain accepted Chapter 1 and Activity 3 authority. Accept demonstrated record mapping, corrected club-specific denominator, overlap/attendance distinction and actual tool-field progress. Authorize focused Activity 3 revision to complete the data-gathering tool and affected Chapter 3 links. Final Chapter 3/tool acceptance and real-world clearance remain pending.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_10-a03-initial-2026-11-18
-attempt_id: pr2_pru_10-a03-attempt-2026-11-18
-activity_code: pr2_act_03
-action: INITIAL
-start_checkpoint: M1
-start_question_id: A3-Q1
-baseline_revision: pr2_pru_10-a02-accepted-question-baseline-2026-11-18
-baseline_source: "This outcome record, Accepted Chapter 1 Question Baseline subsection; actual latest manuscript and earlier original responses retained privately"
-question_baseline_id: pr2_pru_10-a02-accepted-question-baseline-2026-11-18
-authorized_task: "Develop and explain a proposed Chapter 3 and separate data-gathering tool through the six current Activity 3 targets, reusing sufficient prior evidence and preserving the locked Chapter 1 study."
-retained_evidence: [accepted Chapter 1 title and question framework, accepted reviewed corrections, actual existing student reasoning and drafts with provenance and assistance limits]
-required_repairs: []
-carry_forward: []
-locked_decisions: [accepted question baseline and study-specific constraints below, student-originated instrument content or genuine source-item provenance, individual authorship, no real-world collection clearance]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: ACTIVITY_REVIEW
-stop_for_teacher_decision: false
-collection_clearance_status: NOT_GRANTED_BY_TUTOR
-teacher_recorded_collection_clearance: NOT_GRANTED
+{
+  "directive_id": "pr2_pru_10-a03-teacher-decision-2026-11-19",
+  "attempt_id": "pr2_pru_10-a03-attempt-2026-11-19",
+  "activity_code": "pr2_act_03",
+  "action": "REVISE_AND_SUBMIT",
+  "start_checkpoint": "M4",
+  "start_question_id": "A3-Q4",
+  "baseline_revision": "pr2_pru_10-reviewed-baseline-2026-11-19",
+  "baseline_source": "This record, Reviewed Progress and Study Baseline; actual latest submission and earlier originals retained privately",
+  "authorized_task": "Complete the student-originated data-gathering tool and corresponding Chapter 3, reusing sufficient evidence and targeting genuine field/code/quality/population/protection/analysis gaps.",
+  "retained_evidence": [
+    "actual compatible earlier answers and drafts",
+    "latest accepted progress described below",
+    "source/provenance and assistance limits"
+  ],
+  "required_repairs": [
+    {
+      "issue_id": "tool-quality-completion",
+      "target": "A3-Q4 / M4-M5",
+      "clarification_or_correction": "Complete directions, exact fields/codes, provenance/version and question-field-analysis blueprint. Explain applicable review, understanding-check, pilot, consistency and revision preparation without inventing results."
+    },
+    {
+      "issue_id": "affected-method-links",
+      "target": "A3-Q2 / A3-Q3 / A3-Q5 / A3-Q6",
+      "clarification_or_correction": "Reuse existing explanations; repair only missing design fit, aggregate count/coverage basis, protection and analysis suitability/undefined-record rules within the shared budget."
+    }
+  ],
+  "carry_forward": [],
+  "locked_decisions": [
+    "accepted exact Chapter 1 question baseline and period",
+    "individual student unit",
+    "official records primary, supplementation labeled",
+    "no fieldwork clearance"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "REVISION_REVIEW",
+  "stop_for_teacher_decision": false,
+  "question_baseline_id": "pr2_pru_10-a02-accepted-question-baseline-2026-11-18",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR",
+  "teacher_recorded_collection_clearance": "NOT_GRANTED"
+}
 ```
 
-This is a new explicitly teacher-authorized Activity 3 attempt: three standard follow-ups plus at most two justified targeted extras across the whole attempt, not per item/source/question. No used count is claimed before work begins. Same-attempt continuation, including a new chat, retains actual used counts and the exact open target. Inspect known evidence first and ask only missing targets.
+## Reviewed Progress and Study Baseline
 
-## Accepted Chapter 1 Question Baseline
+Baseline ID: pr2_pru_10-reviewed-baseline-2026-11-19. This is teacher-designated continuity context, not a recovered full transcript or invented submission revision.
+
+Question baseline identity: pr2_pru_10-a02-accepted-question-baseline-2026-11-18. Previously accepted exact questions retained below.
+
+The latest work supplies student-originated record-sheet sections/fields, participant-level paired data, missing-record reasoning, preliminary review/revision and procedure explanations. Preserve the corrected membership example: seven eligible meetings, three attended, 42.86% in the practice case, using membership separately for each club. Preserve the initial error/correction as learning evidence, not study findings. The previous eleven-prompt session misallocated ten follow-ups; keep that ledger separately and do not repeat adequate overlap/denominator/p-value practice answers. Actual evidence may satisfy multiple targets even where its old prompt label was wrong.
 
 Baseline ID: `pr2_pru_10-a02-accepted-question-baseline-2026-11-18`. Teacher-designated accepted study/question snapshot supporting Activity 3, not a fabricated submission revision, full original transcript, instrument-quality certificate or access permission. Use the actual existing private manuscript/answers when accessible; request only the named missing work if needed, not a complete retyping or reconstruction of unavailable history.
 
@@ -106,26 +121,28 @@ The latest manuscript supplies a partial-overlap example, retains one overlappin
 
 Substantive changes to the locked question/construct/population/period remain separately recorded proposals with the learner's rationale for teacher decision after submission. Do not silently adopt them, invent authority or stop all independent planning for routine draft quality approval.
 
+### Tool completion boundaries
+
+The teacher's questionnaire/instrument completion instruction means completing the tool suited to the accepted questions: retain the student-developed record-extraction/verification sheet. Do not replace official meeting/attendance evidence with a perception questionnaire. Add questionnaire content only for genuinely justified supplementary information, with the accepted source hierarchy preserved.
+
+Complete directions, exact field/code/uncertainty meanings, source basis/version and blueprint from actual learner content. No eligible meetings means an undefined rate, not zero; missing records are not automatic absence. Treat unverified meetings consistently in numerator/denominator and disclose exclusions. Approximate ten is not a verified population count; establish criteria and a privacy-safe aggregate count basis without demanding records are already obtained. Spearman is proposed, not automatically suitable. Retain known design/protection/review explanations and develop only missing quality-process, storage, consent/access and analysis links. External tests and permissions remain pending.
+
 ## Teacher's Comments
 
-Proceed to Activity 3 using your accepted Chapter 1. Keep useful answers and drafts from the existing conversation. Do not start over or seek duplicate permission to begin.
+Continue Activity 3 with the existing tool and drafts:
 
-After current-control/status checks and language handling only if needed, compare existing evidence with A3-Q1 and ask only the actual missing meaning. A suitable first prompt is:
+> Using your existing recording-sheet draft, explain how its fields will record the required evidence consistently and what checks and revisions you will prepare before it can be used.
 
-> What response or record would answer each of your three approved questions, and how would it keep an overlap occasion separate from individual meeting attendance?
+Reuse sufficient field/review explanations rather than asking them again. The learner develops substantive fields/items and meanings; do not generate a finished target questionnaire or methodology for agreement. Map the response across relevant targets, then use only genuine remaining targets and the shared follow-up allowance. Do not treat each field, quality substep or Chapter 3 heading as another question. Deliver the complete/incomplete review plus the two actual DOCX working products at the bounded endpoint.
 
-Then proceed through the six current targets: question-to-evidence mapping, design fit, population criteria/count/coverage, actual instrument and validation/reliability preparation, ethical procedure/data handling, and analysis/claim limits. One actual answer can satisfy several targets; no extra final defense is assigned.
+## Continuity, Budget and Submission
 
-Apply the current teacher-specific population rule: known eligible population 1–99 means invite all eligible members under actual authority, with no sampling-method selection/interview or sample-size formulas. Unknown counts require an aggregate count basis and honest disclosure, not a sampling lesson. At 100 or more, sampling is conditional on actual relevance/authority; it is not automatic. Population count, invitations and actual responses are different quantities. Never request an identifiable roster just to establish the count.
+This November 19 teacher decision explicitly opens a new bounded destination/revision attempt. Retain actual previous answers, manuscripts, tool drafts, source notes, assistance labels and known language. Preserve older prompt ledgers and overruns separately; do not erase them or claim missing understanding is passed. Do not restart the topic or repeat sufficient answers. A continuation/new chat within this attempt retains its actual counts and exact open target.
 
-The learner develops the actual substantive instrument items/record fields and explains their meaning. Reuse existing actual student/source drafts and preserve provenance; do not generate a target item bank, response options or completed methodology for agreement. Explain concepts with brief genuinely different-case examples when needed, then elicit the learner's own application. Do not convert a prior tutor example into student-created evidence.
+Use the current selected activity's stop rule: each listed core prompt at most once, three shared follow-ups plus at most two justified targeted extras, with the activity's total learning-prompt ceiling. Carried alignment uses that same budget, not a separate interview. Map existing contextual evidence across targets; no fresh allowance per item/source/paragraph, mandatory final defense or permission-only pause. Unknown continuation history follows the conservative current rules. Compile actual complete/incomplete work at the bounded endpoint.
 
-Validation and reliability are distinct processes. Help the learner understand how the draft will be reviewed, checked for respondent understanding and tested for applicable consistency, what materials/records are needed, and how evidence would guide revisions/versioning. Pending external tests are not fabricated completed checks and do not prohibit submission of a prepared draft. Do not prescribe a universal coefficient, cutoff or pilot count; do not contact anyone or access records without actual clearance.
+Preserve earlier and improved work, actual changes, responses, source/measurement access limits, question-target ledger and unresolved issues. Label summaries, unavailable originals and AI-supported editing honestly; never reconstruct missing verbatim turns. Accept English/Filipino/Taglish meaning and disclose supported translation/polishing. The learner supplies the substantive questions, meanings and instrument items/fields; do not provide a finished target answer bank or methodology for agreement.
 
-## Submission and Review
+Follow the selected activity's teacher-record and clean-copy delivery rules. Activity 3 requires two separate clean English DOCX working products: the full proposed Chapter 3 and the data-gathering tool, with actual student/source-grounded content and concise missing/pending markers. Do not invent content to make them look complete. Below 100 verified eligible population members, use the activity's whole-population invitation rule without sampling-method questions; an unknown count needs a privacy-safe aggregate count basis, not an invented sample size.
 
-Produce the authorized complete/incomplete Activity 3 teacher record at the bounded endpoint, preserving the accepted Chapter 1 baseline, actual question-to-indicator-to-item/field-to-code-to-analysis chain, original student attempts, assistance, source/measurement basis, version changes, quality/permission status and whole-attempt ledger. Follow the current Activity 3 full manuscript coverage; the headings are output coverage, not extra interviews. Missing content stays visibly incomplete rather than being supplied by the tutor.
-
-After the teacher record/report, provide the two actual separate clean DOCX working products required by Activity 3: **CHAPTER 3 — RESEARCH METHODOLOGY** and the **data-gathering tool**, using only the corresponding actual FINAL OUTPUT subsections. Verify files before linking, exclude tutor logs/audits and disclose generation limits. Do not falsely label the tool validated/reliable or ready for main collection.
-
-Final Chapter 3/tool acceptance, real validation/pilot/access permissions and fieldwork clearance are separate future decisions. Submit actual work for teacher review, keep copies and stop at the authorized endpoint. Do not automatically assign Activity 4, collect data, approach participants or access restricted records. Follow live TUTOR-STATUS.md; this outcome does not alter maintenance.
+Planning authority does not grant participant contact, recruitment, restricted-record access, pilot testing or fieldwork. Validation, respondent checks, pilot, applicable reliability and version status must be truthful; unperformed external checks remain pending and do not prevent submission of a prepared draft. Final product acceptance and exact real-world clearance remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md. This decision supersedes incompatible earlier active queues, preserves historical evidence and does not renew an expired collection notice or automatically assign a later activity.

@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_02
 learning_area: Practical Research 2
-record_version: "1.6"
-route_activity: pr2_act_01
-route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_02-a01-focused-revision-2026-11-17
-route_baseline_revision: pr2_pru_02-a01-reviewed-baseline-2026-11-17
-route_resume_checkpoint: C1
-status: activity-1-progress-accepted-coverage-reasons-main-question-open
+record_version: "1.7"
+route_activity: pr2_act_02
+route_action: PROCEED_WITH_CLARIFICATION
+route_directive_id: pr2_pru_02-a02-teacher-decision-2026-11-19
+route_baseline_revision: pr2_pru_02-reviewed-baseline-2026-11-19
+route_resume_checkpoint: H6
+status: activity-1-foundation-accepted-activity-2-authorized
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the demonstrated distinction between gaming/video activities, duration indicators, routine-related habit and entertainment as progress. Retain the cellphone-use topic provisionally with the existing reservation. Authorize a narrower Activity 1 repair of coverage, openness of reported reasons and the missing aligned main question; no full restart or automatic topic change. Activity 2 remains unauthorized. Student identity and detailed evidence remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the latest Activity 1 foundation and authorize Activity 2 with limited coverage/reason-openness clarification. Retain descriptive gaming/video duration and reported reasons; final title/question wording and Chapter 1 acceptance remain for review. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,87 +29,75 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Accept the demonstrated distinction between gaming/video activities, duration indicators, routine-related habit and entertainment as progress. Retain the cellphone-use topic provisionally with the existing reservation. Authorize a narrower Activity 1 repair of coverage, openness of reported reasons and the missing aligned main question; no full restart or automatic topic change. Activity 2 remains unauthorized.
-- Current academic status: Named explanations accepted as progress; coverage/reason openness and independently stated main question remain open. No new repaired answer is claimed by this teacher update.
-- Current task: Clarify whether the intended descriptive coverage is specifically gaming/video duration and reported reasons, rather than all cellphone use. Do not require every coherent aspect to be forced into one artificial variable. Preserve the already explained activities/duration/habit/entertainment distinctions. Allow habit and entertainment to coexist and avoid assuming they exhaust possible reasons. Elicit the learner’s own aligned main question; do not supply it for agreement. No renewed full topic interview or deferred methodology work.
-- Entry point: C1 / A1-Q1; reuse accessible sufficient evidence rather than repeat the full topic interview.
-- Submission: Same-activity revision review, complete or incomplete at the bounded endpoint; teacher decision after submission.
-- Supersession: This November 15 directive replaces the earlier active task queue and any completion-only export wording. It does not erase history or release maintenance. Former C3/C5/C7 planning tasks are deferred; no full concept-note restart.
+Latest foundation accepted for Activity 2; no repeat Activity 1 interview.
 
-## Current Reviewed Evidence — November 17, 2026
+# pr2_act_02 | Individual Chapter 1 Research Foundation
 
-The new November 16 revision supplies student explanations of seeing some students game/watch videos during free time, proposed hours/minutes for each activity, habit as routine-related use and entertainment as enjoyment/relaxation/passing time. Retain these explanations without requiring them again because wording remains imperfect. No independent current main question was recorded. The submission reports an unknown prior follow-up count; do not invent unused allowance or reconstruct inaccessible turns.
-
-Clarify whether the intended descriptive coverage is specifically gaming/video duration and reported reasons, rather than all cellphone use. Do not require every coherent aspect to be forced into one artificial variable. Preserve the already explained activities/duration/habit/entertainment distinctions. Allow habit and entertainment to coexist and avoid assuming they exhaust possible reasons. Elicit the learner’s own aligned main question; do not supply it for agreement. No renewed full topic interview or deferred methodology work.
-
-This teacher decision authorizes a new focused Activity 1 revision attempt. Preserve the earlier ledger separately; use three standard follow-ups plus at most two justified targeted extras across this whole new attempt. No used count is invented; continuations retain actual counts.
+Accept the latest Activity 1 foundation and authorize Activity 2 with limited coverage/reason-openness clarification. Retain descriptive gaming/video duration and reported reasons; final title/question wording and Chapter 1 acceptance remain for review.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_02-a01-focused-revision-2026-11-17
-attempt_id: pr2_pru_02-a01-revision-attempt-2026-11-17
-activity_code: pr2_act_01
-action: REVISE_AND_SUBMIT
-start_checkpoint: C1
-start_question_id: A1-Q1
-baseline_revision: pr2_pru_02-a01-reviewed-baseline-2026-11-17
-baseline_source: "This outcome record, Current Reviewed Evidence and Revision Baseline / Reviewed Context subsections"
-authorized_task: "Clarify whether the intended descriptive coverage is specifically gaming/video duration and reported reasons, rather than all cellphone use. Do not require every coherent aspect to be forced into one artificial variable. Preserve the already explained activities/duration/habit/entertainment distinctions. Allow habit and entertainment to coexist and avoid assuming they exhaust possible reasons. Elicit the learner’s own aligned main question; do not supply it for agreement. No renewed full topic interview or deferred methodology work."
-retained_evidence: [compatible actual prior reasoning, existing setting and working direction, accessible original work with assistance labels]
-required_repairs:
-  - issue_id: pr2_pru_02-core-repair-2026-11-17
-    target: A1-Q1 / A1-Q2 / A1-Q3
-    clarification_or_correction: "Clarify whether the intended descriptive coverage is specifically gaming/video duration and reported reasons, rather than all cellphone use. Do not require every coherent aspect to be forced into one artificial variable. Preserve the already explained activities/duration/habit/entertainment distinctions. Allow habit and entertainment to coexist and avoid assuming they exhaust possible reasons. Elicit the learner’s own aligned main question; do not supply it for agreement. No renewed full topic interview or deferred methodology work."
-carry_forward: []
-locked_decisions: [retained working direction within teacher boundaries, individual authorship, no Activity 2 authorization, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+{
+  "directive_id": "pr2_pru_02-a02-teacher-decision-2026-11-19",
+  "attempt_id": "pr2_pru_02-a02-attempt-2026-11-19",
+  "activity_code": "pr2_act_02",
+  "action": "PROCEED_WITH_CLARIFICATION",
+  "start_checkpoint": "H6",
+  "start_question_id": "A2-Q3",
+  "baseline_revision": "pr2_pru_02-reviewed-baseline-2026-11-19",
+  "baseline_source": "This record, Reviewed Progress and Study Baseline; actual latest submission and earlier originals retained privately",
+  "authorized_task": "Carry limited coverage/reason openness into A2-Q3 and develop the five current Chapter 1 targets with two verified relevant student-understood sources.",
+  "retained_evidence": [
+    "actual compatible earlier answers and drafts",
+    "latest accepted progress described below",
+    "source/provenance and assistance limits"
+  ],
+  "required_repairs": [],
+  "carry_forward": [
+    {
+      "issue_id": "selected-activities-open-reasons",
+      "target": "A2-Q3 / affected title-background-scope",
+      "clarification_or_correction": "Represent gaming/video as selected activities rather than all phone use. Habit and entertainment can coexist and need not exhaust possible reported reasons; no forced binary or predetermined findings."
+    }
+  ],
+  "locked_decisions": [
+    "descriptive gaming-video duration and reported reasons",
+    "Grade 11 HNHS context",
+    "no assumed harm or prevalence",
+    "no fieldwork authorization"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "DESTINATION_WITH_CLARIFICATION",
+  "stop_for_teacher_decision": false
+}
 ```
 
-This explicitly authorized revision opens a new attempt with three standard follow-ups and at most two justified targeted extras across the whole activity. Historical tutoring is evidence, not counts charged to this new attempt; no used count is fabricated here. Continuations retain actual counts, language and the exact open target. Submit when core evidence is sufficient or the bounded session ends; do not add optional tasks to prolong it.
+## Reviewed Progress and Study Baseline
 
-## Revision Baseline
+Baseline ID: pr2_pru_02-reviewed-baseline-2026-11-19. This is teacher-designated continuity context, not a recovered full transcript or invented submission revision.
 
-Baseline ID: `pr2_pru_02-a01-reviewed-baseline-2026-11-17`. This teacher-designated snapshot is continuity context, not a fabricated submission revision, complete transcript or accepted Activity 2 concept.
+The November 18 responses now explain why gaming/video were selected, daily duration in hours/minutes and an aligned descriptive main question. Habit means routine-related use; entertainment means enjoyment/relaxation/passing time. Preserve these answers and their assistance/capture limits. Personal observations of some students during free time are the rationale, not verified school-wide prevalence, harm or addiction.
 
-The November 12 progress record carries a descriptive draft about Grade 11 cellphone use at Hawan National High School: gaming duration, video-watching duration and reported habit/entertainment reasons. It removes excessive-use diagnoses and allows reasons to overlap, but did not establish why selected entertainment activities represent the intended problem; the newer explanations and remaining narrower repairs are recorded above. It carries older directive references rather than demonstrating the latest coverage repair.
-
-- **Existing working title:** Cellphone-Use Habits and Reasons Among Grade 11 Students of Hawan National High School: A Descriptive Quantitative Study
-- **Existing main question/direction:** What are the cellphone-use habits of selected Grade 11 students in terms of the time they spend playing online games and watching videos, and whether they use their cellphones because of habit and entertainment?
-- **Teacher boundary:** No presumption that gaming is prevalent, harmful, addictive or equivalent to all cellphone use. A defensibly bounded gaming/video study or broader manageable cellphone-use coverage may be proposed and justified, not supplied by the tutor. Any proposed topic change remains for teacher decision.
-- **Evidence treatment:** Preserve actual student attempts and distinguish independent answers, copied models, summaries and AI-organized draft prose. Polished wording or agreement is not a passed target.
-- **Deferred work:** Sampling/counts, instruments/items/scoring, detailed data collection, record acquisition and statistical tests are not Activity 1 deliverables. A brief indicator/evidence-source clarification may support the core but must not become a methodology assignment. Proposed access is not obtained permission.
+Prior working title: Cellphone-Use Habits and Reasons Among Grade 11 Students of Hawan National High School: A Descriptive Quantitative Study. The latest main question asks about time spent gaming/watching videos and reasons, specifically habit and entertainment. Its foundation is accepted; refine destination wording to accurately express selected coverage and openness. No approved final title or exact revised question set is invented.
 
 ## Teacher's Comments
 
-Accept the demonstrated distinction between gaming/video activities, duration indicators, routine-related habit and entertainment as progress. Retain the cellphone-use topic provisionally with the existing reservation. Authorize a narrower Activity 1 repair of coverage, openness of reported reasons and the missing aligned main question; no full restart or automatic topic change. Activity 2 remains unauthorized.
+Proceed with Chapter 1 without another Activity 1 interview. At H6, reuse the latest answer and ask only the carried gap:
 
-Clarify whether the intended descriptive coverage is specifically gaming/video duration and reported reasons, rather than all cellphone use. Do not require every coherent aspect to be forced into one artificial variable. Preserve the already explained activities/duration/habit/entertainment distinctions. Allow habit and entertainment to coexist and avoid assuming they exhaust possible reasons. Elicit the learner’s own aligned main question; do not supply it for agreement. No renewed full topic interview or deferred methodology work.
+> How will your questions make clear that you are describing gaming and video watching, while allowing students' reasons to include both of your examples or other reasons?
 
-After current controls/status checks and language handling only if needed, use actual accessible evidence first, then ask only the unresolved meaning:
+Apply the response to affected title, background and scope, then continue the five current Chapter 1 targets. Do not add sampling, instrument construction or statistical tasks to Activity 2. Activity 3 remains unauthorized.
 
-> What exactly will your study describe about gaming and video watching, and how will your main question allow students’ reported reasons to differ from the two you have already identified?
+## Continuity, Budget and Submission
 
-Retain supported prior answers, assistance and capture limits. Teach briefly at the actual gap and elicit the learner’s own application; do not supply a finished question/paragraph or accept agreement as missing understanding. A reconstructed reference or new questionnaire alone is not a passed learning target. No source search or methodology task is added to Activity 1; Activity 2 remains within its five current targets and two verified student-understood sources. Pending final acceptance does not require another permission pause between questions.
+This November 19 teacher decision explicitly opens a new bounded destination/revision attempt. Retain actual previous answers, manuscripts, tool drafts, source notes, assistance labels and known language. Preserve older prompt ledgers and overruns separately; do not erase them or claim missing understanding is passed. Do not restart the topic or repeat sufficient answers. A continuation/new chat within this attempt retains its actual counts and exact open target.
 
-## Submission and Review
+Use the current selected activity's stop rule: each listed core prompt at most once, three shared follow-ups plus at most two justified targeted extras, with the activity's total learning-prompt ceiling. Carried alignment uses that same budget, not a separate interview. Map existing contextual evidence across targets; no fresh allowance per item/source/paragraph, mandatory final defense or permission-only pause. Unknown continuation history follows the conservative current rules. Compile actual complete/incomplete work at the bounded endpoint.
 
-Preserve the accessible previous submission and improved version with actual before/after changes, prompt context, original responses, guidance, target/budget ledger and remaining issues. If only an earlier summary is available, label it honestly; do not reconstruct originals or make the student retype their whole earlier study. The embedded snapshot permits beginning the repair without requiring a missing private transcript.
+Preserve earlier and improved work, actual changes, responses, source/measurement access limits, question-target ledger and unresolved issues. Label summaries, unavailable originals and AI-supported editing honestly; never reconstruct missing verbatim turns. Accept English/Filipino/Taglish meaning and disclose supported translation/polishing. The learner supplies the substantive questions, meanings and instrument items/fields; do not provide a finished target answer bank or methodology for agreement.
 
-At the bounded endpoint compile the authorized review record even if a target remains unresolved. Mark COMPLETE only if actual C1/C2/C4 evidence and C8 alignment are sufficient; otherwise mark INCOMPLETE and specify the gap. Use current file/chat-report delivery, then stop for the teacher's next decision. No duplicate routine approval is needed before this submission.
+Follow the selected activity's teacher-record and clean-copy delivery rules. Activity 3 requires two separate clean English DOCX working products: the full proposed Chapter 3 and the data-gathering tool, with actual student/source-grounded content and concise missing/pending markers. Do not invent content to make them look complete. Below 100 verified eligible population members, use the activity's whole-population invitation rule without sampling-method questions; an unknown count needs a privacy-safe aggregate count basis, not an invented sample size.
 
-# pr2_act_02 | Individual Chapter 1 Research Foundation
-
-- Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional Activity 1 baseline for Activity 2: Not assigned; the snapshot above is a current revision baseline only.
-- Final Chapter 1 acceptance: Not approved.
-- Next point: Current Activity 1 REVISE_AND_SUBMIT at C1, then teacher review of the revision.
-
-## Teacher's Comments
-
-Activity 1 completion/submission does not authorize Activity 2 automatically. No destination work, fieldwork or topic replacement is authorized by the tutor. This update does not release maintenance or renew the expired November 12 collection directive.
-
-The November 17 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.
+Planning authority does not grant participant contact, recruitment, restricted-record access, pilot testing or fieldwork. Validation, respondent checks, pilot, applicable reliability and version status must be truthful; unperformed external checks remain pending and do not prevent submission of a prepared draft. Final product acceptance and exact real-world clearance remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md. This decision supersedes incompatible earlier active queues, preserves historical evidence and does not renew an expired collection notice or automatically assign a later activity.

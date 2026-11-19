@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_09
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_09-a01-distinct-angle-2026-11-16
-route_baseline_revision: pr2_pru_09-a01-reviewed-baseline-2026-11-16
+route_directive_id: pr2_pru_09-a01-focused-revision-2026-11-19
+route_baseline_revision: pr2_pru_09-a01-reviewed-baseline-2026-11-19
 route_resume_checkpoint: C1
-status: retained-club-academic-conflict-path-distinct-angle-required
+status: topic-accepted-focused-activity-1-completion-required
 ---
 
-Teacher direction recorded November 16, 2026 (Asia/Manila): retain the research path concerning conflicting times of club and academic activities. Guide the learner to develop a substantively different angle within that path. The exact problem formulation, variable, title and main question are not finally approved; Activity 2 remains unauthorized. Student identity and detailed evidence remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the topic concerning how students prioritize or manage competing club and academic responsibilities. Have the learner complete Activity 1 on this accepted path; do not reopen topic selection. The precise conflict, focus/indicator and learner-developed main question still require alignment. Activity 2 is not yet authorized. Detailed student evidence and identity remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,79 +29,69 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher decision: Continue the club–academic scheduling-conflict path; develop a distinct inquiry rather than change to an unrelated topic or restart all work.
-- Academic status: November 16 submission is INCOMPLETE. Problem/context, main-variable/indicator meaning and main-question alignment are partly demonstrated; no repaired target or new student answer is claimed here.
-- Next point: C1 / A1-Q1, limited to clarifying the actual conflict and distinct uncertainty; reuse the existing concern and prioritization attempt, then repair affected C2/C4 meaning.
-- Approval boundary: Permission to develop this path is not final approval of a new angle or authorization for Chapter 1/fieldwork.
-- Supersession: This directive replaces the November 15 INITIAL/restart route and old no-new-submission statement. Preserve prior work as evidence without accepting tutor wording as independent understanding.
+Accept the topic concerning how students prioritize or manage competing club and academic responsibilities. Have the learner complete Activity 1 on this accepted path; do not reopen topic selection. The precise conflict, focus/indicator and learner-developed main question still require alignment. Activity 2 is not yet authorized.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_09-a01-distinct-angle-2026-11-16
-attempt_id: pr2_pru_09-a01-revision-attempt-2026-11-16
-activity_code: pr2_act_01
-action: REVISE_AND_SUBMIT
-start_checkpoint: C1
-start_question_id: A1-Q1
-baseline_revision: pr2_pru_09-a01-reviewed-baseline-2026-11-16
-baseline_source: "This outcome record, Revision Baseline subsection; accessible November 16 submission retained privately"
-authorized_task: "Develop a distinct descriptive angle within conflicting club and academic activity times, then repair the main variable/indicator and one aligned main question."
-retained_evidence: [student-originated scheduling-conflict concern, student-originated prioritization focus, actual prior responses with assistance labels]
-required_repairs:
-  - issue_id: pr2_pru_09-distinct-angle-2026-11-16
-    target: A1-Q1
-    clarification_or_correction: "Clarify a concrete club-versus-academic conflict and what the learner wants to understand about students facing it. Develop a distinct descriptive uncertainty; do not substitute overlap-frequency versus club-attendance correlation or merely rename a group."
-  - issue_id: pr2_pru_09-indicator-question-2026-11-16
-    target: A1-Q2 / A1-Q3
-    clarification_or_correction: "Elicit the learner's own meaning and plausible indicator of the selected focus, then one main question and its alignment reasoning. Agreement with a tutor-supplied question is insufficient evidence."
-carry_forward: []
-locked_decisions: [retain club-academic scheduling-conflict path, distinct descriptive inquiry required, Grade 12 excluded, individual authorship, no Activity 2 authorization, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+{
+  "directive_id": "pr2_pru_09-a01-focused-revision-2026-11-19",
+  "attempt_id": "pr2_pru_09-a01-revision-attempt-2026-11-19",
+  "activity_code": "pr2_act_01",
+  "action": "REVISE_AND_SUBMIT",
+  "start_checkpoint": "C1",
+  "start_question_id": "A1-Q1",
+  "baseline_revision": "pr2_pru_09-a01-reviewed-baseline-2026-11-19",
+  "baseline_source": "This record, Reviewed Context; actual previous submission and teacher-reported choice retained privately",
+  "authorized_task": "Complete the accepted topic's Activity 1 core: describe whether competing obligations are simultaneous attendance demands or academic deadlines/work competing with club time, explain the descriptive prioritization focus and a plausible indicator, then formulate and explain one aligned main question. Use brief teaching and learner application rather than menus; do not invent missed meetings, lower grades or harm. Preserve the accepted path and actual prior explanation.",
+  "retained_evidence": [
+    "actual compatible prior answers",
+    "teacher decision recorded here",
+    "assistance and capture limits"
+  ],
+  "required_repairs": [
+    {
+      "issue_id": "focused-core-completion",
+      "target": "A1-Q1 / A1-Q2 / A1-Q3",
+      "clarification_or_correction": "Complete the accepted topic's Activity 1 core: describe whether competing obligations are simultaneous attendance demands or academic deadlines/work competing with club time, explain the descriptive prioritization focus and a plausible indicator, then formulate and explain one aligned main question. Use brief teaching and learner application rather than menus; do not invent missed meetings, lower grades or harm. Preserve the accepted path and actual prior explanation."
+    }
+  ],
+  "carry_forward": [],
+  "locked_decisions": [
+    "accepted club-versus-academic prioritization topic",
+    "descriptive distinct inquiry",
+    "no Grade 12 respondents",
+    "no Activity 2 or fieldwork authorization"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "REVISION_REVIEW",
+  "stop_for_teacher_decision": false
+}
 ```
 
-This is a new explicitly teacher-authorized focused revision attempt, not a continuation that silently resets the earlier allowance. Use three standard follow-ups plus at most two justified targeted extras across the whole attempt; no used count is claimed yet. Retain actual counts on continuation. Ask only open core targets, reuse sufficient evidence and use C8 as an internal comparison rather than another defense.
+## Reviewed Context
 
-## Revision Baseline
+Baseline ID: pr2_pru_09-a01-reviewed-baseline-2026-11-19. This is teacher-designated context, not a recovered full transcript or completed revision.
 
-Baseline ID: `pr2_pru_09-a01-reviewed-baseline-2026-11-16`. Teacher-designated continuity snapshot of the November 16 Activity 1 review, not a completed submission revision or full transcript.
-
-The learner identifies difficulty managing school and club activities when their times conflict and names how students prioritize activities as the focus. The reason given remains general. The tutor supplied the indicator of deciding which activity to do first and the question, “How do Grade 11 students prioritize their school and club activities when both are scheduled at the same time?” The learner agreed but did not explain the indicator or question alignment independently. Retain that wording as an assisted prior proposal, not an approved or independently demonstrated main question.
-
-Grade 11 replaced the earlier Grade 12 proposal. Grade 12 remains excluded; Grade 11 is a proposed contextual group, not an approved sample. The previous review reports two follow-ups used in the November 15 attempt; preserve that history separately from this new revision allowance.
+The latest student explanation concerns managing time, prioritizing responsibilities and balancing club activities with academic requirements. Accept that topic as directed by the teacher. The later nineteen-prompt sequence used tutor-created menus; preserve those choices as assisted exploratory responses, not independent explanations or locked consequences. The learner has not independently explained a suitable indicator or main question. Earlier provided question wording and agreement are assisted history. Grade 11 club participants remain the proposed context, not a verified sample; Grade 12 remains excluded. Retain the descriptive prioritization direction rather than reproduce an overlap-frequency/club-attendance association. Do not retrieve another student's record.
 
 ## Teacher's Comments
 
-Continue with conflicting times of club and academic activities. Develop a different angle within that concern, grounded in what you actually want to understand. You are not being asked to start over or select an unrelated topic.
+Complete the accepted topic's Activity 1 core: describe whether competing obligations are simultaneous attendance demands or academic deadlines/work competing with club time, explain the descriptive prioritization focus and a plausible indicator, then formulate and explain one aligned main question. Use brief teaching and learner application rather than menus; do not invent missed meetings, lower grades or harm. Preserve the accepted path and actual prior explanation.
 
-### Tutor guidance for differentiation
+Begin directly at the actual missing meaning, using accessible sufficient evidence first:
 
-The neighboring approved study concerns the relationship between overlapping club-meeting frequency and club-meeting attendance among students with multiple club memberships. Do not retrieve another learner's record or ask this learner to compare classmates' work. The boundary stated here is sufficient: this student's inquiry must concern club-versus-academic conflicts and a distinct uncertainty, rather than reproduce an overlap-frequency/club-attendance relationship. Changing only the grade, title or a few terms does not establish a distinct inquiry.
+> In your accepted topic, what actual situation makes students choose between club and academic responsibilities, and what do you want to understand about their prioritization?
 
-Guide toward a manageable descriptive angle emerging from the learner's situation and explanation. Explore how the learner understands the competing obligations and what remains unknown about students facing them. Decision-making/prioritization is an existing student-originated lead, not a final selected variable. Do not impose a ready-made angle, list answer options to adopt, or supply a title, indicator or main research question. Explain the relevant concept briefly or use a genuinely different-case example, then elicit the learner's own application.
-
-Distinguish simultaneous attendance obligations from tasks sharing a deadline or limited preparation time. “Which activity first” may not describe an actual simultaneous conflict. Help the learner explain the intended situation; do not invent local events, prevalence or consequences. Do not presume harm, lower grades or missed attendance, and do not add an unnecessary relationship or intervention.
-
-After current-source/status checks and language handling only if needed, begin with:
-
-> Describe a situation in which club and academic activities compete for the same time. What do you want to understand about how students deal with that situation?
-
-Use the answer to establish the distinct uncertainty, then repair only the missing variable/indicator meaning and main-question alignment. Accept short English/Tagalog/Taglish explanations; a polished AI draft or “I agree” does not demonstrate the missing understanding. Preserve actual student wording and assistance privately.
-
-## Submission and Review
-
-Preserve the accessible previous submission, revised output, actual before/after changes, prompt context, assistance, target status and follow-up ledger. If only a summary is accessible, disclose that limit; do not reconstruct missing originals or make the learner retype the entire study.
-
-At the bounded endpoint submit the authorized complete/incomplete revision for teacher review. Mark COMPLETE only when the actual problem, variable/indicator, main question and internal alignment are sufficient; otherwise identify the exact gap. The revised angle remains for teacher decision after submission rather than another permission pause between questions.
-
-Title and extra questions are optional. No sampling/access plan, instrument, full design defense, statistical plan, source search, collected results or Chapter 1 writing is assigned. Use current file/chat-report and student-output delivery instructions. Follow the live TUTOR-STATUS.md; this outcome does not alter it or renew the expired collection directive. No fieldwork, participant contact or record access is authorized.
+Activity 1 requires only problem/context, focus with a plausible indicator, and one aligned main question with meaning. C8 is an internal comparison, not an extra learner quiz. Title and extra questions are optional; no source search, sampling plan, instrument, statistics, full design defense or Chapter 1 drafting is assigned.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Not approved.
-- Accepted/provisional baseline for Activity 2: Not assigned; the snapshot above supports Activity 1 revision only.
-- Final Chapter 1 acceptance: Not granted.
-- Next point: Focused Activity 1 revision and teacher review after submission; no automatic progression.
+Activity 2 is not authorized. Submit the focused Activity 1 revision for teacher review; topic acceptance does not certify core completion or permit automatic advancement.
+
+## Continuity and Submission
+
+This November 19 teacher directive explicitly opens a new focused revision attempt. Preserve actual earlier answers/drafts, known language, assistance/capture limits and prior prompt ledgers separately. Do not restart the topic or repeat sufficient answers. Use the current activity's listed core prompts and shared three follow-ups plus at most two justified extras, within its total prompt ceiling; no fresh allowance per target or final extra quiz. Continuations keep actual used counts. At the bounded endpoint submit available complete/incomplete work with precise gaps, actual changes, original answers and assistance. Do not reconstruct missing dialogue, make the learner retype the whole study or supply finished assessed answers for agreement.
+
+No participant contact, recruitment, restricted-record access or fieldwork is authorized. Follow live TUTOR-STATUS.md and current teacher-record/clean-copy delivery rules. Final acceptance remains a later teacher decision. This directive supersedes incompatible older active queues while preserving legitimate historical evidence; it does not revive expired collection instructions.

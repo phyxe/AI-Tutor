@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-16
+route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-19
 route_baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-16
 route_resume_checkpoint: H2
-status: new-background-significance-setting-accepted-limited-activity-2-revision
+status: activity-2-retained-relationship-rationale-clarification-required
 ---
 
-Teacher decision recorded November 16, 2026 (Asia/Manila): Accept the November 16 local-gap explanation, significance reasoning and Hawan National High School setting as progress. Retain approved title/questions and Activity 2 authorization. Require only the remaining relationship rationale, any genuinely unresolved overlap-accounting ambiguity, and source/reference corrections before final Chapter 1 acceptance, which remains pending. Detailed student evidence and identity mapping remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 and authorize a new narrow revision of the relationship rationale. Preserve accepted local-gap, setting, significance, title/questions and actual earlier overlap reasoning. The latest file does not establish why examining the two weekly-hour measures together adds useful information beyond describing each separately. Clarify that meaning and only genuinely affected links; final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity mapping remain private.
 
 ## Tutor Entry Instructions
 
@@ -39,11 +39,17 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Chapter 1 drafting authorization: Retained for limited revision; final acceptance pending after submission.
 - Academic completion: Not newly certified; actual missing meaning/support must be resolved or truthfully recorded.
 
+## Latest Review and Teacher Continuation — November 19, 2026
+
+The latest November 18 submission retains the accepted local-gap, setting, significance and questions but does not capture a sufficient learner explanation of the added value of the weekly-hour relationship. Its off-scope privacy/procedure/presentation questions are not missing Chapter 1 targets. The previous attempt exceeded the prompt ceiling; retain that truthfully as a tutor-process issue, not learner fault. This explicit teacher decision opens a new focused revision, with the new directive/attempt IDs below and earlier baseline retained as provenance. Do not repeat the accepted work or restart Chapter 1.
+
+Ask the existing relationship-rationale prompt below only if its meaning is still missing from actual earlier/current answers. Apply the learner's answer to the affected background and approved relationship question. Do not supply a finished rationale for agreement, assume displacement of homework time, add completion/grades/timeliness outcomes, require a new source hunt or demand actual access/data. Reuse accepted overlap reasoning and correct only an actual remaining contradiction. Continued work within this new attempt retains counts; no additional reset is authorized by a new chat.
+
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_11-a02-focused-revision-2026-11-16
-attempt_id: pr2_pru_11-a02-revision-attempt-2026-11-16
+directive_id: pr2_pru_11-a02-focused-revision-2026-11-19
+attempt_id: pr2_pru_11-a02-revision-attempt-2026-11-19
 activity_code: pr2_act_02
 action: REVISE_AND_SUBMIT
 start_checkpoint: H2

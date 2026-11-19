@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_15
 learning_area: Practical Research 2
-record_version: "1.5"
-route_activity: pr2_act_02
-route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_15-a02-focused-revision-2026-11-17
-route_baseline_revision: pr2_pru_15-a02-reviewed-baseline-2026-11-17
-route_resume_checkpoint: H6
-status: progress-accepted-reasonableness-value-for-money-clarification-required
+record_version: "1.6"
+route_activity: pr2_act_03
+route_action: PROCEED_WITH_CLARIFICATION
+route_directive_id: pr2_pru_15-a03-teacher-decision-2026-11-19
+route_baseline_revision: pr2_pru_15-reviewed-baseline-2026-11-19
+route_resume_checkpoint: M1
+status: activity-3-authorized-expected-portion-optional-alignment
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the demonstrated source relevance/local-gap explanation, scope reasoning and significance as progress. Accept the reasoning for consolidating overlapping affordability/money-sufficiency questions. Retain Activity 2 authorization and the perceived-affordability study. Clarify price reasonableness and value for money in relation to affordability, then develop revised questions and repair only affected Chapter 1 links. Exact revised questions and final Chapter 1 acceptance remain pending. No fieldwork permission. Student identity and detailed learning evidence remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Authorize Activity 3 with revised-question alignment carried forward. Accept the distinction between worth the price and having enough money as progress. Explicitly permit dropping expected portion or explaining how it aligns with the other questions; retain the perceived-affordability and price-reasonableness/value-for-money inquiry. Exact revised questions and final products remain for review. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,58 +29,66 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Earlier concept and Activity 2 authorization: Retained within the current teacher conditions.
-- Historical concept identity: `pr2_pru_15-concept-snapshot-2026-11-05`.
-- Current activity: Focused Activity 2 revision; no Activity 1 restart or repeated prerequisite interview.
+Existing foundation and compatible prior approvals retained; no Activity 1 restart.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Accepted progress: Source relevance and local-gap reasoning, scope explanations and realistic significance.
-- Question-overlap disposition: The reasoning for consolidating original Questions 1 and 3 is accepted; do not require the learner to defend them as distinct.
-- Required clarification: Price reasonableness/value for money in relation to affordability; enough money to pay and food being worth its price are not automatically the same judgment.
-- Exact revised question set: Not yet established or approved; retain the value-for-money concern and elicit student-developed wording.
-- Academic completion: INCOMPLETE on the reviewed evidence. This update claims no new student answer or completed clarification.
-- Final Chapter 1 acceptance: Pending after revised submission.
-- Next point: H6 / A2-Q3, using existing sufficient evidence before eliciting missing meaning.
+Activity 3 progression is explicitly authorized with the stated alignment conditions. This is not a claim that all Chapter 1 learning or exact revised wording is complete. Preserve compatible earlier evidence and correct only affected links.
+
+# pr2_act_03 | Chapter 3 and Research Instrument
+
+Authorize Activity 3 with revised-question alignment carried forward. Accept the distinction between worth the price and having enough money as progress. Explicitly permit dropping expected portion or explaining how it aligns with the other questions; retain the perceived-affordability and price-reasonableness/value-for-money inquiry. Exact revised questions and final products remain for review.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_15-a02-focused-revision-2026-11-17
-attempt_id: pr2_pru_15-a02-revision-attempt-2026-11-17
-activity_code: pr2_act_02
-action: REVISE_AND_SUBMIT
-start_checkpoint: H6
-start_question_id: A2-Q3
-baseline_revision: pr2_pru_15-a02-reviewed-baseline-2026-11-17
-baseline_source: "This outcome record, Reviewed Baseline subsection; actual November 17 submission and earlier accessible originals retained privately"
-authorized_task: "Clarify reasonableness and value for money in relation to perceived affordability, develop the aligned revised question set retaining that concern while consolidating redundant questions, and revise only affected Chapter 1 links."
-retained_evidence: [retained approved study identity, accepted source relevance and local-gap reasoning, accepted scope reasoning, accepted significance reasoning, accepted rationale for consolidating original Questions 1 and 3, actual compatible earlier answers with assistance labels]
-required_repairs:
-  - issue_id: pr2_pru_15-reasonableness-value-2026-11-17
-    target: A2-Q3
-    clarification_or_correction: "Explain what price reasonableness and value for money mean for the food received, how these relate to affordability, and how they differ from merely having sufficient money to pay. Do not assume affordability proves good value or that poor value necessarily means inability to pay. Elicit the learner's own criteria and reasoning; do not supply a target answer or predetermined factor list."
-  - issue_id: pr2_pru_15-question-repair-2026-11-17
-    target: A2-Q3
-    clarification_or_correction: "Develop student-grounded revised main/specific questions retaining the price-reasonableness/value-for-money concern and consolidating overlapping affordability/money-sufficiency content. Do not force redundant questions to remain distinct or adopt the earlier proposal deleting the reasonableness concern. Exact wording remains for teacher review after submission."
-  - issue_id: pr2_pru_15-dependent-links-2026-11-17
-    target: A2-Q2 / A2-Q4 / A2-Q5
-    clarification_or_correction: "After the conceptual meaning is established, repair only affected background, purpose, scope or significance links. Retain accepted explanations and actual source evidence. No full Chapter 1 restart, scoring scheme, instrument or extra source worksheet is assigned."
-carry_forward: []
-locked_decisions: [retained perceived-affordability study identity, retained price-reasonableness/value-for-money concern, eligible Grade 9 cooked-food buyers within retained term boundaries, no final Chapter 1 acceptance, individual authorship, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+{
+  "directive_id": "pr2_pru_15-a03-teacher-decision-2026-11-19",
+  "attempt_id": "pr2_pru_15-a03-attempt-2026-11-19",
+  "activity_code": "pr2_act_03",
+  "action": "PROCEED_WITH_CLARIFICATION",
+  "start_checkpoint": "M1",
+  "start_question_id": "A3-Q1",
+  "baseline_revision": "pr2_pru_15-reviewed-baseline-2026-11-19",
+  "baseline_source": "This record, Reviewed Progress and Study Baseline; actual latest submission and earlier originals retained privately",
+  "authorized_task": "Resolve the optional expected-portion choice, consolidate overlapping questions and record their aligned version before dependent tool finalization; develop Chapter 3 and questionnaire.",
+  "retained_evidence": [
+    "actual compatible earlier answers and drafts",
+    "latest accepted progress described below",
+    "source/provenance and assistance limits"
+  ],
+  "required_repairs": [],
+  "carry_forward": [
+    {
+      "issue_id": "optional-expected-portion",
+      "target": "A3-Q1 / M1 and affected Chapter 1 links",
+      "clarification_or_correction": "Allow dropping expected portion or elicit its aligned meaning. Retain price-reasonableness/value-for-money; consolidate overlapping affordability/money-sufficiency content and record student-developed revised questions."
+    }
+  ],
+  "locked_decisions": [
+    "perceived cooked-food affordability",
+    "price-reasonableness-value-for-money concern",
+    "Grade 9 repeated cooked-food buyers under retained Term 2 criteria",
+    "no exact food-money amounts",
+    "no fieldwork clearance"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "DESTINATION_WITH_CLARIFICATION",
+  "stop_for_teacher_decision": false,
+  "question_baseline_id": "pr2_pru_15-a03-conditional-question-baseline-2026-11-19",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR",
+  "teacher_recorded_collection_clearance": "NOT_GRANTED"
+}
 ```
 
-This explicit teacher decision authorizes a new focused revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity. Preserve the prior attempt's unknown follow-up history honestly and separately; this is not an unannounced same-attempt reset. No used count is invented for the new attempt; continuations retain actual counts. Inspect sufficient evidence first, ask only open core targets and do not prolong learning with repeated defenses.
+## Reviewed Progress and Study Baseline
 
-## Reviewed Baseline
+Baseline ID: pr2_pru_15-reviewed-baseline-2026-11-19. This is teacher-designated continuity context, not a recovered full transcript or invented submission revision.
 
-Baseline ID: `pr2_pru_15-a02-reviewed-baseline-2026-11-17`. Teacher-designated review snapshot of the November 17 revision, not a fabricated completed submission revision or full transcript. Preserve actual private original/revised products, responses and assistance where accessible; label summaries and inaccessible earlier material honestly.
+Question baseline identity: pr2_pru_15-a03-conditional-question-baseline-2026-11-19. Teacher-authorized conditional direction; exact aligned student questions must be recorded before dependent item finalization. Do not fabricate an accepted question set. Complete the named alignment within the destination budget and continue independent authorized planning without another routine approval loop.
 
-### Retained study identity and historical questions
+The learner now distinguishes worth the price from ability to pay. Latest menu-assisted selections concern expected portion relative to price and one general judgment across Term 2 purchases; retain their assistance limits. Do not repeat the entire affordability defense or treat selected options as an independently completed question set.
 
 Retained title: The Level of Perceived Affordability of School Canteen Cooked-Food Prices Among Grade 9 Students of Hawan National High School.
 
@@ -101,11 +109,11 @@ The teacher accepts the learner's reasoning that original Q1/Q3 overlap and that
 - The learner identifies school administrators, canteen operators and students and explains how student views could inform review of prices. This is accepted significance reasoning, not a claim that prices must change or a determination of a new correct price.
 - Background, scope and significance drafts contain substantial AI-assisted organization/drafting from established student ideas. Preserve the actual answers and assistance disclosure; fluent paragraphs or agreement alone do not certify independent prose or the unresolved concept.
 
-### Remaining evidence gap
+### Current authorized choice
 
-No recorded student explanation answers the latest clarification about the food received and judging whether a price is reasonable beyond enough money to pay. Absence of an answer is an evidence gap; do not claim the learner was properly asked and failed when the record does not establish that. The background still foregrounds money sufficiency and does not adequately connect the retained value-for-money inquiry. The proposed deletion of the price-reasonableness question is not adopted.
+If expected portion is retained, distinguish anticipated portion from food actually purchased/received and explain its connection to ability to pay, price reasonableness and the question/response meaning. Do not force a hypothetical expectation measure onto purchasing experience. If dropped, the broader retained worth-the-price concern remains; do not silently replace the inquiry with money sufficiency alone or broaden to an unrelated food-quality/satisfaction study. Let the learner formulate revised questions after explaining the choice, then align affected background/scope and record the question version.
 
-### Source continuity and limits
+### Source continuity
 
 Retain the two existing sources; no replacement-source hunt or verification worksheet is assigned:
 
@@ -116,22 +124,20 @@ The teacher review checked the source records and found the submitted summaries 
 
 ## Teacher's Comments
 
-Your source relevance/local-gap explanation, scope reasoning and significance are accepted as progress. Your explanation that affordability and available-money sufficiency overlap is also accepted; you do not need to keep defending these as separate questions.
+Begin with the teacher-authorized choice, using adequate existing answers first:
 
-Continue Activity 2 by clarifying price reasonableness and value for money in relation to affordability. Explain what the food received contributes to that judgment, beyond whether a student can pay. Do not delete that concern from the study or assume that the judgments are identical. The tutor should help you develop your meaning without choosing your answer.
+> Do you want to retain expected portion or leave that concept out, and how would your choice help your questions distinguish affordability from whether the food is worth its price?
 
-After current controls/status checks and language handling only if needed, first inspect actual earlier answers, then ask the unresolved clarification:
+Accept a reasoned choice and apply it to student-developed questions and questionnaire meanings. Dropping this concept is authorized; no additional permission loop is needed. Do not force retention or another long series of answer menus. Continue the six Activity 3 targets with the shared budget, including population/coverage and applicable validation/reliability preparation.
 
-> What information about the food received would help you understand a student's judgment that its price is reasonable or worth the money, and how is that related to—but different from—having enough money to buy it?
+## Continuity, Budget and Submission
 
-Use the answer to guide student-developed revised questions that remove unnecessary Q1/Q3 repetition while retaining the reasonableness/value-for-money concern. Then update only affected background, purpose, scope and significance links. Do not supply a completed question set or paragraph for agreement. Teach briefly at the actual gap, use a genuinely different-case example if needed and request the learner's own application within the shared allowance.
+This November 19 teacher decision explicitly opens a new bounded destination/revision attempt. Retain actual previous answers, manuscripts, tool drafts, source notes, assistance labels and known language. Preserve older prompt ledgers and overruns separately; do not erase them or claim missing understanding is passed. Do not restart the topic or repeat sufficient answers. A continuation/new chat within this attempt retains its actual counts and exact open target.
 
-Do not require a new title simply for cosmetic reasons, repeat accepted scope/beneficiary/source-comparison answers, or assign an overall scoring scheme. Different judgments need conceptual clarity before any later proposal to combine them, but instrument/scoring development is not a Chapter 1 completion task. Do not prescribe lower prices or guaranteed improvements from perceptions alone.
+Use the current selected activity's stop rule: each listed core prompt at most once, three shared follow-ups plus at most two justified targeted extras, with the activity's total learning-prompt ceiling. Carried alignment uses that same budget, not a separate interview. Map existing contextual evidence across targets; no fresh allowance per item/source/paragraph, mandatory final defense or permission-only pause. Unknown continuation history follows the conservative current rules. Compile actual complete/incomplete work at the bounded endpoint.
 
-## Submission and Review
+Preserve earlier and improved work, actual changes, responses, source/measurement access limits, question-target ledger and unresolved issues. Label summaries, unavailable originals and AI-supported editing honestly; never reconstruct missing verbatim turns. Accept English/Filipino/Taglish meaning and disclose supported translation/polishing. The learner supplies the substantive questions, meanings and instrument items/fields; do not provide a finished target answer bank or methodology for agreement.
 
-Preserve accessible previous and revised products, actual before/after changes, original student attempts, assistance, source checks/limits, target/follow-up ledger and remaining issues. If earlier originals are unavailable, disclose that rather than reconstruct them or require whole-study retyping. The embedded snapshot supports entry, not a claim to possess the full private submission.
+Follow the selected activity's teacher-record and clean-copy delivery rules. Activity 3 requires two separate clean English DOCX working products: the full proposed Chapter 3 and the data-gathering tool, with actual student/source-grounded content and concise missing/pending markers. Do not invent content to make them look complete. Below 100 verified eligible population members, use the activity's whole-population invitation rule without sampling-method questions; an unknown count needs a privacy-safe aggregate count basis, not an invented sample size.
 
-Academic completion requires the five current Chapter 1 components, two verified relevant sources with sufficient student understanding and alignment under the actual teacher conditions. Submit the authorized review at the bounded endpoint even if incomplete; identify the exact remaining meaning rather than supply it or withhold the record. Exact revised wording and final acceptance are for teacher review after submission, not a permission pause between answers. Continue independently answerable authorized work if the clarification remains unresolved, without inventing dependent claims.
-
-Use current file/chat-report and clean-copy delivery rules, then stop for the teacher's decision. This November 17 directive supersedes the prior active repair queue and unresolved labels expressly accepted above; historical approvals remain provenance. Follow live TUTOR-STATUS.md; this update does not change maintenance or renew the expired collection notice. No instrument validation, sampling/statistical plan, participant contact, recruitment, record access or fieldwork is authorized.
+Planning authority does not grant participant contact, recruitment, restricted-record access, pilot testing or fieldwork. Validation, respondent checks, pilot, applicable reliability and version status must be truthful; unperformed external checks remain pending and do not prevent submission of a prepared draft. Final product acceptance and exact real-world clearance remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md. This decision supersedes incompatible earlier active queues, preserves historical evidence and does not renew an expired collection notice or automatically assign a later activity.

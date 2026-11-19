@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_12
 learning_area: Practical Research 2
-record_version: "1.4"
+record_version: "1.5"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_12-a02-teacher-decision-2026-11-17
-route_baseline_revision: pr2_pru_12-reviewed-baseline-2026-11-17
+route_directive_id: pr2_pru_12-a02-teacher-decision-2026-11-19
+route_baseline_revision: pr2_pru_12-reviewed-baseline-2026-11-19
 route_resume_checkpoint: H2
-status: activity-2-guided-observable-behavior-clarification-required
+status: activity-2-progress-accepted-further-clarification-required
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Retain approved problem/title/questions and Activity 2 authorization. Give focused guided teaching to help the learner define observable behaviors and explain their cautious link to classroom attention during teacher-led discussion. The manuscript alone does not resolve that understanding; do not require a full instrument or restart. Detailed learning evidence and student identity remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the latest cautious observable-behavior and question-purpose reasoning as progress. Retain Activity 2 for further limited clarification and manuscript/source alignment. Approved problem/title/questions remain retained; final Chapter 1 acceptance and Activity 3 progression are not granted. Student identity and detailed evidence remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,49 +29,57 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher decision: Earlier foundation and Activity 2 authority retained within the current study boundaries.
-- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
+Existing foundation and compatible prior approvals retained; no Activity 1 restart.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Current teacher disposition: Retain approved problem/title/questions and Activity 2 authorization. Give focused guided teaching to help the learner define observable behaviors and explain their cautious link to classroom attention during teacher-led discussion. The manuscript alone does not resolve that understanding; do not require a full instrument or restart.
-- Next point: H2 / A2-Q2; inspect existing evidence and address only the exact open meaning/corrections below.
-- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
+Accept the latest cautious observable-behavior and question-purpose reasoning as progress. Retain Activity 2 for further limited clarification and manuscript/source alignment. Approved problem/title/questions remain retained; final Chapter 1 acceptance and Activity 3 progression are not granted.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_12-a02-teacher-decision-2026-11-17
-attempt_id: pr2_pru_12-a02-attempt-2026-11-17
-activity_code: pr2_act_02
-action: REVISE_AND_SUBMIT
-start_checkpoint: H2
-start_question_id: A2-Q2
-baseline_revision: pr2_pru_12-reviewed-baseline-2026-11-17
-baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
-authorized_task: "Help distinguish the construct attention from a directly visible action and from the observer’s interpretation. Teach briefly using a different context, then ask the learner to identify and explain one context-appropriate behavior at a time. Connect any proposed behavior to the relevant approved listening/focus/distraction aspect, describe what could actually be seen during an opportunity in teacher-led discussion and acknowledge what it cannot prove. Quietness, stillness, eye direction or non-answering alone cannot establish attention; a learner can attend silently. Do not supply a completed indicator list/rubric for adoption, require an item bank, validation or statistical test, or presume behaviors reveal internal thought. Retain consideration of seatmates, task demands, personal issues and seating accommodations/physical limitations as possible alternative explanations rather than proven causes."
-retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
-required_repairs:
-  - issue_id: pr2_pru_12-focused-work-2026-11-17
-    target: A2-Q2
-    clarification_or_correction: "Help distinguish the construct attention from a directly visible action and from the observer’s interpretation. Teach briefly using a different context, then ask the learner to identify and explain one context-appropriate behavior at a time. Connect any proposed behavior to the relevant approved listening/focus/distraction aspect, describe what could actually be seen during an opportunity in teacher-led discussion and acknowledge what it cannot prove. Quietness, stillness, eye direction or non-answering alone cannot establish attention; a learner can attend silently. Do not supply a completed indicator list/rubric for adoption, require an item bank, validation or statistical test, or presume behaviors reveal internal thought. Retain consideration of seatmates, task demands, personal issues and seating accommodations/physical limitations as possible alternative explanations rather than proven causes."
-carry_forward: []
-locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+{
+  "directive_id": "pr2_pru_12-a02-teacher-decision-2026-11-19",
+  "attempt_id": "pr2_pru_12-a02-attempt-2026-11-19",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "start_checkpoint": "H2",
+  "start_question_id": "A2-Q2",
+  "baseline_revision": "pr2_pru_12-reviewed-baseline-2026-11-19",
+  "baseline_source": "This record, Reviewed Progress and Study Baseline; actual latest submission and earlier originals retained privately",
+  "authorized_task": "Apply cautious visible-evidence meaning and existing-source interpretation to Chapter 1; repair only genuinely missing background, scope/significance links.",
+  "retained_evidence": [
+    "actual compatible earlier answers and drafts",
+    "latest accepted progress described below",
+    "source/provenance and assistance limits"
+  ],
+  "required_repairs": [
+    {
+      "issue_id": "bounded-attention-source-alignment",
+      "target": "A2-Q2 / affected scope-significance",
+      "clarification_or_correction": "Use existing answers first; explain what visible evidence supports and cannot prove, interpret existing sources within their measures/settings, and connect them to the local inquiry. Inspect previous significance reasoning before further elicitation."
+    }
+  ],
+  "carry_forward": [],
+  "locked_decisions": [
+    "approved seating-attention inquiry",
+    "naturally occurring seats, no seat assignment",
+    "no causal claims",
+    "no Activity 3 authorization",
+    "no fieldwork clearance"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "REVISION_REVIEW",
+  "stop_for_teacher_decision": false
+}
 ```
 
-This explicit teacher direction opens a new bounded destination/revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity, including carried issues. Preserve older ledgers separately; no used count is invented. Continuation retains actual counts. Do not split a clarification into unlimited new prompts, add a final defense or repeat sufficient answers.
+## Reviewed Progress and Study Baseline
 
-## Reviewed Baseline
+Baseline ID: pr2_pru_12-reviewed-baseline-2026-11-19. This is teacher-designated continuity context, not a recovered full transcript or invented submission revision.
 
-Baseline ID: `pr2_pru_12-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
-
-The new named manuscript includes background, two relevant source leads, scope and significance but no new student-response evidence resolving attention. It repeats listening, focus and avoiding distractions with Rarely/Sometimes/Always ratings without behavior definitions. The approved specific questions are missing although they are available below. Proposed 17 students, three meetings and checklist are planning history, not newly approved instruments or fieldwork.
-
-## Retained / Accepted Study Identity
+The learner now explains that quietness, eye direction, brief talk or a glance away cannot automatically establish attention/inattention, that absence/blocked visibility is not a low score, and that observation does not prove cause. Retain actual question-purpose and scope explanations. Thirty-plus prior prompts were a tutor overrun, not learner fault; no repeated behavior quiz is assigned.
 
 Approved title: Relationship Between Seating Position and Classroom Attention Among Grade 11 – Knowledge Students.
 
@@ -83,24 +91,24 @@ Approved specific questions:
 
 Restore these recorded approved questions into the draft instead of asking the learner to reconstruct or invent replacements. Retain naturally occurring seating; no seat assignment or causal effect claim. Shernoff et al. (2017) and Seet et al. (2022) are existing source leads; respect self-report versus observation, engagement versus attention and university/TBL versus local discussion limits.
 
+The latest manuscript retains source records but does not by itself establish independent source interpretation. Use actual earlier evidence where sufficient. University self-report or medical team-based engagement findings are not a validated observation scale for this class. Retain possible seatmate, task, personal and seating-accommodation explanations.
+
 ## Teacher's Comments
 
-Retain approved problem/title/questions and Activity 2 authorization. Give focused guided teaching to help the learner define observable behaviors and explain their cautious link to classroom attention during teacher-led discussion. The manuscript alone does not resolve that understanding; do not require a full instrument or restart.
+Remain in Activity 2. Use brief teaching and one manageable contextual application at the actual gap:
 
-Help distinguish the construct attention from a directly visible action and from the observer’s interpretation. Teach briefly using a different context, then ask the learner to identify and explain one context-appropriate behavior at a time. Connect any proposed behavior to the relevant approved listening/focus/distraction aspect, describe what could actually be seen during an opportunity in teacher-led discussion and acknowledge what it cannot prove. Quietness, stillness, eye direction or non-answering alone cannot establish attention; a learner can attend silently. Do not supply a completed indicator list/rubric for adoption, require an item bank, validation or statistical test, or presume behaviors reveal internal thought. Retain consideration of seatmates, task demands, personal issues and seating accommodations/physical limitations as possible alternative explanations rather than proven causes.
+> How do the two studies you have read support your seating-and-attention question, and what do their different settings or measures mean for what your own observations could claim?
 
-After current-source/status checks and language handling only if needed, reuse existing explanations first. Where the actual missing meaning remains, begin with:
+Where an observable sign itself remains genuinely undefined, help the learner explain a context-appropriate visible action and its limit within this same target/budget. Do not supply an indicator list/rubric, require a full instrument, repeat hypothetical scenarios or reopen approved questions. Source significance can be demonstrated by existing contextual answers; no extra worksheet or mandatory beneficiary quiz.
 
-> During a teacher’s explanation, what is one action you could actually see, and what could that action tell you—and not tell you—about the student’s attention?
+## Continuity, Budget and Submission
 
-Use short, concrete teaching before the question if needed: an internal quality and an observable sign are different, and the same sign can have more than one explanation. Use an unrelated example for teaching, then return to the learner’s seating/attention inquiry. Develop the student’s reasoning rather than handing over an answer list. Do not label a tutor-produced indicator set as demonstrated student understanding.
+This November 19 teacher decision explicitly opens a new bounded destination/revision attempt. Retain actual previous answers, manuscripts, tool drafts, source notes, assistance labels and known language. Preserve older prompt ledgers and overruns separately; do not erase them or claim missing understanding is passed. Do not restart the topic or repeat sufficient answers. A continuation/new chat within this attempt retains its actual counts and exact open target.
 
-Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
+Use the current selected activity's stop rule: each listed core prompt at most once, three shared follow-ups plus at most two justified targeted extras, with the activity's total learning-prompt ceiling. Carried alignment uses that same budget, not a separate interview. Map existing contextual evidence across targets; no fresh allowance per item/source/paragraph, mandatory final defense or permission-only pause. Unknown continuation history follows the conservative current rules. Compile actual complete/incomplete work at the bounded endpoint.
 
-## Submission, Acceptance and Next Activity
+Preserve earlier and improved work, actual changes, responses, source/measurement access limits, question-target ledger and unresolved issues. Label summaries, unavailable originals and AI-supported editing honestly; never reconstruct missing verbatim turns. Accept English/Filipino/Taglish meaning and disclose supported translation/polishing. The learner supplies the substantive questions, meanings and instrument items/fields; do not provide a finished target answer bank or methodology for agreement.
 
-Destination authorization is granted; final Chapter 1 acceptance remains pending after submission. Collect the actual clarification and proposed Chapter 1 work without forcing another Activity 1 cycle. Academic completion requires sufficient evidence under the five current targets and two verified, student-understood sources, not just headings or the end of the allowance.
+Follow the selected activity's teacher-record and clean-copy delivery rules. Activity 3 requires two separate clean English DOCX working products: the full proposed Chapter 3 and the data-gathering tool, with actual student/source-grounded content and concise missing/pending markers. Do not invent content to make them look complete. Below 100 verified eligible population members, use the activity's whole-population invitation rule without sampling-method questions; an unknown count needs a privacy-safe aggregate count basis, not an invented sample size.
 
-Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
-
-Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.
+Planning authority does not grant participant contact, recruitment, restricted-record access, pilot testing or fieldwork. Validation, respondent checks, pilot, applicable reliability and version status must be truthful; unperformed external checks remain pending and do not prevent submission of a prepared draft. Final product acceptance and exact real-world clearance remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md. This decision supersedes incompatible earlier active queues, preserves historical evidence and does not renew an expired collection notice or automatically assign a later activity.

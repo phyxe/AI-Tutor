@@ -1,16 +1,16 @@
 ---
 student_code: pr2_pru_07
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_02
 route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_pru_07-a02-teacher-decision-2026-11-17
-route_baseline_revision: pr2_pru_07-reviewed-baseline-2026-11-17
+route_directive_id: pr2_pru_07-a02-verbal-clarification-2026-11-19
+route_baseline_revision: pr2_pru_07-reviewed-baseline-2026-11-19
 route_resume_checkpoint: H7
-status: activity-1-conceptual-repair-accepted-activity-2-authorized
+status: activity-2-retained-teacher-verbal-clarification-recorded
 ---
 
-Teacher decision recorded November 17, 2026 (Asia/Manila): Accept the procrastination/late-submission conceptual repair and authorize Activity 2 with a bounded timeframe/cohort clarification. Intentional delay, separate late-submission evidence and association-versus-causation understanding are accepted; do not repeat the Maria-example defense. Final Chapter 1 acceptance and fieldwork remain unapproved. Detailed learning evidence and student identity remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 authorization and the accepted procrastination/late-submission foundation. The teacher confirms verbally that the intended school year is 2026-2027 for the current Grade 11 context. The 2025-2026 historical-cohort wording is superseded. Preserve the topic and complete only remaining Chapter 1 alignment; no Activity 1 restart. Final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity remain private.
 
 ## Tutor Entry Instructions
 
@@ -29,75 +29,77 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher decision: Foundation accepted for Activity 2 development with the specified carried clarification.
-- No Activity 1 restart or duplicate entry-approval interview. Retain actual sufficient prior answers and disclose assistance/capture limits.
+The foundation is already accepted for Activity 2 development. No Activity 1 restart, duplicate topic approval or topic replacement is assigned. Preserve actual earlier sufficient reasoning.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Current teacher disposition: Accept the procrastination/late-submission conceptual repair and authorize Activity 2 with a bounded timeframe/cohort clarification. Intentional delay, separate late-submission evidence and association-versus-causation understanding are accepted; do not repeat the Maria-example defense. Final Chapter 1 acceptance and fieldwork remain unapproved.
-- Next point: H7 / A2-Q4; inspect existing evidence and address only the exact open meaning/corrections below.
-- No new student answer, verified fieldwork, instrument validation or official grade is claimed by this update.
+Retain Activity 2 authorization and the accepted procrastination/late-submission foundation. The teacher confirms verbally that the intended school year is 2026-2027 for the current Grade 11 context. The 2025-2026 historical-cohort wording is superseded. Preserve the topic and complete only remaining Chapter 1 alignment; no Activity 1 restart.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_pru_07-a02-teacher-decision-2026-11-17
-attempt_id: pr2_pru_07-a02-attempt-2026-11-17
-activity_code: pr2_act_02
-action: PROCEED_WITH_CLARIFICATION
-start_checkpoint: H7
-start_question_id: A2-Q4
-baseline_revision: pr2_pru_07-reviewed-baseline-2026-11-17
-baseline_source: "This outcome record, Reviewed Baseline subsection; actual latest student submission retained privately"
-authorized_task: "Clarify whose Grade 11 experience and which school-year period the study means. The submitted SY 2025–2026 period is a proposal, not a confirmed historical access plan. Distinguish current Grade 11 students from a former Grade 11 cohort; do not silently change the period or enroll Grade 12 respondents. Record a substantive period/cohort change for teacher review while continuing independent Chapter 1 work. Actual records, matching arrangements, instruments and permissions are not Activity 2 entry requirements."
-retained_evidence: [teacher decisions stated above, actual sufficient original and revised student reasoning, accessible manuscript and sources with truthful assistance and capture limits]
-required_repairs: []
-carry_forward:
-  - issue_id: pr2_pru_07-carried-clarification-2026-11-17
-    source_activity: pr2_act_01
-    baseline_revision: pr2_pru_07-reviewed-baseline-2026-11-17
-    clarification_requested: "Clarify whose Grade 11 experience and which school-year period the study means. The submitted SY 2025–2026 period is a proposal, not a confirmed historical access plan. Distinguish current Grade 11 students from a former Grade 11 cohort; do not silently change the period or enroll Grade 12 respondents. Record a substantive period/cohort change for teacher review while continuing independent Chapter 1 work. Actual records, matching arrangements, instruments and permissions are not Activity 2 entry requirements."
-    address_at_question: A2-Q4
-    blocks_entry: false
-locked_decisions: [accepted teacher boundaries above, retained study identity, individual authorship, no automatic next activity, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: DESTINATION_WITH_CLARIFICATION
-stop_for_teacher_decision: false
+{
+  "directive_id": "pr2_pru_07-a02-verbal-clarification-2026-11-19",
+  "attempt_id": "pr2_pru_07-a02-focused-attempt-2026-11-19",
+  "activity_code": "pr2_act_02",
+  "action": "PROCEED_WITH_CLARIFICATION",
+  "start_checkpoint": "H7",
+  "start_question_id": "A2-Q4",
+  "baseline_revision": "pr2_pru_07-reviewed-baseline-2026-11-19",
+  "baseline_source": "This outcome record, Confirmed Study and Reviewed Evidence; teacher verbal confirmation and actual originals retained privately",
+  "authorized_task": "Apply the teacher-confirmed SY 2026-2027/current Grade 11 context consistently to the actual draft, resolve only genuine remaining period/question-scope ambiguity and complete the five Chapter 1 targets.",
+  "retained_evidence": [
+    "accepted Activity 1 foundation",
+    "teacher-confirmed direction/context",
+    "actual compatible previous answers and drafts with assistance limits"
+  ],
+  "required_repairs": [],
+  "carry_forward": [
+    {
+      "issue_id": "limited-chapter-alignment",
+      "target": "A2-Q4",
+      "clarification_or_correction": "Correct the obsolete 2025-2026/historical-cohort references to teacher-confirmed SY 2026-2027. Do not ask the learner to defend a former cohort or prove historical record access. Exact semester/quarters must reflect the intended current period and cannot be silently inferred from the old file.",
+      "blocks_entry": false
+    }
+  ],
+  "locked_decisions": [
+    "retained proposed research topic",
+    "confirmed direction/context below",
+    "no Activity 1 restart",
+    "individual authorship",
+    "no fieldwork authorization"
+  ],
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "DESTINATION_WITH_CLARIFICATION",
+  "stop_for_teacher_decision": false
+}
 ```
 
-This explicit teacher direction opens a new bounded destination/revision attempt with three standard follow-ups plus at most two justified targeted extras across the whole activity, including carried issues. Preserve older ledgers separately; no used count is invented. Continuation retains actual counts. Do not split a clarification into unlimited new prompts, add a final defense or repeat sufficient answers.
+## Confirmed Study and Reviewed Evidence
 
-## Reviewed Baseline
-
-Baseline ID: `pr2_pru_07-reviewed-baseline-2026-11-17`. Teacher-designated snapshot of the November 17 reviewed work, not a fabricated completed submission revision, full transcript or access permission. Preserve actual originals privately; do not reconstruct unavailable history or make the learner retype the study.
-
-The November 17 revision explains choice to delay despite an opportunity, external circumstances preventing work, separate variable measures and noncausal association. The learner supplies plausible indicators and explains problem-variable-question alignment. The Maria vignette did not provide actual circumstances: recognizing that an explanation is needed is appropriate reasoning, not a requirement to invent a verdict. The proposed First Semester SY 2025–2026 period is still unresolved relative to the intended Grade 11–Wisdom cohort.
-
-## Retained / Accepted Study Identity
+Baseline ID: pr2_pru_07-reviewed-baseline-2026-11-19. Teacher-designated continuity context, not a reconstructed full transcript or invented completed revision.
 
 Retained working title: Procrastination and Late Module Submissions Among Selected Grade 11 Students of the Wisdom Section at Hawan National High School.
 
-Accepted main-question direction: Is there a significant relationship between procrastination and late module submissions among selected Grade 11 Wisdom students at Hawan National High School?
+Accepted main-question direction: Is there a significant relationship between procrastination and late module submissions among selected Grade 11 Wisdom students at Hawan National High School? Procrastination is chosen postponement despite reasonable opportunity; late submission is submission after the applicable deadline and is a separate measure. Preserve accepted noncausal association reasoning; no repeated Maria-vignette defense.
 
-Procrastination means chosen postponement despite a reasonable opportunity, not every late start/submission. Late submission means submission after the applicable deadline and is measured separately. The purpose is nonexperimental association. Do not force a predetermined result, repeat an example quiz or confuse polished grammar with a missing concept.
+Teacher verbal clarification on November 19: the intended school year is SY 2026-2027, within the current Grade 11 context. This resolves the earlier school-year/historical-cohort uncertainty and supersedes the new file's SY 2025-2026 statements. The verbal confirmation is teacher-reported evidence, not a fabricated written learner transcript. Grade 12 respondents remain excluded. Do not demand proof of historical access, ask the learner again which school year was selected, or silently substitute a former cohort.
+
+The submitted file selected First Semester/First and Second Quarters of the obsolete year to align reported experience and records. Preserve the useful same-reference-period reasoning; confirm only the corresponding intended current period if genuinely unclear. Do not invent exact dates or claim current records have been obtained. Actual records, access permissions and participant matching are not Activity 2 entry prerequisites.
+
+The record does not capture the complete background/two-source interpretation or significance; inspect actual earlier manuscripts/evidence before treating these as entirely absent. Complete genuine gaps rather than reconstruct missing prose. The latest question restricting analysis to students with at least one late submission is not an approved new eligibility lock: preserve zero-late values as meaningful possible outcomes and record any proposed exclusion with rationale for teacher review, not automatic adoption. Do not silently alter the locked research focus or infer approval of a redesigned population from this year correction.
 
 ## Teacher's Comments
 
-Accept the procrastination/late-submission conceptual repair and authorize Activity 2 with a bounded timeframe/cohort clarification. Intentional delay, separate late-submission evidence and association-versus-causation understanding are accepted; do not repeat the Maria-example defense. Final Chapter 1 acceptance and fieldwork remain unapproved.
+Use actual available answers first, then ask only genuinely missing destination meaning:
 
-Clarify whose Grade 11 experience and which school-year period the study means. The submitted SY 2025–2026 period is a proposal, not a confirmed historical access plan. Distinguish current Grade 11 students from a former Grade 11 cohort; do not silently change the period or enroll Grade 12 respondents. Record a substantive period/cohort change for teacher review while continuing independent Chapter 1 work. Actual records, matching arrangements, instruments and permissions are not Activity 2 entry requirements.
+> Using SY 2026-2027 as confirmed, what part of that school year will both your reported procrastination and late-submission information refer to?
 
-After current-source/status checks and language handling only if needed, reuse existing explanations first. Where the actual missing meaning remains, begin with:
+Skip this prompt if the current period is already sufficiently clear in actual answers. Apply the confirmed year and cohort to the draft, reuse the accepted conceptual repair and complete only missing Chapter 1 targets. Keep substantive new eligibility/question alternatives labeled for later teacher review. Do not reopen the resolved school-year choice or impose record acquisition, sampling, instruments or a new full foundation interview.
 
-> Whose Grade 11 experience do you mean for the proposed SY 2025–2026 period, and how does that period fit the students your study intends to describe?
+## Continuity and Submission
 
-Accept short English/Tagalog/Taglish reasoning and assess meaning. Keep original answers, tutor explanations and edited prose distinct. Teach or polish only supported meaning; do not supply a missing main question, source interpretation or assessed paragraph for agreement.
+This explicit teacher update authorizes a new bounded focused Activity 2 attempt; preserve previous answers, known language, drafts, source notes, assistance/capture limits and older prompt ledgers separately. Prior overrun/unknown counts remain disclosed, not learner fault or invented completion. Same-attempt continuation/new chat retains actual counts. Each listed core prompt is asked at most once, with three shared follow-ups plus at most two justified targeted extras within the ten-learning-prompt ceiling. Carried clarification uses this same allowance. Reuse contextual evidence across targets; no repeated interview, separate source worksheet or final extra quiz. At the bounded endpoint submit actual complete/incomplete work and precise remaining issues.
 
-## Submission, Acceptance and Next Activity
-
-Destination authorization is granted; final Chapter 1 acceptance remains pending after submission. Collect the actual clarification and proposed Chapter 1 work without forcing another Activity 1 cycle. Academic completion requires sufficient evidence under the five current targets and two verified, student-understood sources, not just headings or the end of the allowance.
-
-Preserve accessible earlier and current work, actual before/after changes, student attempts, assistance, source checks/access limits and the target/follow-up ledger. Submit the authorized complete/incomplete record at the bounded endpoint, naming real remaining gaps rather than filling them or withholding available work. Do not require original-turn reconstruction, source worksheets, sampling calculations, instruments, statistics, recruitment, actual record acquisition or fieldwork for Activity 2 acceptance.
-
-Use current file/chat-report and clean-copy delivery rules. This directive supersedes incompatible earlier active labels/queues while retaining legitimate historical evidence and actual approvals. Follow live TUTOR-STATUS.md; this update does not alter it. Do not automatically start Activity 3, pilot, recruitment, participant contact, restricted-record access or fieldwork; those require their own explicit teacher authorization.
+Complete the five current Chapter 1 targets with two verified relevant sources and sufficient student-understood source-to-inquiry links. Keep original answers, edits and summaries distinct. Do not invent missing paragraphs or make the learner recreate inaccessible history. Follow current review-record and clean-copy delivery rules; final Chapter 1 acceptance/Activity 3 remain later teacher decisions. No participant contact, recruitment, restricted-record access, pilot or fieldwork is authorized. Follow live TUTOR-STATUS.md; incompatible earlier active directions are superseded while actual historical evidence remains preserved.
