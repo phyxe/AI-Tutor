@@ -1,32 +1,22 @@
 ---
 student_code: pr2_cou_14
 learning_area: Practical Research 2
-record_version: "1.7"
-route_activity: pr2_act_02
-route_action: COMPLETE
-route_directive_id: pr2_cou_14-a02-endpoint-submission-2026-11-19
-route_baseline_revision: pr2_cou_14-reviewed-baseline-2026-11-18
-route_resume_checkpoint: H8
-status: chapter-1-accepted-activity-3-not-yet-authorized
+record_version: "1.8"
+route_activity: pr2_act_03
+route_action: INITIAL
+route_directive_id: pr2_cou_14-a03-initial-2026-11-19
+route_baseline_revision: pr2_cou_14-a02-accepted-question-baseline-2026-11-19
+route_resume_checkpoint: M1
+status: chapter-1-accepted-activity-3-authorized
 ---
 
-Teacher decision recorded November 18, 2026 (Asia/Manila): Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment. Detailed student identity, original submissions and dialogue remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Chapter 1 acceptance is retained and Activity 3 is explicitly authorized. Develop the proposed Chapter 3 and data-gathering tool from the accepted three-part descriptive Chapter 1 below. This authorizes tutoring/planning only, not recruitment, participant contact, restricted-record access, validation/pilot implementation or fieldwork. Detailed student identity and original dialogue remain private.
 
-## Endpoint submission instruction — November 19, 2026
+## Teacher Identity and Continuity
 
-The teacher requires a current Activity 2 `.phx` submission after the permitted clarifications/corrections and before any next activity. Preserve the Chapter 1 acceptance already recorded. This instruction replaces the earlier no-export language only; it does not authorize Activity 3 or reopen sufficient learning targets.
+Bind this outcome filename and student_code to pr2_cou_14. Retain the school-canteen waste-segregation study: knowledge, self-reported disposal practices and observed bin conditions. Never substitute another student's topic or transfer approvals. Preserve actual conversation answers, known language, source notes, accepted targets and authentic corrections. Distinguish original student reasoning from recovered summaries and assisted wording. Future exports use student_code pr2_cou_14 and activity_code pr2_act_03.
 
-## Teacher Identity and Topic Binding — Current November 18, 2026
-
-- **Required record identity:** `pr2_cou_14`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
-- **Original research path:** Waste segregation inside the school canteen, initially described as awareness/practices/bin conditions.
-- **Current teacher-authorized direction:** Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
-- **Retained actual progress:** The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
-- **Current next target:** H8 / accepted endpoint (full accepted Chapter 1 is embedded below for continuity): Preserve the accepted Chapter 1 and existing conversation answers. Complete any permitted minor clarification or editorial correction, then generate the current Activity 2 .phx submission with the Chapter 1 output, actual clarification/change record, source notes and assistance labels under the current delivery rules. Direct the student to submit that file to the teacher, keep a copy and await explicit authorization for the next activity. Do not start Activity 3 or repeat an assessment interview.
-
-Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_14` and activity_code `pr2_act_02`. Correcting export metadata does not rewrite the original submission.
-
-This explicit decision supersedes the November 16 route and November 17 current-target/approval limitations only where changed here. Recheck current controllers and maintenance; do not revive an expired collection notice. On a mid-conversation refresh retain actual answers, resolved targets, known language, drafting/source context and the current attempt ledger. Do not reset merely because this file was reloaded.
+This explicit authorization supersedes older no-Activity-3, accepted-endpoint-only and missing-Chapter-1 statements in historical exports. The teacher recovered the existing Chapter 1 into this record; do not require another Activity 2 rebuild, reupload or collection as an entry gate. Missing historical dialogue is not invented. Current maintenance and shared retrieval rules still apply.
 
 ## Tutor Entry Instructions
 
@@ -45,61 +35,21 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
-- Retained Activity 1 evidence: The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
-- Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
+Accepted foundation retained; do not restart or reinterview sufficient Activity 1 targets.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
-- Chapter 1 drafting authorization: Authorized; preserve the approved descriptive/association direction and stated boundaries.
-- Final Chapter 1 acceptance: Accepted November 18, 2026; Activity 3 remains unassigned.
-- Activity 3: Not authorized by this decision.
+Chapter 1 accepted November 18, 2026; full existing text recovered November 19. The accepted questions below are the baseline for Activity 3. Acceptance does not approve a fixed sample, scoring thresholds or instruments. Earlier endpoint-only collection instructions are superseded for present routing by the explicit Activity 3 authorization.
 
-## Current Session Directive
+## Accepted / Locked Chapter 1 Baseline
 
-```yaml
-directive_id: pr2_cou_14-a02-endpoint-submission-2026-11-19
-attempt_id: pr2_cou_14-a02-attempt-2026-11-18
-activity_code: pr2_act_02
-action: COMPLETE
-start_checkpoint: H8
-start_question_id: A2-Q1
-baseline_revision: pr2_cou_14-reviewed-baseline-2026-11-18
-baseline_source: "This outcome record, Reviewed Baseline subsection"
-authorized_task: "Preserve the accepted Chapter 1 and existing conversation answers. Complete any permitted minor clarification or editorial correction, then generate the current Activity 2 .phx submission with the Chapter 1 output, actual clarification/change record, source notes and assistance labels under the current delivery rules. Direct the student to submit that file to the teacher, keep a copy and await explicit authorization for the next activity. Do not start Activity 3 or repeat an assessment interview."
-retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
-required_repairs: []
-carry_forward: []
-locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
-decision_timing: AFTER_SUBMISSION
-submission_required: true
-submission_kind: ENDPOINT_COLLECTION
-stop_for_teacher_decision: true
-```
-
-COMPLETE retains the accepted academic endpoint. The teacher explicitly authorizes the endpoint .phx collection on November 19, 2026; it does not open a new teaching attempt or reset the follow-up ledger. Generate the current record after any permitted clarification/correction, submit it and stop. Do not demand a duplicate if this exact updated record has already been delivered and submitted; an older submission preceding the current clarifications does not establish that this collection is done.
-
-## Reviewed Baseline
-
-Baseline ID: `pr2_cou_14-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
-
-The reviewed work supplies the five current Chapter 1 components and relevant published support, distinguishes knowledge, reports and observed bins, and does not present published findings as local school results. Recorded learning evidence is partly summarized; no missing verbatim dialogue is invented.
-
-### Earlier compatible context — provenance, not superseded routing
-
-Working title: Waste Segregation Practices in the School Canteen: Students’ Knowledge, Self-Reported Waste Disposal Practices, and Trash Bin Conditions. Main question: What is the status of waste segregation practices in the school canteen in terms of students’ knowledge, self-reported waste disposal practices, and trash bin conditions? Three specific questions address knowledge of segregation, reported disposal frequency and bin availability/labels/visible segregation. November 12 reasoning distinguishes knowledge, reports and observed bins, available versus clearly labeled bins, N/A versus Never, and bin observations versus individual behavior. Grade 12 remains excluded.
-
-Approved specific-question framework (wording retained from reviewed work):
-
-1. What is the level of students' knowledge about proper waste segregation in terms of identifying biodegradable and non-biodegradable waste, choosing the appropriate trash bins, and understanding the importance of waste segregation?
-2. How often do students report following proper waste disposal practices in the school canteen in terms of using the appropriate trash bins and following waste segregation labels or instructions?
-3. What is the condition of the trash bins in the school canteen in terms of the availability of separate bins for different types of waste, clarity of labels, and proper waste segregation?
+Baseline ID: `pr2_cou_14-a02-accepted-question-baseline-2026-11-19`. Teacher-designated continuity copy of the accepted November 17 submission and subsequent teacher decisions. The three exact specific questions under Statement of the Problem below are locked for this Activity 3 attempt; record substantive proposed changes for teacher review rather than silently changing them.
 
 ## Recovered Accepted Chapter 1 — November 19, 2026
 
 This embedded continuity copy is recovered from the teacher-held November 17 submission. It restores actual existing prose; it is not new student work, a reconstructed transcript or a new assessment. The November 18 teacher acceptance controls over historical pending-approval labels in the original. Source references and source summaries below are retained from the accepted submission; this recovery does not claim new source verification or new student answers.
 
-Use this actual text and the accepted question baseline for future teacher-authorized work without asking the learner to rebuild already available sections. Keep current conversation answers and any authentic later corrections, identifying their provenance. Do not import a methodology proposal from a later status summary as an approved decision. No new .phx is generated by this recovery. This does not itself assign Activity 3 or remove any separately applicable endpoint-delivery instruction.
+Use this actual text and the accepted question baseline for future teacher-authorized work without asking the learner to rebuild already available sections. Keep current conversation answers and any authentic later corrections, identifying their provenance. Do not import a methodology proposal from a later status summary as an approved decision. No new .phx is generated by this recovery. The explicit Activity 3 authorization in this current record now controls; the earlier endpoint-only collection does not block entry.
 
 ### Working research title
 
@@ -175,24 +125,52 @@ The student also explained that Matsumoto et al. (2018) and Diola (2025) provide
 - Accepted specific-question baseline: the three exact numbered questions under Statement of the Problem above. These, rather than a generic status summary, supply the questions for any later explicitly assigned methodology work.
 - Retain the Chapter 1 boundary of Grades 7–11 regular canteen users; Grade 12 is excluded. The original text presents respondent selection, sample size and tools as proposals. Acceptance of Chapter 1 does not establish a final population count, approve a fixed twenty respondents, approve sampling/scoring thresholds, or validate a questionnaire/checklist.
 - Preserve source-setting limits: published studies in other schools are contextual support, not local HNHS findings. The historical phrase positive impact must not be extended into a causal claim by this study or proof that a local intervention works.
-- Activity 3 requires an explicit teacher route and assignment. Before that decision, retain COMPLETE for Activity 2. No recruitment, participant contact, record access, pilot testing, implementation or fieldwork is authorized.
+- Activity 3 is now explicitly assigned by the current route. Activity 2 remains accepted; no repeated entry interview is required. No recruitment, participant contact, record access, pilot testing, implementation or fieldwork is authorized.
+
+# pr2_act_03 | Chapter 3 and Research Instrument
+
+- Activity 3 drafting authorization: Explicitly approved November 19, 2026.
+- Starting point: M1 / A3-Q1, question-to-evidence mapping using the embedded accepted questions.
+- Final Chapter 3/tool acceptance: Pending submission and teacher review.
+
+## Current Session Directive
+
+```yaml
+directive_id: pr2_cou_14-a03-initial-2026-11-19
+attempt_id: pr2_cou_14-a03-attempt-2026-11-19
+activity_code: pr2_act_03
+action: INITIAL
+start_checkpoint: M1
+start_question_id: A3-Q1
+baseline_revision: pr2_cou_14-a02-accepted-question-baseline-2026-11-19
+baseline_source: "This outcome record, Accepted / Locked Chapter 1 Baseline and recovered full Chapter 1"
+authorized_task: "Develop and explain the proposed Chapter 3, question-measurement-analysis blueprint and student-originated data-gathering tool using the accepted Chapter 1 questions and current Activity 3."
+retained_evidence: [accepted Chapter 1 and exact specific questions, actual prior understanding and source notes, authentic later answers with assistance labels]
+required_repairs: []
+carry_forward: []
+locked_decisions: [accepted descriptive question baseline, school-canteen setting, Grade 12 excluded, three evidence types kept separate, individual authorship, no fieldwork authorization]
+decision_timing: AFTER_SUBMISSION
+submission_required: true
+submission_kind: ACTIVITY_REVIEW
+stop_for_teacher_decision: true
+```
 
 ## Teacher's Comments
 
-Activity 2 / Chapter 1 accepted. The descriptive knowledge, self-reported disposal-practices and bin-condition framework is retained. Minor editorial/source-claim corrections do not reopen academic acceptance. Activity 3 is not yet authorized; await an explicit teacher assignment.
+Retrieve the actual current Activity 3 and its linked LAS 03 reference under the current general/area/routing controllers. Reuse embedded Chapter 1 instead of treating it as unavailable. Begin with the actual next task in the known language:
 
-Keep published findings separate from this study's future evidence; avoid unsupported causal wording. Sample size, proposed scoring thresholds, instrument validation and full procedures are later methodology matters, not retroactive Chapter 1 acceptance gates. Existing Grade 12 exclusion remains. No fieldwork permission is granted.
+> What evidence would answer each of your three accepted questions about knowledge, self-reported disposal practices and bin conditions, and what would each kind of evidence be unable to establish?
 
-Preserve the accepted Chapter 1 and existing conversation answers. Complete any permitted minor clarification or editorial correction, then generate the current Activity 2 .phx submission with the Chapter 1 output, actual clarification/change record, source notes and assistance labels under the current delivery rules. Direct the student to submit that file to the teacher, keep a copy and await explicit authorization for the next activity. Do not start Activity 3 or repeat an assessment interview.
+Keep knowledge answers, reported behavior and bin observations conceptually distinct. Bin contents do not identify who disposed of waste; reports do not prove observed behavior. No correlation or causal analysis is added to this descriptive study merely because it contains three aspects.
 
-Next action:
+At the population target establish relevant membership/regular-canteen-use criteria and the actual aggregate population size/count basis, without requesting student names. Grades 7–11 remain the Chapter 1 boundary; Grade 12 is excluded. A historical proposal of twenty willing users is not an approved population or sample. If the actual eligible population is below 100, apply the current complete-enumeration invitation rule with no sampling-method or sample-size questions. If size is unknown, disclose the gap and clarify within budget, without inventing a count. At 100 or more follow actual teacher constraints and discuss sampling only when relevant. Invitation of all never guarantees response by all.
 
-> Your Chapter 1 is accepted. I will prepare your Activity 2 .phx file with your current work and any clarifications or corrections. Submit it to Sir Francis, keep a copy, and wait for his instruction before starting Activity 3.
+The learner must develop and explain substantive questionnaire items and bin-condition indicators, their response/score meaning and their link to the accepted questions. Do not supply a finished target instrument or arbitrary cutoffs for adoption. Explain validation versus reliability and the applicable preparation/review/understanding-check/authorized-pilot sequence; pending real checks are planned, not completed or failed merely because external testing has not occurred. Do not label proposed tools validated or reliable without actual evidence.
 
-Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
+Use the current six core targets and whole-attempt budget: three standard follow-ups and at most two justified targeted extras, with at most eleven learning prompts overall. Stop sooner when sufficient. Record actual counts from this new Activity 3 attempt and preserve them on continuation; no budget reset per source, item or reload. Do not add a final defense or repeat resolved Chapter 1 learning. Retain actual prior methodology ideas only as proposals/evidence of demonstrated understanding, not invented approvals.
 
 ## Submission and Review
 
-Chapter 1 remains accepted. After any permitted clarification/correction, generate the actual current Activity 2 .phx file according to the verified delivery rules. Include existing Chapter 1 work, actual clarification answers/changes, remaining limitations, references and disclosed assistance without fabricating missing dialogue. Explicitly instruct the student to submit the .phx file to Sir Francis and retain a copy, then stop and await the teacher's next activity authorization. Finishing clarification, receiving the file, or this Chapter 1 acceptance does not authorize Activity 3. If file generation is unavailable, disclose that limitation and use the current controller's permitted delivery fallback; do not claim a downloadable file exists when it does not.
+At the bounded endpoint compile the actual complete or incomplete Activity 3 .phx record with the proposed Chapter 3, tool, blueprint, quality/permission status, assistance, unresolved matters and actual learning ledger. Under current Activity 3 delivery rules also provide the two separate clean DOCX working products: Chapter 3 and the data-gathering tool. Use actual student-grounded output, verify files before linking and disclose generation limits; never invent a download or validation result.
 
-This record authorizes only its stated tutoring/drafting work, not participant contact, restricted-record access, recruitment, pilot testing, implementation or fieldwork. Follow current delivery and maintenance rules.
+Instruct immediate submission to Sir Francis through the usual channel and retention of copies, then stop for the teacher's decision. Do not automatically assign another activity, implement a pilot or approach participants. This authorization does not grant fieldwork or access clearance and does not change live maintenance.
