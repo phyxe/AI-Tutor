@@ -1,24 +1,24 @@
 ---
 student_code: pr2_cou_08
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_08-a02-teacher-direction-2026-11-18
-route_baseline_revision: pr2_cou_08-reviewed-baseline-2026-11-18
+route_directive_id: pr2_cou_08-a02-clarification-submit-2026-11-19
+route_baseline_revision: pr2_cou_08-reviewed-baseline-2026-11-19
 route_resume_checkpoint: H6
-status: activity-2-focused-question-and-chapter-1-revision
+status: activity-2-descriptive-direction-background-clarification-submit-and-wait
 ---
 
-Teacher decision recorded November 18, 2026 (Asia/Manila): Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. This is a focused Activity 2 revision, not an Activity 1 restart. Complete Chapter 1 and final question/title wording remain pending. Detailed student identity, original submissions and dialogue remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. Accept the demonstrated distinction between nonparticipation and lack of duty/opportunity, and preserve sufficient scope, limitations and practical significance. Final Chapter 1 acceptance is pending focused descriptive-question/background clarification. Activity 3 requires a separate explicit teacher decision. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — Current November 18, 2026
+## Teacher Identity and Topic Binding — Current November 19, 2026
 
 - **Required record identity:** `pr2_cou_08`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Classroom-cleaning participation, historically framed around a researcher-introduced cleaning schedule.
-- **Current teacher-authorized direction:** Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. This is a focused Activity 2 revision, not an Activity 1 restart. Complete Chapter 1 and final question/title wording remain pending.
-- **Retained actual progress:** The new addendum contains eighteen responses about instruments, privacy, reporting and recommendations, but does not establish completion of the five Chapter 1 targets or resolve participation/nonparticipation meaning. These are proposals, not actual data or results.
-- **Current next target:** H6 / A2-Q3: Return to the descriptive main/specific questions: explain participation and nonparticipation in relation to an actual responsibility/opportunity to clean. Then address only genuinely missing Chapter 1 targets, including the connected background with two verified and understood sources, scope and significance. Retain compatible answers already present.
+- **Current teacher-authorized direction:** Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. Accept the demonstrated distinction between nonparticipation and lack of duty/opportunity, and preserve sufficient scope, limitations and practical significance. Final Chapter 1 acceptance is pending focused descriptive-question/background clarification. Activity 3 requires a separate explicit teacher decision.
+- **Retained actual progress:** The November 19 submission correctly distinguishes actual help from lack of duty/opportunity and preserves absence/non-observation distinctions. The learner explains participation counts, reported reasons, bounded scope and practical use. Schedule-effect assumptions persist in the actual questions and scope; tutor-proposed descriptive rewrites are not independently demonstrated student revisions. A connected background and accurate source-specific interpretation remain open. Correct student/activity codes now appear in this export. The six follow-ups were a tutor-side overrun, not grounds to discard answers.
+- **Current next target:** H6 / A2-Q3: Clarify the learner's own descriptive main/specific questions around participation and reported reasons for nonparticipation, then develop a connected source-supported background using the two credible sources with accurate claim limits. Treat an existing cleaning schedule as context unless the learner explains a necessary descriptive role; do not introduce a schedule or test effectiveness. Retain demonstrated opportunity distinctions, scope and practical significance, and update only affected alignment. Reuse sufficient title/focus evidence rather than add a compulsory title interview.
 
 Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_08` and activity_code `pr2_act_02`. Correcting export metadata does not rewrite the original submission.
 
@@ -41,8 +41,8 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. This is a focused Activity 2 revision, not an Activity 1 restart. Complete Chapter 1 and final question/title wording remain pending.
-- Retained Activity 1 evidence: The new addendum contains eighteen responses about instruments, privacy, reporting and recommendations, but does not establish completion of the five Chapter 1 targets or resolve participation/nonparticipation meaning. These are proposals, not actual data or results.
+- Teacher approval boundary: Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. Accept the demonstrated distinction between nonparticipation and lack of duty/opportunity, and preserve sufficient scope, limitations and practical significance. Final Chapter 1 acceptance is pending focused descriptive-question/background clarification. Activity 3 requires a separate explicit teacher decision.
+- Retained Activity 1 evidence: The November 19 submission correctly distinguishes actual help from lack of duty/opportunity and preserves absence/non-observation distinctions. The learner explains participation counts, reported reasons, bounded scope and practical use. Schedule-effect assumptions persist in the actual questions and scope; tutor-proposed descriptive rewrites are not independently demonstrated student revisions. A connected background and accurate source-specific interpretation remain open. Correct student/activity codes now appear in this export. The six follow-ups were a tutor-side overrun, not grounds to discard answers.
 - Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
@@ -54,35 +54,47 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_08-a02-teacher-direction-2026-11-18
-attempt_id: pr2_cou_08-a02-attempt-2026-11-18
+directive_id: pr2_cou_08-a02-clarification-submit-2026-11-19
+attempt_id: pr2_cou_08-a02-attempt-2026-11-19
 activity_code: pr2_act_02
 action: REVISE_AND_SUBMIT
 start_checkpoint: H6
 start_question_id: A2-Q3
-baseline_revision: pr2_cou_08-reviewed-baseline-2026-11-18
+baseline_revision: pr2_cou_08-reviewed-baseline-2026-11-19
 baseline_source: "This outcome record, Reviewed Baseline subsection"
-authorized_task: "Return to the descriptive main/specific questions: explain participation and nonparticipation in relation to an actual responsibility/opportunity to clean. Then address only genuinely missing Chapter 1 targets, including the connected background with two verified and understood sources, scope and significance. Retain compatible answers already present."
+authorized_task: "Clarify the learner's own descriptive main/specific questions around participation and reported reasons for nonparticipation, then develop a connected source-supported background using the two credible sources with accurate claim limits. Treat an existing cleaning schedule as context unless the learner explains a necessary descriptive role; do not introduce a schedule or test effectiveness. Retain demonstrated opportunity distinctions, scope and practical significance, and update only affected alignment. Reuse sufficient title/focus evidence rather than add a compulsory title interview."
 retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs:
-  - issue_id: pr2_cou_08-scoped-next-work-2026-11-18
+  - issue_id: pr2_cou_08-scoped-next-work-2026-11-19
     target: A2-Q3
-    clarification_or_correction: "Return to the descriptive main/specific questions: explain participation and nonparticipation in relation to an actual responsibility/opportunity to clean. Then address only genuinely missing Chapter 1 targets, including the connected background with two verified and understood sources, scope and significance. Retain compatible answers already present."
+    clarification_or_correction: "Clarify the learner's own descriptive main/specific questions around participation and reported reasons for nonparticipation, then develop a connected source-supported background using the two credible sources with accurate claim limits. Treat an existing cleaning schedule as context unless the learner explains a necessary descriptive role; do not introduce a schedule or test effectiveness. Retain demonstrated opportunity distinctions, scope and practical significance, and update only affected alignment. Reuse sufficient title/focus evidence rather than add a compulsory title interview."
 carry_forward: []
 locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+stop_for_teacher_decision: true
 ```
 
 This decision authorizes a new bounded attempt for the assigned work only: three standard follow-ups plus at most two justified targeted extras across the whole attempt. Starting a new attempt is not a restart of demonstrated learning. Once begun, continuation retains actual used counts and extension reasons; do not invent or reset them. Unknown prior counts are disclosed under the area protocol. At the bounded endpoint compile the actual complete or incomplete review record; no unlimited questioning or complete-only submission barrier.
 
+## Teacher clarification and immediate submission — November 19, 2026
+
+This is a new teacher-authorized focused revision after review of the exhausted earlier attempt; do not resume its over-limit interview. Preserve all actual answers without penalizing the learner for tutor accounting. Read the candidate sources with the learner only as needed to explain their actual relevance and limits within the background task; do not demand a separate source quiz. The classroom-cleaning/health study and school WASH guidance provide context, not evidence that this classroom's schedule improves participation or discipline. Tutor-proposed wording is assistance, not student understanding established by agreement. Do not supply assessed question sets or background paragraphs for adoption.
+
+Aim to finish this focused session within **one hour from starting the assigned revision**, and sooner when the actual gaps are addressed. Do not fill the hour with questions. Suggested allocation: about 10 minutes to recover/read existing work, up to 30 minutes for the named clarification and dependent edits, and the remaining time to compile and deliver. These are flexible planning limits, not extra assessed stages or a reason to keep the learner waiting. Do not claim an elapsed time without a reliable time reference.
+
+This explicit teacher directive opens a new bounded revision attempt only; it does not erase existing answers, source notes or demonstrated understanding. Use the current activity's core-prompt and whole-attempt limits: three follow-ups plus at most two justified extras, with no fresh budget per source, paragraph or checkpoint. For Activity 1 the overall ceiling is eight learning prompts; for Activity 2 it is ten. The smaller relevant limit and sufficient evidence stop the interview sooner. Record actual counts from the start of this new attempt and preserve them across chat continuation; no invented count or reset on reload. Do not repeat already answered generic scenarios, a source quiz or a final confirmation interview.
+
+At sufficient completion, the applicable prompt ceiling, or approximately the one-hour endpoint, stop eliciting and **regenerate the current `.phx` submission immediately, complete or incomplete**. Include the actual current activity output, clarification answers, changes, assistance, prior evidence used and honest unresolved limitations. Do not supply empty placeholders for accessible prior work or replace the chapter with a claim that a separate document exists. If an original really cannot be recovered, disclose the exact gap and still provide the authorized review record under current delivery rules.
+
+End with a direct student instruction: **Download your updated .phx file, submit it to Sir Francis immediately through the usual channel, and keep a copy. Wait for his explicit instruction before starting the next activity.** Generate the file through available verified tools, or honestly use the controller's permitted fallback; never claim an unavailable download. No additional question or next-activity teaching after delivery. Completing clarification, receiving a file, a tutor's COMPLETE label or this revision authorization does not authorize progression. The teacher alone will explicitly assign the next activity.
+
 ## Reviewed Baseline
 
-Baseline ID: `pr2_cou_08-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+Baseline ID: `pr2_cou_08-reviewed-baseline-2026-11-19`. Teacher-designated snapshot from the November 19 revision and compatible earlier progress/teacher decisions. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
 
-The new addendum contains eighteen responses about instruments, privacy, reporting and recommendations, but does not establish completion of the five Chapter 1 targets or resolve participation/nonparticipation meaning. These are proposals, not actual data or results.
+The November 19 submission correctly distinguishes actual help from lack of duty/opportunity and preserves absence/non-observation distinctions. The learner explains participation counts, reported reasons, bounded scope and practical use. Schedule-effect assumptions persist in the actual questions and scope; tutor-proposed descriptive rewrites are not independently demonstrated student revisions. A connected background and accurate source-specific interpretation remain open. Correct student/activity codes now appear in this export. The six follow-ups were a tutor-side overrun, not grounds to discard answers.
 
 ### Earlier compatible context — provenance, not superseded routing
 
@@ -90,15 +102,15 @@ November 12 work moves away from testing a cleaning schedule to describing parti
 
 ## Teacher's Comments
 
-Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. This is a focused Activity 2 revision, not an Activity 1 restart. Complete Chapter 1 and final question/title wording remain pending.
+Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. Accept the demonstrated distinction between nonparticipation and lack of duty/opportunity, and preserve sufficient scope, limitations and practical significance. Final Chapter 1 acceptance is pending focused descriptive-question/background clarification. Activity 3 requires a separate explicit teacher decision.
 
-Do not assign eighteen H8 methodology/ethics questions again. Implementation and before/after effectiveness testing are not approved. Preserve useful ethics ideas for later work without making them Activity 2 gates. The export still says student_code Not assigned and uses the learner code as activity_code: future exports must use pr2_cou_08 and pr2_act_02; preserve the original metadata as historical evidence.
+Do not assign eighteen H8 methodology/ethics questions again. Implementation and before/after effectiveness testing are not approved. Preserve useful ethics ideas for later work without making them Activity 2 gates. The November 19 export now uses pr2_cou_08 and pr2_act_02 correctly; preserve earlier erroneous metadata only as historical provenance.
 
-Return to the descriptive main/specific questions: explain participation and nonparticipation in relation to an actual responsibility/opportunity to clean. Then address only genuinely missing Chapter 1 targets, including the connected background with two verified and understood sources, scope and significance. Retain compatible answers already present.
+Clarify the learner's own descriptive main/specific questions around participation and reported reasons for nonparticipation, then develop a connected source-supported background using the two credible sources with accurate claim limits. Treat an existing cleaning schedule as context unless the learner explains a necessary descriptive role; do not introduce a schedule or test effectiveness. Retain demonstrated opportunity distinctions, scope and practical significance, and update only affected alignment. Reuse sufficient title/focus evidence rather than add a compulsory title interview.
 
 After required source/maintenance checks, begin with the actual next question:
 
-> In your descriptive inquiry, what would participation and nonparticipation mean when some students may not have had the same duty or opportunity to clean?
+> What do you want your questions to describe about participation and reported reasons without assuming that a cleaning schedule causes improvement, and why is each question needed?
 
 Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 
