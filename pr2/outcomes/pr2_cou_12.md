@@ -1,24 +1,24 @@
 ---
 student_code: pr2_cou_12
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_12-a01-teacher-direction-2026-11-18
-route_baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-18
+route_directive_id: pr2_cou_12-a01-clarification-submit-2026-11-19
+route_baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-19
 route_resume_checkpoint: C4
-status: activity-1-main-question-only-focused-revision
+status: activity-1-understanding-clarification-submit-and-wait
 ---
 
-Teacher decision recorded November 18, 2026 (Asia/Manila): Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning. Detailed student identity, original submissions and dialogue remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Retain the classroom phone-use research path and prior valid progress. The November 19 main question is now present, but the teacher requires a focused check of the learner's Activity 1 understanding before approval. Stay in Activity 1; Activity 2 is not authorized. Clarify, regenerate the .phx submission and await the teacher's explicit next-activity decision. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — Current November 18, 2026
+## Teacher Identity and Topic Binding — Current November 19, 2026
 
 - **Required record identity:** `pr2_cou_12`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Phone Down, Focus Up: classroom mobile-phone use and selected classroom behaviors, with a proposed Grade 8–Loyalty/Filipino-class setting.
-- **Current teacher-authorized direction:** Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
-- **Retained actual progress:** The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
-- **Current next target:** C4 / A1-Q3: Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question.
+- **Current teacher-authorized direction:** Retain the classroom phone-use research path and prior valid progress. The November 19 main question is now present, but the teacher requires a focused check of the learner's Activity 1 understanding before approval. Stay in Activity 1; Activity 2 is not authorized. Clarify, regenerate the .phx submission and await the teacher's explicit next-activity decision.
+- **Retained actual progress:** The November 19 submission now states a descriptive main question about frequency and purposes of cellphone use during Grade 8 Loyalty Filipino classes and provides an alignment explanation. Preserve that question rather than claiming it is still missing. The teacher requests confirmation of the learner's own conceptual understanding, especially purpose-based classification and what the observation can actually establish.
+- **Current next target:** C4 / A1-Q3: Check the meaning of the existing main question and its link to the problem/indicators using the learner's own explanation. Focus repair on academic versus nonacademic purpose, including why an application name alone is insufficient and how unclear cases are treated. Do not ask for a replacement question solely because the previous record said it was missing, or restart sufficient C1/C2 learning.
 
 Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_12` and activity_code `pr2_act_01`. Correcting export metadata does not rewrite the original submission.
 
@@ -41,42 +41,54 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
-- Retained Activity 1 evidence: The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
+- Teacher approval boundary: Retain the classroom phone-use research path and prior valid progress. The November 19 main question is now present, but the teacher requires a focused check of the learner's Activity 1 understanding before approval. Stay in Activity 1; Activity 2 is not authorized. Clarify, regenerate the .phx submission and await the teacher's explicit next-activity decision.
+- Retained Activity 1 evidence: The November 19 submission now states a descriptive main question about frequency and purposes of cellphone use during Grade 8 Loyalty Filipino classes and provides an alignment explanation. Preserve that question rather than claiming it is still missing. The teacher requests confirmation of the learner's own conceptual understanding, especially purpose-based classification and what the observation can actually establish.
 - Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_12-a01-teacher-direction-2026-11-18
-attempt_id: pr2_cou_12-a01-attempt-2026-11-18
+directive_id: pr2_cou_12-a01-clarification-submit-2026-11-19
+attempt_id: pr2_cou_12-a01-attempt-2026-11-19
 activity_code: pr2_act_01
 action: REVISE_AND_SUBMIT
 start_checkpoint: C4
 start_question_id: A1-Q3
-baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-18
+baseline_revision: pr2_cou_12-reviewed-baseline-2026-11-19
 baseline_source: "This outcome record, Reviewed Baseline subsection"
-authorized_task: "Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question."
+authorized_task: "Check the meaning of the existing main question and its link to the problem/indicators using the learner's own explanation. Focus repair on academic versus nonacademic purpose, including why an application name alone is insufficient and how unclear cases are treated. Do not ask for a replacement question solely because the previous record said it was missing, or restart sufficient C1/C2 learning."
 retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs:
-  - issue_id: pr2_cou_12-scoped-next-work-2026-11-18
+  - issue_id: pr2_cou_12-scoped-next-work-2026-11-19
     target: A1-Q3
-    clarification_or_correction: "Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question."
+    clarification_or_correction: "Check the meaning of the existing main question and its link to the problem/indicators using the learner's own explanation. Focus repair on academic versus nonacademic purpose, including why an application name alone is insufficient and how unclear cases are treated. Do not ask for a replacement question solely because the previous record said it was missing, or restart sufficient C1/C2 learning."
 carry_forward: []
 locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+stop_for_teacher_decision: true
 ```
 
 This decision authorizes a new bounded attempt for the assigned work only: three standard follow-ups plus at most two justified targeted extras across the whole attempt. Starting a new attempt is not a restart of demonstrated learning. Once begun, continuation retains actual used counts and extension reasons; do not invent or reset them. Unknown prior counts are disclosed under the area protocol. At the bounded endpoint compile the actual complete or incomplete review record; no unlimited questioning or complete-only submission barrier.
 
+## Teacher clarification and immediate submission — November 19, 2026
+
+If needed, briefly clarify that observation of visible actions does not automatically reveal a student's private reason or prove attention, comprehension or learning harm. Keep the task at Activity 1 meaning and plausible indicators; no finalized checklist, procedure, sampling plan or collection is required. Do not supply a model answer to adopt or treat agreement with tutor wording as independent understanding.
+
+Aim to finish this focused session within **one hour from starting the assigned revision**, and sooner when the actual gaps are addressed. Do not fill the hour with questions. Suggested allocation: about 10 minutes to recover/read existing work, up to 30 minutes for the named clarification and dependent edits, and the remaining time to compile and deliver. These are flexible planning limits, not extra assessed stages or a reason to keep the learner waiting. Do not claim an elapsed time without a reliable time reference.
+
+This explicit teacher directive opens a new bounded revision attempt only; it does not erase existing answers, source notes or demonstrated understanding. Use the current activity's core-prompt and whole-attempt limits: three follow-ups plus at most two justified extras, with no fresh budget per source, paragraph or checkpoint. For Activity 1 the overall ceiling is eight learning prompts; for Activity 2 it is ten. The smaller relevant limit and sufficient evidence stop the interview sooner. Record actual counts from the start of this new attempt and preserve them across chat continuation; no invented count or reset on reload. Do not repeat already answered generic scenarios, a source quiz or a final confirmation interview.
+
+At sufficient completion, the applicable prompt ceiling, or approximately the one-hour endpoint, stop eliciting and **regenerate the current `.phx` submission immediately, complete or incomplete**. Include the actual current activity output, clarification answers, changes, assistance, prior evidence used and honest unresolved limitations. Do not supply empty placeholders for accessible prior work or replace the chapter with a claim that a separate document exists. If an original really cannot be recovered, disclose the exact gap and still provide the authorized review record under current delivery rules.
+
+End with a direct student instruction: **Download your updated .phx file, submit it to Sir Francis immediately through the usual channel, and keep a copy. Wait for his explicit instruction before starting the next activity.** Generate the file through available verified tools, or honestly use the controller's permitted fallback; never claim an unavailable download. No additional question or next-activity teaching after delivery. Completing clarification, receiving a file, a tutor's COMPLETE label or this revision authorization does not authorize progression. The teacher alone will explicitly assign the next activity.
+
 ## Reviewed Baseline
 
-Baseline ID: `pr2_cou_12-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+Baseline ID: `pr2_cou_12-reviewed-baseline-2026-11-19`. Teacher-designated snapshot from the November 19 clarification submission, earlier November 17 work and compatible teacher decisions. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
 
-The learner explains the unknown frequency/purpose of academic and nonacademic phone use in Grade 8 Loyalty Filipino, gives plausible examples, keeps unclear observations separate, and avoids claiming that observed use proves learning harm. The tutor did not elicit the required main research question.
+The November 19 submission now states a descriptive main question about frequency and purposes of cellphone use during Grade 8 Loyalty Filipino classes and provides an alignment explanation. Preserve that question rather than claiming it is still missing. The teacher requests confirmation of the learner's own conceptual understanding, especially purpose-based classification and what the observation can actually establish.
 
 ### Earlier compatible context — provenance, not superseded routing
 
@@ -84,15 +96,15 @@ November 12 work preserves a broad phone-use/classroom-behavior draft and extens
 
 ## Teacher's Comments
 
-Classroom phone-use direction retained and demonstrated C1/C2 progress accepted. Complete Activity 1 approval and Activity 2 authorization remain withheld only pending an aligned main question and its meaning.
+Retain the classroom phone-use research path and prior valid progress. The November 19 main question is now present, but the teacher requires a focused check of the learner's Activity 1 understanding before approval. Stay in Activity 1; Activity 2 is not authorized. Clarify, regenerate the .phx submission and await the teacher's explicit next-activity decision.
 
 This is classroom phone use, not Airalyn's responsible-AI topic. Application names alone do not establish purpose: social media/messages can have academic uses. Do not require a finalized observation schedule, sample, instrument, scoring plan or learning-effect claim at Activity 1.
 
-Elicit one aligned descriptive main question and the learner's explanation of what it seeks to find out. Preserve sufficient C1/C2 evidence; repair only an actual dependent contradiction. Do not restart Activity 1 or substitute procedural questions for the missing main question.
+Check the meaning of the existing main question and its link to the problem/indicators using the learner's own explanation. Focus repair on academic versus nonacademic purpose, including why an application name alone is insufficient and how unclear cases are treated. Do not ask for a replacement question solely because the previous record said it was missing, or restart sufficient C1/C2 learning.
 
 After required source/maintenance checks, begin with the actual next question:
 
-> What one main research question expresses what you want to find out about phone-use patterns during Grade 8 Loyalty Filipino classes, and what would answering it tell you?
+> In your existing main question, what do you want to find out, and how would you decide whether phone use serves the Filipino lesson when the application alone does not tell you its purpose?
 
 Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 

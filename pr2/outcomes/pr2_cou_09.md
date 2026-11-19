@@ -1,24 +1,24 @@
 ---
 student_code: pr2_cou_09
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_09-a02-teacher-direction-2026-11-18
-route_baseline_revision: pr2_cou_09-reviewed-baseline-2026-11-18
+route_directive_id: pr2_cou_09-a02-clarification-submit-2026-11-19
+route_baseline_revision: pr2_cou_09-reviewed-baseline-2026-11-19
 route_resume_checkpoint: H6
-status: activity-2-question-refinement-accepted-focused-condition-clarification
+status: activity-2-condition-clarification-restore-draft-submit-and-wait
 ---
 
-Teacher decision recorded November 18, 2026 (Asia/Manila): Descriptive eggplant-condition problem and Activity 2 authorization retained. Revised question purposes accepted: initial condition counts, aggregate change, and individual plant transitions. Final Chapter 1 acceptance pending the focused condition clarification and any genuinely missing current targets. Detailed student identity, original submissions and dialogue remain private.
+Teacher decision recorded November 19, 2026 (Asia/Manila): Existing descriptive eggplant-condition problem, Activity 2 authorization and accepted question-purpose refinements are retained. Accept the additional distinctions among uncertain, unobserved, removed and changing plants. Clarify the remaining observable condition-category meaning and restore the earlier Chapter 1 material. Final Chapter 1 acceptance and Activity 3 authorization are not granted. Detailed student identity, original submissions and dialogue remain private.
 
-## Teacher Identity and Topic Binding — Current November 18, 2026
+## Teacher Identity and Topic Binding — Current November 19, 2026
 
 - **Required record identity:** `pr2_cou_09`. Match the teacher-issued URL filename and embedded student code; never choose an adjacent roster entry or transfer another learner's topic, evidence or approval.
 - **Original research path:** Eggplant-plant conditions, historically discussed alongside an organized watering schedule.
-- **Current teacher-authorized direction:** Descriptive eggplant-condition problem and Activity 2 authorization retained. Revised question purposes accepted: initial condition counts, aggregate change, and individual plant transitions. Final Chapter 1 acceptance pending the focused condition clarification and any genuinely missing current targets.
-- **Retained actual progress:** The learner distinguishes aggregate counts from individual plants changing condition, separates uncertain/not-observed/removed cases, and recognizes that observed changes do not establish causes. The meaning of dead versus wilted remains insufficiently established.
-- **Current next target:** H6 / A2-Q3: Clarify the defensible meaning of the condition categories, especially dead versus wilted, and align questions, background and claim limits. Preserve the accepted distinctions among baseline counts, aggregate change and plant-level transitions. Complete only remaining Chapter 1 gaps.
+- **Current teacher-authorized direction:** Existing descriptive eggplant-condition problem, Activity 2 authorization and accepted question-purpose refinements are retained. Accept the additional distinctions among uncertain, unobserved, removed and changing plants. Clarify the remaining observable condition-category meaning and restore the earlier Chapter 1 material. Final Chapter 1 acceptance and Activity 3 authorization are not granted.
+- **Retained actual progress:** The November 19 answers appropriately retain uncertainty, avoid calling a missing plant dead, record removal separately and check changes/count inconsistencies. No signs of life remains too broad to establish the observable dead-versus-wilted boundary. The latest export omits earlier Chapter 1 text because it was unavailable in that tutor session, not because all earlier learning disappeared. The eight follow-ups were a tutor-side overrun, not grounds to discard student answers.
+- **Current next target:** H6 / A2-Q3: Use existing actual answers and the earlier Chapter 1 submission to clarify the observable basis and limits of wilted/dead/uncertain categories. Restore the background, exact questions, scope, significance and references from accessible originals. Preserve accepted baseline-count, aggregate-change and individual-transition purposes. Do not repeat the eight recording scenarios or require a scientific diagnostic test/full instrument validation at Activity 2.
 
 Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_09` and activity_code `pr2_act_02`. Correcting export metadata does not rewrite the original submission.
 
@@ -41,8 +41,8 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 
 # pr2_act_01 | Research-problem foundation
 
-- Teacher approval boundary: Descriptive eggplant-condition problem and Activity 2 authorization retained. Revised question purposes accepted: initial condition counts, aggregate change, and individual plant transitions. Final Chapter 1 acceptance pending the focused condition clarification and any genuinely missing current targets.
-- Retained Activity 1 evidence: The learner distinguishes aggregate counts from individual plants changing condition, separates uncertain/not-observed/removed cases, and recognizes that observed changes do not establish causes. The meaning of dead versus wilted remains insufficiently established.
+- Teacher approval boundary: Existing descriptive eggplant-condition problem, Activity 2 authorization and accepted question-purpose refinements are retained. Accept the additional distinctions among uncertain, unobserved, removed and changing plants. Clarify the remaining observable condition-category meaning and restore the earlier Chapter 1 material. Final Chapter 1 acceptance and Activity 3 authorization are not granted.
+- Retained Activity 1 evidence: The November 19 answers appropriately retain uncertainty, avoid calling a missing plant dead, record removal separately and check changes/count inconsistencies. No signs of life remains too broad to establish the observable dead-versus-wilted boundary. The latest export omits earlier Chapter 1 text because it was unavailable in that tutor session, not because all earlier learning disappeared. The eight follow-ups were a tutor-side overrun, not grounds to discard student answers.
 - Current Activity 1 scope remains C1/C2/C4 with C8 as internal alignment, not an additional quiz. No compulsory title, methodology or fieldwork gate.
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
@@ -54,35 +54,47 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 ## Current Session Directive
 
 ```yaml
-directive_id: pr2_cou_09-a02-teacher-direction-2026-11-18
-attempt_id: pr2_cou_09-a02-attempt-2026-11-18
+directive_id: pr2_cou_09-a02-clarification-submit-2026-11-19
+attempt_id: pr2_cou_09-a02-attempt-2026-11-19
 activity_code: pr2_act_02
 action: REVISE_AND_SUBMIT
 start_checkpoint: H6
 start_question_id: A2-Q3
-baseline_revision: pr2_cou_09-reviewed-baseline-2026-11-18
+baseline_revision: pr2_cou_09-reviewed-baseline-2026-11-19
 baseline_source: "This outcome record, Reviewed Baseline subsection"
-authorized_task: "Clarify the defensible meaning of the condition categories, especially dead versus wilted, and align questions, background and claim limits. Preserve the accepted distinctions among baseline counts, aggregate change and plant-level transitions. Complete only remaining Chapter 1 gaps."
+authorized_task: "Use existing actual answers and the earlier Chapter 1 submission to clarify the observable basis and limits of wilted/dead/uncertain categories. Restore the background, exact questions, scope, significance and references from accessible originals. Preserve accepted baseline-count, aggregate-change and individual-transition purposes. Do not repeat the eight recording scenarios or require a scientific diagnostic test/full instrument validation at Activity 2."
 retained_evidence: [compatible actual prior answers, demonstrated targets described below, known language and assistance labels]
 required_repairs:
-  - issue_id: pr2_cou_09-scoped-next-work-2026-11-18
+  - issue_id: pr2_cou_09-scoped-next-work-2026-11-19
     target: A2-Q3
-    clarification_or_correction: "Clarify the defensible meaning of the condition categories, especially dead versus wilted, and align questions, background and claim limits. Preserve the accepted distinctions among baseline counts, aggregate change and plant-level transitions. Complete only remaining Chapter 1 gaps."
+    clarification_or_correction: "Use existing actual answers and the earlier Chapter 1 submission to clarify the observable basis and limits of wilted/dead/uncertain categories. Restore the background, exact questions, scope, significance and references from accessible originals. Preserve accepted baseline-count, aggregate-change and individual-transition purposes. Do not repeat the eight recording scenarios or require a scientific diagnostic test/full instrument validation at Activity 2."
 carry_forward: []
 locked_decisions: [teacher boundaries stated above, individual authorship, no Activity 3 authorization, no fieldwork authorization]
 decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
-stop_for_teacher_decision: false
+stop_for_teacher_decision: true
 ```
 
 This decision authorizes a new bounded attempt for the assigned work only: three standard follow-ups plus at most two justified targeted extras across the whole attempt. Starting a new attempt is not a restart of demonstrated learning. Once begun, continuation retains actual used counts and extension reasons; do not invent or reset them. Unknown prior counts are disclosed under the area protocol. At the bounded endpoint compile the actual complete or incomplete review record; no unlimited questioning or complete-only submission barrier.
 
+## Teacher clarification and immediate submission — November 19, 2026
+
+The earlier submission tomaganJonardM-202611171019.bin remains available in the teacher archive. If it is absent from the student chat, request that exact existing file once, or use an accessible verified earlier draft; do not ask the learner to rewrite or reproduce a lost conversation. Do not claim private local-file access from this outcome link. Carry credible care sources with appropriate claim limits; do not invent a validated diagnosis. If a classification remains unsupported at the endpoint, state that limitation and submit. Normal care remains unchanged; no experiment or fieldwork is authorized.
+
+Aim to finish this focused session within **one hour from starting the assigned revision**, and sooner when the actual gaps are addressed. Do not fill the hour with questions. Suggested allocation: about 10 minutes to recover/read existing work, up to 30 minutes for the named clarification and dependent edits, and the remaining time to compile and deliver. These are flexible planning limits, not extra assessed stages or a reason to keep the learner waiting. Do not claim an elapsed time without a reliable time reference.
+
+This explicit teacher directive opens a new bounded revision attempt only; it does not erase existing answers, source notes or demonstrated understanding. Use the current activity's core-prompt and whole-attempt limits: three follow-ups plus at most two justified extras, with no fresh budget per source, paragraph or checkpoint. For Activity 1 the overall ceiling is eight learning prompts; for Activity 2 it is ten. The smaller relevant limit and sufficient evidence stop the interview sooner. Record actual counts from the start of this new attempt and preserve them across chat continuation; no invented count or reset on reload. Do not repeat already answered generic scenarios, a source quiz or a final confirmation interview.
+
+At sufficient completion, the applicable prompt ceiling, or approximately the one-hour endpoint, stop eliciting and **regenerate the current `.phx` submission immediately, complete or incomplete**. Include the actual current activity output, clarification answers, changes, assistance, prior evidence used and honest unresolved limitations. Do not supply empty placeholders for accessible prior work or replace the chapter with a claim that a separate document exists. If an original really cannot be recovered, disclose the exact gap and still provide the authorized review record under current delivery rules.
+
+End with a direct student instruction: **Download your updated .phx file, submit it to Sir Francis immediately through the usual channel, and keep a copy. Wait for his explicit instruction before starting the next activity.** Generate the file through available verified tools, or honestly use the controller's permitted fallback; never claim an unavailable download. No additional question or next-activity teaching after delivery. Completing clarification, receiving a file, a tutor's COMPLETE label or this revision authorization does not authorize progression. The teacher alone will explicitly assign the next activity.
+
 ## Reviewed Baseline
 
-Baseline ID: `pr2_cou_09-reviewed-baseline-2026-11-18`. Teacher-designated snapshot from the reviewed November 17 submission and earlier compatible teacher record. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
+Baseline ID: `pr2_cou_09-reviewed-baseline-2026-11-19`. Teacher-designated snapshot from the November 19 clarification submission, earlier November 17 work and compatible teacher decisions. Original source and pre-update outcome are retained privately; this summary is not a fabricated full transcript.
 
-The learner distinguishes aggregate counts from individual plants changing condition, separates uncertain/not-observed/removed cases, and recognizes that observed changes do not establish causes. The meaning of dead versus wilted remains insufficiently established.
+The November 19 answers appropriately retain uncertainty, avoid calling a missing plant dead, record removal separately and check changes/count inconsistencies. No signs of life remains too broad to establish the observable dead-versus-wilted boundary. The latest export omits earlier Chapter 1 text because it was unavailable in that tutor session, not because all earlier learning disappeared. The eight follow-ups were a tutor-side overrun, not grounds to discard student answers.
 
 ### Earlier compatible context — provenance, not superseded routing
 
@@ -90,15 +102,15 @@ Working title: Current Condition of Eggplant Plants in the Grade 11–Wisdom Gar
 
 ## Teacher's Comments
 
-Descriptive eggplant-condition problem and Activity 2 authorization retained. Revised question purposes accepted: initial condition counts, aggregate change, and individual plant transitions. Final Chapter 1 acceptance pending the focused condition clarification and any genuinely missing current targets.
+Existing descriptive eggplant-condition problem, Activity 2 authorization and accepted question-purpose refinements are retained. Accept the additional distinctions among uncertain, unobserved, removed and changing plants. Clarify the remaining observable condition-category meaning and restore the earlier Chapter 1 material. Final Chapter 1 acceptance and Activity 3 authorization are not granted.
 
 Agricultural care guides supply context, not automatic validation of a dead/wilted classification. Do not invent criteria, findings or student source understanding. Do not require completed observations, a fixed final schedule, a full validated tool or changed plant care to complete this clarification. Do not convert the descriptive study into an experiment.
 
-Clarify the defensible meaning of the condition categories, especially dead versus wilted, and align questions, background and claim limits. Preserve the accepted distinctions among baseline counts, aggregate change and plant-level transitions. Complete only remaining Chapter 1 gaps.
+Use existing actual answers and the earlier Chapter 1 submission to clarify the observable basis and limits of wilted/dead/uncertain categories. Restore the background, exact questions, scope, significance and references from accessible originals. Preserve accepted baseline-count, aggregate-change and individual-transition purposes. Do not repeat the eight recording scenarios or require a scientific diagnostic test/full instrument validation at Activity 2.
 
 After required source/maintenance checks, begin with the actual next question:
 
-> What would justify calling an eggplant plant dead rather than wilted, and how would you handle a plant whose condition you cannot confidently determine?
+> What observable evidence would let you distinguish a wilted eggplant from one you would describe as dead, and what will you leave uncertain when those observations are not enough?
 
 Preserve known language and sufficient explanations. Accept short English/Filipino/Taglish answers and evaluate their meaning. Guide the learner without supplying the assessed question, criteria or target paragraph for adoption. Faithful editing/translation may express already established meaning with assistance disclosed; do not invent reasoning or demand a second English interview.
 
