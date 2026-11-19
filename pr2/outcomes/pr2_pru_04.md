@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_04
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_03
 route_action: PROCEED_WITH_CLARIFICATION
 route_directive_id: pr2_pru_04-a03-teacher-decision-2026-11-19
@@ -11,6 +11,24 @@ status: primary-clarification-addressed-conditional-activity-3-authorized
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the individual-project/group-reporting reasons and across-learning-areas clarification as addressed. Authorize Activity 3 provided the questions, constructs and scope needed for questionnaire design are aligned and available. Carry that limited alignment into M1 and preserve existing progress; do not repeat the resolved example interview. Student identity and detailed evidence remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_03` / `PROCEED_WITH_CLARIFICATION`, at `M1` / `A3-Q1`, under directive `pr2_pru_04-a03-teacher-decision-2026-11-19`. The baseline `pr2_pru_04-reviewed-baseline-2026-11-19` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> For your group/individual activity-preference inquiry, what information would describe students' preferences and what information would describe cooperation, independent work, fairness and time management?
+
+**Dependency boundary:** The earlier actual question framework, background and references are recovered below. Its Earth and Life Science-only wording and six-person/statistics proposals are historical. Apply the already authorized across-learning-areas boundary; let the learner explain only genuinely missing alignment, not reconstruct lost question text.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -50,7 +68,7 @@ Accept the individual-project/group-reporting reasons and across-learning-areas 
   "start_checkpoint": "M1",
   "start_question_id": "A3-Q1",
   "baseline_revision": "pr2_pru_04-reviewed-baseline-2026-11-19",
-  "baseline_source": "This record, Reviewed Progress and Study Baseline; actual latest submission and earlier originals retained privately",
+  "baseline_source": "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)",
   "authorized_task": "Verify/complete only questionnaire-critical main/specific question and construct alignment, record the working version, then develop the proposed Chapter 3 and questionnaire.",
   "retained_evidence": [
     "actual compatible earlier answers and drafts",
@@ -78,7 +96,10 @@ Accept the individual-project/group-reporting reasons and across-learning-areas 
   "stop_for_teacher_decision": false,
   "question_baseline_id": "pr2_pru_04-a03-conditional-question-baseline-2026-11-19",
   "collection_clearance_status": "NOT_GRANTED_BY_TUTOR",
-  "teacher_recorded_collection_clearance": "NOT_GRANTED"
+  "teacher_recorded_collection_clearance": "NOT_GRANTED",
+  "question_baseline_source": "Existing identified teacher question framework and embedded recovered content; carried alignment is authorized at the stated destination target, not a request for another teacher file",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false
 }
 ```
 
@@ -115,3 +136,112 @@ Preserve earlier and improved work, actual changes, responses, source/measuremen
 Follow the selected activity's teacher-record and clean-copy delivery rules. Activity 3 requires two separate clean English DOCX working products: the full proposed Chapter 3 and the data-gathering tool, with actual student/source-grounded content and concise missing/pending markers. Do not invent content to make them look complete. Below 100 verified eligible population members, use the activity's whole-population invitation rule without sampling-method questions; an unknown count needs a privacy-safe aggregate count basis, not an invented sample size.
 
 Planning authority does not grant participant contact, recruitment, restricted-record access, pilot testing or fieldwork. Validation, respondent checks, pilot, applicable reliability and version status must be truthful; unperformed external checks remain pending and do not prevent submission of a prepared draft. Final product acceptance and exact real-world clearance remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md. This decision supersedes incompatible earlier active queues, preserves historical evidence and does not renew an expired collection notice or automatically assign a later activity.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_04-source-2461c78726`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## Research Title
+>
+> Factors Associated with Grade 11 Students' Preferences for Group and Individual Activities in Earth and Life Science at Hawan National High School
+>
+> ## Background of the Study
+>
+> Students have different preferences when completing classroom activities. Some students prefer doing activities in groups, while others prefer completing them individually. This difference in preferences sparked the researcher's curiosity about the reasons behind students' choices.
+>
+> Understanding students' preferences is important because it allows teachers to recognize how students feel about different ways of completing classroom activities. Some students may prefer group activities because they can share ideas and cooperate with their classmates, while others may prefer individual activities because they can work independently and manage their own tasks. Understanding these differences may help teachers consider students' needs when planning classroom activities.
+>
+> Previous studies have examined students' experiences and preferences regarding group and individual learning. Koutrouba, Kariotaki, and Christopoulos (2012) studied secondary-school students' preferences regarding group work. Their findings showed that students' willingness to participate in group activities may be influenced by having choices, working with friends, and knowing their assigned responsibilities. This suggests that students' experiences during group activities may be related to their preferences.
+>
+> Similarly, Fung (2022) examined individual and collaborative success in junior secondary science classrooms. The study showed that students' experiences with independent learning and teacher-guided group work were associated with how they viewed individual and collaborative success. These findings suggest that students' experiences with different learning arrangements may influence how they view group and individual activities.
+>
+> Although these studies provide information about students' experiences with group and individual learning, their findings may not fully represent the preferences of Grade 11 students at Hawan National High School. The studies involved students from different educational settings and grade levels. Therefore, there is a need to examine the preferences of students in the local school setting.
+>
+> This study focuses on four factors that may be associated with students' preferences for group and individual activities: cooperation with classmates, ability to work independently, fairness in dividing responsibilities, and time management. These factors concern students' experiences when working with others and completing classroom activities independently.
+>
+> Earth and Life Science was selected as the subject context of this study because it provides a setting for examining students' preferences for group and individual classroom activities. Therefore, this study aims to determine which type of activity Grade 11 students prefer and examine whether cooperation with classmates, ability to work independently, fairness in dividing responsibilities, and time management are associated with their preferences at Hawan National High School.
+>
+> ## Statement of the Problem
+>
+> This study aims to determine the preferences of Grade 11 students for group and individual activities in Earth and Life Science at Hawan National High School and examine the factors associated with these preferences.
+>
+> Specifically, it seeks to answer the following questions:
+>
+> 1. Which type of activity do Grade 11 students prefer: group activities or individual activities?
+> 2. How is cooperation and participation of group members associated with students' preferences?
+> 3. How are students' ability and comfort in completing activities independently associated with their preferences?
+> 4. How is fairness in dividing responsibilities associated with students' preferences?
+> 5. How is students' ability to manage their own time associated with their preferences?
+>
+> ## Scope and Delimitation
+>
+> This study focuses on the preferences of Grade 11 students for group and individual activities in Earth and Life Science at Hawan National High School. It examines whether cooperation with classmates, ability to work independently, fairness in dividing responsibilities, and time management are associated with students' preferences.
+>
+> The respondents will consist of Grade 11 students from different strands at Hawan National High School who have experience participating in Earth and Life Science activities. The study will use non-probability convenience sampling by inviting eligible students who are available and willing to participate. The final number of respondents will depend on the number of eligible participants and the approval of the research teacher and school.
+>
+> Data will be collected through printed survey questionnaires. Students will identify their preference by choosing either group activities or individual activities. The four factors will be measured using statements rated on a five-point Likert scale, with three statements for each factor.
+>
+> The study will examine associations between the four factors and students' preferences. It will not establish cause-and-effect relationships. Other possible influences, such as family responsibilities, health conditions, and personal circumstances, are outside the scope of this study. Data collection will also be subject to the required school permission and participant consent or assent.
+>
+> ## References
+>
+> Fung, D. (2022). Achieving individual and collaborative success: An investigation of guided group work and teacher participation in junior secondary science classrooms. *International Journal of Educational Research, 111*, Article 101908. http[private source path omitted]
+>
+> Koutrouba, K., Kariotaki, M., & Christopoulos, I. (2012). Secondary education students' preferences regarding their participation in group work: The case of Greece. *Improving Schools, 15*(3), 245–259. http[private source path omitted]
+
+### Recovered content 2
+
+Continuity source identity: `pr2_pru_04-source-12f31459a2`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## CHAPTER 1
+> ## THE PROBLEM AND ITS BACKGROUND
+>
+> ### Working Title
+>
+> **Grade 11 Students’ Preferences for Group and Individual Classroom Activities Across Different Learning Areas at Hawan National High School**
+>
+> *Status: Student-proposed working title for teacher review; not newly approved.*
+>
+> ### Background of the Study
+>
+> Students have different preferences when completing classroom activities. Some students prefer doing activities in groups, while others prefer completing them individually. The researcher is interested in understanding these preferences across different learning areas.
+>
+> *WORKING DRAFT — INCOMPLETE: The extended background has not been reconstructed from the inaccessible previous manuscript. The required connected context, specific problem, two verified sources, student interpretation of those sources, bounded research gap, rationale, and TEAL-supported links remain to be supplied or checked. No local prevalence claim or source finding is added here.*
+>
+> ### Statement of the Problem
+>
+> The research aims to determine whether Grade 11 students at Hawan National High School prefer completing classroom activities across various learning areas in groups or individually. It also aims to examine whether four specific factors are associated with their preferences: cooperation with classmates, ability to work independently, fairness in dividing responsibilities, and time management. Through this study, the researcher wants to understand students' learning preferences and determine whether these factors have a significant relationship with their choices.
+>
+> **Main research question:** Not yet composed in the current captured work.
+>
+> **Specific research questions:** Not yet composed in the current captured work. They must align with the main inquiry and the four retained factors; no questions are invented in this record.
+>
+> ### Scope and Limitations of the Study
+>
+> The study focuses on Grade 11 students at Hawan National High School and their preferences for completing classroom activities in groups or individually across different learning areas. Making a project individually and reporting with classmates are examples of the researcher's own preferences, not the only activities covered by the study.
+>
+> The researcher prefers making a project alone because it allows better focus without interruptions or distractions. The researcher prefers reporting with classmates because it makes the researcher feel less shy.
+>
+> The study's planned participant group includes students from both Grade 11 sections. The earlier plan identified six respondents, with equal numbers from each section; this is retained as a plan, not as recruited participants or collected data.
+>
+> The study may be limited by its small sample size of six respondents and the limited time available for conducting the research. These limitations may affect the representativeness of the participants and the extent to which the findings can be generalized to all Grade 11 students at Hawan National High School.
+>
+> *WORKING DRAFT — INCOMPLETE: The student's reasoned exclusions/delimitations have not been fully stated in the captured work. The exact research period is not established. No fieldwork or recruitment permission is implied.*
+>
+> ### Significance of the Study
+>
+> **Teachers.** The findings provide initial feedback on which factors are associated with student preferences, helping teachers adjust their instructional methods and classroom activities to improve engagement.
+>
+> **Students.** Documenting their preferences may foster more responsive learning environments and help students better understand what conditions support their own academic choices and participation.
+>
+> **School Administrators.** The results may serve as a low-cost baseline to guide pilot initiatives and justify broader, school-wide assessments before making major policy or resource decisions.
+>
+> ### References
+>
+> *INCOMPLETE: Two distinct credible sources must be verified and connected to the background. Matching APA 7 references and in-text citations are not available in the captured record. No references have been invented.*
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

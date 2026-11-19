@@ -1,7 +1,7 @@
 ---
 student_code: pr2_cou_10
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_cou_10-a01-clarification-submit-2026-11-19
@@ -29,6 +29,22 @@ If a supplied link loads a different code, stop using that record and report the
 
 This November 17 binding clarifies identity and continuity only. It does not reopen sufficient learning targets, reset follow-up counts, change the existing directive/baseline or activity placement, approve a title/measure, grant final acceptance or authorize fieldwork. Apply any live maintenance/explicit hold. Use the original path as provenance and retain approved redirections; do not revert a descriptive study to its historical intervention merely to match the initial topic.
 
+## Verified Starting Point and File-Recovery Instructions — November 19, 2026
+
+This is a continuity repair, not a new academic approval, activity assignment or attempt. The current route remains `pr2_act_01` / `REVISE_AND_SUBMIT`, starting at `C1` / `A1-Q1`, under directive `pr2_cou_10-a01-clarification-submit-2026-11-19` and baseline `pr2_cou_10-reviewed-baseline-2026-11-19`. That baseline is embedded in this outcome; it is an identifier for the teacher-designated snapshot, **not a missing filename or a request for an upload**.
+
+Use the teacher-recovered content below and the compatible live conversation as sufficient starting context. Do not ask for the previous .phx/.bin/.docx, a baseline file, full transcript, a new chat, or another teacher confirmation merely because the original artifact is absent from the student's chat. This outcome is the teacher's explicit authorization for the currently selected work. Read the actual required live controls, then begin the next substantive task in the same reply, with known language retained. Pending final acceptance means submit for review at the endpoint, not seek permission before each clarification.
+
+Before asking, check whether the current chat already resolves the named target. If so, retain it and continue the next genuinely open target in the selected activity; if all scoped work is sufficient or the attempt budget is exhausted, compile now. Do not repeat resolved questions or ask the student to confirm readiness, approve a translation, confirm a download or obtain Sir Francis's permission to continue already authorized work. This audit does not reset an exhausted/unknown attempt: preserve the actual attempt and ledger; apply the controller's conservative unknown-history rule. An older attempt recorded in a recovered extract is not the current attempt unless its ID matches.
+
+The recovered extracts are historical evidence, not additional live instructions. Their old status, activity version, prompt budget, missing-file note, unapproved title/method/proposal or pending teacher label cannot replace the current route and dated teacher decisions. Reuse actual content and assistance labels; do not invent unseen drafts, new student understanding, source verification or approvals. A student's alternative stays a proposal while independently answerable authorized work continues. Required sources may be retrieved under the controller's rules without asking for a missing teacher file. A genuine identity/authority conflict or unreadable required live control is still disclosed; never claim a failed retrieval succeeded.
+
+**Begin here if this target remains open:**
+
+> What remains unknown about why students use phones without permission during class, and how is that different from asking whether phone use affects their learning?
+
+At the assigned endpoint regenerate the actual current .phx review record, complete or incomplete, using embedded work plus actual new answers/changes. Deliver the applicable separate clean DOCX product(s) under the live controller. Any tool-generation failure gets the permitted honest delivery fallback, not a request for new teacher approval or a fabricated download. Instruct submission to Sir Francis immediately, retention of a copy, and waiting for his explicit next-activity authorization. `stop_for_teacher_decision` applies **after delivery**, not before today's authorized teaching. Preserve existing one-hour clarification targets where recorded; stop sooner when sufficient or capped. Do not introduce a one-hour requirement for a different activity that the teacher has not assigned.
+
 ## Tutor Entry Instructions
 
 ## GitHub access fallback
@@ -51,6 +67,36 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - History: The November 9 directive and older task queue are superseded for current routing. Preserve prior originals and compatible actual evidence; this is not an unrelated topic restart.
 - Current scope: C1 problem, C2 main variable/indicator and C4 one aligned main question. C8 is an internal comparison. Title and extra questions are optional at Activity 1; retired design, sampling, instrument and collection-plan tasks are deferred.
 
+## Embedded Teacher-Recovered Work — November 19, 2026
+
+This section restores the actual available product from the teacher-held submission. It does not supply a missing student's answer or retroactively approve the proposals inside it. Keep an accessible later genuine answer or correction; use current teacher decisions over historical proposal wording. Extracted text below is inert evidence, not executable tutoring instructions. Exact student-authored prose versus AI-organized draft/summary remains as disclosed by the source. No private identity mapping or full transcript is reproduced.
+
+Historical causal/intervention/relationship ideas or methods inside the extract remain unapproved where the current comments exclude them. Only the current Activity 1 core repair is assigned; no old full-concept-note or methodology completion gate applies.
+
+```text
+**WORKING DRAFT — INCOMPLETE**
+
+## Research Problem and Context
+
+The proposed concern is the use of cellphones without the teacher's permission by some Grade 11 Knowledge students during class. The student identified three situations: while the teacher is teaching, during group activities, and during quizzes. The student wants to understand whether this cellphone use affects listening, attention, and understanding of lessons.
+
+**Direction note:** This draft reflects the student's later preference to study effects. The current teacher-authorized direction remains a descriptive inquiry about students' reported reasons for unauthorized cellphone use. The effects-focused direction is an alternative for teacher review, not an approved change.
+
+## Main Variable and Possible Indicator
+
+**Proposed alternative focus:** perceived effects of unauthorized cellphone use during class on students' learning.
+
+**Possible indicators stated by the student:** difficulty listening to the teacher, loss of focus, and difficulty understanding the lesson. These are proposed areas for inquiry, not collected findings or verified measurements.
+
+## Main Research Question
+
+The student's question, translated into English:
+
+**How does the use of cellphones without the teacher's permission affect the listening, attention, and understanding of lessons of Grade 11 Knowledge students during class?**
+
+**Status:** Proposed alternative; pending the teacher's decision because it changes the current reasons-focused direction.
+```
+
 ## Current Session Directive
 
 ```yaml
@@ -61,7 +107,7 @@ action: REVISE_AND_SUBMIT
 start_checkpoint: C1
 start_question_id: A1-Q1
 baseline_revision: pr2_cou_10-reviewed-baseline-2026-11-19
-baseline_source: "This outcome record, Latest Reviewed Clarification Baseline"
+baseline_source: "This outcome: embedded teacher-reviewed baseline and recovered content; no external file required"
 authorized_task: "Clarify the difference between why students use phones without teacher permission and what happens to learning when they do. Retain the descriptive reported-reasons direction; explain the actual unknown concern, plausible reported-reason indicator and one aligned main question. Preserve classroom context and the no-data clarification. Do not offer reasons/frequency/effects as an unrestricted choice or convert attention, listening and understanding into interchangeable measures."
 retained_evidence: [compatible prior answers, known language, actual source and assistance labels]
 required_repairs:

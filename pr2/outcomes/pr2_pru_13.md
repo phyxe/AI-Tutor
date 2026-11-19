@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_13
 learning_area: Practical Research 2
-record_version: "1.3"
+record_version: "1.4"
 route_activity: pr2_act_02
 route_action: PROCEED_WITH_CLARIFICATION
 route_directive_id: pr2_pru_13-a02-proceed-clarification-2026-11-15
@@ -11,6 +11,24 @@ status: problem-approved-activity-2-authorized-with-clarification
 ---
 
 Teacher decision recorded November 15, 2026 (Asia/Manila): retain research-problem approval and authorize Activity 2 with the specified clarification carried forward. Title and question wording remain proposed, not teacher-approved. This decision does not certify complete understanding, accept a final Chapter 1 or authorize fieldwork. Student identity is maintained separately.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_02` / `PROCEED_WITH_CLARIFICATION`, at `H6` / `A2-Q3`, under directive `pr2_pru_13-a02-proceed-clarification-2026-11-15`. The baseline `pr2_pru_13-a01-reviewed-baseline-2026-11-15` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> How will your question make clear what counts as study time at home and how it relates to TikTok-use duration over the same period?
+
+**Dependency boundary:** The source contains a concept/progress product, not a completed Chapter 1. Earlier explanations already cover common seven-day averages and actual home-study activities; reuse them. Develop only genuinely missing question/overlap meaning and new Chapter 1 work.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -57,7 +75,7 @@ action: PROCEED_WITH_CLARIFICATION
 start_checkpoint: H6
 start_question_id: A2-Q3
 baseline_revision: pr2_pru_13-a01-reviewed-baseline-2026-11-15
-baseline_source: "This outcome record, Accepted Baseline subsection"
+baseline_source: "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)"
 authorized_task: "Develop the current Activity 2 Chapter 1 foundation, integrating the specified main-question and variable-meaning clarification."
 retained_evidence: [approved research problem direction, separate seven-day average reasoning, self-report estimate limitation, compatible accessible prior work]
 carry_forward:
@@ -72,6 +90,8 @@ decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: DESTINATION_WITH_CLARIFICATION
 stop_for_teacher_decision: false
+previous_submission_required: false
+additional_teacher_confirmation_required: false
 ```
 
 This new authorized destination attempt has three standard follow-ups plus at most two justified targeted extras across the whole activity, including the carried issue. No actual usage is claimed before this attempt begins; subsequent continuation retains used counts. Current maintenance and explicit holds remain binding.
@@ -102,3 +122,88 @@ If the clarification remains unresolved, record actual attempts, help and the mi
 ## Submission and Review
 
 Include the accessible earlier baseline, actual clarification/revisions, assistance and proposed Chapter 1. Retain originals where available and distinguish summaries from verbatim evidence; disclose missing dialogue. Two verified student-understood sources and the five current components remain academic completion requirements. Missing evidence does not prevent the authorized review submission at the bounded endpoint. Use current file/chat delivery, then stop for teacher review. This route does not release maintenance or renew the expired November 12 collection instruction.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_13-source-a784b721b1`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## Progress product: unfinished research concept note
+>
+> **Working research direction:** The proposed relationship between daily TikTok-use duration and study time at home among Grade 7 Diligence students of Hawan National High School.
+>
+> **Working title appearing in the attached draft:**
+>
+> > The Relationship Between Daily TikTok Usage and Study Hours of Grade 7 Diligence Students at Hawan National High School, S.Y. 2026–2027
+>
+> This title is preserved as an existing draft, not as a final title approved under the current revision.
+>
+> ### Context
+>
+> An attached draft states that TikTok is commonly used for entertainment and short videos, while students also have school responsibilities and need time to study. It records the researcher's observation that some Grade 7 Diligence students appear to prioritize TikTok over school activities. This is an observation recorded in a draft, not a verified claim about all students or a measured local fact.
+>
+> The working setting is Hawan National High School, specifically Grade 7 Diligence, during School Year 2026–2027. The current revision focus is limited to TikTok-use duration and study time at home. School study hours are excluded from the proposed home-study measure.
+>
+> ### Research Problem
+>
+> The teacher's November 9, 2026 outcome record approves the research-problem direction for continued Activity 1 development: examining the relationship between TikTok-use time and study time among the proposed Grade 7 Diligence group.
+>
+> The complete problem statement and final wording remain unfinished. The student has not yet answered the C4 prompt for the main research question in the current accessible conversation segment.
+>
+> ### Proposed Title
+>
+> The title above is an existing attached draft. It still needs to be reconciled with the current operational definition of study time at home, the final research questions, and the noncausal wording required for a correlational study.
+>
+> ### Research Questions
+>
+> An earlier attached declaration contains this three-question draft:
+>
+> 1. How many hours do Grade 7 Diligence students spend using TikTok every day?
+> 2. How many hours do they spend studying every day?
+> 3. Is there a significant relationship between daily TikTok usage and study hours?
+>
+> These are preserved as prior draft questions, not as the student's final revised C4 response. The second question needs to specify study time at home and exclude school hours. The third question must be interpreted as association, not cause and effect.
+>
+> A later attached draft added questions about weekly TikTok frequency and time management. Those additions are not adopted in this progress product because the current teacher-approved focus is limited to TikTok duration and study time. The final C4 set remains open.
+>
+> ### Variables and Proposed Indicators
+>
+> The two intended measured quantities are:
+>
+> - Daily TikTok-use duration.
+> - Daily study duration at home, excluding school hours.
+>
+> The student has proposed using a common past-seven-days recall period for both quantities and recording separate average daily hours. The student has explained that the seven daily values for each quantity would be added and divided by seven. Weekdays and weekends are included.
+>
+> The student has also explained that the time recorded as studying should represent actual study activity, such as reading books or modules, doing assignments, reviewing lessons, and school activities at home. Breaks, meals, and housework are not study time. If TikTok use overlaps with studying, only the actual study time is counted as study time; TikTok time is not double-counted as study time.
+>
+> The intended data are self-reported estimates based on respondents' recall, not verified device logs or direct observation. A zero value must be possible for respondents who do not use TikTok. The exact final response format and questionnaire have not been validated or approved.
+>
+> ### Proposed Study Type and Rationale
+>
+> The attached drafts propose a quantitative correlational study. This is a working direction only. The student still needs to explain the design rationale and its limitations under C5.
+>
+> A correlational result can describe whether the two measured quantities are associated; it cannot establish that TikTok use causes a change in study time. The direction of the relationship must remain open, including the possibility of no association.
+>
+> A final statistical test has not been selected. Pearson correlation was mentioned in earlier planning, and a later attached draft also mentioned Spearman's rank correlation. Neither is recorded as teacher-approved or final.
+>
+> ### Target Population and Proposed Access
+>
+> The proposed group is Grade 7 Diligence students at Hawan National High School. The student's recent explanation proposes asking the adviser for the official number of eligible students, numbering the names on the class list, and using a random number generator to select 10 respondents.
+>
+> The total eligible population has not yet been confirmed by the adviser. Ten is a preliminary student-proposed sample, not a final teacher-approved sample size. An attached earlier draft proposed total enumeration and mentioned an unverified estimate of 20 students. These different sampling proposals have not been reconciled; this record does not silently choose between them.
+>
+> The student has described a plan to seek school permission and written parent/guardian consent and to ensure voluntary student participation. This is a proposed process only. No actual permission or consent is recorded as obtained.
+>
+> ### Proposed Data-Gathering Procedure
+>
+> The existing drafts propose a researcher-made questionnaire, with an earlier attached version described as printed and bilingual (English and Filipino). The current planning direction is to ask about TikTok-use duration and study time at home over the past seven days, then compute separate average daily hours.
+>
+> The student has proposed explaining that answers are estimates based on recall, encouraging realistic answers, keeping responses confidential, using respondent numbers instead of names, and respecting refusal. The student has also proposed selecting a replacement randomly from the remaining eligible students if a selected student refuses or lacks parent/guardian consent, while first ensuring that the replacement has the required permission.
+>
+> The full before-during-after procedure, final questionnaire, school approval, consent/assent process, data-storage details, and handling of incomplete responses still require review. No questionnaire distribution or data collection has been authorized or conducted. There are no respondent data, statistical results, or research findings.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

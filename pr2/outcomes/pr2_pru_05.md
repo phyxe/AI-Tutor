@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_05
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: PROCEED_WITH_CLARIFICATION
 route_directive_id: pr2_pru_05-a02-verbal-clarification-2026-11-19
@@ -11,6 +11,24 @@ status: activity-2-retained-teacher-verbal-clarification-recorded
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 authorization and the accepted classroom-discussion willingness foundation. The teacher confirms verbally that the proposed study is quantitative descriptive; preserve the topic and do not adopt the uploaded qualitative interview plan. Complete only remaining Chapter 1 understanding and alignment; no Activity 1 restart. Final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_02` / `PROCEED_WITH_CLARIFICATION`, at `H6` / `A2-Q3`, under directive `pr2_pru_05-a02-verbal-clarification-2026-11-19`. The baseline `pr2_pru_05-reviewed-baseline-2026-11-19` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> What would students' own explanations tell you about their willingness to join a discussion that observing whether they raise their hands could not establish?
+
+**Dependency boundary:** No accepted Chapter 1 or finished quantitative instrument is recovered. The teacher-confirmed quantitative descriptive direction controls over the newer qualitative guide; develop Chapter 1 from the recovered foundation rather than demand that guide as an entry file.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -46,7 +64,7 @@ Retain Activity 2 authorization and the accepted classroom-discussion willingnes
   "start_checkpoint": "H6",
   "start_question_id": "A2-Q3",
   "baseline_revision": "pr2_pru_05-reviewed-baseline-2026-11-19",
-  "baseline_source": "This outcome record, Confirmed Study and Reviewed Evidence; teacher verbal confirmation and actual originals retained privately",
+  "baseline_source": "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)",
   "authorized_task": "Clarify willingness versus observed participation and reported factors versus proven causes within the confirmed quantitative descriptive direction, then complete the five Chapter 1 targets from actual existing work.",
   "retained_evidence": [
     "accepted Activity 1 foundation",
@@ -72,7 +90,9 @@ Retain Activity 2 authorization and the accepted classroom-discussion willingnes
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "DESTINATION_WITH_CLARIFICATION",
-  "stop_for_teacher_decision": false
+  "stop_for_teacher_decision": false,
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false
 }
 ```
 
@@ -101,3 +121,94 @@ Keep the confirmed quantitative descriptive direction. Use the actual response t
 This explicit teacher update authorizes a new bounded focused Activity 2 attempt; preserve previous answers, known language, drafts, source notes, assistance/capture limits and older prompt ledgers separately. Prior overrun/unknown counts remain disclosed, not learner fault or invented completion. Same-attempt continuation/new chat retains actual counts. Each listed core prompt is asked at most once, with three shared follow-ups plus at most two justified targeted extras within the ten-learning-prompt ceiling. Carried clarification uses this same allowance. Reuse contextual evidence across targets; no repeated interview, separate source worksheet or final extra quiz. At the bounded endpoint submit actual complete/incomplete work and precise remaining issues.
 
 Complete the five current Chapter 1 targets with two verified relevant sources and sufficient student-understood source-to-inquiry links. Keep original answers, edits and summaries distinct. Do not invent missing paragraphs or make the learner recreate inaccessible history. Follow current review-record and clean-copy delivery rules; final Chapter 1 acceptance/Activity 3 remain later teacher decisions. No participant contact, recruitment, restricted-record access, pilot or fieldwork is authorized. Follow live TUTOR-STATUS.md; incompatible earlier active directions are superseded while actual historical evidence remains preserved.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_05-source-818a4f7a94`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## Context
+>
+> The researcher observes that some Grade 11 – Wisdom students participate in one subject but hesitate to answer in another. A student may appear comfortable sharing ideas with one teacher and less willing to answer with a different teacher. The class also has students who add to or improve classmates’ answers during discussions. These are observations that motivate the study; they are not yet proof that a teacher causes fear or non-participation.
+>
+> ## Research Problem
+>
+> The study seeks to understand students’ reported fear or hesitation when answering, their perceptions of teachers’ attitudes and reactions, and how their participation experiences differ across teachers or subjects. It may help students reflect on classroom experiences and help teachers understand how students experience classroom discussions.
+>
+> ## Proposed Title
+>
+> Students’ Fear of Answering and Classroom Participation Across Different Teachers and Subjects Among Grade 11 – Wisdom Students
+>
+> ## Research Questions
+>
+> 1. What are students’ perceptions of their teachers’ attitudes and reactions toward classroom answers?
+> 2. How often do students participate in class discussions across different teachers or subjects?
+> 3. What reasons do students report for feeling afraid or hesitant to answer?
+> 4. How do students’ reported participation experiences differ across teachers or subjects?
+>
+> ## Variables and Proposed Indicators
+>
+> - **Students’ perceptions of teachers:** questionnaire statements about comfort, approachability, and perceived reactions to answers. Proposed response scale: Strongly Agree, Agree, Disagree, Strongly Disagree.
+> - **Fear or hesitation when answering:** students’ self-reported nervousness, worry about mistakes, or concern about reactions/judgment. Proposed frequency scale: Never, Sometimes, Often, Always.
+> - **Classroom participation:** how often students volunteer, answer when called, share ideas, and add to or improve another student’s answer. Proposed frequency scale: Never, Sometimes, Often, Always.
+> - **Comparison context:** students report experiences by subject or teacher without naming individual teachers. The questionnaire will not ask for teacher identities.
+>
+> The scales and items are proposed and would need teacher review before use.
+>
+> ## Proposed Study Type and Rationale
+>
+> The proposed approach is quantitative and the design is descriptive-comparative. A structured questionnaire can produce responses that are summarized numerically. The descriptive part will summarize students’ reported perceptions, fear/hesitation, and participation. The comparative part will examine reported participation differences across subjects or teachers. This design can describe experiences and differences; it cannot prove that a teacher or fear causes a change in participation.
+>
+> ## Target Population and Proposed Access
+>
+> The intended population is Grade 11 – Wisdom students at Hawan National High School. The researcher proposes inviting selected students rather than the entire class. The final number, selection approach, and access arrangements remain subject to teacher approval and school requirements. Participation would be voluntary, and students could decline or skip questions.
+>
+> ## Proposed Data-Gathering Procedure
+>
+> 1. Request teacher and school approval before contacting participants or distributing any questionnaire.
+> 2. Explain the study’s purpose, voluntary participation, privacy protections, and the option to skip questions or decline.
+> 3. Use an anonymous questionnaire with no student names and no teacher names. Ask students to describe experiences across subjects or teachers without identifying them.
+> 4. Include proposed agreement-scale items about teacher perceptions and frequency-scale items about fear/hesitation and participation.
+> 5. Collect completed questionnaires in a way that avoids linking responses to individual students.
+> 6. Summarize responses using appropriate descriptive counts or summaries and compare reported participation patterns across subjects/teachers where responses allow.
+> 7. Store responses securely, limit access to the researcher/authorized adviser, and report only grouped results. Do not claim that data have been collected; this is a proposed procedure.
+
+### Recovered content 2
+
+Continuity source identity: `pr2_pru_05-source-2a2f8e3cf1`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> > **WORKING DRAFT — INCOMPLETE — FOR SIR FRANCIS'S REVIEW**
+>
+> ## Research Problem and Context
+>
+> Some Grade 11 – Wisdom students may remain silent during class discussions even when they know an answer. One classroom situation the student observed involved a student telling a classmate the answer but not wanting to answer in front of the class, reportedly because the student felt afraid of the teacher. The student also observed that a student's willingness to answer may differ depending on the teacher.
+>
+> The reasons for remaining silent may vary. They may include shyness, low confidence, fear of making mistakes or being judged, a teacher's behavior and communication, classmates' support, interest in the topic, or simply not wanting attention or preferring to listen. These are possible explanations to investigate, not established facts about every quiet student.
+>
+> The concern matters because understanding students' own reasons may help teachers notice students who rarely participate, respond to incorrect answers without embarrassing students, and create a more comfortable classroom environment. The student suggested that teachers can use a calm, gentle tone and correct mistakes patiently while acknowledging students' efforts.
+>
+> ## Main Variable and Possible Indicator
+>
+> **Main variable:** Factors influencing Grade 11 – Wisdom students' willingness to participate in class discussions.
+>
+> **Possible indicators:**
+> - Self-confidence and shyness.
+> - Fear of making mistakes and fear of judgment.
+> - Interest in the discussion topic.
+> - Teacher-related support and students' perceptions of teachers' behavior, facial expressions, tone of voice, choice of words, and responses to incorrect answers.
+> - Classmate support.
+>
+> **Possible observable signs of willingness:** volunteering, raising a hand, and sharing ideas.
+>
+> **Possible observable signs of hesitation:** staying silent, avoiding eye contact, or answering only when called. These behaviors do not, by themselves, prove that a student is afraid or unwilling.
+>
+> ## Main Research Question
+>
+> What factors influence the willingness of Grade 11 – Wisdom students to participate in class discussions?
+>
+> > The question is aligned in topic with the stated problem and main variable. The wording was proposed by the AI tutor and approved by the student; independent explanation of the alignment was not fully demonstrated in the available exchange.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

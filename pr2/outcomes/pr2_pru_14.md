@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_14
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_02
 route_action: PROCEED_WITH_CLARIFICATION
 route_directive_id: pr2_pru_14-a02-teacher-decision-2026-11-19
@@ -11,6 +11,24 @@ status: activity-1-accepted-activity-2-authorized
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the latest Activity 1 problem/context, plausible reported-factor indicators, main question and alignment reasoning. Authorize Activity 2. Carry only the descriptive reported-influence wording and open factor coverage into Chapter 1; retain Grade 10 and the prohibition on Grade 12. Detailed student evidence and identity remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_02` / `PROCEED_WITH_CLARIFICATION`, at `H6` / `A2-Q3`, under directive `pr2_pru_14-a02-teacher-decision-2026-11-19`. The baseline `pr2_pru_14-reviewed-baseline-2026-11-19` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> How will your Chapter 1 questions make clear that you are describing students' reported reasons for timely or late submission, while allowing reasons beyond the four possibilities you named?
+
+**Dependency boundary:** The latest accepted Activity 1 product is recovered. The old AI-generated/out-of-scope Chapter 1 is not an entry prerequisite or accepted student manuscript. Activity 2 is explicitly authorized from the bounded foundation.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -46,7 +64,7 @@ Activity 2 is authorized now with limited wording/coverage clarification carried
   "start_checkpoint": "H6",
   "start_question_id": "A2-Q3",
   "baseline_revision": "pr2_pru_14-reviewed-baseline-2026-11-19",
-  "baseline_source": "This record, Reviewed Baseline; actual November 19 submission and earlier originals retained privately",
+  "baseline_source": "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)",
   "authorized_task": "Develop the five current Chapter 1 targets from the accepted descriptive foundation; keep AI-allowed tasks distinct from actual AI use and reported influences distinct from proven causes.",
   "retained_evidence": [
     "actual compatible prior answers and drafts",
@@ -69,7 +87,9 @@ Activity 2 is authorized now with limited wording/coverage clarification carried
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "DESTINATION_WITH_CLARIFICATION",
-  "stop_for_teacher_decision": false
+  "stop_for_teacher_decision": false,
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false
 }
 ```
 
@@ -100,3 +120,29 @@ This explicit November 19 teacher directive opens a new bounded destination/revi
 Preserve actual originals and changes in the review record; a summary is not a recovered verbatim transcript. Do not supply finished assessed reasoning/questions/instrument content for agreement. Supported editing/translation is disclosed. At the bounded endpoint submit actual complete/incomplete work, marking unresolved dependencies rather than inventing completion. Apply current teacher-record and clean-copy delivery rules. Activity 3 requires the full proposed Chapter 3 and separate data-gathering tool as two clean English DOCX working drafts, with honest missing/pending markers.
 
 Only tutoring/planning is authorized. No recruitment, participant contact, restricted-record access, pilot or fieldwork clearance is granted. Quality checks/version status remain truthful; pending external tests do not prohibit review submission. Final product acceptance and real-world permissions remain for the teacher/responsible authority. Follow live TUTOR-STATUS.md; this decision supersedes incompatible older active queues without erasing history or renewing expired collection notices. Do not assign the next activity automatically.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_14-source-53c611ade7`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## Research Problem and Context
+>
+> I want to understand why Grade 10 students of Hawan National High School submit their assignments on time or late, even when AI is allowed. I want to understand how time management, school activities, personal responsibilities, and difficulty understanding lessons affect their assignment submission. These are possible factors to investigate, not findings. The study distinguishes assignments where AI use is allowed from assignments where a student actually uses AI. It also focuses on whether assignments are submitted on or before the deadline or after the deadline, rather than simply whether the work was finished.
+>
+> ## Main Variable and Possible Indicator
+>
+> The main focus is the factors that affect the assignment submission timeliness of selected Grade 10 students of Hawan National High School in AI-allowed assignments. Possible indicators are students' reported experiences of time management, school activities, personal responsibilities, and difficulty understanding lessons, including how often each factor affects their ability to submit assignments by the deadline. A questionnaire may be used to describe these reported factors. The number or percentage of assignments submitted on/before the deadline and late may also describe submission timeliness, where appropriate records are available and permission is granted.
+>
+> ## Main Research Question
+>
+> What factors affect the assignment submission timeliness of selected Grade 10 students of Hawan National High School in AI-allowed assignments?
+>
+> ## Working status
+>
+> This is the student's current Activity 1 working product for teacher review. The research title and main question have not received final teacher approval. No Activity 2 or Chapter 1 drafting is authorized by the current route.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

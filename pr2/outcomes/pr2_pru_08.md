@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_08
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_08-a02-focused-revision-2026-11-15
@@ -11,6 +11,24 @@ status: activity-2-retained-reconstruction-not-new-learning-evidence
 ---
 
 Teacher decision recorded November 17, 2026 (Asia/Manila): Retain the approved concept/title/questions and current Activity 2 development route. The newly received reconstructed document is an organizational reference, not new student clarification or completed Chapter 1 evidence. Retain the demonstrated proportion-versus-raw-count explanation; develop the actual background, verified source reasoning and significance. Final Chapter 1 acceptance remains pending. Student identity and detailed evidence remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_02` / `REVISE_AND_SUBMIT`, at `H2` / `A2-Q2`, under directive `pr2_pru_08-a02-focused-revision-2026-11-15`. The baseline `pr2_pru_08-a02-reviewed-baseline-2026-11-15` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> What situation makes your question about gaming during teacher-led discussions and students' attention worth investigating, and what does your actual existing background explain about that concern?
+
+**Dependency boundary:** The actual available product is approved concept/measurement context, not a developed Chapter 1. The reconstructed reference is not new learner reasoning. Develop missing background/source/significance work without a file prerequisite.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -60,7 +78,7 @@ action: REVISE_AND_SUBMIT
 start_checkpoint: H2
 start_question_id: A2-Q2
 baseline_revision: pr2_pru_08-a02-reviewed-baseline-2026-11-15
-baseline_source: "This outcome record, Reviewed Baseline subsection; accessible original work remains private"
+baseline_source: "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)"
 authorized_task: "Develop the actual Chapter 1 foundation, beginning with extended background and two verified student-understood sources. Reuse demonstrated percentage reasoning; clarify only missing limits of gaming frequency and self-reported attention, not another calculation interview or instrument assignment."
 retained_evidence: [earlier bounded study authorization, compatible actual prior reasoning, accessible manuscript and source evidence with assistance/capture limits]
 required_repairs:
@@ -73,6 +91,8 @@ decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
+previous_submission_required: false
+additional_teacher_confirmation_required: false
 ```
 
 This is a new explicitly authorized revision attempt: three standard follow-ups plus at most two justified targeted extras across the whole activity. Historical work supplies evidence, not follow-ups charged to the new attempt. No count is fabricated; continuation retains actual counts/language/open target. Do not stretch the allowance through repeated rephrasing or extra source quizzes.
@@ -116,3 +136,107 @@ Submit actual complete/incomplete evidence at the bounded endpoint. COMPLETE req
 This November 15 directive supersedes earlier contradictory active task queues, unresolved labels expressly addressed here and completion-only export rules, not historical evidence or remaining teacher locks. It does not release maintenance, renew the expired November 12 collection instruction or authorize fieldwork.
 
 The November 17 reviewed-evidence decision supersedes incompatible earlier progress labels and repair wording in this record; historical snapshots remain provenance, not new approval. No Activity 2 entry is added for Activity 1 students and no fieldwork is authorized. Follow the live tutor status; this review does not change it.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_08-source-b43bc6c88f`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> **PROGRESS COLLECTION — COMPLETE OR INCOMPLETE AS RECORDED — FOR TEACHER REVIEW**
+>
+> ## Current Activity 2 product status
+>
+> **Activity:** `pr2_act_02` — Individual Chapter 1 Research Foundation
+> **Status:** INCOMPLETE. This file is a progress collection only. It is not a completed Chapter 1 manuscript, does not pass the normal Activity 2 completion gate, and does not approve the research instrument or authorize fieldwork.
+>
+> The student has an approved Activity 1 research concept r01. The approved concept information below is preserved as the starting point for Chapter 1. It is not presented as a newly completed Chapter 1 manuscript.
+>
+> ## Approved working research title
+>
+> **The Relationship Between the Frequency of Playing Mobile Games While the Teacher Is Discussing and the Attention of Grade 10 Students at Hawan National High School**
+>
+> ## Approved research problem
+>
+> The study will determine whether there is a significant relationship between the frequency of playing mobile games while the teacher is discussing and the level of students' attention during class discussions among selected Grade 10 students at Hawan National High School.
+>
+> The study examines an association between the two variables. It will not claim that playing mobile games directly causes a change in attention.
+>
+> ## Approved research questions
+>
+> 1. How often do Grade 10 students at Hawan National High School play mobile games while the teacher is discussing during class discussions?
+> 2. What is the level of attention of Grade 10 students at Hawan National High School during class discussions?
+> 3. Is there a significant relationship between the frequency of playing mobile games while the teacher is discussing and the level of students' attention?
+>
+> ## Approved concept details carried forward
+>
+> ### Variables and proposed measures
+>
+> **Variable 1: Frequency of playing mobile games while the teacher is discussing**
+>
+> The proposed reference period is the past two weeks. Respondents will report:
+> - How many teacher-led class discussions they attended during the past two weeks.
+> - In how many of those discussions they played mobile games while the teacher was discussing.
+>
+> Proposed calculation:
+>
+> Gaming Frequency (%) = (Number of teacher-led discussions in which the respondent played mobile games ÷ Number of teacher-led discussions attended) × 100
+>
+> A respondent who attended at least one discussion but did not play mobile games during any of them may have a 0% result. A respondent who attended zero discussions has an undefined percentage and cannot be included in this calculation.
+>
+> **Variable 2: Students' attention during teacher-led class discussions**
+>
+> The four proposed indicators are:
+> 1. Listening to the teacher.
+> 2. Focusing on the lesson.
+> 3. Following the classroom discussion.
+> 4. Participating in class discussions.
+>
+> The proposed response scale is a five-point agreement scale:
+> - 5 — Strongly Agree
+> - 4 — Agree
+> - 3 — Neutral
+> - 2 — Disagree
+> - 1 — Strongly Disagree
+>
+> The attention items are intended to refer to the same past-two-weeks period. Final questionnaire wording and the method for combining item responses into an attention score remain subject to research-teacher review. Participation is related to attention but is not identical to attention; the items must genuinely measure the intended construct.
+>
+> ### Design and participants
+>
+> - Quantitative, non-experimental descriptive-correlational approach.
+> - Proposed respondents: 20 Grade 10 students from two selected sections at Hawan National High School, 10 from each section.
+> - The two sections are to be selected purposively; 10 eligible students from each selected section are to be randomly selected.
+> - Include both mobile gamers and non-gamers.
+> - Eligibility includes enrollment in Grade 10 at the school, membership in one of the selected sections, attendance at at least one teacher-led class discussion during the past two weeks, and voluntary participation.
+> - The actual names of the two sections have not been provided in the accessible record.
+> - School access, teacher approval, and required consent/assent arrangements remain pending in the approved concept record.
+>
+> ### Proposed data collection and privacy
+>
+> - Printed self-report questionnaire.
+> - Proposed administration during vacant time, with teacher approval and when permitted.
+> - Proposed answering time: approximately 10–15 minutes.
+> - No names requested on questionnaires.
+> - Completed questionnaires kept in a sealed envelope and stored in a locked drawer or box accessible only to the researcher.
+> - Only group-level results reported; individual answers not shared.
+> - Paper questionnaires shredded after data have been encoded and the study is complete.
+> - Participation is voluntary; respondents may refuse or withdraw without pressure or penalty.
+> - Any replacement respondent must be selected using the same approved random-selection procedure and applicable school/adviser requirements.
+>
+> ### Statistical treatment
+>
+> The student has discussed Pearson's correlation and Spearman's rank correlation and stated that the final choice will be made after checking the data type and distribution and consulting the PR2 teacher. The current approved concept snapshot proposes Spearman's rank correlation as a candidate, but the final statistical treatment remains pending teacher review. No actual data or statistical results exist in this progress record.
+>
+> ### Chapter 1 sections not yet drafted
+>
+> The Activity 2 manuscript is not present in the accessible work. The following remain unfinished:
+> - Background of the Study, including its evidence-supported context, specific problem, bounded gap, rationale, and purpose.
+> - Statement of the Problem in Chapter 1 manuscript form, with student-developed explanation of what each question seeks to know.
+> - Scope and Delimitation, including the actual names of the two selected sections and the confirmed boundaries.
+> - References list containing at least two distinct, credible, relevant, accessible sources that are actually verified and meaningfully understood by the student under Activity 2.
+>
+> No missing manuscript section has been written or represented as completed in this file.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

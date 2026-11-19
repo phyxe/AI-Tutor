@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.7"
+record_version: "1.8"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-19
@@ -11,6 +11,24 @@ status: activity-2-retained-relationship-rationale-clarification-required
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 and authorize a new narrow revision of the relationship rationale. Preserve accepted local-gap, setting, significance, title/questions and actual earlier overlap reasoning. The latest file does not establish why examining the two weekly-hour measures together adds useful information beyond describing each separately. Clarify that meaning and only genuinely affected links; final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity mapping remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_02` / `REVISE_AND_SUBMIT`, at `H2` / `A2-Q2`, under directive `pr2_pru_11-a02-focused-revision-2026-11-19`. The baseline `pr2_pru_11-a02-reviewed-baseline-2026-11-16` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> Beyond knowing the weekly hours for each activity separately, what could examining their relationship help you understand, and what would it still not prove?
+
+**Dependency boundary:** The earlier substantial Chapter 1 and newer partial record are both recovered. Missing prose in the later export does not erase the prior manuscript. Relationship rationale is still an actual learner-understanding gap, not a missing-file problem.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -55,7 +73,7 @@ action: REVISE_AND_SUBMIT
 start_checkpoint: H2
 start_question_id: A2-Q2
 baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-16
-baseline_source: "This outcome record, Reviewed Baseline subsection; retain accessible November 16 submission privately"
+baseline_source: "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)"
 authorized_task: "Complete a limited Activity 2 revision of the relationship rationale and any genuine overlap-accounting ambiguity, with focused verification/correction of the two existing sources and references; retain accepted new work."
 retained_evidence: [prior teacher decisions within stated boundaries, accepted November 16 progress, compatible actual earlier reasoning with assistance labels]
 required_repairs:
@@ -74,6 +92,8 @@ decision_timing: AFTER_SUBMISSION
 submission_required: true
 submission_kind: REVISION_REVIEW
 stop_for_teacher_decision: false
+previous_submission_required: false
+additional_teacher_confirmation_required: false
 ```
 
 This explicitly teacher-authorized new focused revision has three standard follow-ups plus at most two justified targeted extras across the whole attempt. Preserve prior attempt ledgers separately; no used count or new student answer is invented here. Continuations retain actual counts. Reuse sufficient answers, ask only the open meaning, and compile at the bounded endpoint whether complete or incomplete.
@@ -122,3 +142,107 @@ Collect the accessible previous submission plus improved actual work, before/aft
 COMPLETE requires the five current Activity 2 components, two verified relevant sources with sufficient student understanding and actual aligned reasoning. Their presence as headings or the end of the allowance does not establish completion. Missing understanding/support is recorded as INCOMPLETE rather than filled or used to withhold the authorized review. Do not reopen retained sufficient targets for an extra alignment defense, impose a verification worksheet, or require sampling, instruments, recruitment, permissions or actual data as Chapter 1 completion gates.
 
 Use current file/chat-report and clean-copy delivery instructions; then stop for the teacher's decision after submission. Follow live TUTOR-STATUS.md; this record does not change maintenance or revive an expired collection notice. No participant contact, restricted-record access, implementation or fieldwork is authorized.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_11-source-eb04c84c79`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> **WORKING DRAFT — INCOMPLETE — FOR TEACHER REVIEW**
+>
+> ## CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+>
+> ### Research Title
+>
+> **Participation in School Activities and Time Spent on Homework among Grade 10 Students**
+>
+> ### Background of the Study
+>
+> Grade 10 students may participate in school activities such as clubs, sports, school events, and student groups. At the same time, they need to spend time on assignments and other schoolwork outside class hours. Balancing these responsibilities may be challenging for some students. However, the actual amount of time Grade 10 students at Hawan National High School spend on these activities and homework is not yet known in the available local information.
+>
+> Previous studies have examined students’ time use and extracurricular participation. Tjaden et al. (2019) reported that time spent on homework and extracurricular activities was associated with aspects of positive youth development. Fredricks (2012) examined extracurricular participation and academic outcomes and discussed the possibility that very high participation may be associated with poorer academic adjustment. These studies suggest that students’ use of time is worth examining, but their findings should not be treated as measurements of students at Hawan National High School.
+>
+> The two studies do not provide the actual weekly hours of Grade 10 students at Hawan National High School for the study proposed here. This is the local information that the present research aims to establish. Finding out how students divide their weekly time between school activities and homework may help students, teachers, and school administrators better understand students’ time commitments. Therefore, this study aims to describe the weekly hours Grade 10 students spend on school activities and homework and examine whether the two time-use measures are related. The study will examine an association only; it will not claim that school activities cause students to spend less time on homework.
+>
+> **Source-evidence note:** The student supplied a summary of both studies and reported that both sources had been verified. The accessible record does not contain the student's verification notes or complete publication metadata. The source-specific interpretation and APA 7 reference details therefore remain subject to checking before academic completion.
+>
+> ### Statement of the Problem
+>
+> This study aims to describe the weekly time Grade 10 students of Hawan National High School spend participating in school activities and doing homework, and to determine whether these two time-use measures are related.
+>
+> Specifically, it seeks to answer the following questions:
+>
+> 1. How many hours do Grade 10 students spend participating in school activities each week?
+> 2. How many hours do Grade 10 students spend doing homework each week?
+> 3. Is there a relationship between the time spent on school activities and the time spent doing homework?
+>
+> ### Scope and Limitations of the Study
+>
+> This study will focus on the weekly hours Grade 10 students spend participating in school activities and doing homework at Hawan National High School. School activities include clubs, sports, school events, and student groups. Homework refers to assignments and other schoolwork completed outside class time. A week refers to Monday through Sunday, including weekends. When activities overlap in time, the same time period will be counted only once.
+>
+> The proposed respondents are 10–15 Grade 10 students from Hawan National High School who are available and willing to participate. The student plans to use a short survey during respondents’ breaks or free time, after obtaining the required permission. The study will focus on hours spent and will not measure grades, homework completion, or the quality of students’ work.
+>
+> The study is limited by its small, one-school convenience sample, so the findings may not represent all Grade 10 students. The data will rely on students’ estimates of their weekly hours, which may not be exact. Other responsibilities, such as household chores, family responsibilities, and personal matters, may also affect students’ time use. Because the study examines a relationship, it cannot establish that participation in school activities causes a change in homework time. The actual recruitment of respondents and permission to conduct the survey have not been confirmed in this record.
+>
+> ### Significance of the Study
+>
+> **Grade 10 Students.** They may understand how they use their time on school activities and homework, which may help them think about how to balance their school responsibilities.
+>
+> **Teachers.** They may better understand Grade 10 students’ time commitments, which may help them consider students’ schedules when planning assignments and school activities.
+>
+> **School Administrators.** They may use the findings as local information when considering school schedules and activities that involve Grade 10 students.
+>
+> **Future Researchers.** They may use this study as a reference for similar local studies about students’ time use.
+>
+> ### References
+>
+> Tjaden, et al. (2019). *The long-term effects of time use during high school on positive development*. http[private source path omitted]
+>
+> Fredricks. (2012). *Extracurricular participation and academic outcomes: Testing the over-scheduling hypothesis*. http[private source path omitted]
+>
+> **Reference-format warning:** These entries are provisional, not complete APA 7 references. The full author lists and publication details must be checked against the original articles before final Chapter 1 acceptance. No missing bibliographic details have been invented.
+
+### Recovered content 2
+
+Continuity source identity: `pr2_pru_11-source-94def3e8d2`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> # CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+>
+> **WORKING DRAFT — INCOMPLETE**
+>
+> ## Final Working Title
+>
+> Participation in School Activities and Time Spent on Homework among Grade 10 Students.
+>
+> ## Background of the Study
+>
+> **Incomplete draft note:** The study focuses on the weekly time Grade 10 students spend in school activities and homework. The student previously explained that the local information gap concerns how students at Hawan National High School divide their weekly time between these two areas, and that existing studies do not supply the school's own figures.
+>
+> The extended TEAL background is not fully available in this record. The student still needs to develop connected background prose that uses verified sources, explains what the sources support and cannot establish locally, and links the evidence to the study's purpose. A key remaining rationale is: what examining the relationship between the two weekly-hour measures adds beyond describing each measure separately.
+>
+> ## Statement of the Problem / Research Questions
+>
+> This study focuses on weekly time spent on school activities and homework by Grade 10 students.
+>
+> 1. How many hours do Grade 10 students spend participating in school activities each week?
+> 2. How many hours do Grade 10 students spend doing homework each week?
+> 3. Is there a relationship between the time spent on school activities and the time spent doing homework?
+>
+> ## Scope and Limitations of the Study
+>
+> The study is intended to focus on Grade 10 students at Hawan National High School. The proposed respondent count is 10–15 available and willing Grade 10 students. This small group from one school may not represent all Grade 10 students. Reported weekly hours may also be estimates because respondents may not remember their exact time use. These are limitations that should be stated without claiming broader representativeness.
+>
+> ## Significance of the Study
+>
+> The student has identified Grade 10 students, teachers, and school personnel/administrators as possible beneficiaries. Findings may help students reflect on how they divide time between activities and homework, and may give teachers or school personnel local information to consider when planning schedules. These are possible uses, not guaranteed outcomes.
+>
+> ## References
+>
+> Tjaden, J., Rolando, D., Doty, J., & Mortimer, J. (2019). The long-term effects of time use during high school on positive development. *Longitudinal and Life Course Studies, 10*(1), 51–85. http[private source path omitted]
+>
+> Fredricks, J. A. (2012). Extracurricular participation and academic outcomes: Testing the over-scheduling hypothesis. *Journal of Youth and Adolescence, 41*(3), 295–306. http[private source path omitted]
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.

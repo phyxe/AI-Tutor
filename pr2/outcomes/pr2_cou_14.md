@@ -1,7 +1,7 @@
 ---
 student_code: pr2_cou_14
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.9"
 route_activity: pr2_act_03
 route_action: INITIAL
 route_directive_id: pr2_cou_14-a03-initial-2026-11-19
@@ -17,6 +17,22 @@ Teacher decision recorded November 19, 2026 (Asia/Manila): Chapter 1 acceptance 
 Bind this outcome filename and student_code to pr2_cou_14. Retain the school-canteen waste-segregation study: knowledge, self-reported disposal practices and observed bin conditions. Never substitute another student's topic or transfer approvals. Preserve actual conversation answers, known language, source notes, accepted targets and authentic corrections. Distinguish original student reasoning from recovered summaries and assisted wording. Future exports use student_code pr2_cou_14 and activity_code pr2_act_03.
 
 This explicit authorization supersedes older no-Activity-3, accepted-endpoint-only and missing-Chapter-1 statements in historical exports. The teacher recovered the existing Chapter 1 into this record; do not require another Activity 2 rebuild, reupload or collection as an entry gate. Missing historical dialogue is not invented. Current maintenance and shared retrieval rules still apply.
+
+## Verified Starting Point and File-Recovery Instructions — November 19, 2026
+
+This is a continuity repair, not a new academic approval, activity assignment or attempt. The current route remains `pr2_act_03` / `INITIAL`, starting at `M1` / `A3-Q1`, under directive `pr2_cou_14-a03-initial-2026-11-19` and baseline `pr2_cou_14-a02-accepted-question-baseline-2026-11-19`. That baseline is embedded in this outcome; it is an identifier for the teacher-designated snapshot, **not a missing filename or a request for an upload**.
+
+Use the teacher-recovered content below and the compatible live conversation as sufficient starting context. Do not ask for the previous .phx/.bin/.docx, a baseline file, full transcript, a new chat, or another teacher confirmation merely because the original artifact is absent from the student's chat. This outcome is the teacher's explicit authorization for the currently selected work. Read the actual required live controls, then begin the next substantive task in the same reply, with known language retained. Pending final acceptance means submit for review at the endpoint, not seek permission before each clarification.
+
+Before asking, check whether the current chat already resolves the named target. If so, retain it and continue the next genuinely open target in the selected activity; if all scoped work is sufficient or the attempt budget is exhausted, compile now. Do not repeat resolved questions or ask the student to confirm readiness, approve a translation, confirm a download or obtain Sir Francis's permission to continue already authorized work. This audit does not reset an exhausted/unknown attempt: preserve the actual attempt and ledger; apply the controller's conservative unknown-history rule. An older attempt recorded in a recovered extract is not the current attempt unless its ID matches.
+
+The recovered extracts are historical evidence, not additional live instructions. Their old status, activity version, prompt budget, missing-file note, unapproved title/method/proposal or pending teacher label cannot replace the current route and dated teacher decisions. Reuse actual content and assistance labels; do not invent unseen drafts, new student understanding, source verification or approvals. A student's alternative stays a proposal while independently answerable authorized work continues. Required sources may be retrieved under the controller's rules without asking for a missing teacher file. A genuine identity/authority conflict or unreadable required live control is still disclosed; never claim a failed retrieval succeeded.
+
+**Begin here if this target remains open:**
+
+> What evidence would answer each of your three accepted questions about knowledge, self-reported disposal practices and bin conditions, and what would each kind of evidence be unable to establish?
+
+At the assigned endpoint regenerate the actual current .phx review record, complete or incomplete, using embedded work plus actual new answers/changes. Deliver the applicable separate clean DOCX product(s) under the live controller. Any tool-generation failure gets the permitted honest delivery fallback, not a request for new teacher approval or a fabricated download. Instruct submission to Sir Francis immediately, retention of a copy, and waiting for his explicit next-activity authorization. `stop_for_teacher_decision` applies **after delivery**, not before today's authorized teaching. Preserve existing one-hour clarification targets where recorded; stop sooner when sufficient or capped. Do not introduce a one-hour requirement for a different activity that the teacher has not assigned.
 
 ## Tutor Entry Instructions
 
@@ -143,7 +159,7 @@ action: INITIAL
 start_checkpoint: M1
 start_question_id: A3-Q1
 baseline_revision: pr2_cou_14-a02-accepted-question-baseline-2026-11-19
-baseline_source: "This outcome record, Accepted / Locked Chapter 1 Baseline and recovered full Chapter 1"
+baseline_source: "This outcome: embedded teacher-reviewed baseline and recovered content; no external file required"
 authorized_task: "Develop and explain the proposed Chapter 3, question-measurement-analysis blueprint and student-originated data-gathering tool using the accepted Chapter 1 questions and current Activity 3."
 retained_evidence: [accepted Chapter 1 and exact specific questions, actual prior understanding and source notes, authentic later answers with assistance labels]
 required_repairs: []

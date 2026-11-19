@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_09
 learning_area: Practical Research 2
-record_version: "1.5"
+record_version: "1.6"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_09-a01-focused-revision-2026-11-19
@@ -11,6 +11,24 @@ status: topic-accepted-focused-activity-1-completion-required
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the topic concerning how students prioritize or manage competing club and academic responsibilities. Have the learner complete Activity 1 on this accepted path; do not reopen topic selection. The precise conflict, focus/indicator and learner-developed main question still require alignment. Activity 2 is not yet authorized. Detailed student evidence and identity remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_01` / `REVISE_AND_SUBMIT`, at `C1` / `A1-Q1`, under directive `pr2_pru_09-a01-focused-revision-2026-11-19`. The baseline `pr2_pru_09-a01-reviewed-baseline-2026-11-19` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> In your accepted topic, what actual situation makes students choose between club and academic responsibilities, and what do you want to understand about their prioritization?
+
+**Dependency boundary:** Topic accepted. Most menu-selected details are assisted exploration; an independent indicator and main question are not recoverable. Ask the learner for missing reasoning, not a teacher-approved replacement topic or a fabricated former question.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -42,7 +60,7 @@ Accept the topic concerning how students prioritize or manage competing club and
   "start_checkpoint": "C1",
   "start_question_id": "A1-Q1",
   "baseline_revision": "pr2_pru_09-a01-reviewed-baseline-2026-11-19",
-  "baseline_source": "This record, Reviewed Context; actual previous submission and teacher-reported choice retained privately",
+  "baseline_source": "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)",
   "authorized_task": "Complete the accepted topic's Activity 1 core: describe whether competing obligations are simultaneous attendance demands or academic deadlines/work competing with club time, explain the descriptive prioritization focus and a plausible indicator, then formulate and explain one aligned main question. Use brief teaching and learner application rather than menus; do not invent missed meetings, lower grades or harm. Preserve the accepted path and actual prior explanation.",
   "retained_evidence": [
     "actual compatible prior answers",
@@ -66,7 +84,9 @@ Accept the topic concerning how students prioritize or manage competing club and
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "REVISION_REVIEW",
-  "stop_for_teacher_decision": false
+  "stop_for_teacher_decision": false,
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false
 }
 ```
 
@@ -85,6 +105,41 @@ Begin directly at the actual missing meaning, using accessible sufficient eviden
 > In your accepted topic, what actual situation makes students choose between club and academic responsibilities, and what do you want to understand about their prioritization?
 
 Activity 1 requires only problem/context, focus with a plausible indicator, and one aligned main question with meaning. C8 is an internal comparison, not an extra learner quiz. Title and extra questions are optional; no source search, sampling plan, instrument, statistics, full design defense or Chapter 1 drafting is assigned.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_09-source-cddbab7c82`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## Research Problem and Context
+>
+> **WORKING DRAFT — INCOMPLETE**
+>
+> The student wants to understand how Grade 11 students who participate in school clubs manage their time, prioritize responsibilities, and balance club activities with academic requirements when the activities compete for the same time. The student is particularly interested in how students decide which responsibility to prioritize.
+>
+> The student's own explanation was:
+>
+> > "I want to understand how students manage their time, prioritize their responsibilities, and balance their club activities with academic requirements without missing deadlines or sacrificing their performance"
+>
+> This is a proposed direction, not a final approved problem statement. The precise situation still needs clarification: whether the concern is simultaneous attendance obligations (both activities occur at the same time), or academic work/deadlines that compete with time needed for club activities.
+>
+> ## Main Variable and Possible Indicator
+>
+> **Not yet sufficiently demonstrated.**
+>
+> The student selected balancing academic and club responsibilities as the main focus and explored prioritization through several tutor-provided choices. However, the student has not yet independently explained the main variable in their own words or identified a suitable observable indicator. The tutor-provided options are not treated as student-authored variable/indicator decisions.
+>
+> ## Main Research Question
+>
+> **Not yet developed by the student.**
+>
+> No independently formulated main research question was elicited in this revision attempt. A prior question in the baseline was tutor-supplied and the student's agreement was recorded as assisted, not as independent understanding. It is not carried forward as an approved question.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.
+
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 

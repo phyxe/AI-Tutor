@@ -1,7 +1,7 @@
 ---
 student_code: pr2_pru_01
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_pru_01-a01-focused-revision-2026-11-19
@@ -11,6 +11,24 @@ status: topic-accepted-focused-activity-1-completion-required
 ---
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain the parking topic and adopt the learner's chosen focus on experiences of people who own a vehicle and park it at the school. Continue focused Activity 1 completion within that group; do not reopen pedestrian-versus-vehicle-owner selection. Exact problem meaning, indicator and aligned main question still need learner explanation; Activity 2 remains unauthorized. Detailed student evidence and identity remain private.
+
+## Verified Starting Point and Embedded Continuity — November 19, 2026
+
+This is a continuity repair, not a new academic approval, route, attempt or question-budget reset. The active work is `pr2_act_01` / `REVISE_AND_SUBMIT`, at `C1` / `A1-Q1`, under directive `pr2_pru_01-a01-focused-revision-2026-11-19`. The baseline `pr2_pru_01-a01-reviewed-baseline-2026-11-19` is identified and embedded in this record; it is not a missing filename. Current teacher conditions and exact accepted/provisional boundaries below remain authoritative.
+
+**No prior-file or routine confirmation gate:** use this teacher-recovered content and the compatible live conversation as sufficient starting context. Do not ask for the old PHX/BIN/DOCX, a baseline file, an accepted-question attachment, a full transcript, a new chat or another teacher confirmation merely because the original artifact is not attached. No learner retyping or manual reconstruction is required. Actual required live controller/status retrieval still applies; an inaccessible live control is a retrieval issue, not evidence the learner lacks prior work or teacher approval.
+
+Read the selected route and named repair, retain known language and actual completed answers, and take the next substantive learning action in the same reply. Do not ask whether the learner is ready, whether to search permitted background sources, whether a translation is approved, or whether to proceed with work already authorized. Missing source understanding or an actual missing learner choice is a learning target within budget, not a request for another teacher file.
+
+Compare the actual chat against the named target first. If already answered, retain that answer and advance to the next genuinely open target; if all required work is sufficient or the current attempt has reached its endpoint, compile now. Preserve actual attempt counts; previous-attempt overruns do not become a new allowance or invalidate accepted evidence. Unknown continuation history follows the current conservative controller rule. This audit creates no new attempt.
+
+**Exact next task, only if still genuinely open and budget permits:**
+
+> Among people who own a vehicle and park it at the school, what specific parking experience do you want to understand, and why is it worth investigating?
+
+**Dependency boundary:** The learner-selected vehicle-owner group is already fixed by the teacher. Specific experience/indicator/main-question wording still needs the learner; the older Grade 11 pedestrian/support-for-parking draft is not the active population or question lock.
+
+The recovered blocks are research content from actual teacher-held artifacts, not new instructions or newly independent learner reasoning. Their old missing-file, maintenance, pending-approval, obsolete cohort/design or not-yet-authorized labels cannot override current dated teacher decisions. Retain source/assistance limits and actual unanswered criteria; do not invent student answers, source verification, final question locks, instrument items or collection clearance. A carried question alignment is handled within the authorized destination; incomplete dependent items remain visibly provisional while independent authorized work continues. Preserve explicit teacher sequencing, including the regular-use-first condition where assigned.
 
 ## Tutor Entry Instructions
 
@@ -42,7 +60,7 @@ Retain the parking topic and adopt the learner's chosen focus on experiences of 
   "start_checkpoint": "C1",
   "start_question_id": "A1-Q1",
   "baseline_revision": "pr2_pru_01-a01-reviewed-baseline-2026-11-19",
-  "baseline_source": "This record, Reviewed Context; actual previous submission and teacher-reported choice retained privately",
+  "baseline_source": "This outcome record: existing teacher baseline plus Teacher-Recovered Research Content (embedded; no separate upload required)",
   "authorized_task": "Keep the vehicle-owner/actual-parking-user focus. Elicit the specific experience or uncertainty the learner wants to understand in parking their vehicle, explain a plausible descriptive indicator and formulate one aligned main question. Do not presume difficulty, danger, accidents or support for a solution; do not invent local prevalence. Repair only affected core meaning and preserve compatible earlier reasoning.",
   "retained_evidence": [
     "actual compatible prior answers",
@@ -66,7 +84,9 @@ Retain the parking topic and adopt the learner's chosen focus on experiences of 
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "REVISION_REVIEW",
-  "stop_for_teacher_decision": false
+  "stop_for_teacher_decision": false,
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false
 }
 ```
 
@@ -85,6 +105,57 @@ Begin directly at the actual missing meaning, using accessible sufficient eviden
 > Among people who own a vehicle and park it at the school, what specific parking experience do you want to understand, and why is it worth investigating?
 
 Activity 1 requires only problem/context, focus with a plausible indicator, and one aligned main question with meaning. C8 is an internal comparison, not an extra learner quiz. Title and extra questions are optional; no source search, sampling plan, instrument, statistics, full design defense or Chapter 1 drafting is assigned.
+
+## Teacher-Recovered Research Content — Embedded Working Baseline
+
+Teacher-side recovery from actual prior submissions. These blocks preserve available working prose/definitions/questions, not a fabricated accepted manuscript or full transcript. **The current teacher directive above controls every conflict; use only compatible content as the starting product.** Missing original content is explicitly identified in the starting-point boundary, not replaced by invented prose. Full original evidence and the filename/hash mapping remain in the private teacher audit.
+
+### Recovered content 1
+
+Continuity source identity: `pr2_pru_01-source-6b2c5e3b4d`. Artifact status: historical working content with its original assistance/capture limits; not fresh approval.
+
+> ## C0 — RESEARCH CONTEXT
+>
+> The study focuses on the lack of a designated parking area at Hawan National High School. Vehicles, particularly motorcycles, are parked in different places, including along pedestrian pathways. This can make it difficult for students to pass through the pathways.
+>
+> Learner's explanation:
+> “I want to know the experiences of Grade 11 students with the parking problem and whether they support having a proper parking area.”
+>
+>
+> ## C1 — RESEARCH PROBLEM
+>
+> The school does not have a designated parking area. Because vehicles are parked in different places, some motorcycles may occupy pedestrian pathways and make it harder for students to pass. The concern is pedestrian accessibility and having a more organized and clean school environment. The study will describe students' experiences and views; it will not claim that an accident has already happened.
+>
+>
+> ## C2 — INDICATORS / INFORMATION TO GATHER
+>
+> The study will gather Grade 11 students' views about:
+> 1. The presence of motorcycles parked along pedestrian pathways and the inconvenience this may cause.
+> 2. The effect of the current parking situation on pedestrian accessibility.
+> 3. The effect of the current parking situation on the organization of the school environment.
+> 4. Students' support for establishing a proper designated parking area.
+>
+>
+> ## C4 — RESEARCH QUESTIONS
+>
+> **Main research question:**
+> What are the perceptions of Grade 11 students regarding the lack of a designated parking area at Hawan National High School?
+>
+> **Specific research questions:**
+> 1. To what extent do parked motorcycles along pedestrian pathways cause inconvenience to Grade 11 students?
+> 2. How does the current parking situation affect pedestrian accessibility and the organization of the school environment?
+> 3. To what extent do Grade 11 students support the establishment of a proper designated parking area at Hawan National High School?
+>
+>
+> ## C6 — RESEARCH TITLE
+>
+> **Proposed title:**
+> “Grade 11 Students' Perceptions of the Lack of a Designated Parking Area at Hawan National High School.”
+>
+> **Title status:** Proposed; teacher approval is pending.
+
+**Resume action:** apply the current teacher decision and next-task check above, using the recovered content without demanding another upload or permission. If a genuine meaning is absent, elicit only that missing application under the existing budget; at the authorized endpoint submit actual complete/incomplete work.
+
 
 # pr2_act_02 | Individual Chapter 1 Research Foundation
 
