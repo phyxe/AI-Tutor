@@ -47,3 +47,10 @@ After the student's return message, a verified release leads straight to the exa
 The expected time is an estimate, not an automatic release. If `status` remains `updating` after that time, the hold remains active. Extend the timestamp if delayed. If no trustworthy clock is available, the tutor quotes the exact teacher-provided date/time and timezone without inventing a countdown.
 
 Never mark `ready` until the intended update is actually published. A read error is not evidence that maintenance is active or cleared; the tutor reports that status could not be verified and preserves progress.
+# Collect the work students have now
+
+In `TUTOR-STATUS.md`, keep `status: ready` if tutoring should remain available. Set a fresh `notice_id`, choose the intended scope, and set `priority_action: collect_progress_phx`. Replace the notice body with the instruction below, using actual collection times in Asia/Manila. Publish the status file.
+
+> Collection is active from [start date and time] until [end date and time], Asia/Manila. On your next reply after reading this notice, create the .phx submission using the available responses and context in the current chat, even if unfinished. Tell the student to submit it. If the download cannot be created, provide the submission report in chat and tell the student to submit that.
+
+For an immediate check in an existing chat, students can send **Check Sir Francis’s tutor notice now.** The tutor checks the published notice before asking another learning question. A published change takes effect when the chat checks it. Idle chats do not receive a reply automatically. After collection, restore `priority_action: none` and replace the collection notice body with the normal availability message.

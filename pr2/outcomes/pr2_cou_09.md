@@ -1,7 +1,7 @@
 ---
 student_code: pr2_cou_09
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.9"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
 route_directive_id: pr2_cou_09-a02-clarification-submit-2026-11-19
@@ -23,6 +23,14 @@ Teacher decision recorded November 19, 2026 (Asia/Manila): Existing descriptive 
 Bind the record before using a handoff. Set aside conflicting topics; do not erase valid answers or import another student's work. Preserve original metadata as provenance, distinguish learner reasoning from tutor-organized wording and summary-only evidence, and disclose genuinely uncertain ownership. Future exports use student_code `pr2_cou_09` and activity_code `pr2_act_02`. Correcting export metadata does not rewrite the original submission.
 
 This explicit decision supersedes the November 16 route and November 17 current-target/approval limitations only where changed here. Recheck current controllers and maintenance; do not revive an expired collection notice. On a mid-conversation refresh retain actual answers, resolved targets, known language, drafting/source context and the current attempt ledger. Do not reset merely because this file was reloaded.
+
+## Distinguish the Old Exhausted Attempt from This Authorized Revision
+
+The November 19 10:11 submission records eight follow-ups under **pr2_cou_09-a02-attempt-2026-11-18**. That earlier attempt is exhausted. Its actual answers are retained, but its used count must not be copied onto **pr2_cou_09-a02-attempt-2026-11-19**, the separate focused revision explicitly authorized after that submission was reviewed.
+
+At issuance of the November 19 directive, no answers to that new revision had yet been recorded in the reviewed submission. The assigned opening is the H6 / A2-Q3 condition-category clarification below, not an A2-Q5 scenario. On first execution of this explicitly authorized revision, ask that opening substantive question and record the real new-attempt ledger. If the same revision has already begun elsewhere and its actual answers/ledger are available, retain them; a new chat never resets that same attempt. If its history genuinely cannot be established, use the controller's unknown-history rule and disclose uncertainty rather than falsely declaring the limit reached. Never infer exhaustion merely from the older eight-follow-up report or from file-creation failure.
+
+No file-generation tool is needed to ask the authorized clarification. A file/tool limit affects delivery only: when the actual bounded endpoint is reached, provide the permitted structured chat submission if a real .phx cannot be created. It does not establish a learning-prompt count or require Sir Francis to approve an already authorized question.
 
 ## Verified Starting Point and File-Recovery Instructions — November 19, 2026
 

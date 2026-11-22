@@ -1,26 +1,25 @@
 ---
 file_type: TEACHER_TUTOR_STATUS
 format_version: "1.0"
-notice_id: ready-2026-11-16-resume
-status: ready
+notice_id: progress-collection-2026-11-22
+status: updating
 scope: all
 learning_areas: []
 activities: []
 timezone: Asia/Manila
 expected_resume_at: null
-updated_at: "2026-11-16T10:46:59+08:00"
+updated_at: "2026-11-22T20:26:25+08:00"
 recheck_interval_student_turns: 5
 interim_handoff_submission_required: false
-priority_action: none
+priority_action: collect_progress_phx
 ---
 
-# Tutor available: resume your assigned work
+# Submit your current progress, then wait
 
-Sir Francis has completed this maintenance update. Students may resume their currently assigned activity under the latest published tutor instructions and official teacher route. The November 12 progress-collection directive has ended; do not repeat it or request a duplicate submission merely because an old chat remembers it.
+Progress collection is active on 2026-11-22, Asia/Manila. After this collection date, keep the hold active until Sir Francis publishes further instructions.
 
-On a return message, recheck this live notice and current general/area/activity instructions plus the exact required teacher outcome. Preserve available work, known language, attempt and used follow-up allowance. Say briefly “We can continue with [actual next part]” and ask the next authorized question in the same reply, without another readiness confirmation or technical loading report. Use the actual handoff if supplied; do not claim access to missing earlier chats.
+On the next reply after verifying this notice, compile the available responses, drafts and context from the current chat for the student's currently assigned activity. Follow that activity's submission format. Include finished and unfinished work, clearly mark missing parts, and create the .phx progress submission in the same reply. Ask no more learning questions and require no further work or confirmation.
 
-Next step for the student: send “The update from Sir Francis is completed; we can resume where we left” in the existing chat, or upload the latest save in a new chat to continue. A new chat does not reset account/tool limits.
+Tell the student: "Download your .phx file and upload it to Sir Francis's submission channel. Then wait for further instructions." If you cannot create the download, provide the structured submission report in chat and tell the student to submit it through the same channel, then wait.
 
-Ready is an operational release, not a student approval or clearance for pilot work, recruitment, restricted records or fieldwork. Follow each student's current route, explicit WAIT, teacher locks and actual permissions. Do not automatically move anyone to a new activity or change official progress. New activity drafts or supplied LAS maps do not authorize themselves; use only an actually assigned activity.
-
+After delivery, keep tutoring on hold. Recheck the live notice when the student returns. Do not restart work, advance the activity, or repeat collection unless the current teacher notice authorizes it.
