@@ -1,14 +1,20 @@
 ---
 student_code: pr2_pru_02
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.10"
 route_activity: pr2_act_02
-route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_pru_02-a02-teacher-decision-2026-11-19
-route_baseline_revision: pr2_pru_02-reviewed-baseline-2026-11-19
-route_resume_checkpoint: H6
-status: activity-1-foundation-accepted-activity-2-authorized
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_02-aer-teacher-decision-2026-11-25
+route_baseline_revision: pr2_pru_02-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q1
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: prudence-evidence-recovery-2026-11-25
 ---
+
+## Current assessment improvement authority — November 25, 2026
+
+Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the latest Activity 1 foundation and authorize Activity 2 with limited coverage/reason-openness clarification. Retain descriptive gaming/video duration and reported reasons; final title/question wording and Chapter 1 acceptance remain for review. Student identity and detailed evidence remain private.
 
@@ -54,6 +60,75 @@ Latest foundation accepted for Activity 2; no repeat Activity 1 interview.
 Accept the latest Activity 1 foundation and authorize Activity 2 with limited coverage/reason-openness clarification. Retain descriptive gaming/video duration and reported reasons; final title/question wording and Chapter 1 acceptance remain for review.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_pru_02-aer-teacher-decision-2026-11-25",
+  "attempt_id": "pr2_pru_02-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "prudence-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_pru_02-aer-retained-baseline-2026-11-25",
+  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
+  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "target_assessments": [
+    "WW4",
+    "PT3"
+  ],
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 5,
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan
+
+Teacher-authorized November 25, 2026, within **pr2_act_02**. Target assessments: **WW4, PT3**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+
+
+### Keep the work and build stronger evidence
+
+Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+
+Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+
+### Retained starting context
+
+Retain the accepted descriptive foundation: selected Grade 11 students, gaming/video durations and reported reasons. Existing questions, duration units and overlapping habit/entertainment reasoning already meet the recovery threshold. Do not repeat the foundation or assign another instrument revision merely to raise passing scores.
+
+Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+
+### Main questions and evidence mapping
+
+At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 5 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
+
+| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+|---|---|---|---|
+| ER-Q1 | Explain how the first relevant source supports your gaming-and-video inquiry. | WW4 | Use an actual verified source; check supported claim and local limits. |
+| ER-Q2 | Explain how a second distinct source supports the same bounded inquiry. | WW4 | Do not treat either source as local prevalence or proof of harm. |
+| ER-Q3 | Explain the local information need left open by those sources. | WW4, PT3 | Keep the need specific to selected activities, duration and reported reasons. |
+| ER-Q4 | Draft the connected background for your existing descriptive study using the source support. | PT3 | Retain the accepted focus; provide guidance, not assessed paragraphs. |
+| ER-Q5 | Write the significance section for this inquiry. | PT3 | Identify realistic users and uses without guaranteed benefits. |
+
+### PHX endpoint — accept the evidence provided
+
+After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+
+Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+
+## Previous ordinary session directive — historical reference
 
 ```yaml
 {

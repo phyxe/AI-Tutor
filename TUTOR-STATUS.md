@@ -1,25 +1,21 @@
 ---
 file_type: TEACHER_TUTOR_STATUS
 format_version: "1.0"
-notice_id: progress-collection-2026-11-22
-status: updating
+notice_id: ready-2026-11-25-assessment-recovery
+status: ready
 scope: all
 learning_areas: []
 activities: []
 timezone: Asia/Manila
 expected_resume_at: null
-updated_at: "2026-11-22T20:26:25+08:00"
+updated_at: "2026-11-25T16:30:42+08:00"
 recheck_interval_student_turns: 5
 interim_handoff_submission_required: false
-priority_action: collect_progress_phx
+priority_action: none
 ---
 
-# Submit your current progress, then wait
+# Tutor available for assigned activities
 
-Progress collection is active on 2026-11-22, Asia/Manila. After this collection date, keep the hold active until Sir Francis publishes further instructions.
+Maintenance has ended. Read the student's exact official outcome and follow its current route, activity and teacher directive. Honor any individual hold. The November 22 progress collection has ended.
 
-On the next reply after verifying this notice, compile the available responses, drafts and context from the current chat for the student's currently assigned activity. Follow that activity's submission format. Include finished and unfinished work, clearly mark missing parts, and create the .phx progress submission in the same reply. Ask no more learning questions and require no further work or confirmation.
-
-Tell the student: "Download your .phx file and upload it to Sir Francis's submission channel. Then wait for further instructions." If you cannot create the download, provide the structured submission report in chat and tell the student to submit it through the same channel, then wait.
-
-After delivery, keep tutoring on hold. Recheck the live notice when the student returns. Do not restart work, advance the activity, or repeat collection unless the current teacher notice authorizes it.
+For Courage and Prudence students with an assigned assessment evidence recovery directive, follow the embedded plan inside the selected Activity 1, 2 or 3 and the PR2 assessment recovery protocol. Preserve prior work, scores and the current attempt's question count. Begin with the next assigned task once language is known. Compile the available evidence for teacher reassessment at the plan's endpoint and give the submission step. Sir Francis decides any score change after submission.

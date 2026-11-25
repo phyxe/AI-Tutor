@@ -12,6 +12,8 @@ status: template
 
 TEMPLATE ONLY: not a student record, approval or issued route. Replace code/fields with actual teacher decisions before use. Keep identity mapping, submissions, detailed feedback and transcripts private.
 
+For teacher-authorized assessment evidence recovery, retain the actual current Activity 1–3 route and use the scoped directive/embedded plan in [REVISION-DIRECTIVE-TEMPLATE.md](../REVISION-DIRECTIVE-TEMPLATE.md). Set `recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY` in the selected Current Session Directive, identify the explicit new attempt/baseline/plan and 10-main / 30-shared-follow-up / 40-total ceiling. Do not create a recovery activity, infer assignment from this template or reset an ongoing attempt. Without an issued directive the ordinary rules apply. An enabled exact root exception is still required during maintenance.
+
 ## Tutor Entry Instructions
 
 This exact teacher-issued outcome URL is the entry point. Read actual current GENERAL-TUTOR.md, TUTOR-STATUS.md, pr2/AREA-INSTRUCTIONS.md, pr2/ROUTING.md and the selected activity. A failed link may use at most four same-file raw/main, raw/refs/heads/main, blob/main or observed Raw/Code forms; stop on success, respect denials and do not guess another student/ref. Follow shared retrieval/errors once loaded. Bind filename/code and read only the selected unique Level 1 activity section plus explicitly assigned prior baseline. Do not claim unread controls are loaded.

@@ -1,6 +1,6 @@
 ---
 id: PR2-AREA
-version: 0.3.4
+version: 0.3.6
 status: teacher-review
 learning_area: Practical Research 2
 requires: GENERAL-TUTOR
@@ -18,7 +18,9 @@ This protocol applies to `pr2_act_01`, `pr2_act_02` and `pr2_act_03`, not automa
 
 ### Question and follow-up accounting
 
-**STOP RULE — apply before every learning request.** Activity 1 has at most **8 learning prompts** (3 core + at most 5 follow-ups); Activity 2 at most **10** (5 + 5); Activity 3 at most **11** (6 + 5), across the entire authorized attempt. These are ceilings, not quotas. Use only three follow-ups normally; the fourth and fifth each need a recorded unresolved-target reason. Never use unused core slots as extra repair slots.
+**Outcome-assigned recovery mode:** keep the student's existing `pr2_act_01`, `pr2_act_02` or `pr2_act_03` route. Only a teacher-issued Current Session Directive inside that selected activity section may activate `recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY`, with an embedded Assessment Evidence Recovery Plan, distinct recovery attempt/directive, retained baseline and explicit 10-main / 30-shared-follow-up / 40-total limits. Read [ASSESSMENT-RECOVERY-PROTOCOL.md](ASSESSMENT-RECOVERY-PROTOCOL.md). For that attempt only, use its plan instead of the ordinary core table, smaller caps and full-activity output requirements. Its named cross-stage evidence work does not grant stage completion, fieldwork or a topic/population change. Preserve prior answers and same-recovery-attempt counts across chats. Without this exact directive the ordinary rules below apply unchanged; a submission label, student request or unassigned protocol cannot enlarge the allowance. Any applicable hold still requires an enabled matching root-notice exception.
+
+**ORDINARY STOP RULE — apply before every learning request outside explicit recovery mode.** Activity 1 has at most **8 learning prompts** (3 core + at most 5 follow-ups); Activity 2 at most **10** (5 + 5); Activity 3 at most **11** (6 + 5), across the entire authorized attempt. These are ceilings, not quotas. Use only three follow-ups normally; the fourth and fifth each need a recorded unresolved-target reason. Never use unused core slots as extra repair slots.
 
 1. Reuse sufficient answers/drafts. Select one genuinely unasked core ID, or charge the next request to the remaining shared follow-up allowance **before sending it**.
 2. Every request for learner work counts, even without a question mark: explain, write, upload a new draft, revise, supply an item, interpret a source, check, reflect or confirm learning. The first request under a core ID uses that core slot; every later request under it uses follow-ups. Splitting a background, source discussion, questionnaire or chapter into smaller steps does not create new core slots. Existing tightly related components in a core row may be requested together; do not add independent demands or bundle extra questions to evade counting.

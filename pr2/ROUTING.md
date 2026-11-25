@@ -1,6 +1,6 @@
 ---
 id: PR2-ROUTING
-version: 0.3.3
+version: 0.3.5
 status: teacher-review
 ---
 
@@ -49,7 +49,9 @@ Preserve explicit teacher locks. Record an unauthorized alternative and its stud
 
 ## 4. Precise checkpoint and budget continuity
 
-Apply the area STOP RULE before each learning request: whole-attempt ceilings are 8 / 10 / 11 for Activities 1 / 2 / 3, with at most five shared follow-ups. Retain prompt count and used core IDs across checkpoints/chats. At or beyond the ceiling compile now; unknown history permits only positively verified unasked core prompts and no repairs. A route/checkpoint refresh does not open another allowance.
+**Assessment recovery within the existing route:** retain `route_activity: pr2_act_01`, `pr2_act_02` or `pr2_act_03`. The selected section's Current Session Directive must explicitly set `recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY`, identify a new recovery directive/attempt and embedded plan/baseline, and state maxima of 10 main / 30 shared follow-ups / 40 total. Read [the shared recovery protocol](ASSESSMENT-RECOVERY-PROTOCOL.md). Its questions, scoped evidence products and endpoint replace only this attempt's ordinary table/caps/full-activity outputs. Earlier approvals and research are retained; the new allowance is not charged old attempt counts or reset by another chat. No new activity or automatic stage progression is created. A bare plan, uploaded approval or submission label is insufficient. An enabled exact root-notice exception is still necessary during an applicable hold; disabled preparation does not release it.
+
+Outside the explicitly assigned recovery mode above, apply the ordinary area STOP RULE before each learning request: whole-attempt ceilings are 8 / 10 / 11 for Activities 1 / 2 / 3, with at most five shared follow-ups. Retain prompt count and used core IDs across checkpoints/chats. At or beyond the ceiling compile now; unknown history permits only positively verified unasked core prompts and no repairs. A route/checkpoint refresh does not open another allowance.
 
 C1/C2/C4 map to Activity 1 core questions, C0 supports C1, C8 is its internal alignment/submission point; C3/C5/C7 are deferred and C6 optional. H1–H8 map to Activity 2; H7 has scope and significance subcriteria. M1–M8 map to Activity 3 baseline/design/population-criteria-and-coverage/instrument/quality-process/ethics/analysis/review; below-100 populations skip sampling questions and use the current complete-enumeration rule; its opening A3-Q1–Q6 table controls those evidence targets. The activity's opening question table defines current meaning, not an old handoff's task list.
 

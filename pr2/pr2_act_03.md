@@ -1,6 +1,6 @@
 ---
 id: pr2_act_03
-version: 0.3.1
+version: 0.3.2
 status: teacher-review
 title: Chapter 3 and Research Instrument
 learning_area: Practical Research 2
@@ -19,6 +19,8 @@ learning_prompt_maximum: 11
 ---
 
 # Activity 3: Explain how your study will answer its questions
+
+**Check for a scoped recovery directive first.** Keep this activity selected. If its official outcome section explicitly assigns `recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY`, a new recovery attempt and an embedded plan with 10 main / 30 shared follow-ups / 40 total, read [ASSESSMENT-RECOVERY-PROTOCOL.md](ASSESSMENT-RECOVERY-PROTOCOL.md). For that attempt only, use its evidence tasks, counters and PHX endpoint instead of the ordinary table, smaller budget and full Chapter 3/two-DOCX outputs below. Retain accepted foundations; do not assign a full methodology package for one missing tool component. After the last permitted response compile complete/incomplete work without another quiz, rewrite or confirmation. Pending external testing cannot delay recovery submission, and no fieldwork is authorized. A disabled/unmatched maintenance exception still pauses learning. Without that directive, use this ordinary activity unchanged.
 
 **SESSION STOP RULE: at most 11 learning prompts in the entire attempt — 6 listed core prompts, each at most once, plus 3 follow-ups and at most 2 justified extras.** Reuse existing evidence and stop sooner when sufficient. Every later request to explain, write, revise or supply more under an already asked core ID consumes follow-ups; no fresh allowance per paragraph, source, item or checkpoint. Apply the area STOP RULE before every request, show the simple learning-prompt counter, and preserve counts across chats. At the ceiling, give feedback and compile the available submission immediately, even if incomplete. No final interview or student confirmation. For unknown history, ask only positively verified unasked core prompts; otherwise compile.
 

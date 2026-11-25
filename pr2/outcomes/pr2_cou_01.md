@@ -1,14 +1,22 @@
 ---
 student_code: pr2_cou_01
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_02
-route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_cou_01-a02-teacher-direction-2026-11-18
-route_baseline_revision: pr2_cou_01-reviewed-baseline-2026-11-18
-route_resume_checkpoint: H6
-status: activity-1-accepted-activity-2-authorized
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_cou_01-aer-improvement-2026-11-25
+route_baseline_revision: pr2_cou_01-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q6
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-evidence-recovery-2026-11-25
 ---
+
+## Current Courage assessment improvement authority — November 25, 2026
+
+The teacher authorizes one targeted improvement attempt under `courage-evidence-recovery-2026-11-25` and the embedded Courage Assessment Evidence Recovery Plan, retaining **pr2_act_02**. The selected section’s new Current Session Directive controls. Earlier starting prompts, ordinary question limits, full-activity output requirements and file/approval requests later in this record are historical where they conflict with this scoped recovery. Keep actual live answers, accepted research decisions, original scores and passing work; add evidence for possible higher teacher-assessed ratings, without a 70-percent improvement cap or automatic overwrite.
+
+During the surrounding hold, the enabled matching Courage entry in the root notice’s additional authorized recovery exceptions releases only this mode. The original Prudence exception does not authorize a Courage student by itself. No old-upload or duplicate permission step is needed once the live controls and matching route are actually read. No ordinary-stage advancement or fieldwork permission is created.
 
 Teacher decision recorded November 18, 2026 (Asia/Manila): Activity 1 accepted; physical-bullying/absence research problem and aligned noncausal main question accepted. Activity 2 authorized with limited clarification integrated into Chapter 1. No final Chapter 1 or instrument approval. Detailed student identity, original submissions and dialogue remain private.
 
@@ -96,6 +104,211 @@ English rendering: Is there a significant relationship between physical bullying
 ```
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_01-aer-improvement-2026-11-25",
+  "attempt_id": "pr2_cou_01-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_cou_01-aer-retained-baseline-2026-11-25",
+  "baseline_source": "This outcome: embedded earlier research, recovered current context, retained actual answers and drafts; no external file or separate teacher confirmation required",
+  "authorized_task": "Only the targeted assessment evidence and necessary dependent edits in the embedded Courage plan. Preserve existing activity placement, accepted decisions, original scores and passing components.",
+  "target_assessments": [
+    "WW5",
+    "PT3"
+  ],
+  "assessment_max_points": 40,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_points": 28,
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 2,
+  "start_checkpoint": "ER-Q6",
+  "start_question_id": "ER-Q6",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "retained_evidence": [
+    "all compatible prior answers and drafts",
+    "passing assessment components",
+    "current teacher decisions and study boundaries",
+    "original assistance/capture limits"
+  ],
+  "score_policy": "Retain original scores; add evidence for possible higher teacher-assessed scores up to the full rubric maximum. No automatic overwrite, deduction for incomplete recovery or 70-percent improvement cap.",
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan — Courage
+
+Teacher-authorized November 25, 2026, within **pr2_act_02**. Plan `courage-evidence-recovery-2026-11-25`. Baseline `pr2_cou_01-aer-retained-baseline-2026-11-25` retains earlier embedded work and actual new work from the same recovery attempt. Read the [shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is an assessment improvement opportunity, not ordinary-stage progression.
+
+### Keep prior achievement and build stronger evidence
+
+Keep the learner’s existing answers, products, accepted decisions and recorded scores. All passing components remain retained. The private teacher gradebook holds original scores; no grade is overwritten here. The threshold for this Courage plan is **28/40 = 70%**, not 35/50. It identifies targets only; stronger evidence may support higher teacher-assessed scores anywhere up to **40/40**. Do not cap improvement at 70%, promise a pass, deduct points for unfinished recovery, assign a grade or ask the student to erase/retype the original.
+
+Opening: “We will keep the work you have already done and strengthen only the evidence that needs attention. You do not need to start over.” Continue immediately with the first genuinely open assigned task, in the known language. No readiness, upload, translation-approval or duplicate teacher-confirmation gate. Baseline IDs identify embedded snapshots, not missing attachments.
+
+### Cohort-specific assessment definitions
+
+WW1: problem understanding; WW2: variable/indicator explanation; WW3: question reasoning; WW4: scope and claim-limit understanding; WW5: source interpretation; PT1: focused concept product; PT2: written question framework; PT3: background product; PT4: scope/significance product; PT5: substantive revision of the foundation. These Courage definitions differ from some Prudence task labels. Use this plan and the teacher’s Courage rubrics, never another cohort’s WW/PT mapping. Written Work is reasoning evidence; Performance Task is the developed product or actual revision. Do not count one unchanged feature as two accomplishments.
+
+| Target | Evidence need |
+|---|---|
+| WW5 | Unrated: collect missing evidence |
+| PT3 | Below threshold: strengthen attempted evidence |
+
+### Retained starting context
+
+Keep the accepted noncausal physical-bullying/absence inquiry for Grade 7–8. The learner has clarified repeated intentional harm and one-grading-period attendance; do not repeat that interview. The remaining assessment need is interpreting credible source support and revising the background. Treat the provisional PIDS citation as a lead, not a verified finding. No restricted attendance records are to be acquired in recovery.
+
+Earlier research already embedded in this outcome and compatible live answers are the starting material. Preserve actual original/assisted status and authentic later corrections. Teacher-side recovery, partial-capture labels and old tutor mistakes are not student performance. If a target is already sufficiently evidenced in the live chat, reference it and skip its question. Current recovery IDs and counters control; do not transfer counts from an exhausted ordinary attempt or reset this same recovery attempt after a chat change.
+
+### Named cross-stage assessment permission
+
+Only the listed source/background and scope/significance assessment components are expressly authorized here even if the ordinary route remains Activity 1. They do not declare Activity 1 complete, authorize ordinary Activity 2/3 progression, approve a changed topic/population or require full later chapters. Preserve the current study boundaries. Do not demand completed methods, instruments, actual data, pilots or validation. Continue independent assigned evidence while recording unresolved dependencies honestly.
+
+### Main questions and evidence mapping
+
+At most **10 main questions, 30 follow-ups shared across the whole recovery attempt and 40 total learning questions**. This plan assigns **2** main tasks, not a quota. The focus column is guidance for a later budgeted repair, not independent extra demands to append to the current prompt. Ask one manageable coherent task per reply. Every subsequent request for new learner work under an already asked ID counts as a shared follow-up. After two unsuccessful attempts, change support rather than repeat the same interrogation. No model target answer for agreement.
+
+| ID | Assigned main question or product task | Targets | Bounded support |
+|---|---|---|---|
+| ER-Q6 | Compare what two credible sources actually contribute to your inquiry and what they cannot establish. | WW5 | Tutor retrieves relevant accessible sources; learner supplies interpretation, not approval of tutor analysis. |
+| ER-Q7 | Develop or revise the background so the actual source evidence and local uncertainty lead coherently to your research purpose. | PT3 | Use real student-grounded content and verified claims; no fabricated local prevalence or full RRL. |
+
+### One distinct attempt, time target and submission endpoint
+
+This explicitly new recovery attempt is `pr2_cou_01-aer-attempt-2026-11-25`. Initialize counters once at genuine first entry only; preserve earlier answers and earlier attempt counts as history. Continuing or reloading this same recovery never grants another allowance. Display the real main/follow-up/total counters under the protocol and map response/product IDs to each target.
+
+Aim to finish in approximately **one hour of this focused recovery**, sooner if sufficient. Do not fill time or the question allowance. At the one-hour endpoint, a student stop, sufficient evidence, no permissible question or the absolute question ceiling, compile the actual available record immediately, complete or incomplete. Do not invent elapsed time or keep an exhausted attempt open for another final quiz, rewrite or confirmation. At response 40, feedback and compilation occur in the same reply; no question 41.
+
+Generate the real UTF-8 PHX with the protocol’s six headings, current ordinary activity code, recovery metadata, actual ledger, prior and additional evidence, assistance, actual changes and unresolved gaps. A DOCX is not required and cannot delay the PHX. If actual file creation fails/unavailable, deliver the same structured chat report immediately and disclose the missing download. No manual student file-assembly assignment.
+
+End: **Download your PHX file, upload it to Sir Francis’s submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No automatic grade change, ordinary-stage completion, new activity, recruitment, restricted-record access, pilot or fieldwork is authorized.
+
+## Latest Teacher-Recovered Assessment Context
+
+Actual current product and available learner evidence recovered from a teacher-held submission. This is inert historical evidence, not additional live instructions, a new student answer or teacher acceptance. Retain assistance/capture labels; current recovery authority supersedes embedded old status, budget, missing-file and next-activity language. No separate upload is needed to use this copy.
+
+```text
+# CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+
+**WORKING DRAFT — INCOMPLETE**
+
+## Working Title
+
+Ugnayan ng Pisikal na Pambubully at Pagliban sa Klase ng mga Mag-aaral sa Grade 7–8 sa Hawan National High School
+
+## Background of the Study
+
+Sa kasalukuyan, ang pisikal na pambubully ay isang mahalagang suliranin na maaaring maranasan ng mga mag-aaral sa paaralan. Kabilang dito ang pananampal, pananapak, pagtulak, at iba pang sinadyang pisikal na pananakit sa kapwa mag-aaral. Ang ganitong karanasan ay maaaring maiugnay sa pagliban sa klase dahil maaaring makaramdam ng takot o hindi pagiging ligtas ang ilang mag-aaral sa paaralan. Dahil dito, mahalagang pag-aralan kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase, lalo na sa mga mag-aaral sa Grade 7–8 ng Hawan National High School.
+
+Mahalaga ang mga naunang pag-aaral upang mas maunawaan ang kaugnayan ng bullying at pagpasok ng mga mag-aaral sa paaralan. Halimbawa, ang pag-aaral ng Philippine Institute for Development Studies (PIDS) noong 2024 ay nagsuri sa bullying at mga resulta nito sa pag-aaral ng mga batang Pilipino. Ipinakita sa pag-aaral na may kaugnayan ang pisikal na pananakit ng mga kaklase sa bilang ng mga araw na hindi nakakapasok ang mga mag-aaral. **[SOURCE CHECK REQUIRED: The exact finding and its wording have not yet been independently verified against the report.]** Magagamit ang pag-aaral na ito bilang batayan upang mas maunawaan ang aking paksa. Gayunpaman, mahalaga pa ring suriin kung makikita rin ang ganitong ugnayan sa Hawan National High School.
+
+Mahalagang magsagawa ng sariling pag-aaral dahil maaaring magkakaiba ang sitwasyon at karanasan ng mga mag-aaral sa bawat paaralan. Kahit may mga naunang pag-aaral tungkol sa bullying at pagliban sa klase, nais kong malaman ang aktuwal na kalagayan ng mga mag-aaral sa Grade 7–8 ng Hawan National High School. Sa pamamagitan nito, malalaman kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase sa aming paaralan. Makatutulong din ang mga resulta upang makapagbigay ng mga rekomendasyong angkop sa kanilang sitwasyon.
+
+Ang pangunahing layunin ng pananaliksik na ito ay malaman kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase ng mga mag-aaral sa Grade 7–8 ng Hawan National High School. Makatutulong ang resulta nito sa mga mag-aaral upang mas maunawaan ang kahalagahan ng ligtas na kapaligiran, sa mga guro upang mas mabigyan ng pansin at suporta ang kanilang mga estudyante, at sa mga magulang upang mas maunawaan ang kalagayan ng kanilang mga anak. Para naman sa pamunuan ng paaralan, maaari itong maging batayan sa pagbuo ng mga programa laban sa pisikal na pambubully at sa pagsuporta sa regular na pagpasok ng mga mag-aaral.
+
+## Statement of the Problem / Research Questions
+
+The study aims to determine whether a significant relationship exists between physical bullying and class absenteeism among Grade 7–8 students at Hawan National High School.
+
+**Main Research Question:**
+
+May makabuluhang ugnayan ba ang pisikal na pambubully at pagliban sa klase ng mga mag-aaral sa Grade 7–8 sa Hawan National High School?
+
+**Specific Research Questions:** Not yet drafted in the available student work. The existing specific objectives are not automatically converted into research questions.
+
+## Scope and Limitations of the Study
+
+The study focuses on Grade 7–8 students of Hawan National High School. It covers physical bullying, including intentional and repeated physical harm such as pananampal, pananapak, pagtulak, and similar acts. It also covers the frequency or number of school absences based on attendance records within one grading period.
+
+The study excludes accidental physical contact and verbal or emotional bullying. The student has not yet written the limitations that may affect the study's conclusions. These limitations remain to be identified and explained.
+
+## Significance of the Study
+
+Mahalagang isagawa ang aking pananaliksik upang malaman kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase ng mga mag-aaral sa Grade 7–8 ng Hawan National High School. Makatutulong ang resulta nito sa mga mag-aaral upang mas maunawaan ang kahalagahan ng ligtas na kapaligiran, sa mga guro upang mas mabigyan nila ng pansin ang mga mag-aaral, sa mga magulang upang mas maunawaan ang kalagayan ng kanilang mga anak, at sa paaralan upang makabuo ng mga angkop na programa laban sa pisikal na pambubully at masuportahan ang regular na pagpasok sa klase.
+
+## References
+
+**Provisional source note only — not yet a verified APA 7 reference:**
+
+Philippine Institute for Development Studies (PIDS), 2024. “Examining the Role of Bullying on Schooling Outcomes: Findings from the Longitudinal Cohort Study on the Filipino Child.” Full author details, publication information, official link, and the precise claim cited in the background still need verification.
+
+**Second distinct verified source:** Not yet identified or included.
+
+**WORKING DRAFT — INCOMPLETE.** Specific research questions, the study's limitations, verification of two distinct credible sources, and matching APA 7 citations/references remain unfinished.
+
+
+# STUDENT LEARNING EVIDENCE
+
+## Baseline evidence retained from the uploaded progress document
+
+The uploaded file `pr2_cou_01_activity_2_progress.docx` was read directly. It contains the working title, main research question, four-paragraph background draft, general and specific objectives, variable descriptions, proposed quantitative correlational direction, and a note that the PIDS reference still requires verification. The file itself says that teacher review, instrument approval, sampling-plan approval, and permissions remain pending.
+
+The teacher-recovered baseline identifies the study as an inquiry into the possible relationship between physical bullying and class absenteeism among Grade 7–8 students at Hawan National High School. It records that the learner's earlier rationale came from accounts shared by other students, not a claim of personally witnessing a specific incident. It also records the noncausal direction of the main question.
+
+## Available learner responses in this conversation segment
+
+### A2-Q3 — Main and specific research questions / carried clarification
+
+**Tutor prompt:** Ipaliwanag sa sarili mong mga salita kung paano mo bubuuin at pagtutugmain ang mga tanong ng iyong pananaliksik.
+
+**Learner response (verbatim):**
+“Bubuuin ko ang aking mga research questions sa pamamagitan ng pagbabatay sa pangunahing layunin ng aking pananaliksik. Sisiguraduhin kong ang bawat tanong ay malinaw, tiyak, at nakatuon lamang sa pisikal na pambubully at pagliban sa klase ng mga mag-aaral sa Grade 7–8 ng Hawan National High School. Pagtutugmain ko ang mga tanong sa aking pamagat at dalawang baryabol upang masuri kung may makabuluhang ugnayan ang mga ito. Iiwasan ko rin ang mga tanong na hindi saklaw ng aking pag-aaral upang maging maayos at magkakaugnay ang buong pananaliksik.”
+
+**Tutor follow-up prompt:** Sa iyong pananaliksik, anong mga karanasan ang maituturing mong pisikal na pambubully at paano mo ibubukod ang mga ito sa simpleng aksidenteng pananakit? Ano naman ang ituturing mong pagliban sa klase, at anong panahon ang gagamitin mong batayan?
+
+**Learner response (verbatim):**
+“Sa aking pananaliksik, ang pisikal na pambubully ay tumutukoy sa sinadyang pananakit ng isang mag-aaral sa kapwa niya mag-aaral, tulad ng pananampal, pananapak, at pagtulak. Ibubukod ko ito sa aksidenteng pananakit dahil ang aksidenteng pananakit ay hindi sinasadya. Para naman sa pagliban sa klase, ituturing ko itong hindi pagpasok ng mag-aaral sa paaralan. Gagamitin kong batayan ang kanilang attendance record sa loob ng isang grading period upang malaman kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase.”
+
+**Tutor follow-up prompt:** Paano mo titiyakin na ang pisikal na pambubully na isasama sa iyong pananaliksik ay hindi lamang isang minsanang insidente ng pananakit, kundi isang karanasang maituturing talagang pambubully?
+
+**Learner response (verbatim):**
+“Titiyakin ko ito sa pamamagitan ng pagsasama ng mga tanong tungkol sa dalas at pag-uulit ng sinadyang pisikal na pananakit, tulad ng pananampal, pananapak, at pagtulak. Hindi ko isasama ang mga aksidenteng pananakit o minsanang alitan na hindi maituturing na pambubully. Sisiguraduhin ko ring malinaw ang kahulugan ng pisikal na pambubully sa aking talatanungan upang matukoy ang mga karanasang talagang saklaw ng aking pananaliksik.”
+
+**Evidence status:** The learner clarified intentional versus accidental physical harm, the repeated-frequency focus, and a one-grading-period school-attendance reference. The actual specific research questions and the reason each is necessary remain not yet demonstrated. The proposed questionnaire is not approved and no instrument drafting/validation is authorized in this activity.
+
+### A2-Q4 — Scope and limitations
+
+**Tutor prompt:** Ano ang eksaktong saklaw ng iyong pananaliksik, at ano ang mga limitasyon nito? Ipaliwanag kung sino ang mga kalahok, saan isasagawa ang pag-aaral, anong paksa ang kasama, anong panahon ang gagamiting batayan, at ano ang hindi saklaw ng iyong pananaliksik.
+
+**Learner response (verbatim):**
+“Ang saklaw ng aking pananaliksik ay nakatuon sa mga mag-aaral sa Grade 7–8 ng Hawan National High School. Sila ang magiging mga kalahok sa aking pag-aaral. Susuriin ko lamang ang pisikal na pambubully, tulad ng pananampal, pananapak, pagtulak, at iba pang paulit-ulit at sinadyang pisikal na pananakit. Aalamin ko rin ang dalas ng kanilang pagliban sa klase gamit ang attendance record sa loob ng isang grading period.”
+
+**Evidence status:** Population, setting, topic, and reference period are stated. Exclusions are supported by the uploaded progress document (accidental contact and verbal/emotional bullying). The learner did not yet explain the study's limitations or their effect on claims.
+
+### A2-Q5 — Significance
+
+**Tutor prompt:** Bakit mahalagang isagawa ang iyong pananaliksik, at paano makatutulong ang mga magiging resulta nito sa mga mag-aaral, guro, magulang, at paaralan?
+
+**Learner response (verbatim):**
+“Mahalagang isagawa ang aking pananaliksik upang malaman kung may makabuluhang ugnayan ang pisikal na pambubully at pagliban sa klase ng mga mag-aaral sa Grade 7–8 ng Hawan National High School. Makatutulong ang resulta nito sa mga mag-aaral upang mas maunawaan ang kahalagahan ng ligtas na kapaligiran, sa mga guro upang mas mabigyan nila ng pansin ang mga mag-aaral, sa mga magulang upang mas maunawaan ang kalagayan ng kanilang mga anak, at sa paaralan upang makabuo ng mga angkop na programa laban sa pisikal na pambubully at masuportahan ang regular na pagpasok sa klase.”
+
+**Evidence status:** A plausible use for the study's eventual findings is explained for the named groups. No outcomes or benefits are claimed as guaranteed.
+
+## Prompt and follow-up ledger
+
+- Authorized attempt: `pr2_cou_01-a02-attempt-2026-11-18`.
+- Overall learning-prompt count for the full attempt: **UNKNOWN** because the complete earlier attempt dialogue/ledger is not available in this capture. Do not treat the visible segment as a reset.
+- Positively observed core prompts in this segment: A2-Q3, A2-Q4, A2-Q5.
+- Positively observed follow-ups in this segment: two follow-ups under A2-Q3, both used for the teacher-assigned clarification about the bullying definition and absence period.
+- Earlier prompt/follow-up counts outside this captured segment: UNKNOWN.
+- No additional repairs requested after the A2-Q5 response. Session compiled with unresolved criteria preserved.
+```
+
+## Previous Ordinary Session Directive — Historical Reference
 
 ```yaml
 directive_id: pr2_cou_01-a02-teacher-direction-2026-11-18

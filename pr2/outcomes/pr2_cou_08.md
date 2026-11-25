@@ -1,14 +1,22 @@
 ---
 student_code: pr2_cou_08
 learning_area: Practical Research 2
-record_version: "1.7"
+record_version: "1.8"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_08-a02-clarification-submit-2026-11-19
-route_baseline_revision: pr2_cou_08-reviewed-baseline-2026-11-19
-route_resume_checkpoint: H6
-status: activity-2-descriptive-direction-background-clarification-submit-and-wait
+route_directive_id: pr2_cou_08-aer-improvement-2026-11-25
+route_baseline_revision: pr2_cou_08-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q6
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-evidence-recovery-2026-11-25
 ---
+
+## Current Courage assessment improvement authority — November 25, 2026
+
+The teacher authorizes one targeted improvement attempt under `courage-evidence-recovery-2026-11-25` and the embedded Courage Assessment Evidence Recovery Plan, retaining **pr2_act_02**. The selected section’s new Current Session Directive controls. Earlier starting prompts, ordinary question limits, full-activity output requirements and file/approval requests later in this record are historical where they conflict with this scoped recovery. Keep actual live answers, accepted research decisions, original scores and passing work; add evidence for possible higher teacher-assessed ratings, without a 70-percent improvement cap or automatic overwrite.
+
+During the surrounding hold, the enabled matching Courage entry in the root notice’s additional authorized recovery exceptions releases only this mode. The original Prudence exception does not authorize a Courage student by itself. No old-upload or duplicate permission step is needed once the live controls and matching route are actually read. No ordinary-stage advancement or fieldwork permission is created.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Approved descriptive classroom-cleaning problem and Activity 2 authorization retained. Accept the demonstrated distinction between nonparticipation and lack of duty/opportunity, and preserve sufficient scope, limitations and practical significance. Final Chapter 1 acceptance is pending focused descriptive-question/background clarification. Activity 3 requires a separate explicit teacher decision. Detailed student identity, original submissions and dialogue remain private.
 
@@ -204,6 +212,209 @@ The two sources are distinct and credible enough as contextual references, but t
 ```
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_08-aer-improvement-2026-11-25",
+  "attempt_id": "pr2_cou_08-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_cou_08-aer-retained-baseline-2026-11-25",
+  "baseline_source": "This outcome: embedded earlier research, recovered current context, retained actual answers and drafts; no external file or separate teacher confirmation required",
+  "authorized_task": "Only the targeted assessment evidence and necessary dependent edits in the embedded Courage plan. Preserve existing activity placement, accepted decisions, original scores and passing components.",
+  "target_assessments": [
+    "WW5",
+    "PT3"
+  ],
+  "assessment_max_points": 40,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_points": 28,
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 2,
+  "start_checkpoint": "ER-Q6",
+  "start_question_id": "ER-Q6",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "retained_evidence": [
+    "all compatible prior answers and drafts",
+    "passing assessment components",
+    "current teacher decisions and study boundaries",
+    "original assistance/capture limits"
+  ],
+  "score_policy": "Retain original scores; add evidence for possible higher teacher-assessed scores up to the full rubric maximum. No automatic overwrite, deduction for incomplete recovery or 70-percent improvement cap.",
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan — Courage
+
+Teacher-authorized November 25, 2026, within **pr2_act_02**. Plan `courage-evidence-recovery-2026-11-25`. Baseline `pr2_cou_08-aer-retained-baseline-2026-11-25` retains earlier embedded work and actual new work from the same recovery attempt. Read the [shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is an assessment improvement opportunity, not ordinary-stage progression.
+
+### Keep prior achievement and build stronger evidence
+
+Keep the learner’s existing answers, products, accepted decisions and recorded scores. All passing components remain retained. The private teacher gradebook holds original scores; no grade is overwritten here. The threshold for this Courage plan is **28/40 = 70%**, not 35/50. It identifies targets only; stronger evidence may support higher teacher-assessed scores anywhere up to **40/40**. Do not cap improvement at 70%, promise a pass, deduct points for unfinished recovery, assign a grade or ask the student to erase/retype the original.
+
+Opening: “We will keep the work you have already done and strengthen only the evidence that needs attention. You do not need to start over.” Continue immediately with the first genuinely open assigned task, in the known language. No readiness, upload, translation-approval or duplicate teacher-confirmation gate. Baseline IDs identify embedded snapshots, not missing attachments.
+
+### Cohort-specific assessment definitions
+
+WW1: problem understanding; WW2: variable/indicator explanation; WW3: question reasoning; WW4: scope and claim-limit understanding; WW5: source interpretation; PT1: focused concept product; PT2: written question framework; PT3: background product; PT4: scope/significance product; PT5: substantive revision of the foundation. These Courage definitions differ from some Prudence task labels. Use this plan and the teacher’s Courage rubrics, never another cohort’s WW/PT mapping. Written Work is reasoning evidence; Performance Task is the developed product or actual revision. Do not count one unchanged feature as two accomplishments.
+
+| Target | Evidence need |
+|---|---|
+| WW5 | Below threshold: strengthen attempted evidence |
+| PT3 | Below threshold: strengthen attempted evidence |
+
+### Retained starting context
+
+Retain the corrected descriptive participation-count/reported-reasons inquiry for Grade 11 Knowledge. Schedule-effect testing and before/after comparisons were explicitly removed in the later actual answers; do not reopen them. Retain opportunity/absence distinctions, revised questions, scope and earlier actual significance answers. Only source interpretation and connected background are targeted.
+
+Earlier research already embedded in this outcome and compatible live answers are the starting material. Preserve actual original/assisted status and authentic later corrections. Teacher-side recovery, partial-capture labels and old tutor mistakes are not student performance. If a target is already sufficiently evidenced in the live chat, reference it and skip its question. Current recovery IDs and counters control; do not transfer counts from an exhausted ordinary attempt or reset this same recovery attempt after a chat change.
+
+### Named cross-stage assessment permission
+
+Only the listed source/background and scope/significance assessment components are expressly authorized here even if the ordinary route remains Activity 1. They do not declare Activity 1 complete, authorize ordinary Activity 2/3 progression, approve a changed topic/population or require full later chapters. Preserve the current study boundaries. Do not demand completed methods, instruments, actual data, pilots or validation. Continue independent assigned evidence while recording unresolved dependencies honestly.
+
+### Main questions and evidence mapping
+
+At most **10 main questions, 30 follow-ups shared across the whole recovery attempt and 40 total learning questions**. This plan assigns **2** main tasks, not a quota. The focus column is guidance for a later budgeted repair, not independent extra demands to append to the current prompt. Ask one manageable coherent task per reply. Every subsequent request for new learner work under an already asked ID counts as a shared follow-up. After two unsuccessful attempts, change support rather than repeat the same interrogation. No model target answer for agreement.
+
+| ID | Assigned main question or product task | Targets | Bounded support |
+|---|---|---|---|
+| ER-Q6 | Compare what two credible sources actually contribute to your inquiry and what they cannot establish. | WW5 | Tutor retrieves relevant accessible sources; learner supplies interpretation, not approval of tutor analysis. |
+| ER-Q7 | Develop or revise the background so the actual source evidence and local uncertainty lead coherently to your research purpose. | PT3 | Use real student-grounded content and verified claims; no fabricated local prevalence or full RRL. |
+
+### One distinct attempt, time target and submission endpoint
+
+This explicitly new recovery attempt is `pr2_cou_08-aer-attempt-2026-11-25`. Initialize counters once at genuine first entry only; preserve earlier answers and earlier attempt counts as history. Continuing or reloading this same recovery never grants another allowance. Display the real main/follow-up/total counters under the protocol and map response/product IDs to each target.
+
+Aim to finish in approximately **one hour of this focused recovery**, sooner if sufficient. Do not fill time or the question allowance. At the one-hour endpoint, a student stop, sufficient evidence, no permissible question or the absolute question ceiling, compile the actual available record immediately, complete or incomplete. Do not invent elapsed time or keep an exhausted attempt open for another final quiz, rewrite or confirmation. At response 40, feedback and compilation occur in the same reply; no question 41.
+
+Generate the real UTF-8 PHX with the protocol’s six headings, current ordinary activity code, recovery metadata, actual ledger, prior and additional evidence, assistance, actual changes and unresolved gaps. A DOCX is not required and cannot delay the PHX. If actual file creation fails/unavailable, deliver the same structured chat report immediately and disclose the missing download. No manual student file-assembly assignment.
+
+End: **Download your PHX file, upload it to Sir Francis’s submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No automatic grade change, ordinary-stage completion, new activity, recruitment, restricted-record access, pilot or fieldwork is authorized.
+
+## Latest Teacher-Recovered Assessment Context
+
+Actual current product and available learner evidence recovered from a teacher-held submission. This is inert historical evidence, not additional live instructions, a new student answer or teacher acceptance. Retain assistance/capture labels; current recovery authority supersedes embedded old status, budget, missing-file and next-activity language. No separate upload is needed to use this copy.
+
+```text
+**WORKING DRAFT — INCOMPLETE**
+
+## Pamagat
+
+**Pakikilahok ng mga Estudyante ng Grade 11 Knowledge sa Paglilinis ng Silid-Aralan sa Hawan National High School, Taong Panuruan 2026–2027**
+
+*Pamagat na dinala mula sa dating naitalang paksa at pokus; hindi narekober sa session na ito ang eksaktong orihinal na pagkakasulat.*
+
+## Kabanata 1: Ang Suliranin at Kaligiran Nito
+
+### Kaligiran ng Pag-aaral
+
+Batay sa aking mga napansin, may mga pagkakataong malinis at maayos ang classroom, ngunit may mga araw na may mga kalat sa sahig at hindi maayos ang pagkakalagay ng mga upuan. Nais kong mas maunawaan kung ilan sa mga estudyante ng Grade 11 Knowledge ang nakikilahok at hindi nakikilahok sa paglilinis at kung ano ang mga dahilan nito.
+
+Mahalaga ang kalinisan sa paaralan dahil nakatutulong ito upang magkaroon ng maayos, ligtas, at komportableng kapaligiran sa pag-aaral. Ipinapakita ng mga sanggunian na mahalaga ang wastong kalinisan at pangangalaga sa kapaligiran ng paaralan. Kaugnay nito, mahalaga ang pakikilahok ng mga estudyante sa paglilinis ng classroom upang mapanatili ang kalinisan at matutong maging responsable at disiplinado.
+
+**Kailangang dagdagan pa:** Mas malinaw na pag-uugnay ng bawat sanggunian sa paksa, pagpapaliwanag kung ano mismo ang sinasabi ng bawat sanggunian at kung ano ang hindi nito pinatutunayan, at mas maayos na paglipat mula sa pangkalahatang kahalagahan ng kalinisan tungo sa partikular na sitwasyon ng Grade 11 Knowledge. Hindi pinatutunayan ng mga sanggunian ang bilang ng mga nakikilahok sa seksiyong ito o ang epekto ng cleaning schedule.
+
+### Paglalahad ng Suliranin
+
+**Pangunahing tanong**
+
+Ilan sa mga estudyante ng Grade 11 Knowledge ang nakikilahok at hindi nakikilahok sa paglilinis ng classroom, at ano ang mga dahilan kung bakit may ilan na hindi tumutulong?
+
+**Mga tiyak na tanong**
+
+1. Ilan ang mga estudyanteng nakikilahok at hindi nakikilahok sa paglilinis ng classroom?
+2. Ano ang mga dahilan na iniuulat ng ilang estudyante kung bakit hindi sila nakikilahok sa paglilinis?
+
+### Saklaw at mga Limitasyon ng Pag-aaral
+
+Ang pagtutuunan ng aking pag-aaral ay ang mga estudyante ng Grade 11 Knowledge sa Hawan National High School. Isasagawa ito sa kanilang classroom. Sila ang napili ko dahil nais kong malaman kung ilan sa kanila ang nakikilahok at hindi nakikilahok sa paglilinis at kung ano ang mga dahilan nito.
+
+Hindi ko isasama sa aking pag-aaral ang pagsusuri kung epektibo ang cleaning schedule o paghahambing ng bilang bago at pagkatapos nito. Hindi rin saklaw ang ibang seksyon, baitang, at paglilinis sa ibang bahagi ng paaralan. Magtutuon lamang ako sa pakikilahok ng mga estudyante ng Grade 11 Knowledge at sa mga dahilan kung bakit may ilan na hindi nakikilahok. Mahalaga ang paglilimita nito upang maging malinaw, nakatuon, at madaling maisagawa ang aking pag-aaral.
+
+Sa paglalarawan ng pakikilahok, ang estudyanteng aktuwal na tumulong ang maituturing na nakilahok. Ang estudyanteng naroroon ngunit hindi tumulong kahit may pagkakataon ay maituturing na hindi nakilahok. Dapat hiwalay na itala ang mga absent, hindi naobserbahan, o walang nakatalagang gawain/walang pagkakataong tumulong; hindi sila dapat awtomatikong ituring na ayaw makilahok.
+
+### Kahalagahan ng Pag-aaral
+
+*Batay sa naunang retained progress summary, maaaring makatulong ang pag-aaral sa pag-unawa sa aktuwal na pakikilahok at sa pag-iisip ng mas patas na paghahati ng mga gawaing paglilinis. Ang eksaktong orihinal na sagot ng mag-aaral tungkol sa kahalagahan ay hindi kasama sa kasalukuyang nakuhang transcript at dapat balikan o kumpirmahin sa susunod na rebisyon.*
+
+### Mga Sanggunian
+
+Department of Education. (2016, February 19). *DepEd Order No. 10, s. 2016: Policy and guidelines for the comprehensive water, sanitation and hygiene in schools (WinS) program.* https://www.deped.gov.ph/2016/02/19/do-10-s-2016-policy-and-guidelines-for-the-comprehensive-water-sanitation-and-hygiene-in-schools-wins-program/
+
+World Health Organization, United Nations Children’s Fund, & United Nations Educational, Scientific and Cultural Organization. (2023). *How school systems can improve health and well-being: Topic brief: Water, sanitation and hygiene (WASH).* World Health Organization. https://www.who.int/publications/i/item/9789240064799
+
+---
+
+# STUDENT LEARNING EVIDENCE
+
+## Attempt and prompt ledger
+
+- Authorized attempt: `pr2_cou_08-a02-attempt-2026-11-19`
+- Activity: `pr2_act_02`
+- Starting checkpoint: H6 / A2-Q3
+- Learning prompts used in this new attempt: 7 of at most 10.
+- Follow-ups used: 0.
+- Justified extra prompts used: 0.
+- The earlier exhausted attempt and its tutor-side overrun were not counted as this new attempt.
+
+## Actual student responses in this session
+
+### Prompt 1 — Main descriptive focus and importance
+
+> Nais kong malaman kung ilan ang mga estudyanteng nakikilahok at hindi nakikilahok sa paglilinis ng classroom at kung ano ang mga dahilan kung bakit may ilan na hindi tumutulong. Mahalaga ang mga impormasyong ito upang maunawaan ang kanilang pakikilahok at malaman kung nakatutulong ang classroom cleaning schedule upang mas mahikayat silang maging responsable at disiplinado.
+
+**Feedback/revision:** Ipinaliwanag ng tutor na hindi saklaw ng aprubadong descriptive na direksiyon ang pagsusuri sa pagiging epektibo ng schedule o ang pag-aangking ito ang sanhi ng pagbabago. Sa mga sumunod na sagot, inalis ng mag-aaral ang pagsusuring iyon sa pokus at saklaw.
+
+### Prompt 2 — General relevance of sources and school cleanliness
+
+> Mahalaga ang kalinisan sa paaralan dahil nakatutulong ito upang magkaroon ng maayos, ligtas, at komportableng kapaligiran sa pag-aaral. Ipinapakita ng mga sanggunian na mahalaga ang wastong kalinisan at pangangalaga sa kapaligiran ng paaralan. Kaugnay nito, mahalaga ang pakikilahok ng mga estudyante sa paglilinis ng classroom upang mapanatili ang kalinisan at matutong maging responsable at disiplinado.
+
+**Assistance:** Bine-verify ng tutor ang dalawang sanggunian at ipinaliwanag ang pangkalahatang kaugnayan at limitasyon ng mga ito. Pangkalahatan pa ang interpretasyon ng mag-aaral at hindi pa nito naihihiwalay ang partikular na ambag at limitasyon ng bawat sanggunian.
+
+### Prompt 3 — Observed local situation
+
+> Batay sa aking mga napansin, may mga pagkakataong malinis at maayos ang classroom, ngunit may mga araw na may mga kalat sa sahig at hindi maayos ang pagkakalagay ng mga upuan. Nais kong mas maunawaan kung ilan sa mga estudyante ng Grade 11 Knowledge ang nakikilahok at hindi nakikilahok sa paglilinis at kung ano ang mga dahilan nito.
+
+### Prompt 4 — Main research question
+
+> Ang pangunahing tanong na nais kong masagot ay kung ilan sa mga estudyante ng Grade 11 Knowledge ang nakikilahok at hindi nakikilahok sa paglilinis ng classroom, at ano ang mga dahilan kung bakit may ilan na hindi tumutulong.
+
+### Prompt 5 — Information needed / specific-question ideas
+
+> Ang mga impormasyong kailangan kong malaman ay ang bilang ng mga estudyanteng nakikilahok at hindi nakikilahok sa paglilinis ng classroom. Kailangan ko ring malaman ang mga dahilan kung bakit may ilang estudyanteng hindi tumutulong, tulad ng kawalan ng pagkakataong tumulong o iba pang personal na dahilan. Makukuha ko ang mga impormasyong ito sa pamamagitan ng pagmamasid at maikling survey.
+
+### Prompt 6 — Population and setting
+
+> Ang pagtutuunan ko ng aking pag-aaral ay ang mga estudyante ng Grade 11 Knowledge sa Hawan National High School. Isasagawa ito sa kanilang classroom. Sila ang napili ko dahil nais kong malaman kung ilan sa kanila ang nakikilahok at hindi nakikilahok sa paglilinis at kung ano ang mga dahilan nito.
+
+### Prompt 7 — Limitations
+
+> Hindi ko isasama sa aking pag-aaral ang pagsusuri kung epektibo ang cleaning schedule o paghahambing ng bilang bago at pagkatapos nito. Hindi rin saklaw ang ibang seksyon, baitang, at paglilinis sa ibang bahagi ng paaralan. Magtutuon lamang ako sa pakikilahok ng mga estudyante ng Grade 11 Knowledge at sa mga dahilan kung bakit may ilan na hindi nakikilahok. Mahalaga ang paglilimita nito upang maging malinaw, nakatuon, at madaling maisagawa ang aking pag-aaral.
+
+## Retained prior evidence (summary, not verbatim transcript)
+
+- Naipaliwanag na ng mag-aaral ang pagkakaiba ng aktuwal na pagtulong, pagiging present ngunit hindi pagtulong, pagliban, hindi naobserbahan, at kawalan ng nakatalagang gawain/pagkakataon.
+- Naibigay na dati ang pagwawalis, pag-aayos ng mga upuan/mesa, at pagpulot ng kalat bilang halimbawa ng aktuwal na pakikilahok.
+- May naunang paliwanag tungkol sa pagiging kompidensiyal ng impormasyon, boluntaryong pagsali, pare-parehong pamantayan sa pagmamasid, at praktikal na pakinabang. Ito ay context na dinala mula sa dating buod at hindi muling sinuri sa attempt na ito.
+
+---
+```
+
+## Previous Ordinary Session Directive — Historical Reference
 
 ```yaml
 directive_id: pr2_cou_08-a02-clarification-submit-2026-11-19

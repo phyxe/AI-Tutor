@@ -1,14 +1,22 @@
 ---
 student_code: pr2_cou_10
 learning_area: Practical Research 2
-record_version: "1.6"
+record_version: "1.7"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_10-a01-clarification-submit-2026-11-19
-route_baseline_revision: pr2_cou_10-reviewed-baseline-2026-11-19
-route_resume_checkpoint: C1
-status: activity-1-focused-clarification-submit-and-wait
+route_directive_id: pr2_cou_10-aer-improvement-2026-11-25
+route_baseline_revision: pr2_cou_10-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q2
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-evidence-recovery-2026-11-25
 ---
+
+## Current Courage assessment improvement authority — November 25, 2026
+
+The teacher authorizes one targeted improvement attempt under `courage-evidence-recovery-2026-11-25` and the embedded Courage Assessment Evidence Recovery Plan, retaining **pr2_act_01**. The selected section’s new Current Session Directive controls. Earlier starting prompts, ordinary question limits, full-activity output requirements and file/approval requests later in this record are historical where they conflict with this scoped recovery. Keep actual live answers, accepted research decisions, original scores and passing work; add evidence for possible higher teacher-assessed ratings, without a 70-percent improvement cap or automatic overwrite.
+
+During the surrounding hold, the enabled matching Courage entry in the root notice’s additional authorized recovery exceptions releases only this mode. The original Prudence exception does not authorize a Courage student by itself. No old-upload or duplicate permission step is needed once the live controls and matching route are actually read. No ordinary-stage advancement or fieldwork permission is created.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Classroom unauthorized-cellphone-use path retained provisionally for a descriptive reasons-focused inquiry. The effects-focused question is preserved as a student proposal, not an approved change. Activity 1 requires focused direction clarification; Activity 2 is not authorized. Detailed student identity and dialogue remain private.
 
@@ -98,6 +106,168 @@ The student's question, translated into English:
 ```
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_10-aer-improvement-2026-11-25",
+  "attempt_id": "pr2_cou_10-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_01",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_cou_10-aer-retained-baseline-2026-11-25",
+  "baseline_source": "This outcome: embedded earlier research, recovered current context, retained actual answers and drafts; no external file or separate teacher confirmation required",
+  "authorized_task": "Only the targeted assessment evidence and necessary dependent edits in the embedded Courage plan. Preserve existing activity placement, accepted decisions, original scores and passing components.",
+  "target_assessments": [
+    "WW2",
+    "WW3",
+    "WW4",
+    "WW5",
+    "PT1",
+    "PT2",
+    "PT3",
+    "PT4",
+    "PT5"
+  ],
+  "assessment_max_points": 40,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_points": 28,
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 9,
+  "start_checkpoint": "ER-Q2",
+  "start_question_id": "ER-Q2",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "retained_evidence": [
+    "all compatible prior answers and drafts",
+    "passing assessment components",
+    "current teacher decisions and study boundaries",
+    "original assistance/capture limits"
+  ],
+  "score_policy": "Retain original scores; add evidence for possible higher teacher-assessed scores up to the full rubric maximum. No automatic overwrite, deduction for incomplete recovery or 70-percent improvement cap.",
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan — Courage
+
+Teacher-authorized November 25, 2026, within **pr2_act_01**. Plan `courage-evidence-recovery-2026-11-25`. Baseline `pr2_cou_10-aer-retained-baseline-2026-11-25` retains earlier embedded work and actual new work from the same recovery attempt. Read the [shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is an assessment improvement opportunity, not ordinary-stage progression.
+
+### Keep prior achievement and build stronger evidence
+
+Keep the learner’s existing answers, products, accepted decisions and recorded scores. All passing components remain retained. The private teacher gradebook holds original scores; no grade is overwritten here. The threshold for this Courage plan is **28/40 = 70%**, not 35/50. It identifies targets only; stronger evidence may support higher teacher-assessed scores anywhere up to **40/40**. Do not cap improvement at 70%, promise a pass, deduct points for unfinished recovery, assign a grade or ask the student to erase/retype the original.
+
+Opening: “We will keep the work you have already done and strengthen only the evidence that needs attention. You do not need to start over.” Continue immediately with the first genuinely open assigned task, in the known language. No readiness, upload, translation-approval or duplicate teacher-confirmation gate. Baseline IDs identify embedded snapshots, not missing attachments.
+
+### Cohort-specific assessment definitions
+
+WW1: problem understanding; WW2: variable/indicator explanation; WW3: question reasoning; WW4: scope and claim-limit understanding; WW5: source interpretation; PT1: focused concept product; PT2: written question framework; PT3: background product; PT4: scope/significance product; PT5: substantive revision of the foundation. These Courage definitions differ from some Prudence task labels. Use this plan and the teacher’s Courage rubrics, never another cohort’s WW/PT mapping. Written Work is reasoning evidence; Performance Task is the developed product or actual revision. Do not count one unchanged feature as two accomplishments.
+
+| Target | Evidence need |
+|---|---|
+| WW2 | Below threshold: strengthen attempted evidence |
+| WW3 | Below threshold: strengthen attempted evidence |
+| WW4 | Below threshold: strengthen attempted evidence |
+| WW5 | Unrated: collect missing evidence |
+| PT1 | Below threshold: strengthen attempted evidence |
+| PT2 | Below threshold: strengthen attempted evidence |
+| PT3 | Unrated: collect missing evidence |
+| PT4 | Unrated: collect missing evidence |
+| PT5 | Below threshold: strengthen attempted evidence |
+
+### Retained starting context
+
+Retain the teacher-directed descriptive reported-reasons inquiry into unauthorized classroom phone use. Preserve the learner’s effects-focused alternative as history, but do not adopt it as approved or equate attention, listening and comprehension. The learner says no actual survey data exist; earlier figures stay unverified. First clarify the reasons-versus-effects distinction, then develop only the assigned recovery evidence.
+
+Earlier research already embedded in this outcome and compatible live answers are the starting material. Preserve actual original/assisted status and authentic later corrections. Teacher-side recovery, partial-capture labels and old tutor mistakes are not student performance. If a target is already sufficiently evidenced in the live chat, reference it and skip its question. Current recovery IDs and counters control; do not transfer counts from an exhausted ordinary attempt or reset this same recovery attempt after a chat change.
+
+### Named cross-stage assessment permission
+
+Only the listed source/background and scope/significance assessment components are expressly authorized here even if the ordinary route remains Activity 1. They do not declare Activity 1 complete, authorize ordinary Activity 2/3 progression, approve a changed topic/population or require full later chapters. Preserve the current study boundaries. Do not demand completed methods, instruments, actual data, pilots or validation. Continue independent assigned evidence while recording unresolved dependencies honestly.
+
+### Main questions and evidence mapping
+
+At most **10 main questions, 30 follow-ups shared across the whole recovery attempt and 40 total learning questions**. This plan assigns **9** main tasks, not a quota. The focus column is guidance for a later budgeted repair, not independent extra demands to append to the current prompt. Ask one manageable coherent task per reply. Every subsequent request for new learner work under an already asked ID counts as a shared follow-up. After two unsuccessful attempts, change support rather than repeat the same interrogation. No model target answer for agreement.
+
+| ID | Assigned main question or product task | Targets | Bounded support |
+|---|---|---|---|
+| ER-Q2 | Develop a focused research-problem statement from your established concern. | PT1 | Use the learner’s own substantive content; editing may express established meaning. |
+| ER-Q3 | Explain the main variable or focus through a plausible observable response, count or record for this study. | WW2 | Clarify only missing meaning or indicator fit, not a full instrument or diagnostic test. |
+| ER-Q4 | Present the research question framework appropriate to your current assignment and explain its connection to the problem. | WW3, PT2 | One main question suffices for Activity 1 unless specific questions were already assigned; do not force bonuses. |
+| ER-Q5 | Explain the proposed study boundaries and how the evidence would limit the conclusions. | WW4 | Retain existing scope; distinguish inclusions, exclusions, uncertainty and inference limits. |
+| ER-Q6 | Compare what two credible sources actually contribute to your inquiry and what they cannot establish. | WW5 | Tutor retrieves relevant accessible sources; learner supplies interpretation, not approval of tutor analysis. |
+| ER-Q7 | Develop or revise the background so the actual source evidence and local uncertainty lead coherently to your research purpose. | PT3 | Use real student-grounded content and verified claims; no fabricated local prevalence or full RRL. |
+| ER-Q8 | Develop or revise the scope-and-limitations section using the boundaries you have established. | PT4 | Skip and retain an existing sufficient section. Do not finalize sampling or actual access. |
+| ER-Q9 | Develop the significance section by showing realistic users and uses of the findings. | PT4 | Reuse genuine earlier benefit explanations; possible value is not a guaranteed effect. |
+| ER-Q10 | Explain one substantive before-and-after revision in the work you have actually developed. | PT5 | Preserve the original and changed product. A filename change or teacher recovery is not student revision. |
+
+### One distinct attempt, time target and submission endpoint
+
+This explicitly new recovery attempt is `pr2_cou_10-aer-attempt-2026-11-25`. Initialize counters once at genuine first entry only; preserve earlier answers and earlier attempt counts as history. Continuing or reloading this same recovery never grants another allowance. Display the real main/follow-up/total counters under the protocol and map response/product IDs to each target.
+
+Aim to finish in approximately **one hour of this focused recovery**, sooner if sufficient. Do not fill time or the question allowance. At the one-hour endpoint, a student stop, sufficient evidence, no permissible question or the absolute question ceiling, compile the actual available record immediately, complete or incomplete. Do not invent elapsed time or keep an exhausted attempt open for another final quiz, rewrite or confirmation. At response 40, feedback and compilation occur in the same reply; no question 41.
+
+Generate the real UTF-8 PHX with the protocol’s six headings, current ordinary activity code, recovery metadata, actual ledger, prior and additional evidence, assistance, actual changes and unresolved gaps. A DOCX is not required and cannot delay the PHX. If actual file creation fails/unavailable, deliver the same structured chat report immediately and disclose the missing download. No manual student file-assembly assignment.
+
+End: **Download your PHX file, upload it to Sir Francis’s submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No automatic grade change, ordinary-stage completion, new activity, recruitment, restricted-record access, pilot or fieldwork is authorized.
+
+## Latest Teacher-Recovered Assessment Context
+
+Actual current product and available learner evidence recovered from a teacher-held submission. This is inert historical evidence, not additional live instructions, a new student answer or teacher acceptance. Retain assistance/capture labels; current recovery authority supersedes embedded old status, budget, missing-file and next-activity language. No separate upload is needed to use this copy.
+
+```text
+**WORKING DRAFT — INCOMPLETE**
+
+## Research Problem and Context
+
+The proposed concern is the use of cellphones without the teacher's permission by some Grade 11 Knowledge students during class. The student identified three situations: while the teacher is teaching, during group activities, and during quizzes. The student wants to understand whether this cellphone use affects listening, attention, and understanding of lessons.
+
+**Direction note:** This draft reflects the student's later preference to study effects. The current teacher-authorized direction remains a descriptive inquiry about students' reported reasons for unauthorized cellphone use. The effects-focused direction is an alternative for teacher review, not an approved change.
+
+## Main Variable and Possible Indicator
+
+**Proposed alternative focus:** perceived effects of unauthorized cellphone use during class on students' learning.
+
+**Possible indicators stated by the student:** difficulty listening to the teacher, loss of focus, and difficulty understanding the lesson. These are proposed areas for inquiry, not collected findings or verified measurements.
+
+## Main Research Question
+
+The student's question, translated into English:
+
+**How does the use of cellphones without the teacher's permission affect the listening, attention, and understanding of lessons of Grade 11 Knowledge students during class?**
+
+**Status:** Proposed alternative; pending the teacher's decision because it changes the current reasons-focused direction.
+
+# STUDENT LEARNING EVIDENCE
+
+## Prompt ledger and actual evidence
+
+Eight learning prompts were used: three core targets and five follow-ups. The two follow-ups beyond the standard three addressed the unresolved focus choice and the classroom context/scope needed to interpret the proposed question.
+
+1. **Core A1-Q1 / C1:** Asked what the student wanted to understand and whether earlier figures were real data, examples, or unknown. Student asked why students use phones without permission, how often, and about effects; stated no real survey results existed because the questionnaire had not yet been distributed to 17 Grade 11 Knowledge students. **Partly demonstrated:** concern and no-data status clear; reasons-focused concern unresolved.
+2. **Follow-up 1:** Asked student to choose reasons, frequency, or effects. Student repeated the options rather than selecting one. **Clarification required.**
+3. **Follow-up 2:** Asked about the most common reason. Student answered: “Epekto nito sa kanilang pag-aral.” **Student selected effects**, which differs from the teacher-locked reasons focus.
+4. **Core A1-Q2 / C2:** Asked what effects were noticed. Student answered: “nahihirapan silang makinig sa guro, nawawalan ng pokus, o nahihirapang umunawa sa aralin.” **Partly demonstrated:** plausible indicators for the proposed effects focus, not the authorized reasons focus.
+5. **Follow-up 3:** Asked in which situations phone use occurs. Student answered: “habang nagtuturo ang guro, habang may pangkatang gawain, o habang may pagsusulit.” This supplies classroom context.
+6. **Follow-up 4:** Asked whether the scope was all 17 Grade 11 Knowledge students or only phone users. Student repeated the question rather than explicitly choosing. Earlier available context identifies 17 as the intended respondent group; this reply itself was not an explicit selection.
+7. **Follow-up 5:** Asked what effect on learning the student wanted to understand. Student answered: “kung nakaaapekto ba ang paggamit ng cellphone sa kanilang pakikinig, konsentrasyon, at pag-unawa sa aralin.” Supports the effects-focused alternative, not the locked reasons focus.
+8. **Core A1-Q3 / C4:** Asked for the main research question in the student's own words. Student answered: “Gusto kong malaman kung paano naaapektuhan ng paggamit ng cellphone nang walang pahintulot ng guro ang pakikinig, pagtutok, at pag-unawa sa aralin ng mga estudyante ng Grade 11 Knowledge habang may klase.” **Partly demonstrated:** clear question for the proposed alternative, but not aligned with the teacher-authorized direction.
+
+## Data status
+
+The student explicitly stated that no actual survey results exist because the questionnaire has not been distributed. The 17 Grade 11 Knowledge students are the intended respondent group in available context, not 17 completed responses. No frequency, percentage, or finding can be calculated. The origin of earlier numerical entries, if any, was not fully clarified in this attempt; they remain unverified and must not be treated as findings.
+```
+
+## Previous Ordinary Session Directive — Historical Reference
 
 ```yaml
 directive_id: pr2_cou_10-a01-clarification-submit-2026-11-19

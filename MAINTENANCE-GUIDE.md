@@ -4,6 +4,8 @@ Edit the root `TUTOR-STATUS.md`, then commit and push it before changing the aff
 
 ## Activate a hold
 
+When replacing a notice, remove any earlier `authorized_recovery_exception` and `additional_authorized_recovery_exceptions` unless deliberately reauthorizing it with `enabled: true`, the new notice ID, allowed ordinary `activity_codes`, exact `recovery_mode`, plan and student list. A recovery exception releases only matching assessment-mode directives inside those existing activities, not general tutoring or other students. Keep `enabled: false` while preparing shared rules or migrating individual outcomes. A later hold or priority collection without an enabled exact exception pauses recovery too.
+
 Set these fields in that file (example only; the date/time below is not an actual scheduled hold):
 
 ```yaml
@@ -54,3 +56,5 @@ In `TUTOR-STATUS.md`, keep `status: ready` if tutoring should remain available. 
 > Collection is active from [start date and time] until [end date and time], Asia/Manila. On your next reply after reading this notice, create the .phx submission using the available responses and context in the current chat, even if unfinished. Tell the student to submit it. If the download cannot be created, provide the submission report in chat and tell the student to submit that.
 
 For an immediate check in an existing chat, students can send **Check Sir Francis’s tutor notice now.** The tutor checks the published notice before asking another learning question. A published change takes effect when the chat checks it. Idle chats do not receive a reply automatically. After collection, restore `priority_action: none` and replace the collection notice body with the normal availability message.
+
+Additional recovery exceptions use a list of complete independent exact-match entries. Preserve an existing cohort’s primary exception when deliberately adding another cohort; never merge plan/student fields. A later hold that does not explicitly reauthorize the entries pauses both.

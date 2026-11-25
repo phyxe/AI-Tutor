@@ -1,14 +1,20 @@
 ---
 student_code: pr2_pru_17
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.10"
 route_activity: pr2_act_02
-route_action: PROCEED_WITH_CLARIFICATION
-route_directive_id: pr2_pru_17-a02-teacher-decision-2026-11-19
-route_baseline_revision: pr2_pru_17-reviewed-baseline-2026-11-19
-route_resume_checkpoint: H1
-status: activity-2-authorized-regular-use-entry-clarification-first
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_17-aer-teacher-decision-2026-11-25
+route_baseline_revision: pr2_pru_17-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q1
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: prudence-evidence-recovery-2026-11-25
 ---
+
+## Current assessment improvement authority — November 25, 2026
+
+Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain permission to proceed with Activity 2, with the teacher's explicit sequence: first define and explain defensible regular school-related ChatGPT-use criteria, then begin/resume full Chapter 1 drafting. Accept the latest session-unit and study-time clarifications as progress. The proposed cutoff is not approved merely by being measurable; do not repeat resolved definitions or restart Activity 1. Detailed student evidence and identity remain private.
 
@@ -54,6 +60,79 @@ Earlier foundation and Activity 2 authority retained; no Activity 1 restart.
 Activity 2 permission retained. Teacher-required sequence: define and explain regular-use criteria first at H1/A2-Q1, then proceed directly to full Chapter 1 development. This entry clarification is not another teacher-approval interview or a fresh full concept-note activity. Other sufficient existing answers remain retained.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_pru_17-aer-teacher-decision-2026-11-25",
+  "attempt_id": "pr2_pru_17-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "prudence-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_pru_17-aer-retained-baseline-2026-11-25",
+  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
+  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "target_assessments": [
+    "WW4",
+    "PT3",
+    "PT5"
+  ],
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 8,
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan
+
+Teacher-authorized November 25, 2026, within **pr2_act_02**. Target assessments: **WW4, PT3, PT5**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+
+
+### Keep the work and build stronger evidence
+
+Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+
+Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+
+### Retained starting context
+
+Retain the current recurring-use rule (two school-related uses on two different days in a week) and the learner's rationale distinguishing recurrence from a single occasion. Sessions differ from prompts; use duration differs from frequency; genuine ChatGPT-assisted study is included in outside-class study without double-counting. The 30-minute boundary and exact daily-record demands are less justified. At 70%, no separate title/eligibility reapproval quiz is assigned; correct only dependencies actually needed for the tool.
+
+Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+
+### Main questions and evidence mapping
+
+At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 8 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
+
+| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+|---|---|---|---|
+| ER-Q1 | Explain a first relevant source's contribution to the usage-and-study-time inquiry. | WW4 | Verify actual claims and limits; no assumption that all Grade 10 students use ChatGPT. |
+| ER-Q2 | Explain a second distinct source's contribution. | WW4 | Do not infer causation from association or use a source as proof of eligible local users. |
+| ER-Q3 | Draft a connected background using the bounded inquiry and source support. | PT3 | Learner composition; keep frequency, duration and genuine study time distinct. |
+| ER-Q4 | Write the significance section for this inquiry. | PT3 | Realistic potential uses, no guaranteed time savings. |
+| ER-Q5 | Draft a usable recording form for the retained usage and study-time measures. | PT5 | Collect substantive fields and a consistent period, not another list of promises. |
+| ER-Q6 | Explain the session-boundary rule the proposed form actually needs. | PT5 | Retain the reasoned recurring-use definition; justify or simplify the 30-minute detail without prescribing the answer. |
+| ER-Q7 | Write feasible directions for estimated, unknown and genuine zero values. | PT5 | Do not demand unjustified exact recall or automatically convert missing to zero. |
+| ER-Q8 | Assemble the form and instructions into one working tool. | PT5 | No fieldwork, real respondents or completed testing needed for this draft. |
+
+### PHX endpoint — accept the evidence provided
+
+After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+
+Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+
+## Previous ordinary session directive — historical reference
 
 ```yaml
 {

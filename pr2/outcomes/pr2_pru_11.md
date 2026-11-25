@@ -1,14 +1,20 @@
 ---
 student_code: pr2_pru_11
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.10"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_11-a02-focused-revision-2026-11-19
-route_baseline_revision: pr2_pru_11-a02-reviewed-baseline-2026-11-16
-route_resume_checkpoint: H2
-status: activity-2-retained-relationship-rationale-clarification-required
+route_directive_id: pr2_pru_11-aer-teacher-decision-2026-11-25
+route_baseline_revision: pr2_pru_11-aer-retained-baseline-2026-11-25
+route_resume_checkpoint: ER-Q1
+status: assessment-improvement-opportunity-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: prudence-evidence-recovery-2026-11-25
 ---
+
+## Current assessment improvement authority — November 25, 2026
+
+Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 and authorize a new narrow revision of the relationship rationale. Preserve accepted local-gap, setting, significance, title/questions and actual earlier overlap reasoning. The latest file does not establish why examining the two weekly-hour measures together adds useful information beyond describing each separately. Clarify that meaning and only genuinely affected links; final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity mapping remain private.
 
@@ -64,6 +70,78 @@ The latest November 18 submission retains the accepted local-gap, setting, signi
 Ask the existing relationship-rationale prompt below only if its meaning is still missing from actual earlier/current answers. Apply the learner's answer to the affected background and approved relationship question. Do not supply a finished rationale for agreement, assume displacement of homework time, add completion/grades/timeliness outcomes, require a new source hunt or demand actual access/data. Reuse accepted overlap reasoning and correct only an actual remaining contradiction. Continued work within this new attempt retains counts; no additional reset is authorized by a new chat.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_pru_11-aer-teacher-decision-2026-11-25",
+  "attempt_id": "pr2_pru_11-aer-attempt-2026-11-25",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "prudence-evidence-recovery-2026-11-25",
+  "baseline_revision": "pr2_pru_11-aer-retained-baseline-2026-11-25",
+  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
+  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "target_assessments": [
+    "WW4",
+    "PT5"
+  ],
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 8,
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan
+
+Teacher-authorized November 25, 2026, within **pr2_act_02**. Target assessments: **WW4, PT5**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+
+
+### Keep the work and build stronger evidence
+
+Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+
+Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+
+### Retained starting context
+
+Retain the approved weekly activity-hours/homework-hours title and questions, accepted local gap/significance and Hawan school context. Hours are not grades or homework completion, and an association is noncausal. At 70%, no separate regrading interview or full background rewrite is assigned. The earlier relationship-rationale condition is relevant only insofar as genuinely needed to map the instrument; reuse actual available reasoning and overlap decisions.
+
+Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+
+### Main questions and evidence mapping
+
+At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 8 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
+
+| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+|---|---|---|---|
+| ER-Q1 | Explain what the first retained source actually contributes to your time-use inquiry. | WW4 | Correct overbroad source findings without demanding a verification worksheet. |
+| ER-Q2 | Explain what the second retained source contributes. | WW4 | Check actual findings and limits; the tutor may correct bibliographic mechanics. |
+| ER-Q3 | Write a brief source-to-local-inquiry explanation using those findings within their limits. | WW4 | Obtain the learner's interpretation, not another full background package. |
+| ER-Q4 | Map the approved questions to the time-use fields needed to answer them. | PT5 | Handle only genuinely missing relationship/overlap meaning; no full foundation reinterview. |
+| ER-Q5 | Draft the actual time-recording fields for that map. | PT5 | Separate the two measures without inventing a no-overlap rule. |
+| ER-Q6 | Specify the units and shared period that the recording draft uses. | PT5 | Retain established weekly-hour meaning and actual compatible answers. |
+| ER-Q7 | Write the draft's directions for unknown values and any genuine overlap case. | PT5 | Do not treat missing as zero or supplied examples as independently established rules. |
+| ER-Q8 | Assemble the fields and directions into a working recording tool. | PT5 | No validation completed or collection access claimed. |
+
+### PHX endpoint — accept the evidence provided
+
+After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+
+Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+
+## Previous ordinary session directive — historical reference
 
 ```yaml
 directive_id: pr2_pru_11-a02-focused-revision-2026-11-19
