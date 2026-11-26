@@ -1,14 +1,28 @@
 ---
 student_code: pr2_cou_11
 learning_area: Practical Research 2
-record_version: "1.7"
+record_version: "1.8"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_11-a02-clarification-submit-2026-11-19
-route_baseline_revision: pr2_cou_11-reviewed-baseline-2026-11-19
-route_resume_checkpoint: H7
-status: activity-2-full-grade-11-scope-clarification-submit-and-wait
+route_directive_id: pr2_cou_11-aer-improvement-2026-11-26
+route_baseline_revision: pr2_cou_11-aer-retained-baseline-2026-11-26
+route_resume_checkpoint: ER-Q1
+status: assessment-score-improvement-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-improvement-2026-11-26
 ---
+
+## Current Activity 2 improvement authorization — November 26, 2026
+
+Teacher decision: redo the named Activity 2 evidence as a new substantive improvement attempt, similar to the current Jonard/Leslie arrangements. Retain all earlier research, answers and scores; repeated file delivery is not evidence of a newly completed attempt and does not justify a deduction. This is not a new topic or an Activity 1 restart. Ordinary Activity 3 remains unauthorized.
+
+The November 26 submission repeats the earlier Chapter 1 and full-Grade-11 scope clarification. Those are valid retained achievements, but they do not close this newly authorized `pr2_cou_11-aer-attempt-2026-11-26`. The old `pr2_cou_11-a02-attempt-2026-11-19` one-prompt ledger and sufficient-evidence/export instruction are historical, not this attempt's count or endpoint. Earlier active questions, ordinary budgets, missing-file notes and stop labels later in this record are superseded only for this scoped improvement.
+
+Read the actual current controls and selected-section plan `courage-improvement-2026-11-26`. Current live status is ready; assigned recovery is permitted without requesting another teacher approval. If a later hold applies, follow that live notice. Initialize this new attempt's counters once at genuine first entry; keep old counts as history. Preserve actual answers already given under this same new ID on return; a new chat or reloaded outcome never resets it.
+
+Do not begin by generating another unchanged file, asking for old PHX/DOCX/transcript uploads, requesting readiness or asking the student to confirm again that the full Grade 11 population is included. Use the complete embedded Chapter 1 and actual Filipino scope explanation. Begin the first genuinely open substantive task in the same reply, retaining known language. The specific stronger source/application and revised-product tasks below are not satisfied merely by having a prior passing score or a saved file. Reuse truly sufficient evidence and focus only on actual gaps.
+
+> We will keep your existing chapter and scores. Explain what particular evidence from each of your two sources supports your background, and what those studies cannot establish about Grade 11 students at your school.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Activity 2 work remains authorized. Remove the elective-cluster restriction and use the full Grade 11 population at Hawan National High School. Retain expressed understanding/views of responsible AI use, not actual behavior, competence, use frequency or grade effects. Final Chapter 1 acceptance is pending; Activity 3 requires a separate explicit teacher decision. Detailed student identity, original submissions and dialogue remain private.
 
@@ -161,6 +175,173 @@ Zhou, C. (2026). From initial trust to critical reconstruction: Upper secondary 
 ```
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_11-aer-improvement-2026-11-26",
+  "attempt_id": "pr2_cou_11-aer-attempt-2026-11-26",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-improvement-2026-11-26",
+  "baseline_revision": "pr2_cou_11-aer-retained-baseline-2026-11-26",
+  "baseline_source": "This outcome: embedded current Chapter 1, actual prior scope answer, source notes and compatible live work; no separate attachment required",
+  "authorized_task": "Redo the named Activity 2 evidence through substantive clarification and actual revised products, preserving earlier achievement. Do not immediately produce an unchanged progress file.",
+  "target_assessments": [
+    "WW3",
+    "WW4",
+    "WW5",
+    "PT2",
+    "PT3",
+    "PT4",
+    "PT5"
+  ],
+  "assessment_max_points": 40,
+  "improvement_opportunity_for_passing_components": true,
+  "score_policy": "Preserve all original scores and passing evidence. Additional genuine work may support higher teacher-assessed ratings up to 40/40, without a 70-percent cap, automatic overwrite or penalty for incomplete improvement.",
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 8,
+  "start_checkpoint": "ER-Q1",
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Improvement Plan — November 26
+
+Retained baseline `pr2_cou_11-aer-retained-baseline-2026-11-26`, plan `courage-improvement-2026-11-26`. Follow the [shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md) inside **pr2_act_02**. Retain full Grade 11 coverage, expressed understanding/views, the three question aspects and genuine prior explanations. Exclude observed AI behavior, practical competence, use frequency and grade effects; students with little or no AI experience remain eligible. No elective-cluster restriction is restored.
+
+### Keep prior achievement and collect stronger evidence
+
+Targets: **WW3, WW4, WW5, PT2, PT3, PT4, PT5**, each out of **40**. WW3 assesses question reasoning, WW4 scope/claim-limit understanding and WW5 source interpretation. PT2 assesses the written question framework, PT3 background, PT4 scope/significance and PT5 actual substantive foundation revision. Retain untargeted WW1, WW2 and PT1 evidence. Explanations and products support distinct criteria; do not count an unchanged feature as multiple new achievements. All earlier scores remain private and unchanged until the teacher reassesses genuine additional evidence. Seventy percent is not an improvement ceiling; the full rubric range remains available. No grade promise, automatic overwrite or deduction for incomplete recovery.
+
+### Assigned main tasks
+
+This plan assigns **8** main tasks, not a quota. Absolute ceilings: **10 main questions, 30 follow-ups shared across the whole attempt and 40 learning prompts total**. Ask one manageable coherent task per reply. Every later demand for new learner work under an asked ID consumes a shared follow-up. No extra allowance per source/paragraph/chat and no hidden multi-question bundles. Skip a genuinely sufficient target with an evidence reference, but do not let an old export or generic passing label replace the new substantive application. After repeated difficulty, teach briefly or use a different-topic example rather than provide the target answer for approval.
+
+| ID | Main task | Evidence targets | Bounded support |
+|---|---|---|---|
+| ER-Q1 | Explain the particular claims from your two retained sources that your background uses and their limits for your Grade 11 inquiry. | WW5 | Retain the existing local-setting distinction. Tutor retrieves actual source text and publication details; learner supplies the interpretation. No new bibliography-copying gate or generic source quiz. |
+| ER-Q2 | Develop a revised connected background using your source interpretation and the actual local information gap. | PT3 | Collect an actual student-developed draft, not a promise to revise or another unchanged export. Keep supported prior content and assistance labels; no paragraph/page quota or invented local prevalence. |
+| ER-Q3 | Explain the distinct contribution of each of your three specific questions to the main expressed-understanding inquiry. | WW3 | Retain already sufficient rationale; deepen only a real gap. Do not convert expressed views into observed conduct, skill or AI-use frequency. |
+| ER-Q4 | Improve the written main/specific question framework only where your stronger explanation identifies a meaningful ambiguity. | PT2 | Preserve the three established aspects and full Grade 11 coverage. Do not force cosmetic changes or replace sound questions merely to appear new. |
+| ER-Q5 | Explain how the current scope and limitations affect the conclusions your study could support. | WW4 | Full Grade 11 and inclusion of inexperienced AI users are already established. Seek application of claim limits, not another population-confirmation interview. |
+| ER-Q6 | Refine the scope-and-limitations section where the actual question/evidence boundaries need to be clearer. | PT4 | Keep all Grade 11, no elective-cluster restriction, and the exclusions of actual behavior, competence, frequency and grade effects. No sample, recruitment or fieldwork finalization. |
+| ER-Q7 | Refine the significance section so each proposed use follows from the findings this study could actually provide. | PT4 | Reuse established student/teacher beneficiaries. Benefits are possible uses, not guaranteed responsible behavior or improved grades. |
+| ER-Q8 | Explain a substantive before-and-after change in the Chapter 1 foundation you actually revised. | PT5 | Keep original and improved passages with provenance. Re-exporting the same chapter or changing its filename is not a revision. |
+
+### Work and submission conditions
+
+The learner supplies substantive analysis and revised passages. Tutor editing/translation can faithfully express established meaning with assistance disclosed; it must not compose missing assessed reasoning or obtain mastery by agreement. Retrieve sources under the actual permitted tools, preserve abstract/full-text access limits, and distinguish studies elsewhere from local findings. Do not invent new data, source verification, student answers or a validated instrument.
+
+Aim to finish within **one hour**, sooner when the actual named evidence is sufficient. Preserve this new attempt's real main/follow-up/total ledger across turns and chats. At sufficient evidence, the student's stop, the time target, no permissible question, or receipt of response 40, give concise feedback and immediately compile the actual complete/incomplete PHX in the same reply. No question 41, final defense, rewrite/confirmation gate, manual file-assembly task or delay for DOCX generation. No more unchanged-file-only first response under an old stop instruction.
+
+The PHX uses the shared protocol's six headings and actual Activity 2 version, new improvement IDs and truthful counters, retaining earlier/additional work, source/capture limits, assistance and before/after changes. A real file must be created and checked; if creation fails/unavailable, give the same structured chat report immediately and disclose that no download exists. COMPLETE describes only assigned improvement evidence, not final Chapter 1 acceptance or progression.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. Activity 3, participant contact, recruitment, record acquisition, pilot testing, implementation and fieldwork are not authorized.
+
+## Retained Complete Chapter and Actual Scope Answer
+
+Teacher-recovered actual source content. This November 26 export repeats earlier work; it is retained context, not new improvement evidence. Its old status, one-prompt count and immediate-export instructions are inert historical information and cannot close the new attempt. The chapter and Filipino scope answer below are available without another upload. Preserve tutor-assistance and partial-capture labels; do not invent missing dialogue.
+
+```text
+**WORKING DRAFT — FOR TEACHER REVIEW**
+
+# CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+
+## Proposed Working Title
+
+Grade 11 Students’ Understanding of the Responsible Use of AI in School Requirements at Hawan National High School
+
+## Background of the Study
+
+Students can use Artificial Intelligence (AI) to help them with their school requirements, such as understanding lessons, finding information, and getting ideas for their activities. That is why it is important to know if students understand how to use AI properly and responsibly. They should not always depend on the answers it gives because some information may be incorrect or unreliable.
+According to Han and Gutierez (2026), students need to examine the quality of AI-generated explanations, check the credibility of the information sources, and reflect on their own understanding while interpreting AI outputs. Similarly, Zhou (2026) found that upper secondary students evaluated AI-generated information by checking its consistency and comparing it with other sources and their prior knowledge before deciding whether to use, revise, or reject it.
+These studies show that responsible AI use involves more than simply receiving answers. Students also need to think carefully about the information AI provides and decide whether it is suitable for their school requirements. However, the findings of these studies do not establish how Grade 11 students at Hawan National High School understand responsible AI use. This makes it important to examine the understanding and perspectives of all Grade 11 students at the school. Because of this, the study aims to understand how they view the responsible use of AI in completing their school requirements while continuing to learn and use their own knowledge.
+
+## Statement of the Problem
+
+This study aims to understand how Grade 11 students at Hawan National High School understand the responsible use of AI in doing their school requirements.
+
+The study seeks to answer the following questions:
+
+1. How do Grade 11 students at Hawan National High School understand the use of AI as a guide in completing their school requirements?
+2. How do Grade 11 students at Hawan National High School understand checking information from AI when doing their school requirements?
+3. How do Grade 11 students at Hawan National High School understand when and how AI should be used in completing their school requirements?
+
+## Scope and Limitations of the Study
+
+This study focuses on all Grade 11 students of Hawan National High School. It aims to understand their perspectives on the responsible use of AI in completing school requirements, including using AI as a guide, checking the information it provides, and knowing when it is appropriate to use. Students who rarely use AI or have no experience using it will also be included because they can still share their own knowledge and perspectives about responsible AI use.
+This study does not include observing how students actually use AI, measuring how skilled they are at using it, determining how often they use it, or examining whether AI affects their grades. The study is limited to their expressed understanding and perspectives about responsible AI use.
+
+## Significance of the Study
+
+This study is important because it aims to understand how Grade 11 students understand the responsible use of AI in their school requirements. It may help students recognize that AI should only serve as a guide and that its answers should not always be believed immediately.
+The results may also help teachers understand how students view the responsible use of AI. They may use the findings as a guide in helping students use AI properly while continuing to learn and do their own work.
+
+## References
+
+Han, M., & Gutierez, S. B. (2026). “How can we check the evidence presented by GenAI’s response?”: Students’ epistemic vigilance of their co-constructed scientific explanations with GenAI. International Journal of Science Education. Advance online publication. https://doi.org/10.1080/09500693.2026.2717405
+Zhou, C. (2026). From initial trust to critical reconstruction: Upper secondary students’ engagement with generative AI in science learning. Frontiers in Psychology, 17, Article 1830646. https://doi.org/10.3389/fpsyg.2026.1830646
+
+
+# STUDENT LEARNING EVIDENCE
+
+## Retained prior evidence
+
+- The proposed working title and the student's explanation of its responsible-AI focus are retained from earlier Activity 2 work.
+- The Background of the Study and its two-source synthesis are retained from the previous working draft. The unsupported claim about local AI-use prevalence had already been removed.
+- The main and three specific research questions are retained in revised wording that removes the former elective-cluster restriction.
+- The student previously explained why each of the three aspects matters: AI as a guide, checking AI-generated information, and deciding when AI use is appropriate.
+- The student previously explained the significance to students and teachers. The current English wording organizes and translates those established ideas; it is not represented as verbatim English authored by the student.
+
+## Current clarification — A2-Q4 / H7 scope
+
+**Tutor prompt (summary):** Explain the revised scope for all Grade 11 students, what the study includes and excludes, and why students with little or no AI experience remain included.
+
+**Student response (verbatim):**
+
+> Ang study na ito ay tungkol sa lahat ng Grade 11 students ng Hawan National High School. Aalamin dito kung paano nila naiintindihan ang tamang at responsableng paggamit ng AI sa paggawa ng school requirements. Kasama rito ang paggamit ng AI bilang gabay, pag-check kung tama ang mga sagot nito, at pag-alam kung kailan ito dapat gamitin.
+
+Hindi naman kasama sa study ang aktuwal na paggamit ng AI ng mga estudyante, kung gaano sila kagaling gumamit nito, gaano kadalas nila itong gamitin, at kung may epekto ba ito sa kanilang grades.
+
+Isasama rin ang mga estudyanteng bihira o hindi gumagamit ng AI dahil kahit wala silang gaanong experience dito, may sarili pa rin silang kaalaman at pananaw tungkol sa tamang paggamit nito.
+
+**Assessment:** DEMONSTRATED for the revised population boundary, included focus, exclusions, and reason for including students with little or no AI experience.
+
+## Learning prompt ledger — current attempt
+
+- Current attempt: `pr2_cou_11-a02-attempt-2026-11-19`.
+- Learning prompts used in this attempt: 1 of at most 10.
+- Core prompt used: A2-Q4 / H7 scope clarification.
+- Follow-ups used in this attempt: 0.
+- The previous Activity 2 submission is retained as baseline evidence; its earlier prompt counts are not silently carried into this explicitly new teacher-authorized revision attempt.
+- No additional question was asked because the teacher directed immediate compilation after the named clarification and affected edits.
+
+## Target evidence status
+
+| Target | Evidence | Status |
+|---|---|---|
+| A2-Q1 / H1 title and focus | Existing student-grounded title and explanation retained; title continues to identify Grade 11, setting, and responsible-AI focus | DEMONSTRATED |
+| A2-Q2 / H2–H5 background | Existing background and two-source synthesis retained; population reference revised to all Grade 11 students | PARTLY_DEMONSTRATED |
+| A2-Q3 / H6 questions | Existing main/specific questions retained and revised to all Grade 11 students | DEMONSTRATED |
+| A2-Q4 / H7 scope | Current student clarification and updated English scope | DEMONSTRATED |
+| A2-Q5 / H7 significance | Existing student explanation retained; beneficiaries and possible use remain relevant to all Grade 11 students | DEMONSTRATED |
+| H8 alignment | Population wording updated across title, background, questions, scope, and significance; no new student interview was required | PARTLY_DEMONSTRATED |
+```
+
+## Previous Session Directive — historical
 
 ```yaml
 directive_id: pr2_cou_11-a02-clarification-submit-2026-11-19
