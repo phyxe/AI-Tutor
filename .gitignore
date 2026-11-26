@@ -9,3 +9,13 @@ Thumbs.db
 
 # Keep local identity mappings and private records out of Git
 _private/
+
+# Student submissions belong in _private/pr2/submissions/.
+# Also protect accidental legacy or alternate intake folder names.
+submissions/
+AllSubmissions/
+AllSubmssions/
+Clean Copy Submissions/
+
+# Private identity mapping, including accidental copies at the root.
+studentcodes.md

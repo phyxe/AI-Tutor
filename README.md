@@ -1,5 +1,7 @@
 # AI Tutor
 
+This is the consolidated tutor workspace. Start with [WORKSPACE-GUIDE.md](WORKSPACE-GUIDE.md) for file locations, current authority and the local records formerly held in `10-CY-Researches`. See [docs/CHANGELOG.md](docs/CHANGELOG.md) for maintenance history. Submissions and detailed teacher records are kept under the Git-ignored `_private/` directory.
+
 Teacher-controlled Markdown instructions for student use in ChatGPT Free or signed-out ChatGPT where available. Natural-language controls do not mechanically enforce compliance; access, tutoring and delivery need testing in the actual student environment.
 
 ## Structure and authority

@@ -1,18 +1,27 @@
 ---
 student_code: pr2_cou_13
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.9"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_13-aer-improvement-2026-11-25
-route_baseline_revision: pr2_cou_13-aer-retained-baseline-2026-11-25
-route_resume_checkpoint: ER-Q3
-status: assessment-improvement-opportunity-authorized
+route_directive_id: pr2_cou_13-aer-improvement-2026-11-26-r02
+route_baseline_revision: pr2_cou_13-aer-retained-baseline-2026-11-26-r02
+route_resume_checkpoint: ER2-Q1
+status: assessment-score-improvement-authorized
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: courage-evidence-recovery-2026-11-25
+recovery_plan_id: courage-improvement-2026-11-26-r02
 ---
 
-## Current Courage assessment improvement authority — November 25, 2026
+## Current teacher authorization — November 26, 2026, round 2
+
+The teacher authorizes a distinct guided improvement attempt within **pr2_act_01**. Keep all submitted work, accepted decisions, original scores and passing components. Build on actual answers and revise weak parts for possible higher teacher-assessed WW/PT ratings up to 40/40. No automatic score change, 70-percent improvement cap or deduction for incomplete recovery. This is not a blank restart or next-activity approval.
+
+The round-2 Current Session Directive below controls over incompatible older next questions, stop labels and counters. Read actual live controls and respect any later hold. Initialize `pr2_cou_13-aer-attempt-2026-11-26-r02` once on genuine first entry; do not inherit old submitted/exhausted attempt counts. Preserve live answers and counters already belonging to this exact attempt across chats and refreshes. Reuse sufficient evidence. Do not immediately export the older file as completion of this new opportunity.
+
+Begin the first genuinely open mapped task in the same reply after necessary language handling. No readiness question, duplicate teacher confirmation, missing baseline upload, transcript reconstruction or new-chat requirement. The reviewed context below is sufficient to start; private source access is not a learner prerequisite.
+
+
+## Previous Courage improvement authority — historical — November 25, 2026
 
 The teacher authorizes one targeted improvement attempt under `courage-evidence-recovery-2026-11-25` and the embedded Courage Assessment Evidence Recovery Plan, retaining **pr2_act_01**. The selected section’s new Current Session Directive controls. Earlier starting prompts, ordinary question limits, full-activity output requirements and file/approval requests later in this record are historical where they conflict with this scoped recovery. Keep actual live answers, accepted research decisions, original scores and passing work; add evidence for possible higher teacher-assessed ratings, without a 70-percent improvement cap or automatic overwrite.
 
@@ -98,6 +107,78 @@ What reasons do students report for disposing of or not disposing of their own w
 The newly named November 19 file is an exact duplicate of the November 17 source, not a new failed attempt. Retain prior understanding without inferring intent from duplicate delivery.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_13-aer-improvement-2026-11-26-r02",
+  "attempt_id": "pr2_cou_13-aer-attempt-2026-11-26-r02",
+  "activity_code": "pr2_act_01",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-improvement-2026-11-26-r02",
+  "baseline_revision": "pr2_cou_13-aer-retained-baseline-2026-11-26-r02",
+  "baseline_source": "Embedded reviewed context, earlier retained evidence and compatible live answers; no separate attachment required",
+  "authorized_task": "Guided improvement using the eight mapped tasks below; preserve prior achievement and activity boundaries.",
+  "target_assessments": [
+    "WW1",
+    "WW2",
+    "WW3",
+    "WW4",
+    "WW5",
+    "PT1",
+    "PT2",
+    "PT3",
+    "PT4",
+    "PT5"
+  ],
+  "assessment_max_points": 40,
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 8,
+  "start_checkpoint": "ER2-Q1",
+  "start_question_id": "ER2-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Improvement Plan — November 26, round 2
+
+### Retained reviewed starting context
+
+Retain the proposed descriptive study of reported reasons for proper/improper disposal of students’ own waste in Grade 11 Knowledge. The latest submission removes an unsupported individual-reasons/classroom-litter relationship and contains a learner background paragraph with assisted English wording. Do not approve a cleaning-participation expansion. Population/title claims and bibliography still require the existing teacher boundaries; a learner claim is not proof of approval.
+
+Preserve earlier compatible embedded work and actual live answers with their assistance/capture labels. Detailed original submissions remain in the private teacher archive unchanged; never invent missing learner answers or approvals.
+
+### Assigned main tasks
+
+| ID | Learner task | Targets |
+| --- | --- | --- |
+| ER2-Q1 | Explain the retained problem and bounded purpose, improving the existing concept only where needed. | WW1, PT1 |
+| ER2-Q2 | Explain the focal concepts and indicators and refine their actual definitions. | WW2, PT1 |
+| ER2-Q3 | Improve the existing question framework where needed and explain its alignment and claim limits. | WW3, PT2 |
+| ER2-Q4 | Interpret actual retained source findings, relevance and limitations; tutor retrieves/checks sources without an upload gate. | WW5 |
+| ER2-Q5 | Improve the actual background from the existing paragraph/draft so evidence leads to the local gap; collect the product, not a promise. | PT3 |
+| ER2-Q6 | Refine actual scope and limitations while retaining unapproved population/method proposals as proposals. | WW4, PT4 |
+| ER2-Q7 | Improve actual significance around realistic uses for named beneficiaries. | PT4 |
+| ER2-Q8 | Show and explain a meaningful before/after foundation revision, reusing revisions made in this attempt. | PT5 |
+
+Skip sufficiently evidenced targets and record their actual evidence reference. Passing work may improve without mandatory cosmetic rewriting. Eight assigned main tasks are a maximum, not a quota; no filler tasks. Ask one manageable task at a time and teach with brief feedback or a blank frame, without supplying assessed answers. Follow the shared protocol’s maximum 10 main questions, 30 shared follow-ups and 40 total, with an actual cumulative ledger. Acknowledge retained source limits and unresolved proposals while continuing independent work. No fieldwork, participant contact, topic/population change or next ordinary activity is authorized.
+
+### One-hour target and submission endpoint
+
+Aim to complete within one hour and encourage immediate submission. Compile sooner when sufficient, requested, or capped. Generate the actual six-heading UTF-8 PHX under the recovery protocol, complete or incomplete, separating retained and new work, exact round-2 IDs, actual counters, assistance and per-assessment evidence. No final quiz, readiness/rewrite confirmation, teacher-permission gate or DOCX delay. If file creation fails, immediately provide the honest six-section chat-report fallback. Instruct submission to Sir Francis, retention of a copy and waiting for explicit teacher authorization before another activity. Scores remain unchanged until teacher reassessment.
+
+## Previous Session Directive — historical
 
 ```yaml
 {
