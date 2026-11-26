@@ -1,20 +1,20 @@
 ---
 student_code: pr2_pru_06
 learning_area: Practical Research 2
-record_version: "1.10"
+record_version: "1.11"
 route_activity: pr2_act_03
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_06-aer-second-improvement-2026-11-26
-route_baseline_revision: pr2_pru_06-aer-reviewed-baseline-2026-11-26
-route_resume_checkpoint: ER2-Q1
-status: second-assessment-improvement-attempt-authorized
+route_directive_id: pr2_pru_06-aer-unrated-priority-2026-11-26-r03
+route_baseline_revision: pr2_pru_06-aer-reviewed-baseline-2026-11-26-r03
+route_resume_checkpoint: ER3-Q1
+status: instrument-improvement-attempt-authorized
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: prudence-evidence-improvement-2026-11-26-r02
+recovery_plan_id: prudence-unrated-priority-2026-11-26-r03
 ---
 
 ## Current assessment improvement authority — November 26, 2026
 
-Keep the ordinary activity selected in metadata. Its Current Session Directive and embedded second-attempt plan are the current teacher authority for assessment improvement. Preserve previous work and scores, use the explicit new attempt ID and actual 10/30/40 ledger, and begin directly with the first genuinely missing listed task. Earlier route/budget/next-question instructions below are historical where they conflict. No duplicate approval, prior-file upload gate, automatic score change or fieldwork permission.
+Use the selected ordinary activity’s Current Session Directive and ER3 plan as the current teacher authority. Prioritize missing ratings, retain prior work and scores, initialize the explicitly authorized new attempt once, and use actual 10/30/40 accounting. Earlier next-task/budget instructions are historical where incompatible. No duplicate approval, missing-file gate, automatic score change or fieldwork permission.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Approve the descriptive redirection to students' reported reasons for littering/nonuse despite a bin being present. Authorize Activity 3 with focused Chapter 1 question alignment carried into M1. The accessibility-disposal correlation is historical, not the active inquiry. Exact revised questions and final products remain for review. Student identity and detailed evidence remain private.
 
@@ -67,82 +67,80 @@ Approve the descriptive redirection to students' reported reasons for littering/
 
 ```yaml
 {
-  "directive_id": "pr2_pru_06-aer-second-improvement-2026-11-26",
-  "attempt_id": "pr2_pru_06-aer-attempt-2026-11-26-r02",
-  "previous_recovery_attempt_id": "pr2_pru_06-aer-attempt-2026-11-25",
+  "directive_id": "pr2_pru_06-aer-unrated-priority-2026-11-26-r03",
+  "attempt_id": "pr2_pru_06-aer-attempt-2026-11-26-r03",
+  "previous_recovery_attempt_id": "pr2_pru_06-aer-attempt-2026-11-26-r02",
   "activity_code": "pr2_act_03",
   "action": "REVISE_AND_SUBMIT",
   "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
   "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
   "recovery_protocol_version": "1.1.1",
-  "plan_id": "prudence-evidence-improvement-2026-11-26-r02",
-  "baseline_revision": "pr2_pru_06-aer-reviewed-baseline-2026-11-26",
-  "baseline_source": "Retained earlier research, the November 26 teacher-reviewed submission and compatible live answers summarized below; no old-file upload gate",
+  "plan_id": "prudence-unrated-priority-2026-11-26-r03",
+  "baseline_revision": "pr2_pru_06-aer-reviewed-baseline-2026-11-26-r03",
+  "baseline_source": "Earlier embedded research, latest November 26 reviewed submission and compatible live answers; no attachment required",
   "target_assessments": [
-    "WW4",
-    "PT2",
-    "PT4",
-    "PT5"
+    "PT5",
+    "PT2"
   ],
-  "dependent_refinements": [
-    "PT3"
-  ],
+  "priority_unrated_assessments": [],
   "assessment_maximum_score": 50,
   "recovery_threshold_percent": 70,
   "recovery_threshold_score": 35,
   "core_prompt_maximum": 10,
   "followup_maximum": 30,
   "learning_prompt_maximum": 40,
-  "assigned_main_question_count": 7,
-  "start_question_id": "ER2-Q1",
+  "assigned_main_question_count": 5,
+  "start_question_id": "ER3-Q1",
   "new_attempt_explicitly_authorized": true,
   "previous_submission_required": false,
   "additional_teacher_confirmation_required": false,
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
-  "score_policy": "Preserve recorded scores and prior improvement evidence; new evidence supports higher teacher reassessment without an improvement cap or automatic score overwrite",
+  "score_policy": "Preserve recorded scores and prior evidence; stronger genuine evidence may support the full rubric range after teacher review, without automatic grade changes",
   "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
 }
 ```
 
 ## Assessment Evidence Recovery Plan
 
-Teacher-authorized **second improvement attempt — November 26, 2026**, within **pr2_act_03**. Primary targets: **WW4, PT2, PT4, PT5**. Keep all prior achievement and the shared recovery protocol. A good file length or completed question count is not a substitute for the actual assigned evidence.
+Teacher-authorized new improvement attempt — November 26, 2026 (Asia/Manila). Keep **pr2_act_03**. Prioritize the incomplete **PT5 questionnaire**, with only necessary PT2 alignment. The latest assessment figures are recommendations, not posted grades or completion approvals.
 
-### Reviewed progress and retained evidence
+### Reviewed starting point
 
-The latest actual explanation now distinguishes reported reasons from proven causes and explicitly explains the shift away from an accessibility relationship. Retain that understanding and the new realistic significance statement; do not repeat the conceptual defense. Multiple reasons such as hurry, forgetting or distance are possibilities, not findings. The hypothetical numerical exercises are practice, never field results. A final title/question package, precise scope, student explanations of two sources and neutral substantive items remain missing. Retain Hawan Grande Covered Court and the earlier approved male Junior High School basketball-player context unless an actual teacher decision changes it.
+Retain the teacher-approved descriptive quantitative direction: self-reported reasons for leaving litter/not using an available bin at Hawan Grande Covered Court among eligible male Junior High School basketball players enrolled at Hawan National High School. The earlier accessibility correlation is historical. Retain the two source interpretations with abstract-access limits, privacy-safe aggregate-count request plan, and original three-month behavior item with Yes/No/Cannot remember meanings. No respondents remain eligible and skip reasons for an instance they did not report. The learner reports teacher guidance distinguishing three-month recall before each answer from a 14-day administration window; retain that distinction while exact dates and operational details remain provisional. The main reasons question and choices are still absent. This evidence now supports a partial PT5 rating recommendation; no assessment in the latest recommended snapshot remains unrated. Posted grades are unchanged. The title can imply every eligible player litters and needs behavioral precision. The prior header counted nine prompts but disclosed three more: retain at least twelve if the earlier accounting is accurate; do not erase extra requests or penalize the learner.
 
-The November 26 submission is accepted as progress for review, not proof every target is complete. Keep actual demonstrated answers, working drafts, original scores and proposed reassessment separately. Do not lower or automatically replace a score. Reuse accessible evidence before asking; do not require another PHX, transcript attachment or teacher confirmation to begin.
+### New authority and continuity
 
-### New attempt and question-count continuity
+This explicit teacher instruction authorizes **pr2_pru_06-aer-attempt-2026-11-26-r03**, distinct from **pr2_pru_06-aer-attempt-2026-11-26-r02** and all earlier attempts. Preserve all earlier answers, accepted decisions, draft products, source limits, assistance and prompt histories. Old counts remain historical and do not consume this new attempt. Initialize its ledger once at genuine first entry. Outcome reloads, additional chats and continuation never reset it. If this attempt’s own history is unknown, apply the shared conservative rule; do not invent zero counts or ask the learner to reconstruct them.
 
-This is an explicit new teacher-authorized attempt **pr2_pru_06-aer-attempt-2026-11-26-r02**, distinct from **pr2_pru_06-aer-attempt-2026-11-25**. Old questions are historical and not charged to this new allowance; old answers remain usable. Initialize the new ledger only once at its genuine first activation. A new chat, outcome reload or voluntary answer never grants another reset. Preserve this attempt's actual counts across chats. If its own history is unknown, apply the shared conservative rule rather than inventing a zero count.
+The current directive supersedes incompatible older next-question, attempt and budget instructions anywhere in this record. Older sections supply research/approval history only. No Activity 1 restart, topic replacement, duplicate approval, prior-file upload or routine teacher-confirmation gate is assigned. Reuse compatible live answers and skip sufficiently evidenced tasks with response references. Begin the first genuinely missing listed task in the same reply using the known language.
 
-At most **10 main questions + 30 shared follow-ups = 40 total**; this plan assigns 7 main tasks. Stop earlier if sufficient. A rewrite or further clarification of an already elicited target is a follow-up, not a fresh main question. Ask only the listed tasks, one manageable demand at a time. Do not fill the allowance with generic statistics, ethics or pretesting questions unless a listed tool target genuinely requires that specific missing meaning.
+### Assigned tasks in priority order
 
-### Main tasks and assessable output
+At most **10 main questions, 30 shared follow-ups and 40 total learning questions** across the entire attempt, not per section. This plan assigns **5 main tasks**, not a quota. Each row is one coherent demand per reply. Every later clarification, revision or added learning demand counts as a follow-up. Do not bundle independent tests into a row or use unused main slots for generic quizzes. Source understanding and necessary alignment may support an unrated product; do not delay that product with repeated passing-work interviews.
 
-| ID | Main question or coherent product task | Primary targets | Optional budgeted follow-up focus |
+| ID | Main question or coherent product task | Targets | Necessary support or bounded follow-up |
 |---|---|---|---|
-| ER2-Q1 | Write the final working title-and-question package for the descriptive reported-reason inquiry. | PT2 | Apply the now-established direction; no return to a bin-availability correlation or causal title. |
-| ER2-Q2 | Write the exact eligible group, setting and reporting period for this inquiry. | PT4 | Do not widen the approved group or presume every eligible player litters. |
-| ER2-Q3 | Explain what the first retained source supports and cannot establish for your descriptive inquiry. | WW4 | Reuse verified access; separate background on bins from proof of local reasons. |
-| ER2-Q4 | Explain the contribution and limits of a second distinct source. | WW4 | Actual learner interpretation; no new generic statistics lesson. |
-| ER2-Q5 | Map the revised questions to the participant-reported information needed. | PT5 | Personal reasons differ from guesses about others or physical bin conditions. Keep multiple and additional reasons possible. |
-| ER2-Q6 | Draft neutral substantive items or recording fields for that map. | PT5 | Do not assume littering, force distance as the answer, or invent an endorsed reason list. |
-| ER2-Q7 | Write the response meanings and directions needed by the draft. | PT5 | Distinguish non-littering/nonapplicable responses, multiple reasons, other reasons and unknown values. Update only genuinely affected background links; retain the new significance. |
+| ER3-Q1 | Refine the working title to match the actual behavior covered by the retained item and main question. | PT2, PT5 | Decide the actual behavior boundary without presuming every player litters; reuse the clear descriptive main question. |
+| ER3-Q2 | Draft the neutral participant-facing reasons question. | PT5 | Seek the respondent’s own reasons for a reported instance, not proven causes or guesses about others. |
+| ER3-Q3 | Draft suitable reasons choices for that question. | PT5 | Learner supplies content; allow multiple responses and Other, avoid judgmental wording and unsupported assumptions. |
+| ER3-Q4 | Assemble the existing behavior item and new reasons section into a usable questionnaire draft. | PT5 | Retain Yes/No/Cannot remember, skip logic and one consistent recall context; no tutor-composed missing item bank. |
+| ER3-Q5 | Explain how the assembled responses answer the retained research question. | PT5 | Use this as a coherent mapping task, not an extra defense quiz; actual count, pilot or fieldwork are not prerequisites. |
 
-### Evidence capture and endpoint
+### Teach, capture and submit
 
-Capture actual student responses and draft components as they are given, with main/follow-up ID, target and assistance recorded. Preserve originals and revisions; a label such as “completed” or “40 answers” cannot stand in for missing reasoning or products. If a target is already sufficiently evidenced, cite it and move on. Tutor retrieval, formatting and supplied examples are not independently student-authored evidence. Do not generate the missing paragraph/item bank for copying.
+Retrieve/check suitable sources when needed without another permission or upload gate. The learner must interpret their actual claims and limits. Teach briefly, use blank structures or a genuinely different-topic example, then collect the learner’s substantive answers and drafts. Do not compose missing assessed paragraphs, questions or choices for copying. After two unsuccessful attempts, change support rather than repeat the same demand. Capture actual prose, items and directions, not just promises or labels saying completed. Keep independent work, assisted revision and summaries distinguishable.
 
-After the final permitted response, create the actual complete/incomplete PHX immediately. No question 41, final quiz, complete-sentence repair, rewrite demand or teacher confirmation may delay submission. Stop earlier when sufficient, requested by the student, or no permissible question remains. Use the six shared sections, actual ledger, original responses, current products and precise gaps. If file creation fails, provide the structured chat report immediately. Tell the student to **download the PHX, upload it to Sir Francis's submission channel, submit it, keep a copy and wait for feedback**. No automatic passing grade, ordinary-stage progression or fieldwork clearance.
+Show actual main/follow-up/total counters before learning requests and maintain the shared evidence ledger, mapping each targeted WW/PT to real responses or product sections. General ethics/statistics discussion, response counts or file length do not substitute for a source interpretation, background or instrument. Preserve already-sufficient work; 35/50 is a recovery threshold, not an improvement ceiling or promised score. Teacher reassessment uses prior and supplementary evidence; no grade is overwritten by the tutor.
 
-## Prior recovery disposition — November 25 attempt
+After response 40, compile immediately in the same reply. Compile earlier when sufficient, requested, or no permissible question remains. Accept the answers as they stand for submission, complete or incomplete. No extra rewrite, quiz, source hunt, approval question or complete-sentence demand may delay the file. Create the actual UTF-8 PHX with the six shared sections, exact current attempt/plan/baseline, actual ledger, original/revised responses, source/assistance limits and precise missing work. Follow the shared file-verification and structured-chat fallback rules.
 
-Attempt `pr2_pru_06-aer-attempt-2026-11-25` and its November 26 submitted evidence are retained as history. The earlier recovery plan is superseded by the current second-attempt plan above; it does not open another allowance or supply a competing task queue. Original ordinary-activity decisions and embedded research below remain retained.
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Stop for review; do not reopen this submitted attempt. No automatic activity completion, stage advancement, participant contact, records acquisition, pilot, testing or fieldwork permission is granted.
+
+## Prior recovery disposition — historical reference
+
+All prior recovery attempts, including `pr2_pru_06-aer-attempt-2026-11-26-r02`, retain their evidence and actual counters as history. They no longer supply the active question queue. The current ER3 directive above authorizes the distinct new attempt; it does not erase earlier work or authorize later silent resets.
 
 ## Previous ordinary session directive — historical reference
 
