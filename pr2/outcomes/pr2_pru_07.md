@@ -1,20 +1,20 @@
 ---
 student_code: pr2_pru_07
 learning_area: Practical Research 2
-record_version: "1.10"
+record_version: "1.11"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_07-aer-teacher-decision-2026-11-25
-route_baseline_revision: pr2_pru_07-aer-retained-baseline-2026-11-25
-route_resume_checkpoint: ER-Q1
-status: assessment-improvement-opportunity-authorized
+route_directive_id: pr2_pru_07-aer-second-improvement-2026-11-26
+route_baseline_revision: pr2_pru_07-aer-reviewed-baseline-2026-11-26
+route_resume_checkpoint: ER2-Q1
+status: second-assessment-improvement-attempt-authorized
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: prudence-evidence-recovery-2026-11-25
+recovery_plan_id: prudence-evidence-improvement-2026-11-26-r02
 ---
 
-## Current assessment improvement authority — November 25, 2026
+## Current assessment improvement authority — November 26, 2026
 
-Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
+Keep the ordinary activity selected in metadata. Its Current Session Directive and embedded second-attempt plan are the current teacher authority for assessment improvement. Preserve previous work and scores, use the explicit new attempt ID and actual 10/30/40 ledger, and begin directly with the first genuinely missing listed task. Earlier route/budget/next-question instructions below are historical where they conflict. No duplicate approval, prior-file upload gate, automatic score change or fieldwork permission.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Retain Activity 2 authorization and the accepted procrastination/late-submission foundation. The teacher confirms verbally that the intended school year is 2026-2027 for the current Grade 11 context. The 2025-2026 historical-cohort wording is superseded. Preserve the topic and complete only remaining Chapter 1 alignment; no Activity 1 restart. Final Chapter 1 acceptance and Activity 3 remain pending. Detailed student evidence and identity remain private.
 
@@ -63,17 +63,17 @@ Retain Activity 2 authorization and the accepted procrastination/late-submission
 
 ```yaml
 {
-  "directive_id": "pr2_pru_07-aer-teacher-decision-2026-11-25",
-  "attempt_id": "pr2_pru_07-aer-attempt-2026-11-25",
+  "directive_id": "pr2_pru_07-aer-second-improvement-2026-11-26",
+  "attempt_id": "pr2_pru_07-aer-attempt-2026-11-26-r02",
+  "previous_recovery_attempt_id": "pr2_pru_07-aer-attempt-2026-11-25",
   "activity_code": "pr2_act_02",
   "action": "REVISE_AND_SUBMIT",
   "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
   "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
   "recovery_protocol_version": "1.1.1",
-  "plan_id": "prudence-evidence-recovery-2026-11-25",
-  "baseline_revision": "pr2_pru_07-aer-retained-baseline-2026-11-25",
-  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
-  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "plan_id": "prudence-evidence-improvement-2026-11-26-r02",
+  "baseline_revision": "pr2_pru_07-aer-reviewed-baseline-2026-11-26",
+  "baseline_source": "Retained earlier research, the November 26 teacher-reviewed submission and compatible live answers summarized below; no old-file upload gate",
   "target_assessments": [
     "WW4",
     "WW5",
@@ -81,60 +81,66 @@ Retain Activity 2 authorization and the accepted procrastination/late-submission
     "PT4",
     "PT5"
   ],
+  "dependent_refinements": [],
+  "assessment_maximum_score": 50,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_score": 35,
   "core_prompt_maximum": 10,
   "followup_maximum": 30,
   "learning_prompt_maximum": 40,
   "assigned_main_question_count": 10,
-  "start_question_id": "ER-Q1",
+  "start_question_id": "ER2-Q1",
+  "new_attempt_explicitly_authorized": true,
   "previous_submission_required": false,
   "additional_teacher_confirmation_required": false,
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
-  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "score_policy": "Preserve recorded scores and prior improvement evidence; new evidence supports higher teacher reassessment without an improvement cap or automatic score overwrite",
   "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
 }
 ```
 
 ## Assessment Evidence Recovery Plan
 
-Teacher-authorized November 25, 2026, within **pr2_act_02**. Target assessments: **WW4, WW5, PT3, PT4, PT5**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+Teacher-authorized **second improvement attempt — November 26, 2026**, within **pr2_act_02**. Primary targets: **WW4, WW5, PT3, PT4, PT5**. Keep all prior achievement and the shared recovery protocol. A good file length or completed question count is not a substitute for the actual assigned evidence.
 
+### Reviewed progress and retained evidence
 
-### Keep the work and build stronger evidence
+Retain the accepted procrastination/lateness distinction, current Grade 11 Wisdom and teacher-confirmed SY 2026–2027. The latest recovery record reports 40 responses but mainly summarizes statistics/ethics topics and does not capture the assigned source, background, scope correction, revision rationale or tool evidence. This is a tutor-alignment/capture limitation, not proof of low effort. Retain useful answers that are actually accessible; do not demand old files or reconstruct missing turns. This new teacher directive explicitly authorizes another distinct attempt, so the old 40-response count is historical, not a block and not permission to reset again later. Keep zero-late outcomes meaningful; the old late-submitters-only clause was never approved.
 
-Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+The November 26 submission is accepted as progress for review, not proof every target is complete. Keep actual demonstrated answers, working drafts, original scores and proposed reassessment separately. Do not lower or automatically replace a score. Reuse accessible evidence before asking; do not require another PHX, transcript attachment or teacher confirmation to begin.
 
-Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+### New attempt and question-count continuity
 
-### Retained starting context
+This is an explicit new teacher-authorized attempt **pr2_pru_07-aer-attempt-2026-11-26-r02**, distinct from **pr2_pru_07-aer-attempt-2026-11-25**. Old questions are historical and not charged to this new allowance; old answers remain usable. Initialize the new ledger only once at its genuine first activation. A new chat, outcome reload or voluntary answer never grants another reset. Preserve this attempt's actual counts across chats. If its own history is unknown, apply the shared conservative rule rather than inventing a zero count.
 
-Retain the accepted distinction between chosen postponement despite opportunity and external barriers, with late submission as a separate outcome. The teacher verbally confirmed current Grade 11 Wisdom, SY 2026–2027; historical SY 2025–2026 is superseded. Settle only the current shared period and actual remaining scope issues. Do not require actual records acquisition, exclude zero-late outcomes or treat copied tutor models as independent reasoning.
+At most **10 main questions + 30 shared follow-ups = 40 total**; this plan assigns 10 main tasks. Stop earlier if sufficient. A rewrite or further clarification of an already elicited target is a follow-up, not a fresh main question. Ask only the listed tasks, one manageable demand at a time. Do not fill the allowance with generic statistics, ethics or pretesting questions unless a listed tool target genuinely requires that specific missing meaning.
 
-Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+### Main tasks and assessable output
 
-### Main questions and evidence mapping
-
-At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 10 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
-
-| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+| ID | Main question or coherent product task | Primary targets | Optional budgeted follow-up focus |
 |---|---|---|---|
-| ER-Q1 | State the shared current-SY period your two measures will describe. | PT4 | Keep the verbally confirmed 2026–2027 year; elicit only the matching period and its basis. |
-| ER-Q2 | Revise the scope and operational meanings to match that period and the accepted population. | PT4 | Distinguish procrastination, lateness and external reasons; do not silently select late submitters only. |
-| ER-Q3 | Explain the first relevant source's contribution to your current inquiry. | WW4 | Verify actual source support and its limits. |
-| ER-Q4 | Explain a second distinct source's contribution to the inquiry. | WW4 | Keep the association noncausal and do not replace local evidence with a published finding. |
-| ER-Q5 | Draft a connected background using the verified source support and your accepted foundation. | PT3 | No complete topic restart or repeated school-year question. |
-| ER-Q6 | Write a short significance section with realistic possible uses. | PT3 | Avoid promises of eliminating procrastination or lateness. |
-| ER-Q7 | Map your research questions to separate procrastination and late-submission evidence. | PT5 | A shared period does not make the constructs identical. |
-| ER-Q8 | Draft substantive items or record fields for that measurement map. | PT5 | Learner content and genuine available-source provenance; no tutor-written item bank. |
-| ER-Q9 | Specify units and response meanings for the draft. | PT5 | Allow zero-late outcomes and distinguish missing information. |
-| ER-Q10 | Explain a consequential correction from your earlier draft to this recovery version. | WW5 | Obtain the learner's own before/after rationale rather than another copied model. |
+| ER2-Q1 | State the actual current-school-year period that both of your measures will describe. | PT4 | Get the real term/quarter if missing, not another generic explanation that periods should agree. Reuse it if already clear in the live chat. |
+| ER2-Q2 | Write the scope and operational definitions using that period and the retained current cohort. | PT4 | Remove only incompatible historical-year or unapproved late-only wording through the learner's actual revision. Keep intentional postponement distinct from external barriers and lateness. |
+| ER2-Q3 | Explain the actual contribution and limits of one relevant source. | WW4 | No substitution with questions about Pearson r, p-values or general source quality. |
+| ER2-Q4 | Explain the contribution and limits of a second distinct relevant source. | WW4 | Obtain the learner's interpretation of a real source, not a promise to find one. |
+| ER2-Q5 | Draft the connected background using the verified support and accepted inquiry. | PT3 | Collect actual prose; a summary saying background was discussed is not the product. |
+| ER2-Q6 | Write a significance section with realistic possible users and uses. | PT3 | No guaranteed reduction of procrastination or late submissions. |
+| ER2-Q7 | Map the questions to separate procrastination and late-submission evidence. | PT5 | Shared timeframe, zero-late values and distinctions from external reasons. |
+| ER2-Q8 | Draft substantive items or recording fields for that map. | PT5 | The learner supplies the tool content. Do not replace this with a generic design/ethics interview. |
+| ER2-Q9 | Write the draft's response meanings and usable directions. | PT5 | Separate measures, genuine zero, unknown values and common timeframe; no completed fieldwork required. |
+| ER2-Q10 | Explain one important before-and-after correction you made to the draft. | WW5 | Capture an actual original statement, student correction and why it matters; no sample answer for copying. |
 
-### PHX endpoint — accept the evidence provided
+### Evidence capture and endpoint
 
-After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+Capture actual student responses and draft components as they are given, with main/follow-up ID, target and assistance recorded. Preserve originals and revisions; a label such as “completed” or “40 answers” cannot stand in for missing reasoning or products. If a target is already sufficiently evidenced, cite it and move on. Tutor retrieval, formatting and supplied examples are not independently student-authored evidence. Do not generate the missing paragraph/item bank for copying.
 
-Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+After the final permitted response, create the actual complete/incomplete PHX immediately. No question 41, final quiz, complete-sentence repair, rewrite demand or teacher confirmation may delay submission. Stop earlier when sufficient, requested by the student, or no permissible question remains. Use the six shared sections, actual ledger, original responses, current products and precise gaps. If file creation fails, provide the structured chat report immediately. Tell the student to **download the PHX, upload it to Sir Francis's submission channel, submit it, keep a copy and wait for feedback**. No automatic passing grade, ordinary-stage progression or fieldwork clearance.
+
+## Prior recovery disposition — November 25 attempt
+
+Attempt `pr2_pru_07-aer-attempt-2026-11-25` and its November 26 submitted evidence are retained as history. The earlier recovery plan is superseded by the current second-attempt plan above; it does not open another allowance or supply a competing task queue. Original ordinary-activity decisions and embedded research below remain retained.
 
 ## Previous ordinary session directive — historical reference
 
