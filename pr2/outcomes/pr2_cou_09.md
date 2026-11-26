@@ -1,14 +1,32 @@
 ---
 student_code: pr2_cou_09
 learning_area: Practical Research 2
-record_version: "1.9"
+record_version: "1.10"
 route_activity: pr2_act_02
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_09-a02-clarification-submit-2026-11-19
-route_baseline_revision: pr2_cou_09-reviewed-baseline-2026-11-19
-route_resume_checkpoint: H6
-status: activity-2-condition-clarification-restore-draft-submit-and-wait
+route_directive_id: pr2_cou_09-aer-improvement-2026-11-26
+route_baseline_revision: pr2_cou_09-aer-retained-baseline-2026-11-26
+route_resume_checkpoint: ER-Q1
+status: assessment-score-improvement-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-improvement-2026-11-26
 ---
+
+## Current improvement authorization — November 26, 2026
+
+Teacher decision: permit a new assessment-improvement attempt inside the existing **pr2_act_02**. Keep previous scores, passing components, accepted decisions and actual student answers. This opportunity is not limited to below-70-percent work; stronger evidence may support higher teacher-assessed WW/PT scores up to the full 40 points. No score is changed by this outcome.
+
+Use only the new selected-section Current Session Directive and plan `courage-improvement-2026-11-26` for present work. Earlier ordinary/recovery directives, next questions, prompt counts, stop labels, no-new-attempt statements and expired collection notices later in this record are historical where incompatible. This does not authorize the next ordinary activity, a topic/population change or fieldwork. Read actual current live controls; the current ready notice permits assigned recovery without an exact hold exception. If a later live hold applies, follow its actual instructions rather than invent release.
+
+**Why the last immediate export does not close this new attempt:** The November 26 file repackaged prior answers and the exhausted pr2_cou_09-a02-attempt-2026-11-19 ledger. It was not a new learning attempt. Both the November 18 and November 19 ordinary counts are historical; neither consumes this expressly new November 26 improvement allowance. Do not compile immediately because that older record says ten prompts were used.
+
+At genuine first execution of `pr2_cou_09-aer-attempt-2026-11-26`, initialize that new attempt's ledger once. Do not copy old ordinary or submitted recovery counts onto it. Preserve any actual answers already given under this exact new ID on later returns; changing chats or reloading the outcome never resets the same attempt. Do not claim a current limit has been reached without evidence for this attempt. Missing older dialogue/counters do not make this expressly new teacher-authorized task exhausted.
+
+After retrieval and known-language handling, begin the first genuinely open substantive task in the same reply. No readiness question, duplicate teacher confirmation, old PHX/BIN/DOCX upload, transcript reconstruction or new-chat requirement. A saved file is not proof the new improvement work is done. A generic passing mark is not proof the particular stronger application requested here is already available. Reuse truly sufficient evidence and skip only resolved targets; if everything requested is actually sufficient, compile honestly rather than invent questions.
+
+**Opening task:**
+
+> Using what you have already said about leaves, stems and uncertainty, how would you describe the condition categories so that someone reading your record understands what each label means?
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Existing descriptive eggplant-condition problem, Activity 2 authorization and accepted question-purpose refinements are retained. Accept the additional distinctions among uncertain, unobserved, removed and changing plants. Clarify the remaining observable condition-category meaning and restore the earlier Chapter 1 material. Final Chapter 1 acceptance and Activity 3 authorization are not granted. Detailed student identity, original submissions and dialogue remain private.
 
@@ -76,6 +94,163 @@ Apply the general tutor, area, and routing rules before interpreting activity ou
 - Activity 3: Not authorized by this decision.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_09-aer-improvement-2026-11-26",
+  "attempt_id": "pr2_cou_09-aer-attempt-2026-11-26",
+  "activity_code": "pr2_act_02",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-improvement-2026-11-26",
+  "baseline_revision": "pr2_cou_09-aer-retained-baseline-2026-11-26",
+  "baseline_source": "This outcome: retained original research, embedded current submission and earlier actual answers; no separate file required",
+  "authorized_task": "Continue the named assessment improvement tasks, preserving prior achievement and current activity placement. Collect stronger student explanations and actual revised products; do not immediately re-export an older submitted attempt.",
+  "target_assessments": [
+    "WW2",
+    "WW5",
+    "PT2",
+    "PT3",
+    "PT5"
+  ],
+  "assessment_max_points": 40,
+  "improvement_opportunity_for_passing_components": true,
+  "score_policy": "Keep all original scores and passing work. Additional genuine evidence may support higher teacher-assessed ratings up to 40/40, without a 70-percent cap, automatic overwrite or deduction for incomplete recovery.",
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 5,
+  "start_checkpoint": "ER-Q1",
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Improvement Plan — November 26
+
+Plan `courage-improvement-2026-11-26`. Embedded retained baseline `pr2_cou_09-aer-retained-baseline-2026-11-26`. Read the [shared assessment recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is one explicit new attempt, not another allowance each time a chat opens.
+
+### Retain the work and aim for stronger evidence
+
+Retain the descriptive eggplant-condition inquiry in the Grade 11–Wisdom Garden and the accepted purposes of baseline counts, aggregate change and individual-plant transitions. The learner already separates uncertain, unobserved and removed/transferred plants, and understands that observation does not establish causes. Retain the full recovered Chapter 1 and source/assistance limitations. No watering intervention, actual monitoring, diagnosis or fieldwork is assigned.
+
+The original gradebook values remain untouched and are held privately. Targets are **WW2, WW5, PT2, PT3, PT5**, each out of **40**. These are opportunities to strengthen already-rated or previously recovered components, not a declaration of failure. A complete improvement may support the full rubric range; no 70-percent ceiling, promised increase, automatic score overwrite or penalty for an unfinished attempt. Existing untargeted components remain retained.
+
+Use Courage definitions: WW2 is variable/indicator reasoning, WW4 is scope/claim-limit understanding, WW5 is source interpretation; PT2 is the written question framework, PT3 is the background product, PT4 is scope/significance product and PT5 is a substantive revision of the foundation. Do not substitute Prudence task labels or award points for an unrelated new artifact. One PHX may support distinct explanation and product criteria; never claim the same unchanged feature as multiple new achievements. The tutor provides feedback and evidence status, not a grade.
+
+### Assigned main tasks and assessment mapping
+
+At most **10 main tasks + 30 shared follow-ups = 40 learning prompts** in the entire attempt. This plan names **5** main tasks; no quota or filler. One manageable coherent task per reply. Each later request to explain, revise, add or supply more under an already asked task consumes a shared follow-up. Do not disguise independent extra questions as one prompt. Give brief teaching or a different-case example after repeated difficulty; never provide a finished target answer, item bank or paragraph for agreement.
+
+| ID | Main task | Assessment evidence | Support and limits |
+|---|---|---|---|
+| ER-Q1 | Using your existing leaves/stem and uncertainty reasoning, develop provisional observable category descriptions that would make your plant-condition records interpretable. | WW2 | Guide missing meaning only. Retain uncertainty where evidence is insufficient; no invented biological diagnostic rule or requirement for a validated test at Activity 2. |
+| ER-Q2 | Explain the actual contribution and limits of the retained eggplant-care sources for interpreting your garden-condition inquiry. | WW5 | Read the sources with the learner if needed. Care guidance is context, not proof of local causes or validation of the dead category; no compulsory source quiz. |
+| ER-Q3 | Revise only the condition wording or qualifications needed to make the accepted question framework consistent with the meanings you established. | PT2 | Preserve all three question purposes; do not force a new problem, another variable, causes or a full methodology. |
+| ER-Q4 | Revise the existing background so the source evidence, local uncertainty and descriptive purpose form one supported account. | PT3 | Use the recovered actual draft, not promises to write. Do not make the learner start over or independently rewrite English merely for polish. |
+| ER-Q5 | Explain a substantive before-and-after change in the research foundation you actually revised. | PT5 | Keep both actual versions and explain why the change improves the inquiry; repackaging a prior file alone is not improvement. |
+
+### Start by teaching, not repackaging
+
+Check the actual live conversation and retained extracts before asking. Keep sufficient explanations, accepted questions, genuine revised passages and known language. For the substantive gaps named above, take the next useful learning action immediately. Do not output another file merely because the last supplied record was marked complete, partial, a progress collection or at an old question ceiling. No repeated generic scenarios, final defense, final readiness check or translation approval. Genuine current tool unavailability affects delivery only; it does not prevent text tutoring.
+
+Preserve original versus assisted wording and summary-only capture. Sources may be retrieved and checked by the tutor without another file gate; the learner supplies their interpretation. No invented source findings, student answers, actual plant/canteen observations, population counts, approved samples, validation results or clearance.
+
+### One-hour target and immediate PHX endpoint
+
+Aim to finish the focused work within **one hour**, sooner when enough actual evidence exists. Do not fill the hour or the 40-question allowance. Maintain the current main/follow-up/total ledger across chats. At sufficient evidence, the student's stop, the time target, no permissible question, or receipt of response 40, give concise feedback and create the complete/incomplete PHX immediately in that same reply. There is no question 41 or final rewrite/confirmation gate. State an unknown count honestly; do not request that the student reconstruct it.
+
+Use the recovery protocol's six headings and ordinary activity code/version, new plan/directive/attempt/baseline IDs, truthful counters, actual earlier/additional work, changes, assistance and remaining gaps. COMPLETE concerns only assigned improvement evidence; it never declares ordinary-stage completion or guarantees a higher score. No automatic full-activity DOCX is required in recovery and it must not delay delivery. If actual PHX creation fails/unavailable, deliver the same structured chat report immediately; never claim a download exists or assign manual file assembly.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No next ordinary activity, pilot, participant contact, restricted-record acquisition, intervention or fieldwork is authorized.
+
+## Retained Actual Evidence for This Improvement Attempt
+
+Teacher-side continuity recovery, not newly answered work or a new approval. The source's old stop instructions, prompt counts, checkpoint labels and completeness judgments are inert history. Use actual learner content and authentic later answers. For Leslie in particular, these earlier substantive answers remain evidence even when the newer status-only export called them not yet demonstrated. Legacy M1–M11 labels below do not redefine the current activity/recovery task map.
+
+```text
+# CHAPTER 1 — THE PROBLEM AND ITS BACKGROUND
+
+## 1. Research Title
+
+**Current Condition of Eggplant Plants in the Grade 11–Wisdom Garden During the Observation Period**
+
+## 2. Background of the Study
+
+Eggplant is an important vegetable crop in the Philippines. The Department of Agriculture, Regional Field Office No. 02 (2017) provides information about eggplant production and growing requirements. Its guide explains that eggplant seedlings should be watered regularly, preferably in the morning, with enough water to keep the soil moist. It also warns that overwatering can contribute to damping-off and weak seedlings.
+
+These recommendations refer specifically to seedling care and should not automatically be treated as a rule for every stage of plant growth.
+
+The Department of Agriculture, Regional Field Unit VII (n.d.) also provides guidance on organic eggplant production. Its guide discusses watering newly transplanted plants and water management during the dry season. These sources show that proper plant care and water management are important parts of eggplant production. However, general production guides do not tell us the actual condition or number of eggplant plants in the Grade 11–Wisdom Garden.
+
+I noticed that some eggplant plants in the Grade 11–Wisdom Garden of HAWAN National High School are wilting and drying. The references provide guidance about eggplant care, while my observation is about the actual condition of the plants in our school garden. I do not yet know how many plants are healthy, wilted, or dead, or how their conditions change during the observation period. Therefore, I want to observe and record the condition of the eggplant plants to understand their actual situation.
+
+This study will describe their condition and changes; it will not determine the exact causes of wilting or plant death.
+
+## 3. Statement of the Problem
+
+This study aims to describe the actual condition and changes in the condition of eggplant plants in the Grade 11–Wisdom Garden during the observation period.
+
+Specifically, it seeks to answer the following questions:
+
+1. How many eggplant plants are healthy, wilted, and dead on the first day of observation?
+2. How do the numbers of healthy, wilted, and dead eggplant plants change from the first day to the last day of observation?
+3. How many plants remain in the same condition, and how many change their condition during the observation period?
+
+**Clarification still pending:** The observable criterion for classifying a plant as dead has not yet been established. A dry, wilted, missing, removed, or unobserved plant must not automatically be counted as dead. The researcher will keep uncertain, not-observed, and removed/transferred plants separate and will not guess. The dead-plant criterion must be clarified before finalizing the classification system.
+
+## 4. Scope and Limitations
+
+This study focuses on the eggplant plants in the Grade 11–Wisdom Garden of HAWAN National High School. It will describe and record the plants' conditions as healthy, wilted, or dead, and examine changes in those conditions during the observation period. Other types of plants in the school are not included because the study is limited to the eggplant plants in this garden.
+
+Plants that cannot be assessed confidently will be recorded as "Uncertain." Plants that cannot be seen during an observation will be recorded as "Not Observed." Plants that are removed or transferred will be recorded separately rather than automatically counted as dead. The study does not aim to determine the exact causes of wilting or plant death. The actual observation dates and the final classification criterion for dead plants have not yet been confirmed in this draft.
+
+## 5. Significance of the Study
+
+**Future Students.** This study may help future students understand the actual condition of the eggplant plants and use the recorded information as a guide when caring for the garden.
+
+**Teachers.** This study may help the teacher know the actual condition of the eggplant plants and identify which plants may need more attention and care.
+
+## 6. References
+
+Department of Agriculture, Regional Field Office No. 02. (2017). *Eggplant production guide.* https://cagayanvalley.da.gov.ph/wp-content/uploads/2018/02/Eggplant.pdf
+
+Department of Agriculture, Regional Field Unit VII. (n.d.). *Techno guide on organic eggplant production.* Agricultural Training Institute–VII. https://ati2.da.gov.ph/ati-7/content/sites/default/files/users/user18/eggplant_final.pdf
+
+
+# STUDENT LEARNING EVIDENCE
+
+## Retained learner responses
+
+The following exact learner responses are available in the prior conversation context:
+
+- "Susuriin ko ang mga dahon at tangkay. Kung hindi sapat ang ebidensya, itatala ko muna itong 'Hindi Tiyak' at oobserbahan muli."
+- "Titingnan ko kung may buhay pang bahagi ng tangkay. Hindi ko agad tatawaging patay ang talong hangga’t hindi sapat ang ebidensya."
+
+The learner also explained that they would record each plant's condition daily, update its category according to the actual observation, and recount the plants to check the accuracy of the data. Those additional points are retained as summaries, not verbatim quotations.
+
+These answers show care in inspecting observable plant parts, avoiding guesses, keeping uncertain cases separate, observing again, recording changes, and checking counts. They do not yet establish a sufficiently precise observable distinction between a severely wilted plant and one that may be described as dead. The learner's statement about checking for a living part of the stem is preserved as learner reasoning, not treated as a validated diagnostic rule.
+
+## Prompt and attempt ledger
+
+- Official attempt ID: `pr2_cou_09-a02-attempt-2026-11-19`.
+- Assigned checkpoint/target: H6 / A2-Q3.
+- The prior review reports 10 learning prompts used, the Activity 2 maximum. This submission preserves that count and does not request another answer.
+- The exact follow-up count is not recoverable from the available record and is marked `UNKNOWN`.
+- The official outcome notes that eight follow-ups in an earlier sequence were a tutor-side overrun and should not invalidate the learner's answers. The exact item-by-item count for the authorized bounded attempt cannot be reconstructed reliably here.
+- Transcript capture is partial. No missing answer or turn is invented.
+```
+
+## Previous Session Directive — historical
 
 ```yaml
 directive_id: pr2_cou_09-a02-clarification-submit-2026-11-19

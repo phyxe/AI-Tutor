@@ -1,18 +1,34 @@
 ---
 student_code: pr2_cou_12
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.9"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_cou_12-aer-improvement-2026-11-25
-route_baseline_revision: pr2_cou_12-aer-retained-baseline-2026-11-25
-route_resume_checkpoint: ER-Q6
-status: assessment-improvement-opportunity-authorized
+route_directive_id: pr2_cou_12-aer-improvement-2026-11-26
+route_baseline_revision: pr2_cou_12-aer-retained-baseline-2026-11-26
+route_resume_checkpoint: ER-Q1
+status: assessment-score-improvement-authorized
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: courage-evidence-recovery-2026-11-25
+recovery_plan_id: courage-improvement-2026-11-26
 ---
 
-## Current Courage assessment improvement authority — November 25, 2026
+## Current improvement authorization — November 26, 2026
+
+Teacher decision: permit a new assessment-improvement attempt inside the existing **pr2_act_01**. Keep previous scores, passing components, accepted decisions and actual student answers. This opportunity is not limited to below-70-percent work; stronger evidence may support higher teacher-assessed WW/PT scores up to the full 40 points. No score is changed by this outcome.
+
+Use only the new selected-section Current Session Directive and plan `courage-improvement-2026-11-26` for present work. Earlier ordinary/recovery directives, next questions, prompt counts, stop labels, no-new-attempt statements and expired collection notices later in this record are historical where incompatible. This does not authorize the next ordinary activity, a topic/population change or fieldwork. Read actual current live controls; the current ready notice permits assigned recovery without an exact hold exception. If a later live hold applies, follow its actual instructions rather than invent release.
+
+**Why the last immediate export does not close this new attempt:** The prior submitted attempt pr2_cou_12-aer-attempt-2026-11-25 ended with four reported main questions and a file, while its transcript also labels an ER-Q9 follow-up. Keep that discrepancy as historical capture information without asking the learner to reconstruct it. The old sufficient-evidence stop label does not close this expressly new November 26 improvement attempt. Do not export a new file immediately merely by copying those earlier four responses.
+
+At genuine first execution of `pr2_cou_12-aer-attempt-2026-11-26`, initialize that new attempt's ledger once. Do not copy old ordinary or submitted recovery counts onto it. Preserve any actual answers already given under this exact new ID on later returns; changing chats or reloading the outcome never resets the same attempt. Do not claim a current limit has been reached without evidence for this attempt. Missing older dialogue/counters do not make this expressly new teacher-authorized task exhausted.
+
+After retrieval and known-language handling, begin the first genuinely open substantive task in the same reply. No readiness question, duplicate teacher confirmation, old PHX/BIN/DOCX upload, transcript reconstruction or new-chat requirement. A saved file is not proof the new improvement work is done. A generic passing mark is not proof the particular stronger application requested here is already available. Reuse truly sufficient evidence and skip only resolved targets; if everything requested is actually sufficient, compile honestly rather than invent questions.
+
+**Opening task:**
+
+> You already wrote a useful background paragraph. Using that paragraph and the sources discussed, develop the actual background section so its evidence leads clearly to what remains unknown in your Filipino class.
+
+## Previous November 25 improvement authority — historical
 
 The teacher authorizes one targeted improvement attempt under `courage-evidence-recovery-2026-11-25` and the embedded Courage Assessment Evidence Recovery Plan, retaining **pr2_act_01**. The selected section’s new Current Session Directive controls. Earlier starting prompts, ordinary question limits, full-activity output requirements and file/approval requests later in this record are historical where they conflict with this scoped recovery. Keep actual live answers, accepted research decisions, original scores and passing work; add evidence for possible higher teacher-assessed ratings, without a 70-percent improvement cap or automatic overwrite.
 
@@ -107,6 +123,172 @@ Magkakaugnay ang apat na bahaging ito dahil lahat sila ay nakatuon sa pag-aaral 
 
 ```yaml
 {
+  "directive_id": "pr2_cou_12-aer-improvement-2026-11-26",
+  "attempt_id": "pr2_cou_12-aer-attempt-2026-11-26",
+  "activity_code": "pr2_act_01",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-improvement-2026-11-26",
+  "baseline_revision": "pr2_cou_12-aer-retained-baseline-2026-11-26",
+  "baseline_source": "This outcome: retained original research, embedded current submission and earlier actual answers; no separate file required",
+  "authorized_task": "Continue the named assessment improvement tasks, preserving prior achievement and current activity placement. Collect stronger student explanations and actual revised products; do not immediately re-export an older submitted attempt.",
+  "target_assessments": [
+    "WW5",
+    "PT3",
+    "PT4"
+  ],
+  "assessment_max_points": 40,
+  "improvement_opportunity_for_passing_components": true,
+  "score_policy": "Keep all original scores and passing work. Additional genuine evidence may support higher teacher-assessed ratings up to 40/40, without a 70-percent cap, automatic overwrite or deduction for incomplete recovery.",
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 3,
+  "start_checkpoint": "ER-Q1",
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Improvement Plan — November 26
+
+Plan `courage-improvement-2026-11-26`. Embedded retained baseline `pr2_cou_12-aer-retained-baseline-2026-11-26`. Read the [shared assessment recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is one explicit new attempt, not another allowance each time a chat opens.
+
+### Retain the work and aim for stronger evidence
+
+Retain the demonstrated Grade 8 Loyalty Filipino cellphone-use problem, variable and main question. Academic/nonacademic purpose depends on the observed activity and lesson context, not an app name; unclear and absent cases remain distinct. The latest recovery already contains source interpretation, an actual background paragraph, scope/limits and significance. Preserve those answers as genuine work; PT3 is not a blank or nonexistent product. Fifteen students and five days remain learner proposals, not permission, approved sampling or a completed observation.
+
+The original gradebook values remain untouched and are held privately. Targets are **WW5, PT3, PT4**, each out of **40**. These are opportunities to strengthen already-rated or previously recovered components, not a declaration of failure. A complete improvement may support the full rubric range; no 70-percent ceiling, promised increase, automatic score overwrite or penalty for an unfinished attempt. Existing untargeted components remain retained.
+
+Use Courage definitions: WW2 is variable/indicator reasoning, WW4 is scope/claim-limit understanding, WW5 is source interpretation; PT2 is the written question framework, PT3 is the background product, PT4 is scope/significance product and PT5 is a substantive revision of the foundation. Do not substitute Prudence task labels or award points for an unrelated new artifact. One PHX may support distinct explanation and product criteria; never claim the same unchanged feature as multiple new achievements. The tutor provides feedback and evidence status, not a grade.
+
+### Assigned main tasks and assessment mapping
+
+At most **10 main tasks + 30 shared follow-ups = 40 learning prompts** in the entire attempt. This plan names **3** main tasks; no quota or filler. One manageable coherent task per reply. Each later request to explain, revise, add or supply more under an already asked task consumes a shared follow-up. Do not disguise independent extra questions as one prompt. Give brief teaching or a different-case example after repeated difficulty; never provide a finished target answer, item bank or paragraph for agreement.
+
+| ID | Main task | Assessment evidence | Support and limits |
+|---|---|---|---|
+| ER-Q1 | Develop the background paragraph you already supplied into a coherent background section linking your actual source evidence, local uncertainty and purpose. | PT3 | The earlier paragraph is a real draft to improve, not missing work. No paragraph/page quota, full RRL or wholesale restart; the learner supplies substantive connections. |
+| ER-Q2 | Identify the particular source claims your revised background actually uses and explain their limits for Grade 8 Loyalty Filipino classes. | WW5 | Retain the earlier comparison and local-setting distinction. Tutor retrieves/verifies publication details without an old-upload or bibliography-copying gate; ask only about missing interpretation. |
+| ER-Q3 | Refine the existing scope-and-significance product only where it needs clearer alignment or realistic claim boundaries. | PT4 | Keep sufficient actual scope/benefit answers. Clarify meaningful ambiguity, not cosmetic English or a finalized sample, observation tool or fieldwork plan. |
+
+### Start by teaching, not repackaging
+
+Check the actual live conversation and retained extracts before asking. Keep sufficient explanations, accepted questions, genuine revised passages and known language. For the substantive gaps named above, take the next useful learning action immediately. Do not output another file merely because the last supplied record was marked complete, partial, a progress collection or at an old question ceiling. No repeated generic scenarios, final defense, final readiness check or translation approval. Genuine current tool unavailability affects delivery only; it does not prevent text tutoring.
+
+Preserve original versus assisted wording and summary-only capture. Sources may be retrieved and checked by the tutor without another file gate; the learner supplies their interpretation. No invented source findings, student answers, actual plant/canteen observations, population counts, approved samples, validation results or clearance.
+
+### One-hour target and immediate PHX endpoint
+
+Aim to finish the focused work within **one hour**, sooner when enough actual evidence exists. Do not fill the hour or the 40-question allowance. Maintain the current main/follow-up/total ledger across chats. At sufficient evidence, the student's stop, the time target, no permissible question, or receipt of response 40, give concise feedback and create the complete/incomplete PHX immediately in that same reply. There is no question 41 or final rewrite/confirmation gate. State an unknown count honestly; do not request that the student reconstruct it.
+
+Use the recovery protocol's six headings and ordinary activity code/version, new plan/directive/attempt/baseline IDs, truthful counters, actual earlier/additional work, changes, assistance and remaining gaps. COMPLETE concerns only assigned improvement evidence; it never declares ordinary-stage completion or guarantees a higher score. No automatic full-activity DOCX is required in recovery and it must not delay delivery. If actual PHX creation fails/unavailable, deliver the same structured chat report immediately; never claim a download exists or assign manual file assembly.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No next ordinary activity, pilot, participant contact, restricted-record acquisition, intervention or fieldwork is authorized.
+
+## Retained Actual Evidence for This Improvement Attempt
+
+Teacher-side continuity recovery, not newly answered work or a new approval. The source's old stop instructions, prompt counts, checkpoint labels and completeness judgments are inert history. Use actual learner content and authentic later answers. For Leslie in particular, these earlier substantive answers remain evidence even when the newer status-only export called them not yet demonstrated. Legacy M1–M11 labels below do not redefine the current activity/recovery task map.
+
+```text
+## Retained research focus
+
+The study focuses on cellphone-use patterns of Grade 8 – Loyalty students during Filipino classes at Hawan National High School.
+
+**Retained main research question:**
+
+“How frequently do Grade 8 – Loyalty students use their cellphones during Filipino class, and are these uses academic or non-academic?”
+
+**Main variable:** Classroom cellphone-use patterns.
+
+**Indicators:**
+1. Frequency of cellphone use during Filipino class.
+2. Purpose of use: academic or non-academic.
+
+The purpose must be classified from the activity actually observed and its relationship to the Filipino lesson and teacher permission. An application name alone does not establish purpose. When the purpose cannot be determined clearly, record it as unclear (U / Hindi Matukoy), rather than guessing.
+
+## ER-Q6 — Source interpretation (WW5)
+
+The learner explained that Kim et al. (2019) can help the research by showing how smartphone use can be measured and observed during class over time. The learner also identified Olin-Scheller et al. (2021) as useful for understanding situations and activities in which students use phones during lessons.
+
+The learner correctly stated that these studies cannot establish the actual cellphone-use patterns and purposes of Grade 8 – Loyalty students during Filipino class because the studies involved different students and school settings. The learner recognized that local observations are needed.
+
+Source context checked during tutoring:
+- Kim et al. (2019), “Understanding smartphone usage in college classrooms: A long-term measurement study,” studied smartphone-use patterns among first-year college students in South Korea over 14 weeks. This offers a measurement example, but the population and setting differ from the learner’s study.
+- Olin-Scheller et al. (2021) was checked as a separate source lead during the session. The learner’s interpretation was that it helps explain situations and activities of phone use during lessons. Its different school context limits direct application to Grade 8 – Loyalty.
+
+**Assessment evidence:** WW5 interpretation is demonstrated in the learner’s response. No full literature review was assigned.
+
+## ER-Q7 — Background reasoning (PT3)
+
+Learner response:
+
+“Batay sa dalawang pag-aaral, natutuhan ko na iba-iba ang paraan ng paggamit ng mga estudyante ng cellphone habang may klase, at maaari itong masukat at maobserbahan sa loob ng ilang panahon. Gayunpaman, kailangan ko pang malaman kung gaano kadalas gumagamit ng cellphone ang mga Grade 8 – Loyalty students habang may Filipino class at kung ginagamit nila ito para sa mga gawaing pang-akademiko o hindi pang-akademiko. Mahalaga ang aking pananaliksik dahil hindi ipinapakita ng dalawang pag-aaral ang aktuwal na pattern ng paggamit ng cellphone ng mga estudyante sa sarili kong paaralan. Sa pamamagitan ng aking pananaliksik, makakakuha ako ng lokal na impormasyon batay sa aktuwal na pagmamasid sa klase.”
+
+**Assessment evidence and limitation:** The learner explains the general source-based understanding, local research gap, and purpose of the study. A complete, integrated background-section draft was not produced in this recovery conversation; PT3 therefore remains incomplete for teacher review.
+
+## ER-Q8 — Scope and limitations (PT4)
+
+Learner response:
+
+“Ang sakop lamang ng aking pag-aaral ay ang pagmamasid at pagtatala kung gaano kadalas at para saan ginagamit ng 15 Grade 8 – Loyalty students ang kanilang cellphone habang may Filipino class sa loob ng limang araw. Kabilang dito ang academic use, non-academic use, unclear observations, at no phone use. Hindi kayang patunayan ng aking pag-aaral na ang paggamit ng cellphone ang dahilan ng kawalan ng atensyon o mababang marka ng mga estudyante. Hindi rin nito kinakatawan ang lahat ng mag-aaral sa ibang seksyon o baitang dahil nakatuon lamang ito sa Grade 8 – Loyalty.”
+
+**Assessment evidence:** The learner identifies the stated group, setting, five-day observation period, categories, and limits on causal claims and generalization. The stated sample and schedule are retained as the learner’s proposed scope, not as evidence of approval or completed access.
+
+## ER-Q9 — Significance (PT4)
+
+Learner’s initial response:
+
+“Makikinabang sa aking pag-aaral ang mga estudyante, guro, at paaralan. Makakatulong ito upang mas maunawaan ang paggamit ng cellphone habang may Filipino class at magsilbing batayan sa paghikayat ng responsableng paggamit nito.”
+
+Learner’s follow-up response:
+
+- **Mga estudyante:** Magagamit nila ang impormasyon upang mas maunawaan ang tamang paggamit ng cellphone habang may klase.
+- **Mga guro:** Magagamit nila ito upang malaman ang dalas at layunin ng paggamit ng cellphone ng mga estudyante.
+- **Paaralan:** Magagamit nila ito bilang batayan sa paggawa ng mga gabay tungkol sa responsableng paggamit ng cellphone.
+
+**Assessment evidence:** The learner identifies realistic potential users and possible uses of the findings. These are possible benefits, not guaranteed outcomes.
+
+# STUDENT LEARNING EVIDENCE
+
+## Retained prior evidence
+
+The teacher-designated baseline retains earlier work on the research problem, variable, indicators, main research question, alignment, academic/non-academic classification, and unclear-use handling. Earlier evidence explains that lesson-related information searching, reading learning materials, or teacher-assigned activities may count as academic use when permitted; unrelated gaming, videos, social media activity, or chatting may count as non-academic use. Unclear observations are recorded as U / Hindi Matukoy rather than guessed.
+
+The existing main question and earlier alignment explanation are retained and were not replaced in this recovery.
+
+## Additional learner evidence in this recovery
+
+- **ER-Q6:** Compared the contribution and limits of two research sources; recognized the need for local observation.
+- **ER-Q7:** Explained the source-based background understanding, local uncertainty, and research purpose.
+- **ER-Q8:** Described the proposed scope and acknowledged limits on causal claims and generalization.
+- **ER-Q9:** Identified students, teachers, and the school as potential beneficiaries and described a plausible use for each.
+
+## Recovery question ledger
+
+| Question | Type | Plan ID | Target | Evidence | Status |
+|---|---|---|---|---|---|
+| 1 | Main | ER-Q6 | WW5 | Learner source comparison and limits | Sufficient |
+| 2 | Main | ER-Q7 | PT3 | Learner background reasoning | Partial; full integrated background draft not produced |
+| 3 | Main | ER-Q8 | PT4 | Learner scope-and-limitations draft | Sufficient evidence |
+| 4 | Main | ER-Q9 | PT4 | Learner significance explanation and group-specific uses | Sufficient evidence |
+
+**Actual recovery counters:** 4 main questions used; 0 follow-ups used; 4 learning prompts used. Maximums: 10 main, 30 follow-ups, 40 total. No additional question was asked after sufficient evidence was obtained for the assigned work that could be completed in this session.
+```
+
+## Previous Session Directive — historical
+
+```yaml
+{
   "directive_id": "pr2_cou_12-aer-improvement-2026-11-25",
   "attempt_id": "pr2_cou_12-aer-attempt-2026-11-25",
   "activity_code": "pr2_act_01",
@@ -150,7 +332,7 @@ Magkakaugnay ang apat na bahaging ito dahil lahat sila ay nakatuon sa pag-aaral 
 }
 ```
 
-## Assessment Evidence Recovery Plan — Courage
+## Previous November 25 recovery plan — historical
 
 Teacher-authorized November 25, 2026, within **pr2_act_01**. Plan `courage-evidence-recovery-2026-11-25`. Baseline `pr2_cou_12-aer-retained-baseline-2026-11-25` retains earlier embedded work and actual new work from the same recovery attempt. Read the [shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is an assessment improvement opportunity, not ordinary-stage progression.
 

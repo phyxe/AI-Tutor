@@ -1,14 +1,32 @@
 ---
 student_code: pr2_cou_14
 learning_area: Practical Research 2
-record_version: "1.9"
+record_version: "1.10"
 route_activity: pr2_act_03
-route_action: INITIAL
-route_directive_id: pr2_cou_14-a03-initial-2026-11-19
-route_baseline_revision: pr2_cou_14-a02-accepted-question-baseline-2026-11-19
-route_resume_checkpoint: M1
-status: chapter-1-accepted-activity-3-authorized
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_cou_14-aer-improvement-2026-11-26
+route_baseline_revision: pr2_cou_14-aer-retained-baseline-2026-11-26
+route_resume_checkpoint: ER-Q1
+status: assessment-score-improvement-authorized
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: courage-improvement-2026-11-26
 ---
+
+## Current improvement authorization — November 26, 2026
+
+Teacher decision: permit a new assessment-improvement attempt inside the existing **pr2_act_03**. Keep previous scores, passing components, accepted decisions and actual student answers. This opportunity is not limited to below-70-percent work; stronger evidence may support higher teacher-assessed WW/PT scores up to the full 40 points. No score is changed by this outcome.
+
+Use only the new selected-section Current Session Directive and plan `courage-improvement-2026-11-26` for present work. Earlier ordinary/recovery directives, next questions, prompt counts, stop labels, no-new-attempt statements and expired collection notices later in this record are historical where incompatible. This does not authorize the next ordinary activity, a topic/population change or fieldwork. Read actual current live controls; the current ready notice permits assigned recovery without an exact hold exception. If a later live hold applies, follow its actual instructions rather than invent release.
+
+**Why the last immediate export does not close this new attempt:** The latest file invoked progress-collection-2026-11-22 and compiled immediately. That notice has ended: the current live status is ready. Do not revive it or treat its collection-only stop as the current assignment. The earlier pr2_cou_14-a03-attempt-2026-11-19 ledger is historical. This new November 26 attempt has its own counters and substantive tasks; missing old counts are not grounds to stop it at first entry.
+
+At genuine first execution of `pr2_cou_14-aer-attempt-2026-11-26`, initialize that new attempt's ledger once. Do not copy old ordinary or submitted recovery counts onto it. Preserve any actual answers already given under this exact new ID on later returns; changing chats or reloading the outcome never resets the same attempt. Do not claim a current limit has been reached without evidence for this attempt. Missing older dialogue/counters do not make this expressly new teacher-authorized task exhausted.
+
+After retrieval and known-language handling, begin the first genuinely open substantive task in the same reply. No readiness question, duplicate teacher confirmation, old PHX/BIN/DOCX upload, transcript reconstruction or new-chat requirement. A saved file is not proof the new improvement work is done. A generic passing mark is not proof the particular stronger application requested here is already available. Reuse truly sufficient evidence and skip only resolved targets; if everything requested is actually sufficient, compile honestly rather than invent questions.
+
+**Opening task:**
+
+> Your earlier design explanation is retained. Start with the tool content that is still missing: draft one knowledge question of your own for your first research question and explain what an answer to it would show.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Chapter 1 acceptance is retained and Activity 3 is explicitly authorized. Develop the proposed Chapter 3 and data-gathering tool from the accepted three-part descriptive Chapter 1 below. This authorizes tutoring/planning only, not recruitment, participant contact, restricted-record access, validation/pilot implementation or fieldwork. Detailed student identity and original dialogue remain private.
 
@@ -150,6 +168,145 @@ The student also explained that Matsumoto et al. (2018) and Diola (2025) provide
 - Final Chapter 3/tool acceptance: Pending submission and teacher review.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_cou_14-aer-improvement-2026-11-26",
+  "attempt_id": "pr2_cou_14-aer-attempt-2026-11-26",
+  "activity_code": "pr2_act_03",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "courage-improvement-2026-11-26",
+  "baseline_revision": "pr2_cou_14-aer-retained-baseline-2026-11-26",
+  "baseline_source": "This outcome: retained original research, embedded current submission and earlier actual answers; no separate file required",
+  "authorized_task": "Continue the named assessment improvement tasks, preserving prior achievement and current activity placement. Collect stronger student explanations and actual revised products; do not immediately re-export an older submitted attempt.",
+  "target_assessments": [
+    "WW2",
+    "WW4",
+    "WW5",
+    "PT3",
+    "PT4",
+    "PT5"
+  ],
+  "assessment_max_points": 40,
+  "improvement_opportunity_for_passing_components": true,
+  "score_policy": "Keep all original scores and passing work. Additional genuine evidence may support higher teacher-assessed ratings up to 40/40, without a 70-percent cap, automatic overwrite or deduction for incomplete recovery.",
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 8,
+  "start_checkpoint": "ER-Q1",
+  "start_question_id": "ER-Q1",
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "session_time_target_minutes": 60,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "stop_for_teacher_decision": true,
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Improvement Plan — November 26
+
+Plan `courage-improvement-2026-11-26`. Embedded retained baseline `pr2_cou_14-aer-retained-baseline-2026-11-26`. Read the [shared assessment recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is one explicit new attempt, not another allowance each time a chat opens.
+
+### Retain the work and aim for stronger evidence
+
+Retain the accepted school-canteen Chapter 1, its exact three descriptive questions and Grades 7–11 regular-canteen-user boundary, with Grade 12 excluded. Knowledge answers, reported disposal practices and observed bin conditions are different evidence types; the learner already explained the descriptive design and these limits. The older actual methodology answers are retained below; newer not-yet-demonstrated labels do not erase them. Twenty purposively selected students remains an unapproved historical proposal, not the eligible population size.
+
+The original gradebook values remain untouched and are held privately. Targets are **WW2, WW4, WW5, PT3, PT4, PT5**, each out of **40**. These are opportunities to strengthen already-rated or previously recovered components, not a declaration of failure. A complete improvement may support the full rubric range; no 70-percent ceiling, promised increase, automatic score overwrite or penalty for an unfinished attempt. Existing untargeted components remain retained.
+
+Use Courage definitions: WW2 is variable/indicator reasoning, WW4 is scope/claim-limit understanding, WW5 is source interpretation; PT2 is the written question framework, PT3 is the background product, PT4 is scope/significance product and PT5 is a substantive revision of the foundation. Do not substitute Prudence task labels or award points for an unrelated new artifact. One PHX may support distinct explanation and product criteria; never claim the same unchanged feature as multiple new achievements. The tutor provides feedback and evidence status, not a grade.
+
+### Assigned main tasks and assessment mapping
+
+At most **10 main tasks + 30 shared follow-ups = 40 learning prompts** in the entire attempt. This plan names **8** main tasks; no quota or filler. One manageable coherent task per reply. Each later request to explain, revise, add or supply more under an already asked task consumes a shared follow-up. Do not disguise independent extra questions as one prompt. Give brief teaching or a different-case example after repeated difficulty; never provide a finished target answer, item bank or paragraph for agreement.
+
+| ID | Main task | Assessment evidence | Support and limits |
+|---|---|---|---|
+| ER-Q1 | Draft one substantive knowledge item of your own for the accepted first question and explain what its response would actually show. | WW2 | An actual student-originated item is missing. Do not repeat the general three-evidence-types explanation or supply the target item for approval. |
+| ER-Q2 | Explain the eligibility rule and credible aggregate-count basis for regular Grades 7–11 canteen users, including how an unknown count would limit the coverage plan. | WW4 | No names or restricted roster acquisition. Preserve the grade boundary. Under 100 actual eligible members use whole-population invitation; unknown count stays unknown, never an invented twenty or a sampling lesson. |
+| ER-Q3 | Develop the remaining draft tool content needed to show how your accepted questions would be represented by responses and bin records. | WW2 | The learner originates substantive items, response meanings and checklist fields. No arbitrary item quota. This working method content supports indicator application; tool production alone does not earn a separate unassigned PT grade. |
+| ER-Q4 | Explain the limits on claims from the current draft tool and the quality-check steps still needed before anyone could use it for collection. | WW4 | Teach validation versus reliability and a sensible review/check/pilot sequence. Pending external checks are not failed tests and are not required completed actions; no pilot is authorized. |
+| ER-Q5 | Explain the specific findings from your retained background sources that justify this local inquiry, including what they cannot establish. | WW5 | Reuse the already demonstrated other-school/local distinction. Seek a stronger precise connection only where missing; no separate source quiz or required new literature count. |
+| ER-Q6 | Revise only the background passages that need stronger source-to-question connections or clearer evidence limits. | PT3 | Retain accepted Chapter 1 and actual student ideas. No new causal/correlational study or unnecessary full-chapter rewrite. |
+| ER-Q7 | Refine the scope-and-significance product where your clarified eligibility and evidence boundaries require a meaningful change. | PT4 | Keep the accepted setting, grade boundary and realistic users. Do not require actual population access, consent or data before submitting planning evidence. |
+| ER-Q8 | Explain a substantive before-and-after improvement to your research foundation and preserve the corresponding revised passages. | PT5 | Credit actual source/scope/measurement-boundary improvements to the foundation, not length of Chapter 3, stage advancement or a repackaged file. |
+
+### Start by teaching, not repackaging
+
+Check the actual live conversation and retained extracts before asking. Keep sufficient explanations, accepted questions, genuine revised passages and known language. For the substantive gaps named above, take the next useful learning action immediately. Do not output another file merely because the last supplied record was marked complete, partial, a progress collection or at an old question ceiling. No repeated generic scenarios, final defense, final readiness check or translation approval. Genuine current tool unavailability affects delivery only; it does not prevent text tutoring.
+
+Preserve original versus assisted wording and summary-only capture. Sources may be retrieved and checked by the tutor without another file gate; the learner supplies their interpretation. No invented source findings, student answers, actual plant/canteen observations, population counts, approved samples, validation results or clearance.
+
+### One-hour target and immediate PHX endpoint
+
+Aim to finish the focused work within **one hour**, sooner when enough actual evidence exists. Do not fill the hour or the 40-question allowance. Maintain the current main/follow-up/total ledger across chats. At sufficient evidence, the student's stop, the time target, no permissible question, or receipt of response 40, give concise feedback and create the complete/incomplete PHX immediately in that same reply. There is no question 41 or final rewrite/confirmation gate. State an unknown count honestly; do not request that the student reconstruct it.
+
+Use the recovery protocol's six headings and ordinary activity code/version, new plan/directive/attempt/baseline IDs, truthful counters, actual earlier/additional work, changes, assistance and remaining gaps. COMPLETE concerns only assigned improvement evidence; it never declares ordinary-stage completion or guarantees a higher score. No automatic full-activity DOCX is required in recovery and it must not delay delivery. If actual PHX creation fails/unavailable, deliver the same structured chat report immediately; never claim a download exists or assign manual file assembly.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Then stop. No next ordinary activity, pilot, participant contact, restricted-record acquisition, intervention or fieldwork is authorized.
+
+## Retained Actual Evidence for This Improvement Attempt
+
+Teacher-side continuity recovery, not newly answered work or a new approval. The source's old stop instructions, prompt counts, checkpoint labels and completeness judgments are inert history. Use actual learner content and authentic later answers. For Leslie in particular, these earlier substantive answers remain evidence even when the newer status-only export called them not yet demonstrated. Legacy M1–M11 labels below do not redefine the current activity/recovery task map.
+
+```text
+### F. Evidence and learning ledger
+
+The user supplied the following eleven responses in this conversation. They are retained as student evidence, not treated as proof that missing instrument items or external checks have been completed.
+
+**M1 — Evidence**
+> I will collect information gamit ang questionnaire at observation checklist. Para sa students' knowledge, gagamit ako ng 10-item questionnaire upang malaman kung ano ang alam nila tungkol sa proper waste segregation. Para naman sa self-reported waste disposal practices, gagamit ako ng frequency scale para malaman kung gaano kadalas nilang sinasabi na sinusunod nila ang tamang pagtatapon ng basura. Para sa trash-bin conditions, gagamit ako ng observation checklist upang suriin kung may separate bins, clear labels, at proper waste separation sa loob ng school canteen.pero hindi mapapatunayan ng questionnaire na palaging tama ang actual practices ng students. Hindi rin matutukoy ng observation checklist kung sino ang nagtapon ng basura o kung bakit naghalo-halo ang iba't ibang uri ng waste.
+
+**M2 — Design**
+> Ang descriptive quantitative research design ay angkop sa study ko dahil ang goal ko ay ilarawan ang current status ng waste segregation sa school canteen. Gusto kong malaman ang level of students' knowledge, kung gaano kadalas nilang sinasabing sinusunod ang proper waste disposal practices, at ang actual condition ng trash bins. Gagamit ako ng questionnaires at observation checklist para makakuha at makapag-analyze ng numerical data. Hindi ko layuning alamin ang causes o relationship ng tatlong aspeto, kundi ilarawan lamang ang results based sa data na makokolekta.
+
+**M3 — Locale**
+> Pinili ko ang school canteen ng Hawan National High School bilang research locale dahil dito bumibili at kumakain ng pagkain ang mga students. Dito rin makikita kung paano ginagamit at inaayos ang mga trash bins para sa iba't ibang uri ng waste. Napansin ko rin na may mga basurang naghahalo sa iisang bin, kaya angkop ang lugar na ito para pag-aralan ang current condition ng waste segregation. Sa pamamagitan ng questionnaires at observation checklist, makakakuha ako ng impormasyon tungkol sa students' knowledge, self-reported practices, at condition ng trash bins sa loob ng canteen.
+
+**M4 — Respondents**
+> Ang proposed respondents ng study ko ay 20 selected students mula sa Grades 7 to 11 na regular na bumibili ng pagkain sa school canteen. Sila ang napili ko dahil may experience sila sa paggamit ng canteen at sa pagtatapon ng kanilang basura. Makakatulong ang kanilang answers para malaman ang kanilang knowledge tungkol sa proper waste segregation at kung gaano kadalas nilang sinasabing sinusunod ang tamang waste disposal practices. Ang 20 respondents ay proposed number lamang at kailangan pa rin ng approval ng teacher bago magsimula ang data collection.
+
+**M5 — Sampling**
+> Ang plano kong gamitin na sampling technique ay purposive sampling. Pipili ako ng 20 students mula sa Grades 7 to 11 na regular na bumibili ng pagkain sa school canteen dahil sila ang may experience na kailangan para sa study ko. Isasama lamang ang mga students na willing sumali at makapagbibigay ng kanilang sariling answers. Ang sampling technique at bilang ng respondents ay proposed pa lamang at kailangan munang ma-approve ng teacher.
+
+**M6 — Instruments**
+> Gagamit ako ng questionnaire at observation checklist dahil magkaiba ang information na makukuha sa bawat instrument. Ang questionnaire ay gagamitin para malaman ang students' knowledge tungkol sa proper waste segregation at kung gaano kadalas nilang sinasabing sinusunod ang tamang waste disposal practices. Samantala, ang observation checklist ay gagamitin para suriin ang visible condition ng trash bins, tulad ng availability ng separate bins, clear labels, at proper waste separation. Kailangan ko ang dalawang instruments dahil ang questionnaire ay tungkol sa answers ng students, habang ang observation checklist ay tungkol sa actual condition ng mga trash bins sa school canteen.
+
+**M7 — Questionnaire**
+> Ang questionnaire ko ay magkakaroon ng dalawang parts. Ang first part ay 10 knowledge questions tungkol sa pagkilala sa biodegradable at non-biodegradable waste, pagpili ng tamang trash bin, importance ng waste segregation, at proper use of trash bins. Gagamitin ang mga questions na ito para malaman ang level of students' knowledge tungkol sa proper waste segregation.Ang second part naman ay tungkol sa self-reported waste disposal practices. Gagamit ako ng frequency scale na Always, Often, Sometimes, Rarely, at Never para malaman kung gaano kadalas nilang sinasabing gumagamit sila ng tamang trash bins at sumusunod sa waste segregation labels or instructions. Makakatulong ang dalawang parts na ito para masagot ang first at second research questions ng study ko.
+
+**M8 — Observation**
+> Sa observation checklist, susuriin ko ang condition ng mga trash bins sa loob ng school canteen. Titingnan ko kung may separate bins para sa iba't ibang uri ng waste, kung may clear labels ang mga ito, at kung maayos ang pagkakahiwalay ng mga basura.Gagamit ako ng Yes/No responses para madaling mabilang at ma-analyze ang results. Itatala ko ang bawat observation sa checklist at gagawin ito sa loob ng proposed period na three days, subject to teacher approval. Ang oobserbahan ko lamang ay ang visible condition ng trash bins, hindi ang individual actions ng mga students.
+
+**M9 — Analysis**
+> I-oorganize ko ang data gamit ang tables. Para sa students' knowledge, bibilangin ko ang correct at incorrect answers at kukunin ang frequency at percentage. Para sa self-reported practices, susuriin ko ang results gamit ang frequency scale na Always, Often, Sometimes, Rarely, at Never, Para naman sa trash-bin conditions, bibilangin ko ang Yes at No responses batay sa bilang ng bins o observations, hindi sa student respondents. Hihiwalayin ko ang results ng tatlong aspeto upang malinaw na mailarawan ang current status ng waste segregation sa school canteen.
+
+**M10 — Ethics**
+> Bago ako magsagawa ng research, hihingi muna ako ng permission sa teacher at school upang masigurong approved ang data collection. Sisiguraduhin ko rin na voluntary ang participation ng mga students at hindi pipilitin ang sinuman na sumali. Igagalang ko ang desisyon ng mga ayaw makilahok sa study.
+> Para maprotektahan ang privacy ng respondents, hindi ako mangongolekta ng kanilang names at pananatilihing confidential ang lahat ng kanilang answers. Gagamitin lamang ang collected information para sa research at hindi ito ibabahagi sa ibang tao. Kukuha rin ako ng appropriate consent o assent, lalo na sa mga minor participants, ayon sa school requirements. Sisiguraduhin kong magiging respectful at responsible ako sa buong research process.
+
+**M11 — Limitations**
+> May ilang limitations ang study ko na maaaring makaapekto sa accuracy at completeness ng results. Una, ang proposed sample size ko ay 20 students lamang mula sa Grades 7 to 11, kaya maaaring hindi nito ma-represent ang opinions at experiences ng lahat ng students sa school. Pangalawa, ang self-reported practices ay nakadepende sa answers ng respondents, kaya posibleng hindi palaging tugma ang kanilang responses sa actual na ginagawa nila.
+> Limitado rin ang observation ko sa visible condition ng trash bins sa loob lamang ng school canteen. Hindi ko direktang oobserbahan ang individual actions ng students o malalaman kung bakit naghahalo ang iba't ibang uri ng waste. Bukod dito, ang proposed observation period ay three days lamang, kaya maaaring hindi nito maipakita ang waste segregation conditions sa ibang araw. Dahil dito, ang findings ng study ay limitado lamang sa selected respondents, observation period, at location na sakop ng research.
+
+### G. Understanding status and unresolved matters
+
+- A3-Q1 (question-to-evidence mapping): PARTLY DEMONSTRATED. Three evidence sources and important claim limits were described. Exact item-level measurement and credible measurement basis remain incomplete.
+- A3-Q2 (design and claim limits): DEMONSTRATED at the proposal level. Descriptive quantitative design and non-causal/non-correlational limits were explained.
+- A3-Q3 (population criteria and count): PARTLY DEMONSTRATED. Grade range and regular canteen-use criterion were described; actual eligible population count and count basis are missing. Earlier 20-person purposive sample remains only a proposal.
+- A3-Q4 (student-originated items and instrument meaning): PARTLY DEMONSTRATED. Proposed instrument sections and general topic areas were described; actual student-written items, exact response meanings, and complete checklist fields are missing.
+- A3-Q4 (validation/reliability process): NOT YET DEMONSTRATED in the available responses. External testing is pending and must not be represented as completed.
+- A3-Q5 (ethical procedure and data protection): PARTLY DEMONSTRATED. Permission, voluntary participation, privacy, and consent/assent were identified; chronological procedure and full data-management details remain incomplete.
+- A3-Q6 (analysis and claim limits): PARTLY DEMONSTRATED. Separate descriptive summaries were proposed; final item-level coding, score meaning, and complete blueprint remain incomplete.
+```
+
+## Previous Session Directive — historical
 
 ```yaml
 directive_id: pr2_cou_14-a03-initial-2026-11-19
