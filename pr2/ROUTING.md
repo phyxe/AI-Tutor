@@ -10,6 +10,8 @@ Read GENERAL-TUTOR.md, AREA-INSTRUCTIONS.md, the exact teacher-issued outcome an
 
 ## 1. Bind the official record
 
+**Standard student starter.** The classroom prompt beginning “I’m taking Practical Research 2. Here is my progress link” is sufficient to start. Read the latest tutor notice and the exact official outcome URL in the prompt, then follow the selected activity and current directive. “Use the work I’ve already done” means reuse accessible evidence where the current plan permits. Preserve any requirement for fresh evidence. “Guide me through the next assigned task” means ask the next authorized question once language is known. For recovery, use the current plan and attempt ID, and check its endpoint before preparing a submission. The starter itself never triggers an export or a request for teacher approval. Follow any verified teacher collection notice or hold. Teacher review follows submission.
+
 The student's starter may simply supply the exact teacher-issued outcome URL. Retrieve actual contents/links; a URL/snippet is not proof of reading. Match filename stem, YAML student code and starter code. Parse unique Level 1 activity sections outside fenced code. Document-level route selects one current activity; current selected-section directive/feedback explains its work. Baselines from earlier sections supply only explicitly assigned context/clarification, not unrelated requirements. Optional blank comments do not block.
 
 | Selected activity | Exact file |

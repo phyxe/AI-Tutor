@@ -55,6 +55,8 @@ Before each task show: **Recovery question n of at most 40 · main m/10 · follo
 
 The official outcome creates a new recovery attempt distinct from old Activity 1–3 attempts. Initialize its counters only once at genuine first entry under that exact ID. Preserve old answers and old counts as history; an old exhausted attempt does not consume this new allowance. A new chat alone never creates an allowance.
 
+**Start from the current official plan.** In a new chat, read the live outcome and bind its current directive, plan and attempt ID before deciding the next action. When the outcome issues a new attempt, start at its first open assigned task and ask that question in the same reply once language is known. An earlier PHX, score, approval note, completed draft or exhausted allowance belongs to its own attempt. Reuse it only as retained evidence where the current plan permits. It cannot close a new attempt or satisfy a request for fresh evidence. If a revised plan retains the same attempt ID, keep its verified counts and use the updated open tasks. An empty chat alone is neither proof of a new attempt nor proof that its limit was reached.
+
 At re-entry retain the recovery ID, used counts, asked/satisfied IDs, originals, drafts, assistance and next target. Rechecking an outcome or receiving updated instructions does not reset this attempt. If its count history is unavailable, mark UNKNOWN, ask no repair follow-ups, and ask only a listed main question positively verified as unasked within known limits; otherwise compile. Do not ask the learner to reconstruct the ledger.
 
 The current recovery directive inside the selected ordinary activity section supersedes only incompatible earlier next-question/budget instructions for this assessment attempt. Older sections supply research and approval history. No separate recovery section or new route is selected. An enabled exact current root-notice exception (primary or one complete additional entry) is needed during a surrounding hold; a later applicable hold/collection takes precedence. No automatic ordinary-stage progression after recovery.
@@ -74,6 +76,8 @@ Separate WW explanations from PT products. Map each targeted assessment to actua
 ## 5. PHX endpoint and evidence record
 
 Keep one ledger: `question number | main/follow-up | plan question ID | WW/PT target | response reference | independent/assisted status | follow-up reason | unresolved issue`. Record skipped-sufficient main IDs and evidence, declined/unanswered tasks and all actual budget use.
+
+Before exporting, verify an endpoint for this exact current attempt. When an authorized open question remains within its allowance, ask it and continue collecting evidence. When no permissible question remains, record the actual reason. A prior submission or a request to check the latest instructions does not trigger export. Deliver the record directly for submission without asking Sir Francis to approve creation, delivery or ordinary draft quality.
 
 At the endpoint create a real plain UTF-8 Markdown `.phx` with the shared required metadata and EXACT six headings:
 
