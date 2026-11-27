@@ -27,3 +27,8 @@ These entries index existing local controls and evidence; they do not claim that
 ## 2026-11-26 — Courage round-2 improvement authorization
 
 Updated coded outcomes 01, 12 and 13 to retain submitted evidence and authorize distinct guided improvement attempts. Preserved activity placement, existing scores and approval boundaries. Verified current directive uniqueness, attempt/route alignment, eight mapped tasks, question limits and submission endpoints. Private before-edit snapshots retained. Publication and live tutor execution not performed.
+
+
+## 2026-11-27 — Courage individual improvement attempts
+
+Updated seven coded Courage outcomes with distinct November 27 attempts following teacher review. Preserved existing activities, retained work, passing scores and teacher boundaries. Added individual source/product/continuity targets, actual question accounting and immediate complete/incomplete PHX submission endpoints. Wrong-topic and duplicate-file issues do not erase authentic earlier work. Private before-edit snapshots and verification are retained. Checked directive uniqueness, metadata alignment, mapped task counts, preserved routes and whitespace. Publication and live student-chat behavior are not verified.
