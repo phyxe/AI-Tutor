@@ -1,20 +1,20 @@
 ---
 student_code: pr2_pru_09
 learning_area: Practical Research 2
-record_version: "1.8"
+record_version: "1.9"
 route_activity: pr2_act_01
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_09-aer-teacher-decision-2026-11-25
-route_baseline_revision: pr2_pru_09-aer-retained-baseline-2026-11-25
-route_resume_checkpoint: ER-Q1
-status: assessment-improvement-opportunity-authorized
+route_directive_id: pr2_pru_09-aer-retake-2026-11-27-r02
+route_baseline_revision: pr2_pru_09-aer-reviewed-baseline-2026-11-27-r02
+route_resume_checkpoint: ER5-Q1
+status: teacher-authorized-retake-for-assessment-improvement
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: prudence-evidence-recovery-2026-11-25
+recovery_plan_id: prudence-retake-2026-11-27-r02
 ---
 
-## Current assessment improvement authority — November 25, 2026
+## Current assessment improvement authority — November 27, 2026
 
-Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
+The teacher authorizes the ER5 retake in the selected ordinary activity. Retain earlier work and scores, prioritize missing ratings, and use the new attempt exactly once with 10/30/40 accounting. Every listed assessment task is authorized now, including explicitly assigned evidence from a later activity; no duplicate approval or prior-file gate is needed. Earlier instructions are research/approval history where incompatible, and teacher reassessment follows endpoint submission.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Accept the topic concerning how students prioritize or manage competing club and academic responsibilities. Have the learner complete Activity 1 on this accepted path; do not reopen topic selection. The precise conflict, focus/indicator and learner-developed main question still require alignment. Activity 2 is not yet authorized. Detailed student evidence and identity remain private.
 
@@ -59,83 +59,100 @@ Accept the topic concerning how students prioritize or manage competing club and
 
 ```yaml
 {
-  "directive_id": "pr2_pru_09-aer-teacher-decision-2026-11-25",
-  "attempt_id": "pr2_pru_09-aer-attempt-2026-11-25",
+  "directive_id": "pr2_pru_09-aer-retake-2026-11-27-r02",
+  "attempt_id": "pr2_pru_09-aer-attempt-2026-11-27-r02",
+  "previous_recovery_attempt_id": "pr2_pru_09-aer-attempt-2026-11-25",
   "activity_code": "pr2_act_01",
   "action": "REVISE_AND_SUBMIT",
   "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
   "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
   "recovery_protocol_version": "1.1.1",
-  "plan_id": "prudence-evidence-recovery-2026-11-25",
-  "baseline_revision": "pr2_pru_09-aer-retained-baseline-2026-11-25",
-  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
-  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "plan_id": "prudence-retake-2026-11-27-r02",
+  "baseline_revision": "pr2_pru_09-aer-reviewed-baseline-2026-11-27-r02",
+  "baseline_source": "Latest teacher-reviewed research retained in this outcome and compatible live answers; baseline ID is not a missing attachment",
   "target_assessments": [
+    "WW4",
+    "PT3",
+    "PT4",
+    "PT5",
     "WW1",
     "WW2",
     "WW3",
-    "WW4",
     "WW5",
     "PT1",
-    "PT2",
+    "PT2"
+  ],
+  "priority_unrated_assessments": [
+    "WW4",
     "PT3",
     "PT4",
     "PT5"
   ],
+  "assessment_maximum_score": 50,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_score": 35,
   "core_prompt_maximum": 10,
   "followup_maximum": 30,
   "learning_prompt_maximum": 40,
   "assigned_main_question_count": 10,
-  "start_question_id": "ER-Q1",
+  "start_question_id": "ER5-Q1",
+  "new_attempt_explicitly_authorized": true,
   "previous_submission_required": false,
   "additional_teacher_confirmation_required": false,
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
-  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "score_policy": "Preserve earlier work and scores; stronger actual evidence may support higher teacher-assessed scores across the full rubric range, without automatic grade replacement",
   "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
 }
 ```
 
 ## Assessment Evidence Recovery Plan
 
-Teacher-authorized November 25, 2026, within **pr2_act_01**. Target assessments: **WW1, WW2, WW3, WW4, WW5, PT1, PT2, PT3, PT4, PT5**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+Teacher-authorized retake — November 27, 2026 (Asia/Manila), within **pr2_act_01**. Prioritize still-unrated **WW4, PT3, PT4, PT5** and only necessary dependencies, then the other named improvements. Keep the accepted topic, population decisions, earlier answers, drafts and recorded scores. No improvement cap applies at 70%, but a higher score is determined by teacher review of actual additional evidence, not the number of questions answered.
 
+### Reviewed starting point
 
-### Keep the work and build stronger evidence
+Retain Grade 11 club participants and the teacher-accepted descriptive prioritization direction; Grade 12 respondents remain excluded. The newest learner-originated situation is wanting to attend club training/meetings while having many assignments. The learner consistently wants to know which responsibility is prioritized first. A rough title and question are now captured and credited; polished final wording remains tutor-assisted. Do not treat rough English as lack of effort or ask the learner to approve another finished answer. Difficulty deciding and the actual priority choice are related but different inquiries: preserve the learner’s stated priority-choice focus. Competing demands need not occur at exactly the same scheduled time. Participant boundaries, period, sources, written background/significance and substantive learner tool items remain open.
 
-Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+### One new attempt, preserved across chats
 
-Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+This teacher instruction explicitly authorizes **pr2_pru_09-aer-attempt-2026-11-27-r02**, distinct from **pr2_pru_09-aer-attempt-2026-11-25** and all earlier attempts. It supersedes any unstarted prior improvement queue as well as incompatible older next-question/budget directions; unused old allowances are not banked. Earlier actual work, assistance/capture limits and ledgers remain history. Old exhausted/unknown counts do not consume this new allowance or become student deductions. Initialize the new ledger only once at genuine first entry. Continue the existing conversation with its answers; new chats and outcome reloads never reset the same attempt. If this attempt’s own count is unknown, apply the shared conservative rule without inventing zero or asking the learner to reconstruct it.
 
-### Retained starting context
+### Explicit permission to collect the assigned evidence
 
-Keep the teacher-accepted prioritization topic among Grade 11 club participants, with Grade 12 excluded. The concrete conflict may mean simultaneous attendance or competing deadlines/work; this remains open. Prior nineteen-menu sequences and agreement with a supplied main question are assisted exploration, not independent choices. First establish that meaning, then attempt only compatible independent recovery products; no topic restart or copying another student's overlap-attendance association.
+This exact outcome and plan already authorize every listed task, including named background/significance and initial tool work from Activities 2 and 3 when the ordinary route is Activity 1 or 2. Do not send the student back to Sir Francis for permission, directions, confirmation or another file merely to start or continue these tasks. Keep the ordinary route: evidence collection is not automatic stage completion or advancement. A baseline ID is not a missing attachment. Ask the next permitted substantive task in the same reply after required control checks and language handling only if still unknown. Record real gaps and continue independent authorized targets; consult the teacher only for an actual conflicting control/hold or separately reserved substantive decision, not routine draft quality.
 
-Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+### Assigned tasks — one coherent demand per reply
 
-### Main questions and evidence mapping
+At most **10 main questions, 30 follow-ups shared across this entire attempt, and 40 learning questions total**. This plan assigns **10 main tasks**, not a quota. Ask each listed ID at most once. Later requests to revise, clarify, re-answer, add missing wording or explain a repair count as follow-ups. No fresh allowance per paragraph, item, source or chat. Narrow a task rather than hiding independent tests as subparts; do not invent filler main questions or add generic methodology/statistics/ethics interviews. Skip sufficient targets with actual response references, then take the next genuinely open listed task.
 
-At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 10 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
-
-| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+| ID | Main question or coherent product task | Targets | Necessary support or budgeted follow-up |
 |---|---|---|---|
-| ER-Q1 | Explain one actual kind of situation in which club and academic responsibilities compete for students' time. | WW1, WW3, PT1, PT2 | Clarify only genuinely missing question/problem meaning; retain sufficient foundation evidence without supplying the answer. |
-| ER-Q2 | Describe the prioritization information you want to learn from students facing that situation. | WW1, WW3, PT1, PT4 | Distinguish the confused concepts and obtain the learner's own indicator meaning. |
-| ER-Q3 | Draft your own working title-and-question package for this descriptive prioritization inquiry. | WW3, PT2 | Repair only actual gaps in question coverage, title fit and noncausal wording. |
-| ER-Q4 | Set out the intended club-participant group and boundaries of the situation you have explained. | WW2, PT4 | Obtain reasons for the stated boundaries, exclusions and shared timeframe, not a sampling lecture. |
-| ER-Q5 | Explain the contribution of the first relevant source to your study in your own words. | WW4 | Check an actual finding/guidance, attribution and what it cannot establish locally. |
-| ER-Q6 | Explain the contribution of a second distinct relevant source to your study in your own words. | WW4 | Check relevance and limits; do not invent source findings or demand another search unnecessarily. |
-| ER-Q7 | Draft a connected background for your current inquiry using the verified source support. | PT3 | Repair unsupported local claims and link context, bounded gap and purpose; do not compose it for the learner. |
-| ER-Q8 | Write a short significance section describing realistic uses of the proposed findings. | PT3 | Help distinguish possible uses from guaranteed benefits. |
-| ER-Q9 | Draft initial items or recording fields for the prioritization information you have actually established. | PT5 | Collect substantive learner fields/items and units/response meanings. Use a focused follow-up for genuinely missing directions or coding. |
-| ER-Q10 | Explain one important before-and-after revision you made during this recovery. | WW5 | Retain the original and correction, and elicit why that change improves the inquiry. |
+| ER5-Q1 | Explain what priority-choice answer you want to learn from the situation already described. | WW1, WW3, PT1 | Retain the actual club/assignment example; distinguish the choice to record from the questionnaire used to ask it. No repeated general scenario or sampling quiz. |
+| ER5-Q2 | Set out the intended club-participant group and reference period for that situation. | WW2, PT4 | Obtain justified boundaries/exclusions and actual wording of scope; do not assume exact simultaneous scheduling or introduce Grade 12. |
+| ER5-Q3 | Explain the contribution and limits of a first relevant source. | WW4 | Tutor retrieves/checks a real source; collect actual learner interpretation. |
+| ER5-Q4 | Explain the contribution and limits of a second distinct relevant source. | WW4 | Keep source findings separate from local priorities and do not invent prevalence. |
+| ER5-Q5 | Draft the connected background using the sources and established local question. | PT3 | Collect actual learner prose and bounded purpose; no tutor-composed paragraph for approval. |
+| ER5-Q6 | Write the significance section with realistic possible users and uses. | PT3 | No guaranteed improvements in grades or time management. |
+| ER5-Q7 | Develop the working title and specific-question package around the clarified priority choice. | WW3, PT2 | Reuse rough learner attempts; keep the title and main/specific questions consistent, not difficulty-only versus choice mismatch. |
+| ER5-Q8 | Draft substantive questions or recording fields for the priority information. | PT5 | The learner supplies usable tool content; an earlier tutor example remains assisted rather than independent work. |
+| ER5-Q9 | Write response meanings and directions for the draft. | PT5 | Keep situation and period consistent; allow honest inapplicable/unknown answers and do not assume every student faces the same conflict. |
+| ER5-Q10 | Explain one substantive before-and-after revision made in this attempt. | WW5 | Record actual original, change and why it better answers the intended problem; skip a sufficiently captured explanation. |
 
-### PHX endpoint — accept the evidence provided
+### Teach, preserve actual answers and draft the work
 
-After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+Give concise supported-point, gap and next-action feedback. Accept meaningful fragments and Taglish; do not treat grammar as lack of understanding. Retrieve/check needed sources without asking whether permission to search is granted. Reuse sufficiently checked source leads and disclose real access limits. The learner explains actual claims and writes substantive drafts; tutor teaching, blank structures, unrelated-topic examples and polishing established meaning may support learning but cannot supply missing assessed paragraphs/items for copying or approval. After two unsuccessful attempts change support rather than repeating the same demand.
 
-Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+Keep actual responses and usable draft components as they are given, with independent/assisted/summary status and exact target references. General explanations, labels saying completed, question counts and file length do not replace actual source understanding, paragraphs or questionnaire content. Do not repeatedly request earlier files, reconstruct unavailable chats or erase accepted work. Show **Recovery question n of at most 40 · main m/10 · follow-ups f/30** using real values and maintain one cumulative ledger across chats. Map WW explanations and PT products to distinct assessable criteria without pretending one unchanged feature is a new accomplishment.
+
+### Submit available evidence without an extra gate
+
+After response 40, give concise feedback and compile immediately in that same reply. Compile earlier if the work is sufficient, the student requests stop/submission, a current notice orders collection or no permissible question remains. Accept the answers for submission as they stand, complete or incomplete, with precise gaps. No extra quiz, rewrite, missing-source demand, routine confirmation, acknowledgment or complete-sentence repair may delay the PHX. Explain that being told to submit saves available progress for teacher review; it does not mean every assessment already has enough work for a score. NR is not zero.
+
+Create and verify the actual plain UTF-8 PHX with the six shared headings, exact current attempt/directive/plan/baseline, actual counters, original/revised responses, actual drafts, source/assistance limits and honest completion status. If file creation fails, immediately provide the same structured CHAT_REPORT and usual submission step; no student file-assembly assignment or fresh interview. A DOCX, completed external validation/reliability test, participant count or pilot cannot delay this recovery endpoint. No participant contact, records acquisition, pretest/pilot or main fieldwork is authorized by this plan.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Stop for teacher reassessment, without reopening this submitted attempt or guaranteeing a score increase.
 
 ## Previous ordinary session directive — historical reference
 

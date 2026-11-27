@@ -1,20 +1,20 @@
 ---
 student_code: pr2_pru_15
 learning_area: Practical Research 2
-record_version: "1.9"
+record_version: "1.11"
 route_activity: pr2_act_03
 route_action: REVISE_AND_SUBMIT
-route_directive_id: pr2_pru_15-aer-teacher-decision-2026-11-25
-route_baseline_revision: pr2_pru_15-aer-retained-baseline-2026-11-25
-route_resume_checkpoint: ER-Q1
-status: assessment-improvement-opportunity-authorized
+route_directive_id: pr2_pru_15-aer-retake-2026-11-27-r02
+route_baseline_revision: pr2_pru_15-aer-reviewed-baseline-2026-11-27-r02
+route_resume_checkpoint: ER5-Q1
+status: teacher-authorized-retake-for-assessment-improvement
 recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
-recovery_plan_id: prudence-evidence-recovery-2026-11-25
+recovery_plan_id: prudence-retake-2026-11-27-r02
 ---
 
-## Current assessment improvement authority — November 25, 2026
+## Current assessment improvement authority — November 27, 2026
 
-Keep the ordinary activity selected in document metadata. Its Current Session Directive and embedded Assessment Evidence Recovery Plan now authorize one explicit improvement attempt under the shared 10/30/40 protocol. Earlier stage approvals, source/access limits, student answers and drafts remain retained. Earlier active-task, prompt-budget and next-question instructions later in this record are historical where they conflict with this recovery plan. No separate activity, score overwrite, automatic pass or fieldwork permission is created. Continue the existing conversation without discarding answers or seeking duplicate approval. An enabled matching current root-notice exception permits only this recovery mode during the surrounding hold.
+The teacher authorizes the ER5 retake in the selected ordinary activity. Retain earlier work and scores, prioritize missing ratings, and use the new attempt exactly once with 10/30/40 accounting. Every listed assessment task is authorized now, including explicitly assigned evidence from a later activity; no duplicate approval or prior-file gate is needed. Earlier instructions are research/approval history where incompatible, and teacher reassessment follows endpoint submission.
 
 Teacher decision recorded November 19, 2026 (Asia/Manila): Authorize Activity 3 with revised-question alignment carried forward. Accept the distinction between worth the price and having enough money as progress. Explicitly permit dropping expected portion or explaining how it aligns with the other questions; retain the perceived-affordability and price-reasonableness/value-for-money inquiry. Exact revised questions and final products remain for review. Student identity and detailed evidence remain private.
 
@@ -67,69 +67,85 @@ Authorize Activity 3 with revised-question alignment carried forward. Accept the
 
 ```yaml
 {
-  "directive_id": "pr2_pru_15-aer-teacher-decision-2026-11-25",
-  "attempt_id": "pr2_pru_15-aer-attempt-2026-11-25",
+  "directive_id": "pr2_pru_15-aer-retake-2026-11-27-r02",
+  "attempt_id": "pr2_pru_15-aer-attempt-2026-11-27-r02",
+  "previous_recovery_attempt_id": "pr2_pru_15-aer-attempt-2026-11-27-r01",
   "activity_code": "pr2_act_03",
   "action": "REVISE_AND_SUBMIT",
   "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
   "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
   "recovery_protocol_version": "1.1.1",
-  "plan_id": "prudence-evidence-recovery-2026-11-25",
-  "baseline_revision": "pr2_pru_15-aer-retained-baseline-2026-11-25",
-  "baseline_source": "Earlier research embedded in this outcome, retained recovery context and compatible live answers; no separate upload required",
-  "authorized_task": "Only the named assessment evidence and necessary dependent edits in this embedded plan; retain the current activity and all prior accepted work",
+  "plan_id": "prudence-retake-2026-11-27-r02",
+  "baseline_revision": "pr2_pru_15-aer-reviewed-baseline-2026-11-27-r02",
+  "baseline_source": "Latest teacher-reviewed research retained in this outcome and compatible live answers; baseline ID is not a missing attachment",
   "target_assessments": [
     "PT5"
   ],
+  "priority_unrated_assessments": [],
+  "assessment_maximum_score": 50,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_score": 35,
   "core_prompt_maximum": 10,
   "followup_maximum": 30,
   "learning_prompt_maximum": 40,
   "assigned_main_question_count": 5,
-  "start_question_id": "ER-Q1",
+  "start_question_id": "ER5-Q1",
+  "new_attempt_explicitly_authorized": true,
   "previous_submission_required": false,
   "additional_teacher_confirmation_required": false,
   "decision_timing": "AFTER_SUBMISSION",
   "submission_required": true,
   "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
-  "score_policy": "Retain recorded scores and prior work; collect supplementary evidence for possible higher teacher-assessed scores, with no 70-percent improvement cap or automatic grade change",
+  "score_policy": "Preserve earlier work and scores; stronger actual evidence may support higher teacher-assessed scores across the full rubric range, without automatic grade replacement",
   "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
 }
 ```
 
 ## Assessment Evidence Recovery Plan
 
-Teacher-authorized November 25, 2026, within **pr2_act_03**. Target assessments: **PT5**. Read [the shared recovery protocol](https://raw.githubusercontent.com/phyxe/AI-Tutor/main/pr2/ASSESSMENT-RECOVERY-PROTOCOL.md). This is not a new activity or ordinary-stage progression.
+Teacher-authorized retake — November 27, 2026 (Asia/Manila), within **pr2_act_03**. Strengthen the named already-rated work; do not describe the current work as unrated or failed. Keep the accepted topic, population decisions, earlier answers, drafts and recorded scores. No improvement cap applies at 70%, but a higher score is determined by teacher review of actual additional evidence, not the number of questions answered.
 
+### Reviewed starting point
 
-### Keep the work and build stronger evidence
+Retain the accepted cooked-food affordability topic, Grade 9 students with at least three qualifying canteen purchases during Term 2 of SY 2026–2027, exclusion of drinks/uncooked foods, no exact available-money amounts, and the decision to drop expected portion. The latest submission now supplies three item meanings and possible answer sets: affordability based on available money, sufficiency of available money, and reasonableness/value for money considering quality and quantity. These support a partial initial-tool rating; do not treat all questionnaire evidence as missing. Preserve one overall judgment per aspect across the stated purchases, repeat purchases of the same food as qualifying, and eligibility even after a later stop in purchases. Preserve valid answers when another item is blank; use valid answers for that item rather than treating missing as negative. Ability to pay and money sufficiency may overlap and need a clear learner-grounded decision. Value for money must stay distinct. The final exact research-question wording and assembled respondent questionnaire are not yet captured; no full Chapter 3 or external testing is assigned as a prerequisite. The latest reviewed initial tool is now rated; it must not be called wholly absent. Improve the recorded item meanings and choices into exact respondent-facing wording.
 
-Retain earlier answers, products, accepted decisions and recorded scores. This is an opportunity to improve through additional genuine evidence, not to restart or erase prior achievement. The 70% threshold identified recovery needs; it does not cap a possible higher score. Do not promise a pass, lower an existing score because a recovery remains incomplete, or automatically change any grade. The teacher reassesses the combined evidence. Keep baseline and new work distinguishable.
+### Source boundaries
 
-Use a supportive opening: “We will keep the work you have already done and build the evidence that needs strengthening. You do not need to start over.” Reuse known language and proceed directly to the first genuinely open assigned target, not a readiness or permission question.
+Retain the already-reviewed source work and background with its disclosed AI assistance; another source review is not assigned. Carry the value-for-money meaning into only necessary question/tool wording. No new unsupported theory, source findings or demographic requirements are introduced.
 
-### Retained starting context
+### One new attempt, preserved across chats
 
-Retain the reasoned decision to drop expected portion. Affordability is ability/sufficiency to pay; price reasonableness/value for money is whether food received is worth its price considering quality and quantity. Retain Grade 9 repeat cooked-food buyers, Term 2 SY 2026–2027, exclusions of drinks/uncooked foods and no exact money amounts. The one overall judgment across purchases is a recorded choice. Only PT5 remains unrated. Retain the passing PT2 score; consolidate only genuinely missing working question wording needed as an instrument dependency, not another full title/question assessment.
+This teacher instruction explicitly authorizes **pr2_pru_15-aer-attempt-2026-11-27-r02**, distinct from **pr2_pru_15-aer-attempt-2026-11-27-r01** and all earlier attempts. It supersedes any unstarted prior improvement queue as well as incompatible older next-question/budget directions; unused old allowances are not banked. Earlier actual work, assistance/capture limits and ledgers remain history. Old exhausted/unknown counts do not consume this new allowance or become student deductions. Initialize the new ledger only once at genuine first entry. Continue the existing conversation with its answers; new chats and outcome reloads never reset the same attempt. If this attempt’s own count is unknown, apply the shared conservative rule without inventing zero or asking the learner to reconstruct it.
 
-Use earlier embedded research and compatible live answers, including responses already supplied during this same recovery attempt. Do not demand another old file, accepted-question attachment, transcript, new chat or teacher confirmation. Older ordinary directives and Teacher's Comments below are approval/research history; use only compatible substance, not their superseded question queue or budget. Preserve actual recovery counts under the same attempt ID.
+### Explicit permission to collect the assigned evidence
 
-### Main questions and evidence mapping
+This exact outcome and plan already authorize every listed task, including named background/significance and initial tool work from Activities 2 and 3 when the ordinary route is Activity 1 or 2. Do not send the student back to Sir Francis for permission, directions, confirmation or another file merely to start or continue these tasks. Keep the ordinary route: evidence collection is not automatic stage completion or advancement. A baseline ID is not a missing attachment. Ask the next permitted substantive task in the same reply after required control checks and language handling only if still unknown. Record real gaps and continue independent authorized targets; consult the teacher only for an actual conflicting control/hold or separately reserved substantive decision, not routine draft quality.
 
-At most **10 main questions + 30 shared follow-ups = 40 learning questions**. This plan assigns 5 main questions, not a quota. Skip sufficient targets with actual evidence references. Each follow-up is charged to the shared allowance; the focus column is guidance for a later budgeted question, not extra demands to append now.
+### Assigned tasks — one coherent demand per reply
 
-| ID | Main question or coherent product task | Evidence targets | Optional follow-up focus |
+At most **10 main questions, 30 follow-ups shared across this entire attempt, and 40 learning questions total**. This plan assigns **5 main tasks**, not a quota. Ask each listed ID at most once. Later requests to revise, clarify, re-answer, add missing wording or explain a repair count as follow-ups. No fresh allowance per paragraph, item, source or chat. Narrow a task rather than hiding independent tests as subparts; do not invent filler main questions or add generic methodology/statistics/ethics interviews. Skip sufficient targets with actual response references, then take the next genuinely open listed task.
+
+| ID | Main question or coherent product task | Targets | Necessary support or budgeted follow-up |
 |---|---|---|---|
-| ER-Q1 | Set out the working question baseline needed to draft your affordability and value-for-money tool. | PT5 | Handle only necessary consolidation as a tool dependency; retain the clarified meanings, passing work and decision to drop expected portion. |
-| ER-Q2 | Map the revised questions to the distinct evidence each needs. | PT5 | Ability to pay and worth-the-price judgments must remain distinguishable. |
-| ER-Q3 | Draft initial substantive items for that map. | PT5 | The learner writes the items; retain one overall judgment only with clear reference wording. |
-| ER-Q4 | Specify the meanings of the draft's response options. | PT5 | No exact allowance amounts or assumed objective food quality. |
-| ER-Q5 | Assemble the items and directions into a working questionnaire. | PT5 | Preserve approved product/population/period boundaries and truthful draft status. |
+| ER5-Q1 | Explain whether affordability and money sufficiency ask different things in your proposed questionnaire. | PT5 | Let the learner justify a real distinction or propose combining redundant content; do not supply the target decision or drop value for money. |
+| ER5-Q2 | Consolidate the exact working research questions needed for the retained tool. | PT5 | A necessary drafting dependency, not a repeat PT2/title approval exercise. Preserve accepted population, purchasing boundary, period and dropped expected-portion decision. |
+| ER5-Q3 | Write the exact questionnaire items using the retained item meanings and clarified distinctions. | PT5 | Learner-authored questions for one overall period-based judgment per aspect; do not invent items for copying or request exact money amounts. |
+| ER5-Q4 | Specify clear response meanings and respondent directions for those items. | PT5 | Reuse existing answer labels where suitable; clarify what somewhat/more than sufficient mean and how a respondent unable to judge can leave an item unanswered. |
+| ER5-Q5 | Assemble the questionnaire and explain how each aspect’s answers will be summarized. | PT5 | Use the valid response count per item, preserve other answered items, and do not invent an overall score or majority rule without justification. This is one coherent tool task, not an extra defense interview. |
 
-### PHX endpoint — accept the evidence provided
+### Teach, preserve actual answers and draft the work
 
-After the last permitted response, compile the available PHX immediately, complete or incomplete. Stop sooner when evidence is sufficient, the student requests submission or no permissible question remains. No question 41, final quiz, rewrite demand, complete-sentence repair or teacher confirmation may delay the file. Preserve original and revised work, assistance, missing criteria and the main/follow-up/total ledger. Map actual answers and products to every targeted assessment; never fill missing work or invent a grade.
+Give concise supported-point, gap and next-action feedback. Accept meaningful fragments and Taglish; do not treat grammar as lack of understanding. Retrieve/check needed sources without asking whether permission to search is granted. Reuse sufficiently checked source leads and disclose real access limits. The learner explains actual claims and writes substantive drafts; tutor teaching, blank structures, unrelated-topic examples and polishing established meaning may support learning but cannot supply missing assessed paragraphs/items for copying or approval. After two unsuccessful attempts change support rather than repeating the same demand.
 
-Tell the student: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** If actual file creation fails/unavailable, deliver the same structured chat report immediately using the shared fallback. End for teacher review; no automatic stage completion, full later chapter requirement or fieldwork clearance.
+Keep actual responses and usable draft components as they are given, with independent/assisted/summary status and exact target references. General explanations, labels saying completed, question counts and file length do not replace actual source understanding, paragraphs or questionnaire content. Do not repeatedly request earlier files, reconstruct unavailable chats or erase accepted work. Show **Recovery question n of at most 40 · main m/10 · follow-ups f/30** using real values and maintain one cumulative ledger across chats. Map WW explanations and PT products to distinct assessable criteria without pretending one unchanged feature is a new accomplishment.
+
+### Submit available evidence without an extra gate
+
+After response 40, give concise feedback and compile immediately in that same reply. Compile earlier if the work is sufficient, the student requests stop/submission, a current notice orders collection or no permissible question remains. Accept the answers for submission as they stand, complete or incomplete, with precise gaps. No extra quiz, rewrite, missing-source demand, routine confirmation, acknowledgment or complete-sentence repair may delay the PHX. Explain that being told to submit saves available progress for teacher review; it does not mean every assessment already has enough work for a score. NR is not zero.
+
+Create and verify the actual plain UTF-8 PHX with the six shared headings, exact current attempt/directive/plan/baseline, actual counters, original/revised responses, actual drafts, source/assistance limits and honest completion status. If file creation fails, immediately provide the same structured CHAT_REPORT and usual submission step; no student file-assembly assignment or fresh interview. A DOCX, completed external validation/reliability test, participant count or pilot cannot delay this recovery endpoint. No participant contact, records acquisition, pretest/pilot or main fieldwork is authorized by this plan.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Stop for teacher reassessment, without reopening this submitted attempt or guaranteeing a score increase.
 
 ## Previous ordinary session directive — historical reference
 

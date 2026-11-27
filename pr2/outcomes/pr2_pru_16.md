@@ -1,14 +1,21 @@
 ---
 student_code: pr2_pru_16
 learning_area: Practical Research 2
-record_version: "1.7"
+record_version: "1.8"
 route_activity: pr2_act_03
-route_action: INITIAL
-route_directive_id: pr2_pru_16-a03-initial-2026-11-18
-route_baseline_revision: pr2_pru_16-a02-accepted-question-baseline-2026-11-18
-route_resume_checkpoint: M1
-status: chapter-1-accepted-activity-3-authorized
+route_action: REVISE_AND_SUBMIT
+route_directive_id: pr2_pru_16-aer-retake-2026-11-27-r02
+route_baseline_revision: pr2_pru_16-aer-reviewed-baseline-2026-11-27-r02
+route_resume_checkpoint: ER5-Q1
+status: teacher-authorized-retake-for-assessment-improvement
+recovery_mode: ASSESSMENT_EVIDENCE_RECOVERY
+recovery_plan_id: prudence-retake-2026-11-27-r02
 ---
+
+## Current assessment improvement authority — November 27, 2026
+
+The teacher authorizes the ER5 retake in the selected ordinary activity. Retain earlier work and scores, prioritize missing ratings, and use the new attempt exactly once with 10/30/40 accounting. Every listed assessment task is authorized now, including explicitly assigned evidence from a later activity; no duplicate approval or prior-file gate is needed. Earlier instructions are research/approval history where incompatible, and teacher reassessment follows endpoint submission.
+
 
 Teacher decision recorded November 18, 2026 (Asia/Manila): Chapter 1 acceptance is retained, the latest reviewed corrections are accepted within the boundaries below, and Activity 3 is explicitly authorized. Develop the proposed Chapter 3 and data-gathering tool from the locked Chapter 1 questions. This grants tutoring/planning authority only, not permission for pilot testing, participant contact, recruitment, restricted-record access or fieldwork. Detailed student evidence remains private.
 
@@ -69,6 +76,108 @@ Earlier accepted study foundation retained; no restart or duplicate concept appr
 - Teacher-recorded collection clearance: NOT_GRANTED by this outcome. Tutor approval cannot grant real-world access or fieldwork.
 
 ## Current Session Directive
+
+```yaml
+{
+  "directive_id": "pr2_pru_16-aer-retake-2026-11-27-r02",
+  "attempt_id": "pr2_pru_16-aer-attempt-2026-11-27-r02",
+  "previous_recovery_attempt_id": "pr2_pru_16-a03-attempt-2026-11-18",
+  "activity_code": "pr2_act_03",
+  "action": "REVISE_AND_SUBMIT",
+  "recovery_mode": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "recovery_protocol": "pr2/ASSESSMENT-RECOVERY-PROTOCOL.md",
+  "recovery_protocol_version": "1.1.1",
+  "plan_id": "prudence-retake-2026-11-27-r02",
+  "baseline_revision": "pr2_pru_16-aer-reviewed-baseline-2026-11-27-r02",
+  "baseline_source": "Latest teacher-reviewed research retained in this outcome and compatible live answers; baseline ID is not a missing attachment",
+  "target_assessments": [
+    "WW3",
+    "WW5",
+    "PT4",
+    "PT5"
+  ],
+  "priority_unrated_assessments": [],
+  "assessment_maximum_score": 50,
+  "recovery_threshold_percent": 70,
+  "recovery_threshold_score": 35,
+  "core_prompt_maximum": 10,
+  "followup_maximum": 30,
+  "learning_prompt_maximum": 40,
+  "assigned_main_question_count": 4,
+  "start_question_id": "ER5-Q1",
+  "new_attempt_explicitly_authorized": true,
+  "previous_submission_required": false,
+  "additional_teacher_confirmation_required": false,
+  "decision_timing": "AFTER_SUBMISSION",
+  "submission_required": true,
+  "submission_kind": "ASSESSMENT_EVIDENCE_RECOVERY",
+  "score_policy": "Preserve earlier work and scores; stronger actual evidence may support higher teacher-assessed scores across the full rubric range, without automatic grade replacement",
+  "collection_clearance_status": "NOT_GRANTED_BY_TUTOR"
+}
+```
+
+## Assessment Evidence Recovery Plan
+
+Teacher-authorized retake — November 27, 2026 (Asia/Manila), within **pr2_act_03**. Strengthen the named already-rated work; do not describe the current work as unrated or failed. Keep the accepted topic, population decisions, earlier answers, drafts and recorded scores. No improvement cap applies at 70%, but a higher score is determined by teacher review of actual additional evidence, not the number of questions answered.
+
+### Reviewed starting point
+
+Chapter 1 remains accepted and Activity 3 remains authorized. Retain the locked satisfaction title and three research questions, separate food/drink experience, five satisfaction labels, and the eligible-buyer proposal of purchases on three different days within seven days before answering. The separate two-week administration window is logistical, not the recall/eligibility window. Earlier work already contains ten student-written items and directions; all remain credited. The latest summary omitted nine items and largely repeated accepted method explanations. Restore retained content below rather than asking the learner to recreate it. The aggregate-only count plan is already explained and actual count is pending; it is not a missing prerequisite to rating a draft. The ordinary prior session overran eleven prompts with twenty-one requests: preserve that as tutor history, not learner fault. Exact current wording, screening/routing, response coding and interpretation still need completion. No extra validity/reliability interview or completed pilot is assigned.
+
+### Retained learner-written questionnaire — do not ask for it again
+
+The following exact draft items were supplied by this learner in the earlier teacher-held submission. This block restores actual work omitted by the latest summary; it is not a new AI-authored item bank or proof of validation. Keep food and drink sections separate.
+
+1. How satisfied are you with the taste of the food you purchased from Grade 12 TVL students?
+2. How satisfied are you with the freshness of the food you purchased from Grade 12 TVL students?
+3. How satisfied are you with the texture of the food you purchased from Grade 12 TVL students?
+4. How satisfied are you with the serving size of the food you received from Grade 12 TVL students?
+5. How satisfied are you overall with the food you purchased from Grade 12 TVL students?
+6. How satisfied are you with the taste of the drinks you purchased from Grade 12 TVL students?
+7. How satisfied are you with the freshness of the drinks you purchased from Grade 12 TVL students?
+8. How satisfied are you with the amount of actual drink you received, excluding the ice?
+9. How satisfied are you with the amount of ice in the drinks you purchased from Grade 12 TVL students?
+10. How satisfied are you overall with the drinks you purchased from Grade 12 TVL students?
+
+Retained labels: 1 Very Dissatisfied; 2 Dissatisfied; 3 Neutral; 4 Satisfied; 5 Very Satisfied. Earlier directions already say to answer only sections for products personally purchased, use one rating per applicable question, and keep food-only/drink-only/both experiences distinct. Complete only genuinely missing screening, period, coding and interpretation wording.
+
+### One new attempt, preserved across chats
+
+This teacher instruction explicitly authorizes **pr2_pru_16-aer-attempt-2026-11-27-r02**, distinct from **pr2_pru_16-a03-attempt-2026-11-18** and all earlier attempts. It supersedes any unstarted prior improvement queue as well as incompatible older next-question/budget directions; unused old allowances are not banked. Earlier actual work, assistance/capture limits and ledgers remain history. Old exhausted/unknown counts do not consume this new allowance or become student deductions. Initialize the new ledger only once at genuine first entry. Continue the existing conversation with its answers; new chats and outcome reloads never reset the same attempt. If this attempt’s own count is unknown, apply the shared conservative rule without inventing zero or asking the learner to reconstruct it.
+
+### Explicit permission to collect the assigned evidence
+
+This exact outcome and plan already authorize every listed task, including named background/significance and initial tool work from Activities 2 and 3 when the ordinary route is Activity 1 or 2. Do not send the student back to Sir Francis for permission, directions, confirmation or another file merely to start or continue these tasks. Keep the ordinary route: evidence collection is not automatic stage completion or advancement. A baseline ID is not a missing attachment. Ask the next permitted substantive task in the same reply after required control checks and language handling only if still unknown. Record real gaps and continue independent authorized targets; consult the teacher only for an actual conflicting control/hold or separately reserved substantive decision, not routine draft quality.
+
+### Assigned tasks — one coherent demand per reply
+
+At most **10 main questions, 30 follow-ups shared across this entire attempt, and 40 learning questions total**. This plan assigns **4 main tasks**, not a quota. Ask each listed ID at most once. Later requests to revise, clarify, re-answer, add missing wording or explain a repair count as follow-ups. No fresh allowance per paragraph, item, source or chat. Narrow a task rather than hiding independent tests as subparts; do not invent filler main questions or add generic methodology/statistics/ethics interviews. Skip sufficient targets with actual response references, then take the next genuinely open listed task.
+
+| ID | Main question or coherent product task | Targets | Necessary support or budgeted follow-up |
+|---|---|---|---|
+| ER5-Q1 | Complete the screening and respondent directions for the retained ten-item questionnaire. | PT5, PT4 | Use the three-days/seven-days rule, actual product purchases, applicable food/drink sections and the common reference context. Reuse the aggregate-count plan; do not require obtaining it before submission. |
+| ER5-Q2 | Map the existing items to the three accepted research questions and the answers each will provide. | PT5, WW3 | Reuse all ten actual items below. Separate quality, quantity and overall food/drink judgments; no new item-writing assignment for content already present. |
+| ER5-Q3 | Complete the response-coding and interpretation instructions for the assembled draft. | PT5 | Distinguish missing/non-applicable answers from dissatisfaction or zero. Define any mean interpretation ranges before categorizing an average such as 4.2; do not infer a label solely from adjacent scale anchors. |
+| ER5-Q4 | Explain one consequential before-and-after revision in the completed draft. | WW5 | Use an actual correction and reason, with truthful version and pending-review status; no external test, reviewer result or fieldwork is required. |
+
+### Teach, preserve actual answers and draft the work
+
+Give concise supported-point, gap and next-action feedback. Accept meaningful fragments and Taglish; do not treat grammar as lack of understanding. Retrieve/check needed sources without asking whether permission to search is granted. Reuse sufficiently checked source leads and disclose real access limits. The learner explains actual claims and writes substantive drafts; tutor teaching, blank structures, unrelated-topic examples and polishing established meaning may support learning but cannot supply missing assessed paragraphs/items for copying or approval. After two unsuccessful attempts change support rather than repeating the same demand.
+
+Keep actual responses and usable draft components as they are given, with independent/assisted/summary status and exact target references. General explanations, labels saying completed, question counts and file length do not replace actual source understanding, paragraphs or questionnaire content. Do not repeatedly request earlier files, reconstruct unavailable chats or erase accepted work. Show **Recovery question n of at most 40 · main m/10 · follow-ups f/30** using real values and maintain one cumulative ledger across chats. Map WW explanations and PT products to distinct assessable criteria without pretending one unchanged feature is a new accomplishment.
+
+### Submit available evidence without an extra gate
+
+After response 40, give concise feedback and compile immediately in that same reply. Compile earlier if the work is sufficient, the student requests stop/submission, a current notice orders collection or no permissible question remains. Accept the answers for submission as they stand, complete or incomplete, with precise gaps. No extra quiz, rewrite, missing-source demand, routine confirmation, acknowledgment or complete-sentence repair may delay the PHX. Explain that being told to submit saves available progress for teacher review; it does not mean every assessment already has enough work for a score. NR is not zero.
+
+Create and verify the actual plain UTF-8 PHX with the six shared headings, exact current attempt/directive/plan/baseline, actual counters, original/revised responses, actual drafts, source/assistance limits and honest completion status. If file creation fails, immediately provide the same structured CHAT_REPORT and usual submission step; no student file-assembly assignment or fresh interview. A DOCX, completed external validation/reliability test, participant count or pilot cannot delay this recovery endpoint. No participant contact, records acquisition, pretest/pilot or main fieldwork is authorized by this plan.
+
+End: **Download your PHX file, upload it to Sir Francis's submission channel, and submit it. Keep a copy and wait for teacher feedback.** Stop for teacher reassessment, without reopening this submitted attempt or guaranteeing a score increase.
+
+## Previous ordinary session directive — historical reference
+
+The original Activity 3 directive is retained below only as accepted-stage history; the ER5 recovery directive above now controls the current evidence tasks and budget.
+
 
 ```yaml
 directive_id: pr2_pru_16-a03-initial-2026-11-18
